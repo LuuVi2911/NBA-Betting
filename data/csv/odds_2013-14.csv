@@ -1,0 +1,1320 @@
+index,Date,Home,Away,OU,Spread,ML_Home,ML_Away,Points,Win_Margin
+0,2013-10-29,Indiana Pacers,Orlando Magic,187.0,12.5,-1025,675,184,10
+1,2013-10-29,Miami Heat,Chicago Bulls,187.5,5.0,-220,180,202,12
+2,2013-10-29,Los Angeles Lakers,Los Angeles Clippers,196.5,9.0,435,-575,219,13
+3,2013-10-30,Philadelphia 76ers,Miami Heat,195.5,9.5,495,-795,224,4
+4,2013-10-30,Cleveland Cavaliers,Brooklyn Nets,196.0,3.0,135,-155,192,4
+5,2013-10-30,Toronto Raptors,Boston Celtics,190.0,7.5,-385,305,180,6
+6,2013-10-30,Detroit Pistons,Washington Wizards,190.5,3.0,-140,120,215,11
+7,2013-10-30,New York Knicks,Milwaukee Bucks,197.5,9.0,-360,290,173,7
+8,2013-10-30,Houston Rockets,Charlotte Bobcats,204.5,12.0,-1630,1030,179,13
+9,2013-10-30,Minnesota Timberwolves,Orlando Magic,196.0,9.0,-795,495,235,5
+10,2013-10-30,New Orleans Pelicans,Indiana Pacers,186.5,3.0,-120,100,185,-5
+11,2013-10-30,Dallas Mavericks,Atlanta Hawks,196.0,4.5,-245,205,227,9
+12,2013-10-30,San Antonio Spurs,Memphis Grizzlies,187.0,6.0,-250,210,195,7
+13,2013-10-30,Utah Jazz,Oklahoma City Thunder,196.0,4.5,225,-275,199,-3
+14,2013-10-30,Phoenix Suns,Portland Trail Blazers,198.0,3.0,180,-215,195,13
+15,2013-10-30,Sacramento Kings,Denver Nuggets,207.5,3.0,-140,120,178,2
+16,2013-10-30,Golden State Warriors,Los Angeles Lakers,203.5,11.0,-1090,690,219,31
+17,2013-10-31,Chicago Bulls,New York Knicks,189.5,7.5,-350,290,163,1
+18,2013-10-31,Los Angeles Clippers,Golden State Warriors,203.0,7.0,-250,210,241,11
+19,2013-11-01,Orlando Magic,New Orleans Pelicans,194.5,4.0,155,-175,200,20
+20,2013-11-01,Charlotte Bobcats,Cleveland Cavaliers,190.5,1.5,145,-165,174,6
+21,2013-11-01,Washington Wizards,Philadelphia 76ers,196.5,8.5,-530,405,211,-7
+22,2013-11-01,Atlanta Hawks,Toronto Raptors,194.0,3.5,-160,140,197,7
+23,2013-11-01,Boston Celtics,Milwaukee Bucks,191.0,2.5,-140,120,203,-7
+24,2013-11-01,Houston Rockets,Dallas Mavericks,202.0,7.5,-280,230,218,8
+25,2013-11-01,Memphis Grizzlies,Detroit Pistons,186.5,7.5,-335,275,219,3
+26,2013-11-01,Minnesota Timberwolves,Oklahoma City Thunder,200.5,1.0,-135,115,181,19
+27,2013-11-01,Brooklyn Nets,Miami Heat,194.5,3.0,150,-170,201,1
+28,2013-11-01,Denver Nuggets,Portland Trail Blazers,199.5,6.0,-190,165,211,-15
+29,2013-11-01,Phoenix Suns,Utah Jazz,197.0,3.0,-155,135,171,3
+30,2013-11-01,Sacramento Kings,Los Angeles Clippers,196.0,4.0,145,-165,211,-9
+31,2013-11-01,Los Angeles Lakers,San Antonio Spurs,205.5,7.0,285,-345,176,-6
+32,2013-11-02,Indiana Pacers,Cleveland Cavaliers,189.0,8.5,-430,350,163,15
+33,2013-11-02,Philadelphia 76ers,Chicago Bulls,192.0,9.0,370,-450,211,3
+34,2013-11-02,New Orleans Pelicans,Charlotte Bobcats,189.5,7.5,-420,340,189,21
+35,2013-11-02,Milwaukee Bucks,Toronto Raptors,193.5,0.0,100,-120,187,-7
+36,2013-11-02,Dallas Mavericks,Memphis Grizzlies,190.0,2.0,-150,130,210,12
+37,2013-11-02,Utah Jazz,Houston Rockets,201.0,6.0,220,-260,197,-11
+38,2013-11-02,Portland Trail Blazers,San Antonio Spurs,197.0,3.0,120,-140,220,10
+39,2013-11-02,Golden State Warriors,Sacramento Kings,207.0,9.5,-750,520,185,11
+40,2013-11-03,Detroit Pistons,Boston Celtics,191.5,9.5,-471,367,164,10
+41,2013-11-03,Miami Heat,Washington Wizards,200.0,13.5,-1500,890,196,10
+42,2013-11-03,Orlando Magic,Brooklyn Nets,197.0,6.0,200,-240,193,21
+43,2013-11-03,Oklahoma City Thunder,Phoenix Suns,197.0,13.5,-1400,850,199,7
+44,2013-11-03,New York Knicks,Minnesota Timberwolves,195.0,4.0,-155,135,209,-9
+45,2013-11-03,Los Angeles Lakers,Atlanta Hawks,205.0,2.5,100,-120,208,2
+46,2013-11-04,Philadelphia 76ers,Golden State Warriors,211.5,7.0,230,-280,200,-20
+47,2013-11-04,Cleveland Cavaliers,Minnesota Timberwolves,195.5,1.5,-130,110,185,1
+48,2013-11-04,Memphis Grizzlies,Boston Celtics,188.0,11.5,-1060,660,183,7
+49,2013-11-04,Los Angeles Clippers,Houston Rockets,205.5,4.5,-205,175,255,19
+50,2013-11-05,Toronto Raptors,Miami Heat,196.0,6.0,182,-215,199,-9
+51,2013-11-05,Brooklyn Nets,Utah Jazz,190.5,11.5,-570,435,192,16
+52,2013-11-05,New York Knicks,Charlotte Bobcats,189.0,9.5,-550,425,199,-5
+53,2013-11-05,Detroit Pistons,Indiana Pacers,187.0,2.0,-101,-119,190,-8
+54,2013-11-05,New Orleans Pelicans,Phoenix Suns,193.0,9.5,-525,405,202,-6
+55,2013-11-05,Dallas Mavericks,Los Angeles Lakers,213.0,9.0,-455,355,227,19
+56,2013-11-05,Denver Nuggets,San Antonio Spurs,201.5,2.0,175,-205,196,-8
+57,2013-11-05,Portland Trail Blazers,Houston Rockets,205.0,1.5,-145,125,217,-15
+58,2013-11-05,Sacramento Kings,Atlanta Hawks,201.5,2.0,-135,115,205,-5
+59,2013-11-06,Orlando Magic,Los Angeles Clippers,209.5,7.5,240,-290,188,8
+60,2013-11-06,Indiana Pacers,Chicago Bulls,183.5,2.5,-130,110,177,17
+61,2013-11-06,Charlotte Bobcats,Toronto Raptors,185.0,2.5,125,-145,182,2
+62,2013-11-06,Philadelphia 76ers,Washington Wizards,207.0,1.5,130,-150,218,-14
+63,2013-11-06,Boston Celtics,Utah Jazz,184.0,4.0,-190,162,184,10
+64,2013-11-06,Memphis Grizzlies,New Orleans Pelicans,188.0,7.5,-320,265,183,-15
+65,2013-11-06,Milwaukee Bucks,Cleveland Cavaliers,186.0,1.5,130,-150,213,5
+66,2013-11-06,Minnesota Timberwolves,Golden State Warriors,208.5,1.0,-105,-115,199,-13
+67,2013-11-06,San Antonio Spurs,Phoenix Suns,197.0,14.5,-1400,850,195,3
+68,2013-11-06,Oklahoma City Thunder,Dallas Mavericks,210.0,8.5,-294,243,200,14
+69,2013-11-07,Miami Heat,Los Angeles Clippers,211.0,5.0,-260,215,199,5
+70,2013-11-07,Denver Nuggets,Atlanta Hawks,204.5,3.0,-205,175,216,2
+71,2013-11-07,Houston Rockets,Los Angeles Lakers,217.5,13.5,-1700,970,197,-1
+72,2013-11-08,Charlotte Bobcats,New York Knicks,189.0,1.5,135,-155,192,-10
+73,2013-11-08,Indiana Pacers,Toronto Raptors,185.0,8.5,-425,325,175,7
+74,2013-11-08,Orlando Magic,Boston Celtics,189.0,7.5,-230,190,180,-2
+75,2013-11-08,Philadelphia 76ers,Cleveland Cavaliers,201.5,4.0,135,-155,173,15
+76,2013-11-08,Washington Wizards,Brooklyn Nets,199.0,2.0,100,-120,220,4
+77,2013-11-08,Detroit Pistons,Oklahoma City Thunder,196.5,3.5,135,-155,229,-9
+78,2013-11-08,Chicago Bulls,Utah Jazz,186.0,12.5,-1105,705,170,24
+79,2013-11-08,Minnesota Timberwolves,Dallas Mavericks,209.0,3.5,-185,160,224,8
+80,2013-11-08,New Orleans Pelicans,Los Angeles Lakers,203.5,9.0,-505,395,181,11
+81,2013-11-08,San Antonio Spurs,Golden State Warriors,202.5,4.5,-245,205,150,2
+82,2013-11-08,Phoenix Suns,Denver Nuggets,199.5,2.5,-125,105,217,11
+83,2013-11-08,Portland Trail Blazers,Sacramento Kings,203.5,7.5,-365,295,195,13
+84,2013-11-09,Toronto Raptors,Utah Jazz,188.5,8.0,-450,345,206,24
+85,2013-11-09,Atlanta Hawks,Orlando Magic,202.0,5.0,-280,230,198,10
+86,2013-11-09,Brooklyn Nets,Indiana Pacers,188.0,3.0,-110,-110,187,-5
+87,2013-11-09,Cleveland Cavaliers,Philadelphia 76ers,205.0,9.0,-390,310,252,2
+88,2013-11-09,Miami Heat,Boston Celtics,195.0,15.0,-1665,1065,221,-1
+89,2013-11-09,Houston Rockets,Los Angeles Clippers,215.0,3.0,-150,130,201,-13
+90,2013-11-09,Memphis Grizzlies,Golden State Warriors,196.0,3.5,-130,110,198,18
+91,2013-11-09,Milwaukee Bucks,Dallas Mavericks,205.5,3.0,130,-150,174,-8
+92,2013-11-09,Sacramento Kings,Portland Trail Blazers,200.5,1.0,-130,110,181,-11
+93,2013-11-10,New York Knicks,San Antonio Spurs,196.5,2.5,130,-150,209,-31
+94,2013-11-10,Oklahoma City Thunder,Washington Wizards,205.0,10.5,-433,344,211,1
+95,2013-11-10,Phoenix Suns,New Orleans Pelicans,195.0,1.0,105,-125,195,7
+96,2013-11-10,Los Angeles Lakers,Minnesota Timberwolves,208.5,4.0,150,-175,203,-23
+97,2013-11-11,Charlotte Bobcats,Atlanta Hawks,196.5,1.0,105,-125,197,-9
+98,2013-11-11,Indiana Pacers,Memphis Grizzlies,184.5,7.0,-285,235,174,16
+99,2013-11-11,Philadelphia 76ers,San Antonio Spurs,205.0,7.0,235,-285,194,-24
+100,2013-11-11,Boston Celtics,Orlando Magic,188.0,3.0,-120,100,225,15
+101,2013-11-11,Chicago Bulls,Cleveland Cavaliers,185.5,9.0,-400,320,177,15
+102,2013-11-11,Houston Rockets,Toronto Raptors,202.0,8.0,-295,245,214,6
+103,2013-11-11,Utah Jazz,Denver Nuggets,196.5,2.5,110,-130,181,-19
+104,2013-11-11,Portland Trail Blazers,Detroit Pistons,199.0,4.0,-200,170,212,6
+105,2013-11-11,Los Angeles Clippers,Minnesota Timberwolves,209.5,7.5,-260,215,216,2
+106,2013-11-12,Miami Heat,Milwaukee Bucks,199.5,14.5,-1710,1110,213,23
+107,2013-11-12,Dallas Mavericks,Washington Wizards,210.0,6.0,-225,185,200,10
+108,2013-11-12,Golden State Warriors,Detroit Pistons,202.5,9.0,-480,375,208,18
+109,2013-11-12,Los Angeles Lakers,New Orleans Pelicans,200.0,3.5,140,-160,211,21
+110,2013-11-13,Orlando Magic,Milwaukee Bucks,192.5,5.5,-325,265,185,3
+111,2013-11-13,Philadelphia 76ers,Houston Rockets,209.0,8.0,210,-250,240,6
+112,2013-11-13,Boston Celtics,Charlotte Bobcats,191.0,4.0,-230,190,172,-6
+113,2013-11-13,Memphis Grizzlies,Toronto Raptors,185.5,6.0,-240,200,190,-16
+114,2013-11-13,Minnesota Timberwolves,Cleveland Cavaliers,199.5,8.5,-390,310,219,29
+115,2013-11-13,Atlanta Hawks,New York Knicks,199.5,3.0,-175,155,186,-4
+116,2013-11-13,San Antonio Spurs,Washington Wizards,199.5,10.0,-785,485,171,13
+117,2013-11-13,Denver Nuggets,Los Angeles Lakers,205.5,10.0,-505,395,210,12
+118,2013-11-13,Utah Jazz,New Orleans Pelicans,189.5,3.0,125,-145,216,6
+119,2013-11-13,Portland Trail Blazers,Phoenix Suns,201.0,7.0,-320,260,179,1
+120,2013-11-13,Sacramento Kings,Brooklyn Nets,193.0,3.5,150,-170,193,21
+121,2013-11-13,Los Angeles Clippers,Oklahoma City Thunder,212.0,3.0,-185,160,214,8
+122,2013-11-14,New York Knicks,Houston Rockets,203.0,1.5,110,-130,215,-3
+123,2013-11-14,Golden State Warriors,Oklahoma City Thunder,210.0,3.0,-200,175,231,1
+124,2013-11-15,Indiana Pacers,Milwaukee Bucks,184.5,15.0,-1930,1230,181,27
+125,2013-11-15,Toronto Raptors,Chicago Bulls,185.0,0.0,-120,100,176,-16
+126,2013-11-15,Atlanta Hawks,Philadelphia 76ers,211.0,8.5,-430,330,216,10
+127,2013-11-15,Boston Celtics,Portland Trail Blazers,194.0,3.0,100,-120,205,-13
+128,2013-11-15,Cleveland Cavaliers,Charlotte Bobcats,188.0,6.0,-250,210,166,-6
+129,2013-11-15,Miami Heat,Dallas Mavericks,207.5,8.0,-430,330,214,6
+130,2013-11-15,Denver Nuggets,Minnesota Timberwolves,211.0,1.0,110,-130,230,4
+131,2013-11-15,Phoenix Suns,Brooklyn Nets,196.5,0.0,-115,-105,198,-2
+132,2013-11-15,Utah Jazz,San Antonio Spurs,191.0,10.0,445,-670,173,-9
+133,2013-11-15,Los Angeles Lakers,Memphis Grizzlies,200.0,4.0,130,-150,175,-3
+134,2013-11-15,Sacramento Kings,Detroit Pistons,195.0,2.0,-130,110,187,-7
+135,2013-11-16,Charlotte Bobcats,Miami Heat,196.0,8.5,320,-410,178,-16
+136,2013-11-16,Orlando Magic,Dallas Mavericks,202.5,3.5,120,-140,208,-8
+137,2013-11-16,Washington Wizards,Cleveland Cavaliers,197.5,5.5,-350,290,199,-7
+138,2013-11-16,New York Knicks,Atlanta Hawks,204.0,4.5,-185,160,200,-20
+139,2013-11-16,Chicago Bulls,Indiana Pacers,179.5,0.0,-130,110,204,16
+140,2013-11-16,Houston Rockets,Denver Nuggets,212.0,9.0,-410,320,233,11
+141,2013-11-16,Minnesota Timberwolves,Boston Celtics,201.5,10.5,-580,425,194,18
+142,2013-11-16,New Orleans Pelicans,Philadelphia 76ers,203.5,8.0,-450,345,233,37
+143,2013-11-16,Milwaukee Bucks,Oklahoma City Thunder,199.0,10.5,505,-805,171,-13
+144,2013-11-16,Golden State Warriors,Utah Jazz,199.5,15.0,-3185,1585,190,14
+145,2013-11-16,Los Angeles Clippers,Brooklyn Nets,204.0,9.0,-1610,1010,213,7
+146,2013-11-17,Toronto Raptors,Portland Trail Blazers,194.0,1.5,-130,110,228,-8
+147,2013-11-17,Sacramento Kings,Memphis Grizzlies,189.0,2.0,120,-140,183,-11
+148,2013-11-17,Los Angeles Lakers,Detroit Pistons,205.0,3.0,115,-135,213,15
+149,2013-11-18,Brooklyn Nets,Portland Trail Blazers,195.5,3.0,-125,105,206,-10
+150,2013-11-18,Chicago Bulls,Charlotte Bobcats,179.0,11.5,-1130,730,167,5
+151,2013-11-18,Oklahoma City Thunder,Denver Nuggets,210.5,9.0,-495,390,228,2
+152,2013-11-18,Dallas Mavericks,Philadelphia 76ers,216.0,11.5,-1040,640,191,3
+153,2013-11-18,Utah Jazz,Golden State Warriors,196.5,9.5,305,-385,185,-11
+154,2013-11-18,Los Angeles Clippers,Memphis Grizzlies,202.0,8.5,-460,355,208,-4
+155,2013-11-19,Washington Wizards,Minnesota Timberwolves,204.5,3.5,140,-160,204,4
+156,2013-11-19,Detroit Pistons,New York Knicks,200.0,5.0,-180,155,178,6
+157,2013-11-19,Miami Heat,Atlanta Hawks,207.5,9.5,-450,345,192,16
+158,2013-11-19,Houston Rockets,Boston Celtics,202.5,11.0,-795,495,194,24
+159,2013-11-19,Sacramento Kings,Phoenix Suns,191.5,1.0,-160,140,211,3
+160,2013-11-20,Charlotte Bobcats,Brooklyn Nets,187.0,2.0,125,-145,186,4
+161,2013-11-20,Cleveland Cavaliers,Washington Wizards,190.0,2.5,-150,130,189,-7
+162,2013-11-20,New York Knicks,Indiana Pacers,189.0,4.0,210,-250,199,-7
+163,2013-11-20,Orlando Magic,Miami Heat,200.0,7.5,250,-300,212,-28
+164,2013-11-20,Philadelphia 76ers,Toronto Raptors,202.0,3.5,155,-175,206,-10
+165,2013-11-20,Atlanta Hawks,Detroit Pistons,203.0,4.0,-220,180,178,8
+166,2013-11-20,Milwaukee Bucks,Portland Trail Blazers,196.0,5.5,175,-210,173,-9
+167,2013-11-20,Minnesota Timberwolves,Los Angeles Clippers,213.0,1.0,-125,105,200,-4
+168,2013-11-20,New Orleans Pelicans,Utah Jazz,192.0,9.0,-700,500,203,7
+169,2013-11-20,San Antonio Spurs,Boston Celtics,193.5,13.5,-2300,1350,197,11
+170,2013-11-20,Phoenix Suns,Sacramento Kings,194.0,5.5,-240,200,219,-7
+171,2013-11-20,Dallas Mavericks,Houston Rockets,215.0,3.0,-140,120,243,3
+172,2013-11-20,Golden State Warriors,Memphis Grizzlies,192.5,3.5,-220,180,169,-7
+173,2013-11-21,Oklahoma City Thunder,Los Angeles Clippers,212.0,4.5,-235,195,196,14
+174,2013-11-21,Denver Nuggets,Chicago Bulls,196.0,1.5,100,-120,184,10
+175,2013-11-22,Charlotte Bobcats,Phoenix Suns,191.0,2.5,-160,140,189,-7
+176,2013-11-22,Philadelphia 76ers,Milwaukee Bucks,201.5,4.0,-150,130,222,8
+177,2013-11-22,Toronto Raptors,Washington Wizards,193.5,5.5,-190,165,184,8
+178,2013-11-22,Boston Celtics,Indiana Pacers,185.0,7.5,285,-345,179,-15
+179,2013-11-22,Detroit Pistons,Atlanta Hawks,198.0,4.0,-170,150,185,-7
+180,2013-11-22,Memphis Grizzlies,San Antonio Spurs,187.0,1.0,-105,-115,188,-16
+181,2013-11-22,Minnesota Timberwolves,Brooklyn Nets,200.0,9.0,-475,370,192,30
+182,2013-11-22,New Orleans Pelicans,Cleveland Cavaliers,196.0,6.5,-305,245,204,4
+183,2013-11-22,Dallas Mavericks,Utah Jazz,203.0,12.5,-790,490,196,10
+184,2013-11-22,Portland Trail Blazers,Chicago Bulls,191.0,3.0,-170,150,193,3
+185,2013-11-22,Los Angeles Lakers,Golden State Warriors,203.0,5.0,170,-200,197,7
+186,2013-11-23,Los Angeles Clippers,Sacramento Kings,207.5,11.0,-805,505,205,1
+187,2013-11-23,Indiana Pacers,Philadelphia 76ers,194.0,14.5,-2620,1520,204,8
+188,2013-11-23,Washington Wizards,New York Knicks,192.5,3.0,-130,110,187,9
+189,2013-11-23,Atlanta Hawks,Boston Celtics,197.0,8.0,-485,380,181,-7
+190,2013-11-23,Miami Heat,Orlando Magic,205.0,13.5,-1425,925,200,2
+191,2013-11-23,Houston Rockets,Minnesota Timberwolves,217.0,5.5,-255,215,213,11
+192,2013-11-23,Milwaukee Bucks,Charlotte Bobcats,181.0,2.0,-130,110,168,-24
+193,2013-11-23,San Antonio Spurs,Cleveland Cavaliers,189.0,12.0,-1310,860,222,30
+194,2013-11-23,Denver Nuggets,Dallas Mavericks,217.0,4.5,-205,175,202,2
+195,2013-11-23,Golden State Warriors,Portland Trail Blazers,203.0,6.5,-195,170,214,-12
+196,2013-11-24,Brooklyn Nets,Detroit Pistons,194.0,1.5,-130,110,206,-12
+197,2013-11-24,Los Angeles Clippers,Chicago Bulls,195.0,6.5,-280,230,203,39
+198,2013-11-24,Orlando Magic,Phoenix Suns,197.0,1.0,-130,110,200,-8
+199,2013-11-24,Oklahoma City Thunder,Utah Jazz,197.5,14.5,-1330,830,168,22
+200,2013-11-24,Los Angeles Lakers,Sacramento Kings,201.5,4.0,-185,160,186,14
+201,2013-11-25,Charlotte Bobcats,Boston Celtics,184.0,4.5,-165,140,182,-10
+202,2013-11-25,Indiana Pacers,Minnesota Timberwolves,194.0,7.0,-275,227,182,14
+203,2013-11-25,Detroit Pistons,Milwaukee Bucks,192.5,7.5,-310,255,207,19
+204,2013-11-25,Miami Heat,Phoenix Suns,200.0,11.5,-1300,810,199,15
+205,2013-11-25,Memphis Grizzlies,Houston Rockets,195.0,2.0,-101,-119,179,-7
+206,2013-11-25,Dallas Mavericks,Denver Nuggets,212.0,5.0,-280,230,206,-14
+207,2013-11-25,San Antonio Spurs,New Orleans Pelicans,199.5,9.5,-525,405,205,19
+208,2013-11-25,Utah Jazz,Chicago Bulls,184.5,3.5,181,-214,172,6
+209,2013-11-25,Portland Trail Blazers,New York Knicks,194.5,8.5,-315,260,193,11
+210,2013-11-26,Toronto Raptors,Brooklyn Nets,189.0,7.5,-290,240,202,-2
+211,2013-11-26,Washington Wizards,Los Angeles Lakers,199.0,4.5,-230,190,227,5
+212,2013-11-26,Atlanta Hawks,Orlando Magic,198.0,8.0,-325,275,201,-17
+213,2013-11-26,New Orleans Pelicans,Golden State Warriors,203.5,2.5,-110,-110,203,-1
+214,2013-11-27,Charlotte Bobcats,Indiana Pacers,180.0,7.5,265,-320,173,-25
+215,2013-11-27,Orlando Magic,Philadelphia 76ers,207.5,4.0,-170,145,199,11
+216,2013-11-27,Boston Celtics,Memphis Grizzlies,181.5,3.0,105,-125,193,-7
+217,2013-11-27,Brooklyn Nets,Los Angeles Lakers,199.0,2.5,-140,120,193,-5
+218,2013-11-27,Cleveland Cavaliers,Miami Heat,197.5,8.5,350,-440,179,-11
+219,2013-11-27,Detroit Pistons,Chicago Bulls,185.0,3.5,-165,140,178,-20
+220,2013-11-27,Houston Rockets,Atlanta Hawks,206.0,8.5,-355,290,197,29
+221,2013-11-27,Milwaukee Bucks,Washington Wizards,189.0,2.5,125,-145,192,-8
+222,2013-11-27,Minnesota Timberwolves,Denver Nuggets,212.0,6.0,-300,250,227,-7
+223,2013-11-27,Oklahoma City Thunder,San Antonio Spurs,199.0,2.5,-150,130,182,6
+224,2013-11-27,Dallas Mavericks,Golden State Warriors,208.0,3.0,-190,162,202,4
+225,2013-11-27,Phoenix Suns,Portland Trail Blazers,200.0,3.5,155,-180,226,14
+226,2013-11-27,Los Angeles Clippers,New York Knicks,204.5,10.5,-510,395,173,13
+227,2013-11-29,Charlotte Bobcats,Milwaukee Bucks,180.5,6.0,-210,175,168,16
+228,2013-11-29,Orlando Magic,San Antonio Spurs,196.0,8.5,390,-495,200,-18
+229,2013-11-29,Toronto Raptors,Miami Heat,196.5,6.0,215,-255,173,-7
+230,2013-11-29,Atlanta Hawks,Dallas Mavericks,205.0,1.0,100,-120,175,1
+231,2013-11-29,Boston Celtics,Cleveland Cavaliers,186.5,4.0,-175,155,189,17
+232,2013-11-29,Detroit Pistons,Los Angeles Lakers,202.0,5.0,-230,190,208,-4
+233,2013-11-29,Houston Rockets,Brooklyn Nets,204.5,10.0,-790,490,209,19
+234,2013-11-29,Oklahoma City Thunder,Golden State Warriors,204.0,7.0,-340,280,225,1
+235,2013-11-29,Indiana Pacers,Washington Wizards,186.0,12.0,-815,515,166,20
+236,2013-11-29,Philadelphia 76ers,New Orleans Pelicans,210.5,3.5,150,-170,226,-16
+237,2013-11-29,Denver Nuggets,New York Knicks,202.0,9.0,-390,310,192,2
+238,2013-11-29,Utah Jazz,Phoenix Suns,191.0,2.0,110,-130,213,-11
+239,2013-11-29,Sacramento Kings,Los Angeles Clippers,204.0,3.5,125,-145,202,-6
+240,2013-11-30,Washington Wizards,Atlanta Hawks,196.5,3.0,-200,170,209,7
+241,2013-11-30,Cleveland Cavaliers,Chicago Bulls,180.5,3.0,175,-205,190,4
+242,2013-11-30,Memphis Grizzlies,Brooklyn Nets,186.0,7.5,-340,290,185,-9
+243,2013-11-30,Dallas Mavericks,Minnesota Timberwolves,211.0,2.0,110,-130,218,-6
+244,2013-11-30,San Antonio Spurs,Houston Rockets,205.5,6.5,-270,230,218,-6
+245,2013-11-30,Milwaukee Bucks,Boston Celtics,187.5,1.5,120,-140,177,7
+246,2013-11-30,Phoenix Suns,Utah Jazz,192.0,8.0,-450,370,216,-8
+247,2013-12-01,Toronto Raptors,Denver Nuggets,201.5,1.5,-140,120,210,-14
+248,2013-12-01,Los Angeles Clippers,Indiana Pacers,189.5,2.0,100,-120,205,-5
+249,2013-12-01,Detroit Pistons,Philadelphia 76ers,209.0,8.5,-405,315,215,15
+250,2013-12-01,Sacramento Kings,Golden State Warriors,198.0,4.0,170,-195,228,-2
+251,2013-12-01,Miami Heat,Charlotte Bobcats,189.0,11.5,-1025,625,197,1
+252,2013-12-01,Oklahoma City Thunder,Minnesota Timberwolves,210.0,8.0,-440,340,216,10
+253,2013-12-01,New York Knicks,New Orleans Pelicans,199.0,1.0,-120,100,202,-4
+254,2013-12-01,Los Angeles Lakers,Portland Trail Blazers,207.0,4.0,150,-170,222,-6
+255,2013-12-02,Washington Wizards,Orlando Magic,195.0,5.5,-300,250,178,18
+256,2013-12-02,Chicago Bulls,New Orleans Pelicans,193.0,5.0,-300,250,259,-3
+257,2013-12-02,San Antonio Spurs,Atlanta Hawks,197.0,12.0,-1000,670,202,2
+258,2013-12-02,Utah Jazz,Houston Rockets,200.5,7.0,290,-350,212,6
+259,2013-12-02,Portland Trail Blazers,Indiana Pacers,188.0,1.5,-101,-119,208,4
+260,2013-12-03,Philadelphia 76ers,Orlando Magic,209.0,4.0,-180,155,251,1
+261,2013-12-03,Miami Heat,Detroit Pistons,199.5,11.5,-520,405,204,-10
+262,2013-12-03,Boston Celtics,Milwaukee Bucks,185.0,7.5,-330,270,208,8
+263,2013-12-03,Brooklyn Nets,Denver Nuggets,205.5,4.5,160,-185,198,-24
+264,2013-12-03,Memphis Grizzlies,Phoenix Suns,189.5,3.5,-145,125,201,19
+265,2013-12-03,Dallas Mavericks,Charlotte Bobcats,193.5,8.0,-375,315,171,7
+266,2013-12-03,Sacramento Kings,Oklahoma City Thunder,203.0,7.0,325,-400,192,-2
+267,2013-12-03,Golden State Warriors,Toronto Raptors,199.0,8.0,-350,290,215,9
+268,2013-12-04,Cleveland Cavaliers,Denver Nuggets,202.5,4.5,150,-170,186,10
+269,2013-12-04,Atlanta Hawks,Los Angeles Clippers,204.0,4.0,125,-145,204,10
+270,2013-12-04,Houston Rockets,Phoenix Suns,209.5,9.0,-700,450,185,-9
+271,2013-12-04,New Orleans Pelicans,Dallas Mavericks,206.0,0.0,-140,120,197,-3
+272,2013-12-04,Milwaukee Bucks,Detroit Pistons,191.0,4.0,160,-185,203,-7
+273,2013-12-04,Utah Jazz,Indiana Pacers,189.0,9.0,325,-425,181,-9
+274,2013-12-04,Portland Trail Blazers,Oklahoma City Thunder,206.0,2.0,-135,115,215,7
+275,2013-12-05,Brooklyn Nets,New York Knicks,190.0,1.0,106,-125,196,-30
+276,2013-12-05,Memphis Grizzlies,Los Angeles Clippers,196.0,1.5,110,-130,182,-20
+277,2013-12-05,Chicago Bulls,Miami Heat,189.0,4.0,162,-190,194,20
+278,2013-12-06,Charlotte Bobcats,Philadelphia 76ers,195.5,4.5,-290,240,193,17
+279,2013-12-06,Washington Wizards,Milwaukee Bucks,188.5,10.5,-550,420,214,-4
+280,2013-12-06,Atlanta Hawks,Cleveland Cavaliers,194.0,7.0,-255,215,197,19
+281,2013-12-06,New York Knicks,Orlando Magic,194.0,5.0,-265,225,204,38
+282,2013-12-06,Boston Celtics,Denver Nuggets,200.0,4.5,155,-180,204,8
+283,2013-12-06,Houston Rockets,Golden State Warriors,210.0,5.5,-200,165,188,22
+284,2013-12-06,New Orleans Pelicans,Oklahoma City Thunder,207.0,4.0,195,-235,204,-14
+285,2013-12-06,Phoenix Suns,Toronto Raptors,199.5,4.0,-170,150,203,9
+286,2013-12-06,Sacramento Kings,Los Angeles Lakers,204.0,3.0,-175,155,206,-6
+287,2013-12-06,Portland Trail Blazers,Utah Jazz,198.0,12.5,-750,520,228,32
+288,2013-12-07,Philadelphia 76ers,Denver Nuggets,216.0,6.0,235,-285,195,-11
+289,2013-12-07,Cleveland Cavaliers,Los Angeles Clippers,197.0,6.0,210,-250,170,6
+290,2013-12-07,Memphis Grizzlies,Golden State Warriors,194.5,0.0,115,-135,190,-26
+291,2013-12-07,Minnesota Timberwolves,Miami Heat,206.0,5.0,235,-285,185,-21
+292,2013-12-07,Chicago Bulls,Detroit Pistons,188.5,5.5,-130,110,167,-17
+293,2013-12-07,San Antonio Spurs,Indiana Pacers,188.5,3.5,-175,155,211,-11
+294,2013-12-07,Milwaukee Bucks,Brooklyn Nets,189.0,2.0,120,-140,172,-8
+295,2013-12-07,Utah Jazz,Sacramento Kings,193.0,2.0,-155,135,214,-10
+296,2013-12-07,Portland Trail Blazers,Dallas Mavericks,207.5,5.0,-230,190,214,-2
+297,2013-12-08,New York Knicks,Boston Celtics,192.5,6.0,-245,205,187,-41
+298,2013-12-08,Detroit Pistons,Miami Heat,200.0,4.5,140,-160,205,-15
+299,2013-12-08,Oklahoma City Thunder,Indiana Pacers,192.5,4.5,-200,170,212,24
+300,2013-12-08,Houston Rockets,Orlando Magic,208.0,12.0,-1425,925,186,10
+301,2013-12-08,Los Angeles Lakers,Toronto Raptors,205.5,6.0,-265,225,200,-12
+302,2013-12-09,Philadelphia 76ers,Los Angeles Clippers,206.0,8.0,425,-600,177,-11
+303,2013-12-09,Charlotte Bobcats,Golden State Warriors,193.0,4.5,190,-230,226,4
+304,2013-12-09,Washington Wizards,Denver Nuggets,203.0,0.0,-105,-115,149,-1
+305,2013-12-09,Memphis Grizzlies,Orlando Magic,187.0,9.5,-460,355,179,9
+306,2013-12-09,Utah Jazz,Portland Trail Blazers,204.0,7.5,245,-305,199,-11
+307,2013-12-09,Sacramento Kings,Dallas Mavericks,202.5,3.0,160,-185,209,15
+308,2013-12-10,Indiana Pacers,Miami Heat,189.0,3.5,-165,145,174,6
+309,2013-12-10,Cleveland Cavaliers,New York Knicks,188.0,2.0,-140,120,203,15
+310,2013-12-10,Toronto Raptors,San Antonio Spurs,198.5,7.0,280,-330,219,-13
+311,2013-12-10,Detroit Pistons,Minnesota Timberwolves,203.5,1.5,100,-120,215,-27
+312,2013-12-10,Brooklyn Nets,Boston Celtics,192.0,2.0,-130,110,200,8
+313,2013-12-10,Atlanta Hawks,Oklahoma City Thunder,203.0,4.0,145,-165,193,-9
+314,2013-12-10,Chicago Bulls,Milwaukee Bucks,181.0,8.0,-250,210,152,-4
+315,2013-12-10,Los Angeles Lakers,Phoenix Suns,208.5,4.0,-150,130,222,-6
+316,2013-12-11,Charlotte Bobcats,Orlando Magic,188.5,6.0,-200,170,175,-9
+317,2013-12-11,Boston Celtics,Los Angeles Clippers,196.0,6.0,185,-220,184,-8
+318,2013-12-11,Milwaukee Bucks,San Antonio Spurs,193.0,10.0,550,-850,186,-32
+319,2013-12-11,New Orleans Pelicans,Detroit Pistons,203.0,3.5,-145,125,217,5
+320,2013-12-11,Minnesota Timberwolves,Philadelphia 76ers,210.5,12.0,-1235,785,205,7
+321,2013-12-11,New York Knicks,Chicago Bulls,185.0,2.0,-200,170,161,5
+322,2013-12-11,Memphis Grizzlies,Oklahoma City Thunder,193.0,6.0,220,-270,216,-16
+323,2013-12-11,Sacramento Kings,Utah Jazz,198.0,7.0,-300,240,223,-21
+324,2013-12-11,Golden State Warriors,Dallas Mavericks,209.5,5.5,-245,205,188,2
+325,2013-12-12,Brooklyn Nets,Los Angeles Clippers,200.5,3.0,100,-120,195,9
+326,2013-12-12,Portland Trail Blazers,Houston Rockets,212.0,4.0,-145,125,215,7
+327,2013-12-13,Orlando Magic,Cleveland Cavaliers,193.0,2.0,-130,110,209,-9
+328,2013-12-13,Toronto Raptors,Philadelphia 76ers,206.0,9.0,-309,254,208,8
+329,2013-12-13,Indiana Pacers,Charlotte Bobcats,182.0,12.5,-1100,720,193,5
+330,2013-12-13,Boston Celtics,New York Knicks,191.0,3.0,-150,130,176,4
+331,2013-12-13,Detroit Pistons,Brooklyn Nets,196.5,4.5,-245,205,202,4
+332,2013-12-13,Atlanta Hawks,Washington Wizards,195.0,5.5,-260,215,200,2
+333,2013-12-13,Oklahoma City Thunder,Los Angeles Lakers,209.0,10.5,-1000,670,219,25
+334,2013-12-13,New Orleans Pelicans,Memphis Grizzlies,193.5,4.0,-140,120,202,6
+335,2013-12-13,San Antonio Spurs,Minnesota Timberwolves,208.5,9.5,-375,305,227,7
+336,2013-12-13,Milwaukee Bucks,Chicago Bulls,177.0,3.0,162,-190,181,-1
+337,2013-12-13,Denver Nuggets,Utah Jazz,202.5,11.0,-650,485,196,-10
+338,2013-12-13,Phoenix Suns,Sacramento Kings,207.5,6.5,-260,215,223,9
+339,2013-12-13,Golden State Warriors,Houston Rockets,212.0,3.5,-160,135,228,-4
+340,2013-12-14,Charlotte Bobcats,Los Angeles Lakers,196.0,1.5,-145,125,173,-3
+341,2013-12-14,Washington Wizards,Los Angeles Clippers,194.0,3.0,170,-195,210,-16
+342,2013-12-14,Miami Heat,Cleveland Cavaliers,198.0,12.5,-1225,775,221,7
+343,2013-12-14,New York Knicks,Atlanta Hawks,195.0,1.5,-114,100,217,5
+344,2013-12-14,Philadelphia 76ers,Portland Trail Blazers,213.0,9.5,455,-755,244,-34
+345,2013-12-14,Chicago Bulls,Toronto Raptors,186.5,1.0,-160,140,176,-22
+346,2013-12-14,Dallas Mavericks,Milwaukee Bucks,195.0,12.0,-800,500,199,13
+347,2013-12-14,Utah Jazz,San Antonio Spurs,197.5,9.5,245,-305,184,-16
+348,2013-12-15,Sacramento Kings,Houston Rockets,213.5,5.5,220,-260,197,15
+349,2013-12-15,Memphis Grizzlies,Minnesota Timberwolves,197.5,1.5,135,-155,194,-8
+350,2013-12-15,Detroit Pistons,Portland Trail Blazers,204.5,3.0,145,-165,220,-2
+351,2013-12-15,Oklahoma City Thunder,Orlando Magic,205.5,13.5,-1635,935,199,3
+352,2013-12-15,Denver Nuggets,New Orleans Pelicans,206.0,6.5,-305,245,195,9
+353,2013-12-15,Phoenix Suns,Golden State Warriors,210.5,1.0,-105,-115,208,4
+354,2013-12-16,Indiana Pacers,Detroit Pistons,194.0,10.0,-750,540,197,-5
+355,2013-12-16,Brooklyn Nets,Philadelphia 76ers,207.5,10.5,-400,320,224,36
+356,2013-12-16,New York Knicks,Washington Wizards,190.0,3.0,-125,105,203,-1
+357,2013-12-16,Atlanta Hawks,Los Angeles Lakers,206.0,5.0,-255,212,214,14
+358,2013-12-16,Boston Celtics,Minnesota Timberwolves,200.0,2.0,-101,-119,198,4
+359,2013-12-16,Miami Heat,Utah Jazz,200.0,13.0,-1200,760,211,23
+360,2013-12-16,Chicago Bulls,Orlando Magic,186.0,7.0,-290,240,165,-1
+361,2013-12-16,Los Angeles Clippers,San Antonio Spurs,201.0,1.5,135,-160,207,23
+362,2013-12-17,Cleveland Cavaliers,Portland Trail Blazers,205.0,5.5,165,-190,235,-3
+363,2013-12-17,Charlotte Bobcats,Sacramento Kings,196.0,1.5,-120,100,182,8
+364,2013-12-17,Memphis Grizzlies,Los Angeles Lakers,195.0,3.0,-140,120,188,-4
+365,2013-12-17,Denver Nuggets,Oklahoma City Thunder,207.0,1.5,130,-150,198,-12
+366,2013-12-17,Golden State Warriors,New Orleans Pelicans,207.5,7.5,-455,350,197,11
+367,2013-12-18,Miami Heat,Indiana Pacers,191.0,3.5,-175,155,191,3
+368,2013-12-18,Orlando Magic,Utah Jazz,196.0,4.0,-155,135,168,-4
+369,2013-12-18,Toronto Raptors,Charlotte Bobcats,193.5,5.5,-315,255,206,-2
+370,2013-12-18,Atlanta Hawks,Sacramento Kings,205.5,6.5,-255,215,231,17
+371,2013-12-18,Boston Celtics,Detroit Pistons,194.5,0.0,-110,-110,213,-1
+372,2013-12-18,Brooklyn Nets,Washington Wizards,197.0,5.5,-190,165,220,-6
+373,2013-12-18,Milwaukee Bucks,New York Knicks,187.0,2.0,155,-175,208,-6
+374,2013-12-18,Minnesota Timberwolves,Portland Trail Blazers,214.0,0.0,-155,135,229,11
+375,2013-12-18,Dallas Mavericks,Memphis Grizzlies,195.0,9.0,-555,405,196,14
+376,2013-12-18,Phoenix Suns,San Antonio Spurs,204.0,3.0,140,-160,209,-7
+377,2013-12-18,Houston Rockets,Chicago Bulls,192.0,7.0,-350,290,203,15
+378,2013-12-18,Los Angeles Clippers,New Orleans Pelicans,206.5,10.0,-560,410,203,13
+379,2013-12-19,Oklahoma City Thunder,Chicago Bulls,193.0,12.5,-1400,850,202,12
+380,2013-12-19,Golden State Warriors,San Antonio Spurs,202.5,3.5,-300,250,206,-2
+381,2013-12-20,Philadelphia 76ers,Brooklyn Nets,211.5,5.5,205,-245,241,1
+382,2013-12-20,Cleveland Cavaliers,Milwaukee Bucks,191.0,9.0,-380,310,225,3
+383,2013-12-20,Atlanta Hawks,Utah Jazz,198.5,8.5,-360,295,203,33
+384,2013-12-20,Miami Heat,Sacramento Kings,207.0,11.0,-555,425,225,19
+385,2013-12-20,Detroit Pistons,Charlotte Bobcats,191.5,5.5,-255,212,222,-10
+386,2013-12-20,Indiana Pacers,Houston Rockets,197.5,5.5,-240,200,195,33
+387,2013-12-20,Dallas Mavericks,Toronto Raptors,201.0,6.5,-275,227,217,-1
+388,2013-12-20,Denver Nuggets,Phoenix Suns,207.5,4.5,-185,160,202,-4
+389,2013-12-20,Los Angeles Lakers,Minnesota Timberwolves,212.0,5.0,225,-270,195,13
+390,2013-12-21,New York Knicks,Memphis Grizzlies,187.0,3.0,-160,135,182,-8
+391,2013-12-21,Boston Celtics,Washington Wizards,194.5,0.0,-125,105,205,-7
+392,2013-12-21,Orlando Magic,Sacramento Kings,202.0,2.5,-150,130,205,-5
+393,2013-12-21,Charlotte Bobcats,Utah Jazz,187.0,4.0,-185,160,173,-3
+394,2013-12-21,Detroit Pistons,Houston Rockets,211.5,2.5,100,-120,211,-17
+395,2013-12-21,Chicago Bulls,Cleveland Cavaliers,185.0,2.5,-150,130,184,16
+396,2013-12-21,Milwaukee Bucks,Philadelphia 76ers,200.0,3.0,-140,120,222,10
+397,2013-12-21,San Antonio Spurs,Oklahoma City Thunder,205.0,3.0,-150,130,213,-13
+398,2013-12-21,Phoenix Suns,Dallas Mavericks,209.0,3.0,-140,120,231,15
+399,2013-12-21,Portland Trail Blazers,New Orleans Pelicans,210.5,9.5,-375,305,217,3
+400,2013-12-21,Los Angeles Clippers,Denver Nuggets,204.0,8.0,-450,355,203,21
+401,2013-12-21,Golden State Warriors,Los Angeles Lakers,209.5,12.0,-1700,970,185,19
+402,2013-12-22,Indiana Pacers,Boston Celtics,187.0,13.0,-1000,670,185,27
+403,2013-12-22,Oklahoma City Thunder,Toronto Raptors,203.5,11.0,-579,438,202,-6
+404,2013-12-22,Los Angeles Clippers,Minnesota Timberwolves,210.5,6.5,-190,162,236,4
+405,2013-12-23,Orlando Magic,New York Knicks,191.0,0.0,105,-125,201,-5
+406,2013-12-23,Charlotte Bobcats,Milwaukee Bucks,185.0,6.5,-260,220,221,1
+407,2013-12-23,Cleveland Cavaliers,Detroit Pistons,200.5,1.0,-115,-105,207,-23
+408,2013-12-23,Miami Heat,Atlanta Hawks,205.5,9.0,-350,290,240,2
+409,2013-12-23,Brooklyn Nets,Indiana Pacers,193.0,6.0,220,-260,189,-17
+410,2013-12-23,Houston Rockets,Dallas Mavericks,213.0,6.0,-175,155,215,-7
+411,2013-12-23,Memphis Grizzlies,Utah Jazz,187.0,6.5,-260,220,198,10
+412,2013-12-23,San Antonio Spurs,Toronto Raptors,204.0,11.5,-895,595,211,13
+413,2013-12-23,Denver Nuggets,Golden State Warriors,206.0,2.5,105,-125,170,-8
+414,2013-12-23,Phoenix Suns,Los Angeles Lakers,209.0,8.5,-345,285,207,27
+415,2013-12-23,Sacramento Kings,New Orleans Pelicans,210.0,0.0,-105,-115,213,-13
+416,2013-12-25,Brooklyn Nets,Chicago Bulls,188.0,4.0,-165,140,173,-17
+417,2013-12-25,New York Knicks,Oklahoma City Thunder,200.0,7.0,465,-620,217,-29
+418,2013-12-25,Los Angeles Lakers,Miami Heat,206.0,8.0,380,-490,196,-6
+419,2013-12-25,San Antonio Spurs,Houston Rockets,210.0,6.5,-345,286,209,-13
+420,2013-12-25,Golden State Warriors,Los Angeles Clippers,205.0,2.0,-165,140,208,2
+421,2013-12-26,Cleveland Cavaliers,Atlanta Hawks,203.0,2.5,140,-165,252,-2
+422,2013-12-26,Houston Rockets,Memphis Grizzlies,197.0,7.5,-340,280,192,8
+423,2013-12-26,Dallas Mavericks,San Antonio Spurs,206.0,3.0,135,-160,223,-9
+424,2013-12-26,Portland Trail Blazers,Los Angeles Clippers,211.0,4.5,-185,160,228,4
+425,2013-12-27,Orlando Magic,Detroit Pistons,202.0,3.5,150,-175,201,17
+426,2013-12-27,Charlotte Bobcats,Oklahoma City Thunder,199.0,8.5,255,-310,174,-4
+427,2013-12-27,Brooklyn Nets,Milwaukee Bucks,194.5,6.0,-190,162,197,11
+428,2013-12-27,New York Knicks,Toronto Raptors,193.0,1.5,140,-165,178,-12
+429,2013-12-27,Minnesota Timberwolves,Washington Wizards,203.5,6.0,-245,205,218,22
+430,2013-12-27,New Orleans Pelicans,Denver Nuggets,206.0,2.5,-160,135,194,16
+431,2013-12-27,Utah Jazz,Los Angeles Lakers,197.0,3.0,-175,150,208,2
+432,2013-12-27,Sacramento Kings,Miami Heat,209.0,8.0,230,-280,211,5
+433,2013-12-27,Golden State Warriors,Phoenix Suns,209.5,6.5,-255,212,201,29
+434,2013-12-28,Boston Celtics,Cleveland Cavaliers,196.0,4.0,-185,160,203,3
+435,2013-12-28,Washington Wizards,Detroit Pistons,202.5,3.0,-165,140,188,24
+436,2013-12-28,Indiana Pacers,Brooklyn Nets,194.0,13.0,-1300,810,196,14
+437,2013-12-28,Toronto Raptors,New York Knicks,190.5,6.5,-280,230,215,15
+438,2013-12-28,Atlanta Hawks,Charlotte Bobcats,193.5,6.0,-270,225,234,2
+439,2013-12-28,Houston Rockets,New Orleans Pelicans,210.0,8.5,-465,365,205,9
+440,2013-12-28,Chicago Bulls,Dallas Mavericks,193.0,2.0,120,-140,188,-22
+441,2013-12-28,Memphis Grizzlies,Denver Nuggets,194.0,2.0,-158,133,219,21
+442,2013-12-28,Milwaukee Bucks,Minnesota Timberwolves,201.0,6.5,275,-335,212,-22
+443,2013-12-28,Phoenix Suns,Philadelphia 76ers,215.0,11.5,-600,450,216,14
+444,2013-12-28,Portland Trail Blazers,Miami Heat,206.0,5.5,-300,247,215,-1
+445,2013-12-28,Los Angeles Clippers,Utah Jazz,202.0,13.5,-3000,1500,188,8
+446,2013-12-29,Orlando Magic,Atlanta Hawks,203.5,0.0,-160,140,211,7
+447,2013-12-29,Cleveland Cavaliers,Golden State Warriors,204.0,5.5,245,-300,212,-4
+448,2013-12-29,San Antonio Spurs,Sacramento Kings,209.5,12.5,-1000,650,216,8
+449,2013-12-29,Oklahoma City Thunder,Houston Rockets,208.0,4.5,-180,155,203,31
+450,2013-12-29,Los Angeles Lakers,Philadelphia 76ers,213.5,8.0,-290,240,215,-7
+451,2013-12-30,Detroit Pistons,Washington Wizards,202.5,3.0,-140,120,205,-7
+452,2013-12-30,Minnesota Timberwolves,Dallas Mavericks,212.0,4.5,-190,160,198,-2
+453,2013-12-30,Memphis Grizzlies,Chicago Bulls,183.0,3.5,-215,185,186,-4
+454,2013-12-30,New Orleans Pelicans,Portland Trail Blazers,211.0,3.5,110,-130,218,2
+455,2013-12-30,Denver Nuggets,Miami Heat,200.0,0.0,170,-200,191,-3
+456,2013-12-30,Utah Jazz,Charlotte Bobcats,187.5,2.5,-145,125,163,3
+457,2013-12-30,Los Angeles Clippers,Phoenix Suns,212.5,8.0,-360,300,195,-19
+458,2013-12-31,Boston Celtics,Atlanta Hawks,200.5,2.5,-155,135,183,-1
+459,2013-12-31,Indiana Pacers,Cleveland Cavaliers,193.5,13.0,-1350,800,167,15
+460,2013-12-31,Orlando Magic,Golden State Warriors,204.0,6.0,195,-235,175,-13
+461,2013-12-31,Houston Rockets,Sacramento Kings,212.5,10.0,-580,435,216,-4
+462,2013-12-31,San Antonio Spurs,Brooklyn Nets,207.5,12.0,-1000,650,205,21
+463,2013-12-31,Chicago Bulls,Toronto Raptors,186.0,1.5,-120,100,164,-6
+464,2013-12-31,Oklahoma City Thunder,Portland Trail Blazers,211.0,4.5,-245,205,192,-4
+465,2013-12-31,Los Angeles Lakers,Milwaukee Bucks,202.0,7.0,-240,200,173,-15
+466,2014-01-01,Washington Wizards,Dallas Mavericks,205.0,1.0,-135,115,165,-9
+467,2014-01-01,Toronto Raptors,Indiana Pacers,194.5,5.5,190,-230,177,13
+468,2014-01-01,Minnesota Timberwolves,New Orleans Pelicans,214.0,6.0,-220,185,236,12
+469,2014-01-01,Denver Nuggets,Philadelphia 76ers,211.0,9.5,-490,385,216,-12
+470,2014-01-01,Los Angeles Clippers,Charlotte Bobcats,196.0,10.0,-795,495,197,27
+471,2014-01-02,Cleveland Cavaliers,Orlando Magic,196.0,2.0,-135,115,168,6
+472,2014-01-02,Miami Heat,Golden State Warriors,204.5,4.0,-220,180,237,-9
+473,2014-01-02,Chicago Bulls,Boston Celtics,182.5,4.0,-210,170,176,12
+474,2014-01-02,Oklahoma City Thunder,Brooklyn Nets,205.5,12.0,-1000,695,188,-2
+475,2014-01-02,San Antonio Spurs,New York Knicks,200.0,11.5,-850,570,206,-4
+476,2014-01-02,Utah Jazz,Milwaukee Bucks,191.5,5.5,-225,185,183,9
+477,2014-01-02,Phoenix Suns,Memphis Grizzlies,198.0,6.5,-225,185,190,-8
+478,2014-01-02,Portland Trail Blazers,Charlotte Bobcats,199.0,11.5,-850,570,238,30
+479,2014-01-02,Sacramento Kings,Philadelphia 76ers,217.0,8.0,-410,330,217,-9
+480,2014-01-03,Washington Wizards,Toronto Raptors,195.0,2.5,-160,135,189,-13
+481,2014-01-03,Boston Celtics,New Orleans Pelicans,201.0,1.5,145,-170,187,-3
+482,2014-01-03,Atlanta Hawks,Golden State Warriors,204.5,1.5,145,-170,201,-1
+483,2014-01-03,Houston Rockets,New York Knicks,206.5,11.0,-725,525,202,2
+484,2014-01-03,Dallas Mavericks,Los Angeles Clippers,204.5,1.0,110,-130,231,-7
+485,2014-01-03,Denver Nuggets,Memphis Grizzlies,194.0,4.5,-195,165,219,3
+486,2014-01-03,Los Angeles Lakers,Utah Jazz,199.5,4.0,-160,135,209,11
+487,2014-01-04,Orlando Magic,Miami Heat,200.0,9.0,488,-662,204,-16
+488,2014-01-04,Indiana Pacers,New Orleans Pelicans,196.5,10.5,-1000,670,181,17
+489,2014-01-04,Brooklyn Nets,Cleveland Cavaliers,193.0,8.0,-270,225,171,7
+490,2014-01-04,Chicago Bulls,Atlanta Hawks,189.0,4.5,-215,182,175,7
+491,2014-01-04,Minnesota Timberwolves,Oklahoma City Thunder,209.0,1.5,-130,110,226,-4
+492,2014-01-04,San Antonio Spurs,Los Angeles Clippers,207.0,5.5,-500,390,208,24
+493,2014-01-04,Phoenix Suns,Milwaukee Bucks,199.0,9.0,-375,305,216,16
+494,2014-01-04,Portland Trail Blazers,Philadelphia 76ers,223.5,13.0,-1000,670,200,-2
+495,2014-01-04,Sacramento Kings,Charlotte Bobcats,198.5,5.5,-210,180,216,-10
+496,2014-01-05,Detroit Pistons,Memphis Grizzlies,196.5,3.0,-150,130,196,-28
+497,2014-01-05,Washington Wizards,Golden State Warriors,203.0,3.0,135,-160,208,-16
+498,2014-01-05,Cleveland Cavaliers,Indiana Pacers,186.0,9.0,425,-550,160,-4
+499,2014-01-05,Miami Heat,Toronto Raptors,198.5,7.0,-260,215,199,5
+500,2014-01-05,Oklahoma City Thunder,Boston Celtics,195.5,11.0,-450,355,215,23
+501,2014-01-05,Dallas Mavericks,New York Knicks,202.0,7.5,-275,227,172,-12
+502,2014-01-05,Los Angeles Lakers,Denver Nuggets,205.0,1.0,130,-150,252,-22
+503,2014-01-06,Philadelphia 76ers,Minnesota Timberwolves,219.5,6.0,250,-300,221,-31
+504,2014-01-06,Brooklyn Nets,Atlanta Hawks,199.0,4.0,-125,105,177,5
+505,2014-01-06,Los Angeles Clippers,Orlando Magic,197.0,10.5,-360,300,182,20
+506,2014-01-07,Charlotte Bobcats,Washington Wizards,191.5,1.5,105,-125,180,-14
+507,2014-01-07,Cleveland Cavaliers,Philadelphia 76ers,202.0,5.0,-240,200,204,18
+508,2014-01-07,Indiana Pacers,Toronto Raptors,188.0,7.5,-450,355,165,7
+509,2014-01-07,Miami Heat,New Orleans Pelicans,204.0,9.0,-400,320,195,19
+510,2014-01-07,New York Knicks,Detroit Pistons,197.0,1.5,-150,130,174,4
+511,2014-01-07,Memphis Grizzlies,San Antonio Spurs,196.5,6.0,210,-250,218,-2
+512,2014-01-07,Chicago Bulls,Phoenix Suns,189.0,1.0,115,-135,179,5
+513,2014-01-07,Milwaukee Bucks,Golden State Warriors,199.0,8.0,425,-550,181,-21
+514,2014-01-07,Dallas Mavericks,Los Angeles Lakers,210.5,9.5,-625,465,207,13
+515,2014-01-07,Denver Nuggets,Boston Celtics,199.0,6.5,-330,270,227,31
+516,2014-01-07,Utah Jazz,Oklahoma City Thunder,197.0,6.5,212,-255,213,11
+517,2014-01-07,Sacramento Kings,Portland Trail Blazers,216.0,5.5,180,-210,242,4
+518,2014-01-08,Toronto Raptors,Detroit Pistons,198.5,5.5,-245,205,203,21
+519,2014-01-08,San Antonio Spurs,Dallas Mavericks,209.0,7.5,-210,170,202,22
+520,2014-01-08,Brooklyn Nets,Golden State Warriors,201.5,6.0,210,-250,200,4
+521,2014-01-08,Atlanta Hawks,Indiana Pacers,190.0,5.0,155,-180,184,10
+522,2014-01-08,New Orleans Pelicans,Washington Wizards,199.0,4.0,-180,155,198,-6
+523,2014-01-08,Minnesota Timberwolves,Phoenix Suns,213.0,7.0,-370,310,207,-1
+524,2014-01-08,Houston Rockets,Los Angeles Lakers,215.0,13.5,-1800,900,212,14
+525,2014-01-08,Portland Trail Blazers,Orlando Magic,205.0,12.5,-1150,770,204,16
+526,2014-01-08,Los Angeles Clippers,Boston Celtics,194.5,10.0,-650,470,216,6
+527,2014-01-09,New York Knicks,Miami Heat,197.0,6.5,309,-380,194,10
+528,2014-01-09,Denver Nuggets,Oklahoma City Thunder,208.5,2.0,135,-160,189,13
+529,2014-01-10,Indiana Pacers,Washington Wizards,186.0,9.0,-475,370,159,27
+530,2014-01-10,Philadelphia 76ers,Detroit Pistons,213.0,2.5,111,-131,218,-10
+531,2014-01-10,Atlanta Hawks,Houston Rockets,207.0,3.0,121,-141,163,3
+532,2014-01-10,Brooklyn Nets,Miami Heat,194.5,5.5,200,-240,199,9
+533,2014-01-10,Memphis Grizzlies,Phoenix Suns,196.5,2.5,-160,135,203,5
+534,2014-01-10,New Orleans Pelicans,Dallas Mavericks,202.0,2.0,105,-125,197,-17
+535,2014-01-10,Minnesota Timberwolves,Charlotte Bobcats,201.5,9.0,-550,425,211,27
+536,2014-01-10,Milwaukee Bucks,Chicago Bulls,180.0,3.5,155,-180,153,-9
+537,2014-01-10,Utah Jazz,Cleveland Cavaliers,193.5,2.0,-115,-105,215,-11
+538,2014-01-10,Sacramento Kings,Orlando Magic,204.0,7.0,-325,265,186,20
+539,2014-01-10,Golden State Warriors,Boston Celtics,203.0,11.0,-750,540,196,2
+540,2014-01-10,Los Angeles Clippers,Los Angeles Lakers,208.0,10.5,-600,450,210,36
+541,2014-01-11,Toronto Raptors,Brooklyn Nets,193.5,8.0,-475,370,176,16
+542,2014-01-11,Washington Wizards,Houston Rockets,201.5,1.5,115,-135,221,-7
+543,2014-01-11,Philadelphia 76ers,New York Knicks,208.0,4.5,180,-210,194,-10
+544,2014-01-11,Detroit Pistons,Phoenix Suns,205.5,1.0,-125,105,218,2
+545,2014-01-11,Oklahoma City Thunder,Milwaukee Bucks,196.0,13.0,-3000,1500,186,16
+546,2014-01-11,Chicago Bulls,Charlotte Bobcats,179.0,5.0,-180,155,200,6
+547,2014-01-11,Dallas Mavericks,New Orleans Pelicans,201.0,6.0,-340,280,217,3
+548,2014-01-11,Denver Nuggets,Orlando Magic,203.0,10.5,-1100,720,214,26
+549,2014-01-11,Portland Trail Blazers,Boston Celtics,207.0,13.0,-950,645,216,8
+550,2014-01-12,Sacramento Kings,Cleveland Cavaliers,205.0,3.5,-160,135,204,44
+551,2014-01-12,Memphis Grizzlies,Atlanta Hawks,193.5,4.0,-210,180,209,7
+552,2014-01-12,San Antonio Spurs,Minnesota Timberwolves,211.5,5.5,-240,200,190,18
+553,2014-01-13,Toronto Raptors,Milwaukee Bucks,186.5,11.0,-625,460,210,22
+554,2014-01-13,Boston Celtics,Houston Rockets,204.5,5.5,210,-250,196,-12
+555,2014-01-13,New York Knicks,Phoenix Suns,198.5,3.0,-180,155,194,2
+556,2014-01-13,New Orleans Pelicans,San Antonio Spurs,201.0,5.5,250,-310,196,-6
+557,2014-01-13,Chicago Bulls,Washington Wizards,182.5,4.0,-140,120,190,-14
+558,2014-01-13,Dallas Mavericks,Orlando Magic,199.5,11.5,-1300,810,195,19
+559,2014-01-13,Utah Jazz,Denver Nuggets,203.0,3.5,205,-245,221,15
+560,2014-01-14,Charlotte Bobcats,New York Knicks,186.0,0.0,-115,-105,206,10
+561,2014-01-14,Indiana Pacers,Sacramento Kings,193.0,11.5,-790,490,208,24
+562,2014-01-14,Memphis Grizzlies,Oklahoma City Thunder,192.0,1.5,-110,-110,177,3
+563,2014-01-14,Los Angeles Lakers,Cleveland Cavaliers,202.0,1.5,150,-170,238,-2
+564,2014-01-15,Orlando Magic,Chicago Bulls,181.0,3.5,200,-240,253,-3
+565,2014-01-15,Washington Wizards,Miami Heat,197.0,5.0,210,-250,211,17
+566,2014-01-15,Philadelphia 76ers,Charlotte Bobcats,205.5,1.0,-130,110,187,3
+567,2014-01-15,Boston Celtics,Toronto Raptors,196.0,4.0,150,-170,171,5
+568,2014-01-15,New Orleans Pelicans,Houston Rockets,205.0,4.5,190,-230,203,-3
+569,2014-01-15,Minnesota Timberwolves,Sacramento Kings,216.5,9.5,-600,425,219,-3
+570,2014-01-15,Milwaukee Bucks,Memphis Grizzlies,186.0,5.0,200,-240,159,-5
+571,2014-01-15,San Antonio Spurs,Utah Jazz,202.0,13.0,-1680,1080,214,4
+572,2014-01-15,Phoenix Suns,Los Angeles Lakers,210.0,10.0,-800,500,235,7
+573,2014-01-15,Portland Trail Blazers,Cleveland Cavaliers,208.5,11.0,-705,455,204,12
+574,2014-01-15,Golden State Warriors,Denver Nuggets,212.0,7.0,-370,300,239,-7
+575,2014-01-15,Los Angeles Clippers,Dallas Mavericks,206.0,5.0,-195,170,256,2
+576,2014-01-16,Atlanta Hawks,Brooklyn Nets,191.5,2.5,-120,100,237,-17
+577,2014-01-16,Indiana Pacers,New York Knicks,184.0,10.0,-500,400,206,28
+578,2014-01-16,Houston Rockets,Oklahoma City Thunder,206.0,2.0,-145,125,196,-12
+579,2014-01-17,Washington Wizards,Chicago Bulls,184.0,4.5,-200,170,189,3
+580,2014-01-17,Philadelphia 76ers,Miami Heat,211.0,10.5,515,-815,187,-15
+581,2014-01-17,Toronto Raptors,Minnesota Timberwolves,205.5,2.0,-110,-110,183,5
+582,2014-01-17,New York Knicks,Los Angeles Clippers,201.5,3.5,160,-185,204,-14
+583,2014-01-17,Orlando Magic,Charlotte Bobcats,188.0,1.5,100,-120,212,-10
+584,2014-01-17,Boston Celtics,Los Angeles Lakers,204.5,6.0,-305,245,211,-3
+585,2014-01-17,Detroit Pistons,Utah Jazz,199.0,6.0,-290,240,199,-21
+586,2014-01-17,Memphis Grizzlies,Sacramento Kings,200.5,6.0,-230,190,181,1
+587,2014-01-17,San Antonio Spurs,Portland Trail Blazers,212.5,5.0,-230,190,209,-9
+588,2014-01-17,Phoenix Suns,Dallas Mavericks,210.0,1.0,105,-125,217,-3
+589,2014-01-17,Denver Nuggets,Cleveland Cavaliers,211.0,7.0,-300,240,226,-8
+590,2014-01-17,Oklahoma City Thunder,Golden State Warriors,207.5,2.5,100,-120,248,6
+591,2014-01-18,Washington Wizards,Detroit Pistons,200.5,5.0,-265,220,202,-6
+592,2014-01-18,Indiana Pacers,Los Angeles Clippers,198.0,7.5,-475,370,198,14
+593,2014-01-18,Charlotte Bobcats,Miami Heat,195.0,8.0,250,-300,200,-8
+594,2014-01-18,Chicago Bulls,Philadelphia 76ers,197.0,8.5,-400,320,181,25
+595,2014-01-18,Houston Rockets,Milwaukee Bucks,198.0,13.0,-1700,970,218,10
+596,2014-01-18,New Orleans Pelicans,Golden State Warriors,202.0,4.0,162,-190,184,-10
+597,2014-01-18,Minnesota Timberwolves,Utah Jazz,207.0,11.0,-650,485,170,26
+598,2014-01-18,Dallas Mavericks,Portland Trail Blazers,214.5,1.0,110,-130,238,-16
+599,2014-01-19,Toronto Raptors,Los Angeles Lakers,203.5,10.0,-475,370,218,-6
+600,2014-01-19,Orlando Magic,Boston Celtics,195.5,1.5,130,-150,184,2
+601,2014-01-19,San Antonio Spurs,Milwaukee Bucks,198.0,16.0,-2525,1307,192,28
+602,2014-01-19,Oklahoma City Thunder,Sacramento Kings,212.0,8.5,-400,320,201,15
+603,2014-01-19,Phoenix Suns,Denver Nuggets,219.5,1.0,-125,105,220,14
+604,2014-01-20,Detroit Pistons,Los Angeles Clippers,209.5,3.5,145,-170,215,-9
+605,2014-01-20,Cleveland Cavaliers,Dallas Mavericks,209.0,1.5,-105,-115,199,-5
+606,2014-01-20,Washington Wizards,Philadelphia 76ers,207.0,10.0,-575,435,206,8
+607,2014-01-20,Charlotte Bobcats,Toronto Raptors,187.0,5.0,155,-180,195,5
+608,2014-01-20,New York Knicks,Brooklyn Nets,192.0,0.0,110,-130,183,-23
+609,2014-01-20,Memphis Grizzlies,New Orleans Pelicans,191.5,7.0,-330,270,187,-3
+610,2014-01-20,Atlanta Hawks,Miami Heat,202.0,5.0,180,-210,235,7
+611,2014-01-20,Houston Rockets,Portland Trail Blazers,219.0,2.0,-130,110,239,13
+612,2014-01-20,Chicago Bulls,Los Angeles Lakers,197.0,9.5,-400,320,202,2
+613,2014-01-20,Golden State Warriors,Indiana Pacers,197.5,1.0,-120,101,196,-8
+614,2014-01-21,Miami Heat,Boston Celtics,198.5,10.0,-475,375,179,7
+615,2014-01-21,Brooklyn Nets,Orlando Magic,191.5,10.0,-460,360,191,11
+616,2014-01-21,New Orleans Pelicans,Sacramento Kings,203.5,2.5,105,-125,211,-17
+617,2014-01-21,Oklahoma City Thunder,Portland Trail Blazers,216.5,3.5,-260,220,202,8
+618,2014-01-21,Utah Jazz,Minnesota Timberwolves,203.5,3.5,170,-200,209,-15
+619,2014-01-22,Washington Wizards,Boston Celtics,195.5,6.5,-525,400,224,-2
+620,2014-01-22,Cleveland Cavaliers,Chicago Bulls,188.0,3.5,-190,160,185,-11
+621,2014-01-22,Orlando Magic,Atlanta Hawks,199.5,5.0,190,-230,221,-3
+622,2014-01-22,Toronto Raptors,Dallas Mavericks,203.5,1.5,-155,135,178,8
+623,2014-01-22,Charlotte Bobcats,Los Angeles Clippers,200.0,5.5,205,-245,186,4
+624,2014-01-22,New York Knicks,Philadelphia 76ers,203.0,8.0,-380,310,216,-4
+625,2014-01-22,Milwaukee Bucks,Detroit Pistons,196.5,5.0,170,-200,205,3
+626,2014-01-22,Houston Rockets,Sacramento Kings,215.5,9.5,-525,-525,217,21
+627,2014-01-22,Phoenix Suns,Indiana Pacers,196.5,5.0,210,-250,224,24
+628,2014-01-22,San Antonio Spurs,Oklahoma City Thunder,207.0,5.5,-270,230,216,-6
+629,2014-01-23,Miami Heat,Los Angeles Lakers,211.0,12.0,-1000,670,211,7
+630,2014-01-23,Portland Trail Blazers,Denver Nuggets,220.5,8.0,-300,250,215,5
+631,2014-01-24,Orlando Magic,Los Angeles Lakers,206.0,1.0,-140,120,219,9
+632,2014-01-24,Philadelphia 76ers,Toronto Raptors,206.0,6.5,210,-250,199,-9
+633,2014-01-24,Atlanta Hawks,San Antonio Spurs,208.0,4.5,180,-210,184,-26
+634,2014-01-24,Cleveland Cavaliers,Milwaukee Bucks,193.5,8.0,-400,320,171,15
+635,2014-01-24,Brooklyn Nets,Dallas Mavericks,201.0,2.5,-130,110,213,1
+636,2014-01-24,Boston Celtics,Oklahoma City Thunder,198.0,6.5,120,-140,184,-18
+637,2014-01-24,New York Knicks,Charlotte Bobcats,186.5,4.5,-180,155,221,29
+638,2014-01-24,Detroit Pistons,New Orleans Pelicans,202.5,4.5,-170,145,204,-2
+639,2014-01-24,Houston Rockets,Memphis Grizzlies,199.5,6.5,-240,200,175,-1
+640,2014-01-24,Chicago Bulls,Los Angeles Clippers,193.5,4.0,110,-130,207,-17
+641,2014-01-24,Phoenix Suns,Washington Wizards,207.0,4.0,-180,155,196,-6
+642,2014-01-24,Sacramento Kings,Indiana Pacers,195.0,9.5,565,-800,227,-5
+643,2014-01-24,Golden State Warriors,Minnesota Timberwolves,212.5,4.5,-170,145,241,-1
+644,2014-01-25,Charlotte Bobcats,Chicago Bulls,179.5,0.0,110,-130,176,-2
+645,2014-01-25,Toronto Raptors,Los Angeles Clippers,199.5,1.0,-120,100,244,-8
+646,2014-01-25,Philadelphia 76ers,Oklahoma City Thunder,207.5,7.0,370,-475,194,-12
+647,2014-01-25,Memphis Grizzlies,Houston Rockets,198.5,1.5,105,-125,180,18
+648,2014-01-25,Milwaukee Bucks,Atlanta Hawks,198.0,4.0,125,-145,199,-25
+649,2014-01-25,Denver Nuggets,Indiana Pacers,200.5,3.5,115,-135,205,13
+650,2014-01-25,Utah Jazz,Washington Wizards,195.0,1.0,-135,115,205,3
+651,2014-01-25,Portland Trail Blazers,Minnesota Timberwolves,220.5,7.0,-325,265,219,11
+652,2014-01-26,Miami Heat,San Antonio Spurs,203.0,3.0,-170,150,214,12
+653,2014-01-26,New York Knicks,Los Angeles Lakers,206.5,5.5,-225,185,213,7
+654,2014-01-26,New Orleans Pelicans,Orlando Magic,198.0,8.0,-275,235,192,8
+655,2014-01-26,Cleveland Cavaliers,Phoenix Suns,204.5,1.0,-130,110,189,-9
+656,2014-01-26,Boston Celtics,Brooklyn Nets,193.0,4.5,160,-185,164,-6
+657,2014-01-26,Dallas Mavericks,Detroit Pistons,208.5,7.0,-275,235,222,10
+658,2014-01-26,Sacramento Kings,Denver Nuggets,216.5,3.0,160,-185,242,-8
+659,2014-01-26,Golden State Warriors,Portland Trail Blazers,216.5,3.5,-250,210,191,15
+660,2014-01-27,Philadelphia 76ers,Phoenix Suns,213.5,5.0,170,-210,237,-11
+661,2014-01-27,Brooklyn Nets,Toronto Raptors,189.0,5.0,-185,160,207,-1
+662,2014-01-27,Oklahoma City Thunder,Atlanta Hawks,205.5,10.0,-600,445,220,2
+663,2014-01-27,Milwaukee Bucks,Los Angeles Clippers,199.0,9.0,445,-600,200,-28
+664,2014-01-27,Chicago Bulls,Minnesota Timberwolves,195.0,1.5,165,-200,181,-9
+665,2014-01-27,Utah Jazz,Sacramento Kings,204.0,6.0,-330,270,205,7
+666,2014-01-28,Cleveland Cavaliers,New Orleans Pelicans,198.0,3.0,-145,125,189,-11
+667,2014-01-28,New York Knicks,Boston Celtics,193.5,5.5,-260,215,202,26
+668,2014-01-28,Detroit Pistons,Orlando Magic,204.0,7.5,-300,250,190,16
+669,2014-01-28,Houston Rockets,San Antonio Spurs,211.0,1.5,105,-125,187,7
+670,2014-01-28,Portland Trail Blazers,Memphis Grizzlies,197.5,6.0,-215,182,179,-17
+671,2014-01-28,Golden State Warriors,Washington Wizards,206.0,8.0,-380,310,173,-3
+672,2014-01-28,Los Angeles Lakers,Indiana Pacers,204.0,9.5,450,-600,196,-12
+673,2014-01-29,Toronto Raptors,Orlando Magic,194.0,9.5,-500,390,181,15
+674,2014-01-29,Miami Heat,Oklahoma City Thunder,204.0,4.0,-180,155,207,-17
+675,2014-01-29,Boston Celtics,Philadelphia 76ers,202.0,4.5,-180,155,189,-1
+676,2014-01-29,Minnesota Timberwolves,New Orleans Pelicans,206.0,8.0,-625,465,165,11
+677,2014-01-29,Milwaukee Bucks,Phoenix Suns,200.0,8.5,325,-405,243,-9
+678,2014-01-29,Dallas Mavericks,Houston Rockets,213.0,2.0,-205,175,232,-2
+679,2014-01-29,Denver Nuggets,Charlotte Bobcats,204.0,8.5,-350,290,199,-3
+680,2014-01-29,San Antonio Spurs,Chicago Bulls,191.0,7.5,-375,305,182,-10
+681,2014-01-29,Sacramento Kings,Memphis Grizzlies,194.0,4.5,192,-230,188,-10
+682,2014-01-29,Los Angeles Clippers,Washington Wizards,207.0,9.0,-450,355,213,7
+683,2014-01-30,Indiana Pacers,Phoenix Suns,199.0,10.0,-850,595,196,-8
+684,2014-01-30,New York Knicks,Cleveland Cavaliers,196.5,5.5,-275,227,203,31
+685,2014-01-30,Golden State Warriors,Los Angeles Clippers,212.0,5.0,-240,200,203,19
+686,2014-01-31,Orlando Magic,Milwaukee Bucks,192.5,4.5,-270,225,215,11
+687,2014-01-31,Philadelphia 76ers,Atlanta Hawks,211.0,4.0,182,-215,224,-26
+688,2014-01-31,Minnesota Timberwolves,Memphis Grizzlies,193.5,1.0,105,-125,184,-4
+689,2014-01-31,Brooklyn Nets,Oklahoma City Thunder,199.0,3.0,162,-190,215,-25
+690,2014-01-31,Dallas Mavericks,Sacramento Kings,214.0,7.0,-500,390,210,4
+691,2014-01-31,Denver Nuggets,Toronto Raptors,204.0,2.5,-115,-105,190,-10
+692,2014-01-31,Utah Jazz,Golden State Warriors,202.0,5.0,215,-260,185,-5
+693,2014-01-31,Los Angeles Lakers,Charlotte Bobcats,203.5,1.5,-160,135,210,-10
+694,2014-02-01,Indiana Pacers,Brooklyn Nets,188.5,10.0,-800,565,193,1
+695,2014-02-01,Washington Wizards,Oklahoma City Thunder,201.0,4.0,170,-200,177,15
+696,2014-02-01,Detroit Pistons,Philadelphia 76ers,214.0,8.5,-525,405,209,17
+697,2014-02-01,Atlanta Hawks,Minnesota Timberwolves,208.5,1.0,-150,130,233,7
+698,2014-02-01,Houston Rockets,Cleveland Cavaliers,207.0,11.5,-800,565,198,14
+699,2014-02-01,New Orleans Pelicans,Chicago Bulls,183.5,1.0,-105,-115,167,9
+700,2014-02-01,Memphis Grizzlies,Milwaukee Bucks,183.0,12.5,-1000,670,189,9
+701,2014-02-01,New York Knicks,Miami Heat,201.0,5.0,180,-210,197,-15
+702,2014-02-01,San Antonio Spurs,Sacramento Kings,207.5,10.0,-550,425,188,2
+703,2014-02-01,Phoenix Suns,Charlotte Bobcats,204.5,8.5,-450,355,200,10
+704,2014-02-01,Portland Trail Blazers,Toronto Raptors,205.0,7.5,-310,255,209,3
+705,2014-02-01,Los Angeles Clippers,Utah Jazz,205.5,11.5,-1300,810,189,15
+706,2014-02-02,Boston Celtics,Orlando Magic,191.5,5.0,-285,235,185,7
+707,2014-02-03,Indiana Pacers,Orlando Magic,191.0,15.5,-3115,1515,177,19
+708,2014-02-03,Washington Wizards,Portland Trail Blazers,207.0,2.0,-105,-115,190,10
+709,2014-02-03,Miami Heat,Detroit Pistons,208.0,10.0,-560,410,198,6
+710,2014-02-03,Brooklyn Nets,Philadelphia 76ers,206.0,10.0,-490,385,210,6
+711,2014-02-03,Milwaukee Bucks,New York Knicks,193.0,6.5,315,-395,199,3
+712,2014-02-03,Oklahoma City Thunder,Memphis Grizzlies,191.5,7.0,-410,320,163,9
+713,2014-02-03,New Orleans Pelicans,San Antonio Spurs,195.5,5.0,145,-165,197,-7
+714,2014-02-03,Dallas Mavericks,Cleveland Cavaliers,206.0,9.0,-405,315,231,17
+715,2014-02-03,Utah Jazz,Toronto Raptors,193.0,3.5,170,-200,173,-15
+716,2014-02-03,Denver Nuggets,Los Angeles Clippers,216.0,3.0,105,-125,231,1
+717,2014-02-03,Sacramento Kings,Chicago Bulls,190.5,1.0,-120,100,169,29
+718,2014-02-04,Atlanta Hawks,Indiana Pacers,197.5,3.5,135,-155,174,-4
+719,2014-02-04,Minnesota Timberwolves,Los Angeles Lakers,216.5,12.0,-805,505,208,10
+720,2014-02-04,Phoenix Suns,Chicago Bulls,193.5,6.0,-350,290,193,-9
+721,2014-02-04,Golden State Warriors,Charlotte Bobcats,202.0,9.5,-815,515,166,-16
+722,2014-02-05,Philadelphia 76ers,Boston Celtics,203.0,2.0,135,-155,222,-6
+723,2014-02-05,Cleveland Cavaliers,Los Angeles Lakers,210.0,5.5,-310,250,227,-11
+724,2014-02-05,Washington Wizards,San Antonio Spurs,195.5,1.0,110,-130,243,-7
+725,2014-02-05,New York Knicks,Portland Trail Blazers,208.0,3.0,125,-145,184,-4
+726,2014-02-05,Orlando Magic,Detroit Pistons,200.5,2.5,120,-140,210,14
+727,2014-02-05,Oklahoma City Thunder,Minnesota Timberwolves,208.5,8.5,-1255,805,203,9
+728,2014-02-05,Memphis Grizzlies,Dallas Mavericks,189.0,4.0,-140,120,206,-14
+729,2014-02-05,Houston Rockets,Phoenix Suns,211.5,8.0,-350,290,230,14
+730,2014-02-05,New Orleans Pelicans,Atlanta Hawks,198.0,2.0,-145,125,205,5
+731,2014-02-05,Denver Nuggets,Milwaukee Bucks,208.0,12.5,-1085,685,210,10
+732,2014-02-05,Sacramento Kings,Toronto Raptors,201.5,0.0,-115,-105,210,8
+733,2014-02-05,Los Angeles Clippers,Miami Heat,210.0,2.0,-110,-110,228,-4
+734,2014-02-06,Brooklyn Nets,San Antonio Spurs,193.0,6.5,-300,250,192,14
+735,2014-02-06,Golden State Warriors,Chicago Bulls,191.0,8.0,-290,240,189,15
+736,2014-02-07,Philadelphia 76ers,Los Angeles Lakers,218.0,2.5,-180,155,210,-14
+737,2014-02-07,Indiana Pacers,Portland Trail Blazers,197.0,6.0,-240,200,231,5
+738,2014-02-07,Washington Wizards,Cleveland Cavaliers,200.0,9.5,-500,390,228,-2
+739,2014-02-07,Orlando Magic,Oklahoma City Thunder,201.0,9.0,430,-560,205,1
+740,2014-02-07,Boston Celtics,Sacramento Kings,201.0,1.5,105,-125,188,10
+741,2014-02-07,New York Knicks,Denver Nuggets,209.0,0.0,-135,115,207,27
+742,2014-02-07,Detroit Pistons,Brooklyn Nets,203.5,1.0,-135,115,206,16
+743,2014-02-07,Dallas Mavericks,Utah Jazz,204.0,9.0,-550,425,184,22
+744,2014-02-07,New Orleans Pelicans,Minnesota Timberwolves,199.0,1.0,100,-120,189,7
+745,2014-02-07,Los Angeles Clippers,Toronto Raptors,204.0,6.0,-260,215,223,13
+746,2014-02-08,Charlotte Bobcats,San Antonio Spurs,191.0,3.5,182,-215,204,-4
+747,2014-02-08,Atlanta Hawks,Memphis Grizzlies,190.0,2.5,-115,-105,155,-3
+748,2014-02-08,Detroit Pistons,Denver Nuggets,214.0,1.0,-125,105,235,17
+749,2014-02-08,Minnesota Timberwolves,Portland Trail Blazers,211.0,0.0,182,-215,227,-7
+750,2014-02-08,Milwaukee Bucks,Houston Rockets,205.5,11.0,510,-700,196,-6
+751,2014-02-08,Phoenix Suns,Golden State Warriors,208.0,2.5,-190,162,231,13
+752,2014-02-08,Utah Jazz,Miami Heat,198.0,9.0,430,-560,183,5
+753,2014-02-09,Oklahoma City Thunder,New York Knicks,200.5,10.5,-490,385,212,12
+754,2014-02-09,Los Angeles Lakers,Chicago Bulls,196.0,1.0,135,-155,178,-6
+755,2014-02-09,Brooklyn Nets,New Orleans Pelicans,193.0,6.0,-200,170,174,12
+756,2014-02-09,Cleveland Cavaliers,Memphis Grizzlies,186.0,3.0,130,-150,174,8
+757,2014-02-09,Boston Celtics,Dallas Mavericks,198.5,4.5,155,-175,193,-11
+758,2014-02-09,Washington Wizards,Sacramento Kings,204.0,5.0,-230,190,177,9
+759,2014-02-09,Orlando Magic,Indiana Pacers,188.5,8.0,320,-410,185,1
+760,2014-02-09,Los Angeles Clippers,Philadelphia 76ers,218.5,15.5,-3220,1620,201,45
+761,2014-02-10,Indiana Pacers,Denver Nuggets,198.5,10.5,-650,475,199,39
+762,2014-02-10,Toronto Raptors,New Orleans Pelicans,193.5,7.0,-280,240,209,7
+763,2014-02-10,Detroit Pistons,San Antonio Spurs,205.5,4.0,145,-165,209,9
+764,2014-02-10,Minnesota Timberwolves,Houston Rockets,210.0,3.5,160,-185,196,-18
+765,2014-02-10,Milwaukee Bucks,Boston Celtics,191.0,2.0,-118,-102,188,-16
+766,2014-02-10,Golden State Warriors,Philadelphia 76ers,215.0,13.5,-2300,1350,203,43
+767,2014-02-11,Cleveland Cavaliers,Sacramento Kings,203.0,1.0,105,-125,208,10
+768,2014-02-11,Charlotte Bobcats,Dallas Mavericks,198.0,3.0,145,-165,203,25
+769,2014-02-11,Chicago Bulls,Atlanta Hawks,187.5,1.5,-125,105,185,15
+770,2014-02-11,Memphis Grizzlies,Washington Wizards,185.0,4.0,-190,160,181,3
+771,2014-02-11,Phoenix Suns,Miami Heat,208.5,4.0,125,-145,200,-6
+772,2014-02-11,Portland Trail Blazers,Oklahoma City Thunder,212.5,1.0,-120,100,193,-3
+773,2014-02-11,Los Angeles Lakers,Utah Jazz,201.5,2.0,-135,115,175,-17
+774,2014-02-12,Orlando Magic,Memphis Grizzlies,182.5,1.5,105,-125,167,-5
+775,2014-02-12,Indiana Pacers,Dallas Mavericks,197.0,8.0,-475,375,154,-8
+776,2014-02-12,Toronto Raptors,Atlanta Hawks,199.0,6.5,-265,225,187,21
+777,2014-02-12,Boston Celtics,San Antonio Spurs,193.5,3.5,150,-170,196,-12
+778,2014-02-12,Brooklyn Nets,Charlotte Bobcats,192.0,7.0,-330,280,194,16
+779,2014-02-12,Detroit Pistons,Cleveland Cavaliers,204.0,7.0,-360,300,182,-4
+780,2014-02-12,New York Knicks,Sacramento Kings,202.0,5.0,-260,220,207,-5
+781,2014-02-12,Minnesota Timberwolves,Denver Nuggets,209.0,6.0,-275,235,207,27
+782,2014-02-12,Milwaukee Bucks,New Orleans Pelicans,191.0,5.5,300,-360,200,-4
+783,2014-02-12,Houston Rockets,Washington Wizards,203.0,8.0,-425,345,225,1
+784,2014-02-12,Utah Jazz,Philadelphia 76ers,203.0,8.0,-380,310,205,5
+785,2014-02-12,Golden State Warriors,Miami Heat,205.0,1.5,100,-120,187,-7
+786,2014-02-12,Los Angeles Clippers,Portland Trail Blazers,216.5,6.0,-450,370,207,1
+787,2014-02-13,Chicago Bulls,Brooklyn Nets,183.0,4.0,-175,150,168,16
+788,2014-02-13,Los Angeles Lakers,Oklahoma City Thunder,207.0,11.0,580,-825,210,-4
+789,2014-02-18,Philadelphia 76ers,Cleveland Cavaliers,208.0,4.0,160,-185,199,-29
+790,2014-02-18,Washington Wizards,Toronto Raptors,195.0,3.0,-140,121,196,-10
+791,2014-02-18,Indiana Pacers,Atlanta Hawks,191.0,11.0,-624,465,206,10
+792,2014-02-18,Detroit Pistons,Charlotte Bobcats,201.5,4.5,-195,165,204,-12
+793,2014-02-18,Memphis Grizzlies,New York Knicks,182.0,6.0,-237,197,191,5
+794,2014-02-18,Milwaukee Bucks,Orlando Magic,191.0,2.0,130,-150,204,4
+795,2014-02-18,Dallas Mavericks,Miami Heat,209.0,1.5,111,-131,223,-11
+796,2014-02-18,Denver Nuggets,Phoenix Suns,209.0,1.5,115,-135,219,-5
+797,2014-02-18,Los Angeles Clippers,San Antonio Spurs,210.0,4.0,-290,240,216,-10
+798,2014-02-19,Toronto Raptors,Chicago Bulls,183.0,3.0,-155,135,186,-2
+799,2014-02-19,Charlotte Bobcats,Detroit Pistons,201.0,2.5,-150,130,214,18
+800,2014-02-19,Cleveland Cavaliers,Orlando Magic,196.0,6.0,-215,185,194,8
+801,2014-02-19,Atlanta Hawks,Washington Wizards,200.0,1.0,-120,100,211,-17
+802,2014-02-19,New Orleans Pelicans,New York Knicks,195.5,4.0,-165,145,189,-7
+803,2014-02-19,Minnesota Timberwolves,Indiana Pacers,195.0,4.0,135,-155,195,13
+804,2014-02-19,Phoenix Suns,Boston Celtics,203.0,7.0,-260,220,194,6
+805,2014-02-19,Utah Jazz,Brooklyn Nets,192.0,2.0,155,-175,204,-6
+806,2014-02-19,Portland Trail Blazers,San Antonio Spurs,209.5,2.0,-150,130,220,-2
+807,2014-02-19,Sacramento Kings,Golden State Warriors,208.5,5.0,185,-215,193,-9
+808,2014-02-19,Los Angeles Lakers,Houston Rockets,213.5,9.0,345,-425,242,-26
+809,2014-02-20,Oklahoma City Thunder,Miami Heat,205.5,3.5,-145,125,184,-22
+810,2014-02-20,Milwaukee Bucks,Denver Nuggets,202.0,3.5,170,-200,191,-11
+811,2014-02-20,Golden State Warriors,Houston Rockets,212.5,2.0,105,-125,201,3
+812,2014-02-21,Charlotte Bobcats,New Orleans Pelicans,191.5,4.5,-150,130,177,3
+813,2014-02-21,Toronto Raptors,Cleveland Cavaliers,196.5,6.5,-385,305,189,7
+814,2014-02-21,Philadelphia 76ers,Dallas Mavericks,216.0,9.5,995,-1545,236,-12
+815,2014-02-21,Orlando Magic,New York Knicks,196.5,1.0,145,-165,250,8
+816,2014-02-21,Detroit Pistons,Atlanta Hawks,210.0,4.0,-170,150,222,8
+817,2014-02-21,Chicago Bulls,Denver Nuggets,194.0,8.5,-320,260,206,28
+818,2014-02-21,Memphis Grizzlies,Los Angeles Clippers,196.0,1.5,110,-130,198,6
+819,2014-02-21,Phoenix Suns,San Antonio Spurs,208.5,0.0,110,-130,191,21
+820,2014-02-21,Portland Trail Blazers,Utah Jazz,203.5,9.0,-450,345,196,8
+821,2014-02-21,Los Angeles Lakers,Boston Celtics,203.0,2.5,-115,-105,193,9
+822,2014-02-22,Charlotte Bobcats,Memphis Grizzlies,181.0,1.0,135,-155,181,3
+823,2014-02-22,Washington Wizards,New Orleans Pelicans,195.5,6.0,-275,225,187,1
+824,2014-02-22,Detroit Pistons,Dallas Mavericks,213.0,3.0,135,-155,215,-11
+825,2014-02-22,Atlanta Hawks,New York Knicks,201.5,3.0,-130,110,205,9
+826,2014-02-22,Milwaukee Bucks,Indiana Pacers,189.0,11.0,630,-1030,210,-10
+827,2014-02-22,Utah Jazz,Minnesota Timberwolves,198.0,4.5,170,-195,225,-17
+828,2014-02-22,Sacramento Kings,Boston Celtics,198.0,8.0,-395,315,203,7
+829,2014-02-22,Golden State Warriors,Brooklyn Nets,200.5,6.0,-205,175,179,7
+830,2014-02-23,Oklahoma City Thunder,Los Angeles Clippers,209.0,5.0,-215,180,242,-8
+831,2014-02-23,Miami Heat,Chicago Bulls,186.5,5.5,-210,180,172,14
+832,2014-02-23,Toronto Raptors,Orlando Magic,194.5,11.0,-797,563,195,15
+833,2014-02-23,Cleveland Cavaliers,Washington Wizards,197.0,1.0,105,-125,179,-13
+834,2014-02-23,Denver Nuggets,Sacramento Kings,209.5,3.0,-250,210,204,-14
+835,2014-02-23,Phoenix Suns,Houston Rockets,214.0,2.0,101,-120,227,-3
+836,2014-02-23,Portland Trail Blazers,Minnesota Timberwolves,212.5,4.0,-170,145,205,11
+837,2014-02-23,Los Angeles Lakers,Brooklyn Nets,205.0,3.0,130,-150,210,-6
+838,2014-02-24,Philadelphia 76ers,Milwaukee Bucks,206.0,1.5,135,-155,240,-20
+839,2014-02-24,New York Knicks,Dallas Mavericks,205.0,3.5,125,-145,218,-2
+840,2014-02-24,Detroit Pistons,Golden State Warriors,209.5,2.0,150,-170,200,-8
+841,2014-02-24,New Orleans Pelicans,Los Angeles Clippers,205.5,3.0,165,-190,233,-13
+842,2014-02-24,Utah Jazz,Boston Celtics,190.0,3.0,-190,165,208,12
+843,2014-02-25,Washington Wizards,Orlando Magic,195.5,9.0,-505,395,221,9
+844,2014-02-25,Cleveland Cavaliers,Toronto Raptors,194.0,2.5,150,-170,192,-6
+845,2014-02-25,Indiana Pacers,Los Angeles Lakers,202.0,13.5,-1610,1010,216,20
+846,2014-02-25,Atlanta Hawks,Chicago Bulls,186.5,1.5,125,-145,210,-4
+847,2014-02-25,Denver Nuggets,Portland Trail Blazers,214.0,2.5,125,-145,195,-5
+848,2014-02-25,Phoenix Suns,Minnesota Timberwolves,213.0,3.5,-175,155,211,-9
+849,2014-02-25,Sacramento Kings,Houston Rockets,213.0,4.5,165,-190,232,-26
+850,2014-02-26,Philadelphia 76ers,Orlando Magic,212.0,4.5,155,-175,191,-11
+851,2014-02-26,Boston Celtics,Atlanta Hawks,200.0,1.5,-145,125,219,11
+852,2014-02-26,Oklahoma City Thunder,Cleveland Cavaliers,202.0,12.5,-3090,1490,218,-10
+853,2014-02-26,Dallas Mavericks,New Orleans Pelicans,205.0,8.0,-305,245,197,19
+854,2014-02-26,Memphis Grizzlies,Los Angeles Lakers,196.0,10.0,-885,585,211,5
+855,2014-02-26,Chicago Bulls,Golden State Warriors,188.0,2.0,140,-160,186,20
+856,2014-02-26,San Antonio Spurs,Detroit Pistons,209.0,9.5,-795,495,230,10
+857,2014-02-26,Utah Jazz,Phoenix Suns,201.5,2.0,-140,120,195,23
+858,2014-02-26,Portland Trail Blazers,Brooklyn Nets,204.0,4.0,-125,105,204,44
+859,2014-02-26,Los Angeles Clippers,Houston Rockets,220.0,5.5,-210,175,194,8
+860,2014-02-27,Indiana Pacers,Milwaukee Bucks,196.5,15.5,-3110,1510,197,5
+861,2014-02-27,Toronto Raptors,Washington Wizards,196.0,5.0,-200,170,263,-5
+862,2014-02-27,Miami Heat,New York Knicks,202.0,11.0,-440,340,190,26
+863,2014-02-27,Denver Nuggets,Brooklyn Nets,203.0,1.0,115,-135,201,-23
+864,2014-02-28,Cleveland Cavaliers,Utah Jazz,193.5,4.5,-190,162,178,20
+865,2014-02-28,Oklahoma City Thunder,Memphis Grizzlies,192.0,6.0,-300,250,220,6
+866,2014-02-28,New York Knicks,Golden State Warriors,200.0,4.5,200,-240,229,-23
+867,2014-02-28,San Antonio Spurs,Charlotte Bobcats,201.0,10.0,-475,370,174,10
+868,2014-02-28,Dallas Mavericks,Chicago Bulls,193.0,4.5,-190,162,191,-9
+869,2014-02-28,Phoenix Suns,New Orleans Pelicans,203.0,6.5,-300,250,220,12
+870,2014-02-28,Los Angeles Lakers,Sacramento Kings,212.0,0.0,-145,125,248,4
+871,2014-03-01,Philadelphia 76ers,Washington Wizards,212.0,10.0,545,-800,225,-19
+872,2014-03-01,Miami Heat,Orlando Magic,201.0,13.5,-2300,1200,210,14
+873,2014-03-01,Houston Rockets,Detroit Pistons,216.5,11.0,-600,445,228,8
+874,2014-03-01,Boston Celtics,Indiana Pacers,193.5,7.0,300,-360,199,-5
+875,2014-03-01,Milwaukee Bucks,Brooklyn Nets,197.0,5.5,215,-255,205,-9
+876,2014-03-01,Memphis Grizzlies,Cleveland Cavaliers,186.5,9.5,-475,385,206,14
+877,2014-03-01,Sacramento Kings,Minnesota Timberwolves,211.0,3.0,160,-190,205,-11
+878,2014-03-01,Portland Trail Blazers,Denver Nuggets,211.0,11.5,-800,545,198,6
+879,2014-03-01,Los Angeles Clippers,New Orleans Pelicans,208.5,12.0,-850,550,184,32
+880,2014-03-02,Chicago Bulls,New York Knicks,185.0,6.0,-260,215,199,19
+881,2014-03-02,Toronto Raptors,Golden State Warriors,201.0,2.0,125,-145,202,6
+882,2014-03-02,Orlando Magic,Philadelphia 76ers,213.0,10.0,-700,510,173,11
+883,2014-03-02,Indiana Pacers,Utah Jazz,190.0,13.0,-850,595,185,3
+884,2014-03-02,San Antonio Spurs,Dallas Mavericks,212.5,5.5,-270,225,218,6
+885,2014-03-02,Oklahoma City Thunder,Charlotte Bobcats,202.5,10.0,-700,510,215,17
+886,2014-03-02,Phoenix Suns,Atlanta Hawks,214.0,8.5,-365,295,249,9
+887,2014-03-03,Washington Wizards,Memphis Grizzlies,189.0,0.0,115,-135,214,-6
+888,2014-03-03,Brooklyn Nets,Chicago Bulls,187.0,2.5,-160,140,176,16
+889,2014-03-03,Detroit Pistons,New York Knicks,207.5,4.0,-175,155,181,11
+890,2014-03-03,Miami Heat,Charlotte Bobcats,196.0,11.5,-1035,635,231,17
+891,2014-03-03,Milwaukee Bucks,Utah Jazz,194.5,0.0,-110,-110,202,26
+892,2014-03-03,Denver Nuggets,Minnesota Timberwolves,212.0,5.0,185,-220,260,-4
+893,2014-03-03,Portland Trail Blazers,Los Angeles Lakers,220.0,12.5,-1100,700,213,-1
+894,2014-03-03,Sacramento Kings,New Orleans Pelicans,203.0,3.0,-185,160,185,7
+895,2014-03-04,Indiana Pacers,Golden State Warriors,196.5,5.5,-210,175,194,-2
+896,2014-03-04,Cleveland Cavaliers,San Antonio Spurs,203.0,6.5,270,-330,223,-21
+897,2014-03-04,Oklahoma City Thunder,Philadelphia 76ers,217.0,20.0,-13000,4000,217,33
+898,2014-03-04,Houston Rockets,Miami Heat,210.0,1.0,-130,110,209,3
+899,2014-03-04,Phoenix Suns,Los Angeles Clippers,218.5,3.5,160,-185,200,-8
+900,2014-03-04,Los Angeles Lakers,New Orleans Pelicans,210.0,0.0,-145,125,257,-7
+901,2014-03-05,Charlotte Bobcats,Indiana Pacers,189.5,4.5,160,-190,196,22
+902,2014-03-05,Orlando Magic,Houston Rockets,205.0,7.5,300,-360,190,-12
+903,2014-03-05,Washington Wizards,Utah Jazz,198.0,7.5,-360,300,195,13
+904,2014-03-05,Brooklyn Nets,Memphis Grizzlies,188.0,1.5,-120,100,197,9
+905,2014-03-05,Detroit Pistons,Chicago Bulls,194.5,2.5,155,-175,199,-11
+906,2014-03-05,Boston Celtics,Golden State Warriors,200.0,5.5,185,-215,196,-20
+907,2014-03-05,Milwaukee Bucks,Sacramento Kings,205.0,3.0,140,-160,218,-14
+908,2014-03-05,Minnesota Timberwolves,New York Knicks,209.5,8.0,-425,345,224,-12
+909,2014-03-05,Denver Nuggets,Dallas Mavericks,216.5,4.0,170,-200,225,5
+910,2014-03-05,Portland Trail Blazers,Atlanta Hawks,218.0,8.0,-500,400,180,24
+911,2014-03-06,San Antonio Spurs,Miami Heat,207.0,2.5,-160,140,198,24
+912,2014-03-06,Phoenix Suns,Oklahoma City Thunder,216.0,4.5,205,-245,250,6
+913,2014-03-06,Los Angeles Lakers,Los Angeles Clippers,224.0,10.5,525,-825,236,-48
+914,2014-03-07,Charlotte Bobcats,Cleveland Cavaliers,195.0,4.5,-195,170,193,9
+915,2014-03-07,Chicago Bulls,Memphis Grizzlies,181.0,2.5,-120,100,162,-8
+916,2014-03-07,Toronto Raptors,Sacramento Kings,205.0,6.0,-290,240,186,12
+917,2014-03-07,New York Knicks,Utah Jazz,198.0,5.5,-310,250,189,27
+918,2014-03-07,Boston Celtics,Brooklyn Nets,194.0,3.5,180,-215,175,7
+919,2014-03-07,Minnesota Timberwolves,Detroit Pistons,218.5,9.0,-525,400,215,13
+920,2014-03-07,New Orleans Pelicans,Milwaukee Bucks,203.0,8.0,-370,300,216,8
+921,2014-03-07,Dallas Mavericks,Portland Trail Blazers,218.5,2.5,-140,120,201,5
+922,2014-03-07,Denver Nuggets,Los Angeles Lakers,227.0,9.0,-630,430,260,8
+923,2014-03-07,Houston Rockets,Indiana Pacers,202.0,3.5,-215,180,198,26
+924,2014-03-07,Golden State Warriors,Atlanta Hawks,212.0,10.0,-505,395,208,14
+925,2014-03-08,Philadelphia 76ers,Utah Jazz,206.5,6.0,250,-300,196,-12
+926,2014-03-08,Cleveland Cavaliers,New York Knicks,199.0,3.0,-119,-101,204,-10
+927,2014-03-08,Memphis Grizzlies,Charlotte Bobcats,186.5,6.5,-450,355,200,22
+928,2014-03-08,San Antonio Spurs,Orlando Magic,202.0,13.0,-3000,1500,233,9
+929,2014-03-08,Milwaukee Bucks,Washington Wizards,202.5,6.5,320,-400,221,-7
+930,2014-03-08,Los Angeles Clippers,Atlanta Hawks,217.0,13.0,-3000,1500,217,1
+931,2014-03-09,Chicago Bulls,Miami Heat,188.5,3.0,165,-190,183,7
+932,2014-03-09,Los Angeles Lakers,Oklahoma City Thunder,228.5,11.5,730,-1130,224,4
+933,2014-03-09,New Orleans Pelicans,Denver Nuggets,214.5,2.0,-155,135,218,4
+934,2014-03-09,Brooklyn Nets,Sacramento Kings,202.5,6.5,-290,240,193,15
+935,2014-03-09,Boston Celtics,Detroit Pistons,203.5,2.0,-110,-110,229,7
+936,2014-03-09,Minnesota Timberwolves,Toronto Raptors,208.0,4.5,-230,190,215,-7
+937,2014-03-09,Houston Rockets,Portland Trail Blazers,214.0,5.5,-260,220,231,5
+938,2014-03-09,Dallas Mavericks,Indiana Pacers,199.0,1.5,110,-130,199,11
+939,2014-03-09,Golden State Warriors,Phoenix Suns,211.5,7.5,-525,400,220,6
+940,2014-03-10,Charlotte Bobcats,Denver Nuggets,210.0,5.0,-230,190,203,7
+941,2014-03-10,Miami Heat,Washington Wizards,204.0,7.5,-410,320,189,9
+942,2014-03-10,New York Knicks,Philadelphia 76ers,211.5,15.0,-3010,1410,233,13
+943,2014-03-10,Brooklyn Nets,Toronto Raptors,194.5,3.0,-160,140,198,4
+944,2014-03-10,Utah Jazz,Atlanta Hawks,202.5,2.0,120,-140,222,-2
+945,2014-03-10,Milwaukee Bucks,Orlando Magic,204.0,2.0,-110,-110,203,7
+946,2014-03-10,Los Angeles Clippers,Phoenix Suns,220.0,9.0,-805,505,217,7
+947,2014-03-11,Indiana Pacers,Boston Celtics,195.0,12.0,-900,600,177,11
+948,2014-03-11,Detroit Pistons,Sacramento Kings,212.0,3.5,-145,125,188,10
+949,2014-03-11,Memphis Grizzlies,Portland Trail Blazers,198.5,3.0,-145,125,208,10
+950,2014-03-11,Minnesota Timberwolves,Milwaukee Bucks,214.0,14.0,-3300,1400,213,11
+951,2014-03-11,Chicago Bulls,San Antonio Spurs,189.5,4.0,170,-210,200,-8
+952,2014-03-11,Oklahoma City Thunder,Houston Rockets,217.0,3.5,-200,165,204,8
+953,2014-03-11,Golden State Warriors,Dallas Mavericks,211.0,5.5,-225,185,193,23
+954,2014-03-12,Miami Heat,Brooklyn Nets,202.0,9.0,-525,405,191,-1
+955,2014-03-12,Toronto Raptors,Detroit Pistons,207.0,9.0,-453,357,188,14
+956,2014-03-12,Philadelphia 76ers,Sacramento Kings,215.0,9.0,375,-480,213,-17
+957,2014-03-12,Orlando Magic,Denver Nuggets,211.5,1.0,128,-151,232,-8
+958,2014-03-12,Washington Wizards,Charlotte Bobcats,198.5,4.5,-240,200,183,-13
+959,2014-03-12,Boston Celtics,New York Knicks,201.0,3.0,155,-180,208,-24
+960,2014-03-12,New Orleans Pelicans,Memphis Grizzlies,189.5,3.0,215,-260,178,-2
+961,2014-03-12,Utah Jazz,Dallas Mavericks,203.0,5.5,180,-210,209,-7
+962,2014-03-12,San Antonio Spurs,Portland Trail Blazers,211.0,6.5,-370,300,193,13
+963,2014-03-12,Phoenix Suns,Cleveland Cavaliers,208.5,7.5,-390,315,211,-9
+964,2014-03-12,Los Angeles Clippers,Golden State Warriors,214.0,7.0,-325,265,209,13
+965,2014-03-13,Chicago Bulls,Houston Rockets,193.0,2.5,135,-155,198,24
+966,2014-03-13,Atlanta Hawks,Milwaukee Bucks,209.5,9.0,-430,330,199,5
+967,2014-03-13,Oklahoma City Thunder,Los Angeles Lakers,227.0,16.5,-3145,1545,233,29
+968,2014-03-14,Orlando Magic,Washington Wizards,204.5,4.0,175,-210,206,-4
+969,2014-03-14,Philadelphia 76ers,Indiana Pacers,203.5,16.5,1500,-3100,195,-7
+970,2014-03-14,Charlotte Bobcats,Minnesota Timberwolves,207.5,1.0,115,-135,198,12
+971,2014-03-14,Toronto Raptors,Memphis Grizzlies,188.0,1.0,-110,-110,185,13
+972,2014-03-14,Boston Celtics,Phoenix Suns,207.0,4.5,155,-180,167,-7
+973,2014-03-14,Miami Heat,Denver Nuggets,213.0,10.5,-670,520,218,-4
+974,2014-03-14,New Orleans Pelicans,Portland Trail Blazers,204.0,2.0,115,-135,214,-8
+975,2014-03-14,San Antonio Spurs,Los Angeles Lakers,223.5,17.0,-3060,1810,204,34
+976,2014-03-14,Utah Jazz,Los Angeles Clippers,206.5,9.0,380,-485,183,-9
+977,2014-03-14,Golden State Warriors,Cleveland Cavaliers,202.0,9.5,-475,375,197,-9
+978,2014-03-15,New York Knicks,Milwaukee Bucks,207.5,10.0,-630,480,209,21
+979,2014-03-15,Washington Wizards,Brooklyn Nets,197.5,2.5,125,-145,195,7
+980,2014-03-15,Atlanta Hawks,Denver Nuggets,217.0,5.5,-230,195,189,5
+981,2014-03-15,Detroit Pistons,Indiana Pacers,198.0,6.0,185,-215,216,-8
+982,2014-03-15,Philadelphia 76ers,Memphis Grizzlies,200.0,14.5,1125,-1925,180,-26
+983,2014-03-15,Chicago Bulls,Sacramento Kings,190.0,8.0,-390,310,181,7
+984,2014-03-16,Toronto Raptors,Phoenix Suns,204.0,5.0,-175,155,234,-8
+985,2014-03-16,Milwaukee Bucks,Charlotte Bobcats,199.0,5.0,195,-235,193,-9
+986,2014-03-16,Miami Heat,Houston Rockets,209.0,4.0,-235,195,217,9
+987,2014-03-16,New Orleans Pelicans,Boston Celtics,196.0,5.5,-240,200,241,1
+988,2014-03-16,Oklahoma City Thunder,Dallas Mavericks,215.5,8.0,-320,260,195,-23
+989,2014-03-16,San Antonio Spurs,Utah Jazz,200.0,15.0,-2600,1420,226,18
+990,2014-03-16,Minnesota Timberwolves,Sacramento Kings,213.5,8.0,-500,400,206,2
+991,2014-03-16,Portland Trail Blazers,Golden State Warriors,208.5,0.0,115,-135,225,-1
+992,2014-03-16,Los Angeles Clippers,Cleveland Cavaliers,208.5,12.5,-800,550,182,22
+993,2014-03-17,Indiana Pacers,Philadelphia 76ers,203.0,20.0,-5000,1700,189,9
+994,2014-03-17,Charlotte Bobcats,Atlanta Hawks,199.0,3.5,-150,130,180,-14
+995,2014-03-17,Brooklyn Nets,Phoenix Suns,205.0,5.5,-170,145,203,13
+996,2014-03-17,Chicago Bulls,Oklahoma City Thunder,193.0,2.5,130,-150,182,-12
+997,2014-03-17,Houston Rockets,Utah Jazz,203.5,13.5,-1100,720,210,38
+998,2014-03-17,Dallas Mavericks,Boston Celtics,203.0,10.0,-950,645,183,5
+999,2014-03-17,Denver Nuggets,Los Angeles Clippers,222.0,5.5,160,-185,210,10
+1000,2014-03-18,Cleveland Cavaliers,Miami Heat,195.5,9.0,475,-625,196,-4
+1001,2014-03-18,Atlanta Hawks,Toronto Raptors,202.0,1.5,125,-145,231,5
+1002,2014-03-18,Portland Trail Blazers,Milwaukee Bucks,207.0,11.5,-1240,890,235,5
+1003,2014-03-18,Sacramento Kings,Washington Wizards,202.0,1.0,105,-125,228,6
+1004,2014-03-18,Golden State Warriors,Orlando Magic,201.5,12.5,-1185,835,192,14
+1005,2014-03-19,Philadelphia 76ers,Chicago Bulls,195.0,13.0,850,-1200,196,-8
+1006,2014-03-19,Boston Celtics,Miami Heat,199.0,7.5,165,-190,197,5
+1007,2014-03-19,Brooklyn Nets,Charlotte Bobcats,193.5,6.5,-270,220,203,5
+1008,2014-03-19,New York Knicks,Indiana Pacers,194.5,3.0,100,-120,178,6
+1009,2014-03-19,New Orleans Pelicans,Toronto Raptors,197.0,1.5,120,-140,207,-7
+1010,2014-03-19,Memphis Grizzlies,Utah Jazz,187.0,11.5,-855,605,182,10
+1011,2014-03-19,Dallas Mavericks,Minnesota Timberwolves,211.5,6.0,-215,185,245,-1
+1012,2014-03-19,Denver Nuggets,Detroit Pistons,220.0,6.0,-285,235,227,9
+1013,2014-03-19,Phoenix Suns,Orlando Magic,209.0,10.5,-1025,725,202,16
+1014,2014-03-19,Los Angeles Lakers,San Antonio Spurs,222.0,13.5,880,-1230,234,-16
+1015,2014-03-20,Cleveland Cavaliers,Oklahoma City Thunder,199.0,10.0,410,-535,197,-7
+1016,2014-03-20,Houston Rockets,Minnesota Timberwolves,213.0,7.5,-340,270,235,23
+1017,2014-03-20,Portland Trail Blazers,Washington Wizards,206.0,4.5,-225,190,219,13
+1018,2014-03-20,Golden State Warriors,Milwaukee Bucks,204.0,14.5,-1190,840,225,5
+1019,2014-03-21,Philadelphia 76ers,New York Knicks,210.5,12.0,660,-960,185,-1
+1020,2014-03-21,Indiana Pacers,Chicago Bulls,180.5,5.0,-275,235,170,12
+1021,2014-03-21,Toronto Raptors,Oklahoma City Thunder,204.0,2.5,135,-155,237,-1
+1022,2014-03-21,Atlanta Hawks,New Orleans Pelicans,202.0,6.5,-200,165,216,-6
+1023,2014-03-21,Miami Heat,Memphis Grizzlies,191.0,6.0,-200,165,177,5
+1024,2014-03-21,Brooklyn Nets,Boston Celtics,195.0,10.0,-400,325,212,16
+1025,2014-03-21,Dallas Mavericks,Denver Nuggets,221.0,7.5,-390,320,228,16
+1026,2014-03-21,Phoenix Suns,Detroit Pistons,217.0,8.0,-400,325,190,6
+1027,2014-03-21,Sacramento Kings,San Antonio Spurs,208.0,8.0,315,-380,178,-20
+1028,2014-03-21,Los Angeles Lakers,Washington Wizards,219.0,6.0,165,-200,224,-10
+1029,2014-03-22,Charlotte Bobcats,Portland Trail Blazers,203.0,0.0,-120,100,218,30
+1030,2014-03-22,Cleveland Cavaliers,Houston Rockets,204.0,8.0,310,-390,229,-7
+1031,2014-03-22,Memphis Grizzlies,Indiana Pacers,180.0,2.0,-150,130,153,11
+1032,2014-03-22,New Orleans Pelicans,Miami Heat,199.5,6.0,175,-205,200,10
+1033,2014-03-22,Chicago Bulls,Philadelphia 76ers,196.0,16.5,-3370,1620,172,10
+1034,2014-03-22,Utah Jazz,Orlando Magic,195.5,5.0,-190,165,177,1
+1035,2014-03-22,Los Angeles Clippers,Detroit Pistons,215.5,13.0,-1345,895,215,9
+1036,2014-03-22,Golden State Warriors,San Antonio Spurs,209.0,1.0,-165,145,189,-9
+1037,2014-03-23,Toronto Raptors,Atlanta Hawks,203.5,7.0,-350,280,182,10
+1038,2014-03-23,Minnesota Timberwolves,Phoenix Suns,218.0,3.5,-135,115,247,-7
+1039,2014-03-23,Denver Nuggets,Washington Wizards,216.5,1.0,-120,100,207,3
+1040,2014-03-23,Sacramento Kings,Milwaukee Bucks,205.0,8.5,-330,270,231,17
+1041,2014-03-23,New York Knicks,Cleveland Cavaliers,199.0,9.5,-555,430,206,-6
+1042,2014-03-23,Dallas Mavericks,Brooklyn Nets,207.0,4.0,-210,180,211,-3
+1043,2014-03-23,Los Angeles Lakers,Orlando Magic,216.0,4.5,-180,155,197,9
+1044,2014-03-24,Charlotte Bobcats,Houston Rockets,207.0,4.5,175,-205,189,-11
+1045,2014-03-24,Atlanta Hawks,Phoenix Suns,213.0,0.0,125,-145,197,-7
+1046,2014-03-24,Miami Heat,Portland Trail Blazers,209.0,7.0,-270,220,184,2
+1047,2014-03-24,Memphis Grizzlies,Minnesota Timberwolves,196.5,8.5,-365,295,201,17
+1048,2014-03-24,Oklahoma City Thunder,Denver Nuggets,220.0,10.0,-720,545,213,21
+1049,2014-03-24,Chicago Bulls,Indiana Pacers,179.0,1.0,-120,100,166,12
+1050,2014-03-24,New Orleans Pelicans,Brooklyn Nets,199.5,2.5,-120,100,213,5
+1051,2014-03-24,San Antonio Spurs,Philadelphia 76ers,212.0,21.5,-5245,2245,204,22
+1052,2014-03-24,Utah Jazz,Detroit Pistons,201.5,1.0,110,-130,208,-20
+1053,2014-03-24,Los Angeles Clippers,Milwaukee Bucks,209.0,15.5,-3170,1670,204,8
+1054,2014-03-25,Cleveland Cavaliers,Toronto Raptors,196.0,4.0,162,-190,202,2
+1055,2014-03-25,Orlando Magic,Portland Trail Blazers,205.0,5.0,212,-255,180,10
+1056,2014-03-25,Dallas Mavericks,Oklahoma City Thunder,213.0,2.5,135,-160,247,9
+1057,2014-03-25,Los Angeles Lakers,New York Knicks,217.0,6.5,265,-320,223,31
+1058,2014-03-26,Charlotte Bobcats,Brooklyn Nets,193.0,0.0,-135,115,227,5
+1059,2014-03-26,Washington Wizards,Phoenix Suns,210.0,1.5,100,-120,192,-6
+1060,2014-03-26,Boston Celtics,Toronto Raptors,194.0,3.0,140,-160,189,-9
+1061,2014-03-26,Detroit Pistons,Cleveland Cavaliers,204.5,6.0,-265,215,193,-1
+1062,2014-03-26,Minnesota Timberwolves,Atlanta Hawks,214.5,5.5,-230,195,190,24
+1063,2014-03-26,Indiana Pacers,Miami Heat,187.0,2.5,-130,110,167,1
+1064,2014-03-26,New Orleans Pelicans,Los Angeles Clippers,207.0,7.0,270,-340,194,2
+1065,2014-03-26,San Antonio Spurs,Denver Nuggets,216.5,13.0,-1385,985,211,5
+1066,2014-03-26,Sacramento Kings,New York Knicks,203.5,0.0,120,-140,206,-8
+1067,2014-03-26,Utah Jazz,Memphis Grizzlies,185.0,7.5,345,-435,178,-4
+1068,2014-03-27,Atlanta Hawks,Portland Trail Blazers,210.0,2.5,182,-215,185,-15
+1069,2014-03-27,Milwaukee Bucks,Los Angeles Lakers,218.0,1.5,-140,120,213,3
+1070,2014-03-27,Houston Rockets,Philadelphia 76ers,215.0,20.5,-4963,1695,218,22
+1071,2014-03-27,Dallas Mavericks,Los Angeles Clippers,212.0,1.0,-121,100,212,-6
+1072,2014-03-28,Toronto Raptors,Boston Celtics,195.0,10.5,-475,370,208,2
+1073,2014-03-28,Washington Wizards,Indiana Pacers,187.5,3.0,105,-125,169,13
+1074,2014-03-28,Orlando Magic,Charlotte Bobcats,194.0,4.0,162,-190,215,5
+1075,2014-03-28,Brooklyn Nets,Cleveland Cavaliers,197.5,9.5,-400,320,205,11
+1076,2014-03-28,Detroit Pistons,Miami Heat,203.0,5.5,185,-220,188,-32
+1077,2014-03-28,New Orleans Pelicans,Utah Jazz,195.0,6.0,-315,260,197,7
+1078,2014-03-28,Minnesota Timberwolves,Los Angeles Lakers,224.0,11.5,-850,595,250,36
+1079,2014-03-28,Chicago Bulls,Portland Trail Blazers,190.5,5.0,-190,162,165,-17
+1080,2014-03-28,Oklahoma City Thunder,Sacramento Kings,208.0,12.5,-1300,810,175,13
+1081,2014-03-28,Denver Nuggets,San Antonio Spurs,214.5,6.5,294,-364,235,-31
+1082,2014-03-28,Phoenix Suns,New York Knicks,210.0,5.5,-275,227,200,24
+1083,2014-03-28,Golden State Warriors,Memphis Grizzlies,189.0,3.0,-140,120,193,7
+1084,2014-03-29,Philadelphia 76ers,Detroit Pistons,212.5,6.5,215,-260,221,25
+1085,2014-03-29,Washington Wizards,Atlanta Hawks,198.5,4.5,-250,210,198,4
+1086,2014-03-29,Houston Rockets,Los Angeles Clippers,215.0,3.0,-115,-105,225,-11
+1087,2014-03-29,Dallas Mavericks,Sacramento Kings,210.0,10.0,-900,620,203,3
+1088,2014-03-29,San Antonio Spurs,New Orleans Pelicans,203.5,12.5,-2500,1300,176,16
+1089,2014-03-29,Milwaukee Bucks,Miami Heat,201.5,11.5,395,-510,155,-21
+1090,2014-03-30,Oklahoma City Thunder,Utah Jazz,200.5,15.5,-2500,1300,212,20
+1091,2014-03-30,Cleveland Cavaliers,Indiana Pacers,184.5,6.0,194,-234,166,14
+1092,2014-03-30,Orlando Magic,Toronto Raptors,196.0,5.0,175,-205,191,-5
+1093,2014-03-30,Brooklyn Nets,Minnesota Timberwolves,211.0,4.5,-185,160,213,15
+1094,2014-03-30,Boston Celtics,Chicago Bulls,185.0,4.5,165,-195,209,-5
+1095,2014-03-30,Portland Trail Blazers,Memphis Grizzlies,192.0,2.5,-135,115,203,7
+1096,2014-03-30,Golden State Warriors,New York Knicks,199.0,6.0,-300,250,173,-5
+1097,2014-03-30,Los Angeles Lakers,Phoenix Suns,228.0,8.5,390,-500,214,16
+1098,2014-03-31,Charlotte Bobcats,Washington Wizards,192.0,2.5,-150,130,194,6
+1099,2014-03-31,Indiana Pacers,San Antonio Spurs,192.0,2.5,162,-190,180,-26
+1100,2014-03-31,Miami Heat,Toronto Raptors,197.5,6.0,-265,220,176,10
+1101,2014-03-31,Detroit Pistons,Milwaukee Bucks,206.0,6.0,-290,240,227,5
+1102,2014-03-31,Atlanta Hawks,Philadelphia 76ers,209.0,12.5,-1000,670,198,8
+1103,2014-03-31,Chicago Bulls,Boston Celtics,181.0,10.5,-550,425,174,14
+1104,2014-03-31,New Orleans Pelicans,Sacramento Kings,198.0,4.5,-180,155,199,-5
+1105,2014-03-31,Minnesota Timberwolves,Los Angeles Clippers,217.0,2.0,125,-145,218,-10
+1106,2014-03-31,Utah Jazz,New York Knicks,196.0,3.0,131,-151,175,-9
+1107,2014-03-31,Denver Nuggets,Memphis Grizzlies,200.5,3.5,162,-190,186,-2
+1108,2014-04-01,Brooklyn Nets,Houston Rockets,208.0,1.0,-159,135,201,9
+1109,2014-04-01,Dallas Mavericks,Golden State Warriors,204.0,4.5,-210,180,242,-2
+1110,2014-04-01,Los Angeles Lakers,Portland Trail Blazers,222.0,8.0,335,-425,236,-12
+1111,2014-04-02,Washington Wizards,Boston Celtics,195.0,7.0,-409,326,210,26
+1112,2014-04-02,New York Knicks,Brooklyn Nets,198.0,2.0,-145,125,191,29
+1113,2014-04-02,Indiana Pacers,Detroit Pistons,190.5,10.0,-715,519,195,7
+1114,2014-04-02,Toronto Raptors,Houston Rockets,203.5,2.5,-130,110,210,4
+1115,2014-04-02,Orlando Magic,Cleveland Cavaliers,195.5,3.0,115,-135,217,-21
+1116,2014-04-02,Philadelphia 76ers,Charlotte Bobcats,203.0,8.0,316,-388,216,-30
+1117,2014-04-02,Atlanta Hawks,Chicago Bulls,188.0,2.0,115,-135,197,-13
+1118,2014-04-02,Miami Heat,Milwaukee Bucks,195.0,13.5,-1500,890,173,19
+1119,2014-04-02,Minnesota Timberwolves,Memphis Grizzlies,198.5,3.5,165,-195,190,14
+1120,2014-04-02,San Antonio Spurs,Golden State Warriors,204.0,9.0,-650,485,201,21
+1121,2014-04-02,Denver Nuggets,New Orleans Pelicans,211.0,3.5,-180,155,244,30
+1122,2014-04-02,Phoenix Suns,Los Angeles Clippers,214.0,0.0,-150,130,220,-4
+1123,2014-04-02,Sacramento Kings,Los Angeles Lakers,217.5,7.0,-350,290,209,5
+1124,2014-04-03,Oklahoma City Thunder,San Antonio Spurs,208.5,2.0,-170,145,200,12
+1125,2014-04-03,Los Angeles Clippers,Dallas Mavericks,213.0,5.5,-180,155,220,-6
+1126,2014-04-04,Toronto Raptors,Indiana Pacers,183.5,1.5,105,-125,196,8
+1127,2014-04-04,Charlotte Bobcats,Orlando Magic,194.0,10.0,-600,450,171,11
+1128,2014-04-04,Memphis Grizzlies,Denver Nuggets,199.5,9.0,-535,410,192,8
+1129,2014-04-04,Miami Heat,Minnesota Timberwolves,202.5,10.0,-400,320,243,-1
+1130,2014-04-04,Atlanta Hawks,Cleveland Cavaliers,202.0,3.0,-125,105,215,19
+1131,2014-04-04,Boston Celtics,Philadelphia 76ers,207.0,10.0,-480,375,213,-9
+1132,2014-04-04,Brooklyn Nets,Detroit Pistons,206.0,9.0,-535,410,220,12
+1133,2014-04-04,New York Knicks,Washington Wizards,196.0,4.0,-215,182,179,-1
+1134,2014-04-04,Chicago Bulls,Milwaukee Bucks,186.0,11.5,-950,645,192,12
+1135,2014-04-04,Utah Jazz,New Orleans Pelicans,195.0,3.0,-135,115,196,4
+1136,2014-04-04,Houston Rockets,Oklahoma City Thunder,211.0,2.5,-145,125,218,4
+1137,2014-04-04,Portland Trail Blazers,Phoenix Suns,213.0,4.5,-190,162,202,-16
+1138,2014-04-04,Golden State Warriors,Sacramento Kings,202.5,10.0,-475,370,171,33
+1139,2014-04-04,Los Angeles Lakers,Dallas Mavericks,223.0,8.5,330,-410,202,-12
+1140,2014-04-05,Orlando Magic,Minnesota Timberwolves,205.0,3.0,115,-135,192,8
+1141,2014-04-05,Washington Wizards,Chicago Bulls,184.0,0.0,-135,115,174,-18
+1142,2014-04-05,Philadelphia 76ers,Brooklyn Nets,209.0,11.5,525,-725,206,-4
+1143,2014-04-05,Detroit Pistons,Boston Celtics,205.0,6.0,-265,220,226,4
+1144,2014-04-05,Cleveland Cavaliers,Charlotte Bobcats,196.0,3.0,-170,145,190,-2
+1145,2014-04-05,Milwaukee Bucks,Toronto Raptors,199.0,7.0,227,-275,200,-4
+1146,2014-04-06,Miami Heat,New York Knicks,189.0,6.0,-290,240,193,11
+1147,2014-04-06,Los Angeles Clippers,Los Angeles Lakers,225.0,16.0,-4000,1600,217,23
+1148,2014-04-06,Indiana Pacers,Atlanta Hawks,188.5,9.0,-399,319,195,-19
+1149,2014-04-06,Sacramento Kings,Dallas Mavericks,201.0,5.5,265,-325,184,-2
+1150,2014-04-06,Houston Rockets,Denver Nuggets,220.0,11.5,-800,565,255,5
+1151,2014-04-06,San Antonio Spurs,Memphis Grizzlies,192.0,8.0,-310,255,204,20
+1152,2014-04-06,Golden State Warriors,Utah Jazz,195.0,12.5,-901,621,232,28
+1153,2014-04-06,Portland Trail Blazers,New Orleans Pelicans,206.0,11.5,-595,447,194,6
+1154,2014-04-06,Phoenix Suns,Oklahoma City Thunder,212.5,1.0,130,-150,237,7
+1155,2014-04-08,Miami Heat,Brooklyn Nets,190.0,5.0,-340,280,175,-1
+1156,2014-04-08,Minnesota Timberwolves,San Antonio Spurs,208.5,5.5,250,-305,201,19
+1157,2014-04-08,Utah Jazz,Dallas Mavericks,199.5,7.0,290,-350,178,-12
+1158,2014-04-08,Sacramento Kings,Oklahoma City Thunder,203.5,7.5,405,-525,199,-15
+1159,2014-04-08,Los Angeles Lakers,Houston Rockets,225.0,9.5,405,-525,275,-15
+1160,2014-04-08,Atlanta Hawks,Detroit Pistons,210.5,6.5,-325,265,197,-7
+1161,2014-04-09,Orlando Magic,Brooklyn Nets,195.0,6.0,180,-210,226,4
+1162,2014-04-09,Toronto Raptors,Philadelphia 76ers,206.5,15.5,-2000,1100,239,11
+1163,2014-04-09,Cleveland Cavaliers,Detroit Pistons,207.0,6.5,-290,240,222,22
+1164,2014-04-09,Washington Wizards,Charlotte Bobcats,193.5,5.0,-240,200,182,-6
+1165,2014-04-09,Atlanta Hawks,Boston Celtics,204.5,7.5,-315,260,202,8
+1166,2014-04-09,Milwaukee Bucks,Indiana Pacers,182.0,3.5,-101,-119,206,-2
+1167,2014-04-09,Memphis Grizzlies,Miami Heat,183.0,2.5,-205,175,209,5
+1168,2014-04-09,Minnesota Timberwolves,Chicago Bulls,191.5,2.0,145,-170,189,-15
+1169,2014-04-09,New Orleans Pelicans,Phoenix Suns,207.0,5.0,370,-475,182,-6
+1170,2014-04-09,Denver Nuggets,Houston Rockets,222.0,1.5,110,-130,239,7
+1171,2014-04-09,Portland Trail Blazers,Sacramento Kings,200.5,11.5,-1600,930,199,1
+1172,2014-04-09,Los Angeles Clippers,Oklahoma City Thunder,213.0,3.5,-170,145,208,-6
+1173,2014-04-10,Dallas Mavericks,San Antonio Spurs,203.5,0.0,-125,105,209,-9
+1174,2014-04-10,Golden State Warriors,Denver Nuggets,213.5,10.5,-950,645,199,-1
+1175,2014-04-11,Orlando Magic,Washington Wizards,195.0,4.5,265,-325,182,-10
+1176,2014-04-11,Toronto Raptors,New York Knicks,194.5,4.5,-220,185,208,-8
+1177,2014-04-11,Miami Heat,Indiana Pacers,182.5,5.5,-275,227,184,12
+1178,2014-04-11,Brooklyn Nets,Atlanta Hawks,204.0,5.5,-210,180,181,-5
+1179,2014-04-11,Boston Celtics,Charlotte Bobcats,193.0,4.0,179,-209,209,3
+1180,2014-04-11,Oklahoma City Thunder,New Orleans Pelicans,205.0,15.0,-3500,1500,210,22
+1181,2014-04-11,Minnesota Timberwolves,Houston Rockets,218.0,3.0,135,-160,222,2
+1182,2014-04-11,Chicago Bulls,Detroit Pistons,192.0,10.5,-600,450,204,8
+1183,2014-04-11,Memphis Grizzlies,Philadelphia 76ers,200.0,15.5,-2200,1150,212,22
+1184,2014-04-11,Milwaukee Bucks,Cleveland Cavaliers,203.0,4.0,162,-190,235,3
+1185,2014-04-11,San Antonio Spurs,Phoenix Suns,204.0,3.0,-165,140,216,8
+1186,2014-04-11,Utah Jazz,Portland Trail Blazers,200.5,7.5,320,-400,210,-12
+1187,2014-04-11,Los Angeles Lakers,Golden State Warriors,220.0,10.0,485,-650,207,-17
+1188,2014-04-12,Los Angeles Clippers,Sacramento Kings,204.0,10.5,-650,485,218,16
+1189,2014-04-12,Washington Wizards,Milwaukee Bucks,202.0,10.5,-750,540,195,13
+1190,2014-04-12,Charlotte Bobcats,Philadelphia 76ers,205.0,12.5,-1200,760,216,6
+1191,2014-04-12,Cleveland Cavaliers,Boston Celtics,204.5,8.0,-475,370,210,-12
+1192,2014-04-12,Atlanta Hawks,Miami Heat,195.0,3.0,215,-260,183,13
+1193,2014-04-12,Houston Rockets,New Orleans Pelicans,213.0,14.0,-2600,1350,215,7
+1194,2014-04-12,Dallas Mavericks,Phoenix Suns,209.5,3.5,-215,182,199,3
+1195,2014-04-12,Denver Nuggets,Utah Jazz,213.0,8.0,-550,425,195,7
+1196,2014-04-13,New York Knicks,Chicago Bulls,184.0,4.5,135,-160,189,11
+1197,2014-04-13,Detroit Pistons,Toronto Raptors,206.0,6.0,250,-300,223,-9
+1198,2014-04-13,Brooklyn Nets,Orlando Magic,196.5,10.5,-850,595,185,9
+1199,2014-04-13,Indiana Pacers,Oklahoma City Thunder,192.5,2.0,100,-120,199,5
+1200,2014-04-13,Portland Trail Blazers,Golden State Warriors,203.0,3.0,-180,155,236,2
+1201,2014-04-13,Sacramento Kings,Minnesota Timberwolves,203.5,2.0,115,-135,209,3
+1202,2014-04-13,Los Angeles Lakers,Memphis Grizzlies,206.5,12.0,720,-1100,192,-12
+1203,2014-04-14,Philadelphia 76ers,Boston Celtics,212.0,3.5,130,-150,221,5
+1204,2014-04-14,Washington Wizards,Miami Heat,191.5,3.0,-230,192,207,21
+1205,2014-04-14,Toronto Raptors,Milwaukee Bucks,204.0,11.0,-650,485,210,10
+1206,2014-04-14,Atlanta Hawks,Charlotte Bobcats,196.0,1.5,180,-210,188,-2
+1207,2014-04-14,New Orleans Pelicans,Oklahoma City Thunder,203.5,7.5,320,-400,190,12
+1208,2014-04-14,Houston Rockets,San Antonio Spurs,212.0,5.0,-240,200,202,6
+1209,2014-04-14,Chicago Bulls,Orlando Magic,184.5,12.0,-725,525,203,13
+1210,2014-04-14,Utah Jazz,Los Angeles Lakers,213.0,5.0,-275,227,223,-15
+1211,2014-04-14,Phoenix Suns,Memphis Grizzlies,198.0,3.5,-185,160,188,-6
+1212,2014-04-14,Golden State Warriors,Minnesota Timberwolves,208.0,7.5,-345,285,250,10
+1213,2014-04-15,Brooklyn Nets,New York Knicks,193.0,7.0,-325,265,207,-11
+1214,2014-04-15,Los Angeles Clippers,Denver Nuggets,220.0,9.0,-600,450,222,12
+1215,2014-04-16,Memphis Grizzlies,Dallas Mavericks,190.0,3.0,-137,116,211,1
+1216,2014-04-16,Milwaukee Bucks,Atlanta Hawks,205.0,4.5,-160,135,214,-8
+1217,2014-04-16,Minnesota Timberwolves,Utah Jazz,211.0,10.0,-900,620,266,-6
+1218,2014-04-16,New Orleans Pelicans,Houston Rockets,210.0,4.0,-150,130,205,5
+1219,2014-04-16,Oklahoma City Thunder,Detroit Pistons,211.0,15.0,-2100,1100,223,1
+1220,2014-04-16,San Antonio Spurs,Los Angeles Lakers,217.0,6.5,-465,365,213,-13
+1221,2014-04-16,Boston Celtics,Washington Wizards,199.0,9.0,305,-375,220,-16
+1222,2014-04-16,Cleveland Cavaliers,Brooklyn Nets,200.0,5.5,-425,335,199,29
+1223,2014-04-16,Miami Heat,Philadelphia 76ers,205.0,4.5,-243,204,187,-13
+1224,2014-04-16,Orlando Magic,Indiana Pacers,184.0,5.5,-175,150,187,-15
+1225,2014-04-16,Charlotte Bobcats,Chicago Bulls,182.0,1.0,-125,105,177,5
+1226,2014-04-16,New York Knicks,Toronto Raptors,198.5,3.5,210,-250,187,3
+1227,2014-04-16,Sacramento Kings,Phoenix Suns,206.0,2.5,121,-141,203,-5
+1228,2014-04-16,Denver Nuggets,Golden State Warriors,210.0,8.0,-364,295,228,-4
+1229,2014-04-16,Portland Trail Blazers,Los Angeles Clippers,208.0,3.5,-175,149,214,6
+1230,2014-04-19,Toronto Raptors,Brooklyn Nets,193.5,2.5,-175,150,181,-7
+1231,2014-04-19,Oklahoma City Thunder,Memphis Grizzlies,192.5,6.5,-409,329,186,14
+1232,2014-04-19,Indiana Pacers,Atlanta Hawks,187.5,7.0,-425,335,194,-8
+1233,2014-04-19,Los Angeles Clippers,Golden State Warriors,210.0,7.0,-370,300,214,-4
+1234,2014-04-20,San Antonio Spurs,Dallas Mavericks,206.5,9.0,-575,435,175,5
+1235,2014-04-20,Miami Heat,Charlotte Bobcats,189.5,10.0,-650,485,187,11
+1236,2014-04-20,Chicago Bulls,Washington Wizards,182.5,5.0,-189,162,195,-9
+1237,2014-04-20,Houston Rockets,Portland Trail Blazers,216.0,5.0,-215,182,242,-2
+1238,2014-04-21,Oklahoma City Thunder,Memphis Grizzlies,189.5,7.5,-310,255,216,-6
+1239,2014-04-21,Los Angeles Clippers,Golden State Warriors,212.0,8.0,-410,330,236,40
+1240,2014-04-22,Indiana Pacers,Atlanta Hawks,187.0,7.0,-360,295,186,16
+1241,2014-04-22,Toronto Raptors,Brooklyn Nets,189.0,4.0,-220,185,195,5
+1242,2014-04-22,Chicago Bulls,Washington Wizards,181.5,5.5,-225,189,200,-2
+1243,2014-04-23,Miami Heat,Charlotte Bobcats,185.5,10.5,-563,432,198,4
+1244,2014-04-23,San Antonio Spurs,Dallas Mavericks,198.0,7.5,-360,295,205,-21
+1245,2014-04-23,Houston Rockets,Portland Trail Blazers,212.5,5.5,-324,264,217,-7
+1246,2014-04-24,Atlanta Hawks,Indiana Pacers,186.0,2.0,110,-130,183,13
+1247,2014-04-24,Memphis Grizzlies,Oklahoma City Thunder,190.0,1.0,130,-150,193,3
+1248,2014-04-24,Golden State Warriors,Los Angeles Clippers,214.0,1.0,130,-150,194,-2
+1249,2014-04-25,Brooklyn Nets,Toronto Raptors,191.0,4.5,-225,189,200,4
+1250,2014-04-25,Washington Wizards,Chicago Bulls,181.5,2.5,-145,125,197,-3
+1251,2014-04-25,Portland Trail Blazers,Houston Rockets,216.0,2.5,-140,120,237,-5
+1252,2014-04-26,Atlanta Hawks,Indiana Pacers,185.0,2.5,120,-140,179,-3
+1253,2014-04-26,Dallas Mavericks,San Antonio Spurs,202.5,2.5,150,-175,217,1
+1254,2014-04-26,Charlotte Bobcats,Miami Heat,188.0,5.0,170,-200,183,-13
+1255,2014-04-26,Memphis Grizzlies,Oklahoma City Thunder,188.0,3.0,145,-170,181,-3
+1256,2014-04-27,Washington Wizards,Chicago Bulls,182.0,2.0,-140,120,187,9
+1257,2014-04-27,Golden State Warriors,Los Angeles Clippers,210.5,2.5,105,-125,215,21
+1258,2014-04-27,Brooklyn Nets,Toronto Raptors,192.0,4.0,-178,153,166,-8
+1259,2014-04-27,Portland Trail Blazers,Houston Rockets,217.0,2.0,-180,155,243,3
+1260,2014-04-28,Charlotte Bobcats,Miami Heat,187.0,6.5,305,-375,207,-11
+1261,2014-04-28,Indiana Pacers,Atlanta Hawks,186.5,7.0,-355,290,204,-10
+1262,2014-04-28,Dallas Mavericks,San Antonio Spurs,204.0,4.0,157,-182,182,-4
+1263,2014-04-29,Chicago Bulls,Washington Wizards,184.0,4.5,-175,150,144,-6
+1264,2014-04-29,Oklahoma City Thunder,Memphis Grizzlies,187.0,6.5,-375,305,199,-1
+1265,2014-04-29,Los Angeles Clippers,Golden State Warriors,211.0,6.5,-325,265,216,10
+1266,2014-04-30,Toronto Raptors,Brooklyn Nets,191.0,3.5,-140,120,228,2
+1267,2014-04-30,San Antonio Spurs,Dallas Mavericks,198.5,7.0,-325,265,212,6
+1268,2014-04-30,Houston Rockets,Portland Trail Blazers,213.5,5.5,-220,185,206,10
+1269,2014-05-01,Atlanta Hawks,Indiana Pacers,187.5,2.0,-135,115,183,-7
+1270,2014-05-01,Memphis Grizzlies,Oklahoma City Thunder,186.0,2.5,126,-146,188,-20
+1271,2014-05-01,Golden State Warriors,Los Angeles Clippers,210.0,2.0,-112,-108,199,1
+1272,2014-05-02,Brooklyn Nets,Toronto Raptors,191.0,5.0,-205,175,180,14
+1273,2014-05-02,Dallas Mavericks,San Antonio Spurs,199.5,3.5,137,-161,224,2
+1274,2014-05-02,Portland Trail Blazers,Houston Rockets,213.0,3.5,-195,165,197,1
+1275,2014-05-03,Indiana Pacers,Atlanta Hawks,186.0,5.5,-285,235,172,12
+1276,2014-05-03,Oklahoma City Thunder,Memphis Grizzlies,185.5,8.0,-625,465,229,11
+1277,2014-05-03,Los Angeles Clippers,Golden State Warriors,209.5,7.5,-330,270,247,5
+1278,2014-05-04,Toronto Raptors,Brooklyn Nets,189.5,3.0,-145,125,207,-1
+1279,2014-05-04,San Antonio Spurs,Dallas Mavericks,199.5,6.5,-335,275,215,23
+1280,2014-05-05,Indiana Pacers,Washington Wizards,184.0,4.5,-190,162,198,-6
+1281,2014-05-05,Oklahoma City Thunder,Los Angeles Clippers,212.0,5.0,-235,195,227,-17
+1282,2014-05-06,Miami Heat,Brooklyn Nets,191.5,7.5,-400,320,193,21
+1283,2014-05-06,San Antonio Spurs,Portland Trail Blazers,204.5,6.5,-317,262,208,24
+1284,2014-05-07,Indiana Pacers,Washington Wizards,185.0,4.5,-205,175,168,4
+1285,2014-05-07,Oklahoma City Thunder,Los Angeles Clippers,215.0,5.5,-238,198,213,11
+1286,2014-05-08,Miami Heat,Brooklyn Nets,192.0,8.0,-315,260,176,12
+1287,2014-05-08,San Antonio Spurs,Portland Trail Blazers,207.0,6.5,-275,227,211,17
+1288,2014-05-09,Washington Wizards,Indiana Pacers,183.0,3.0,-209,179,148,-22
+1289,2014-05-09,Los Angeles Clippers,Oklahoma City Thunder,213.0,3.0,-180,155,230,-6
+1290,2014-05-10,Brooklyn Nets,Miami Heat,189.0,1.0,-105,-115,194,14
+1291,2014-05-10,Portland Trail Blazers,San Antonio Spurs,209.0,1.5,-115,-104,221,-15
+1292,2014-05-11,Los Angeles Clippers,Oklahoma City Thunder,215.0,5.0,-235,195,200,2
+1293,2014-05-11,Washington Wizards,Indiana Pacers,180.0,5.0,-171,145,187,-3
+1294,2014-05-12,Brooklyn Nets,Miami Heat,188.0,2.5,115,-135,198,-6
+1295,2014-05-12,Portland Trail Blazers,San Antonio Spurs,212.0,3.5,155,-180,195,11
+1296,2014-05-13,Indiana Pacers,Washington Wizards,181.5,5.0,-230,192,181,-23
+1297,2014-05-13,Oklahoma City Thunder,Los Angeles Clippers,212.5,5.0,-250,210,209,1
+1298,2014-05-14,Miami Heat,Brooklyn Nets,188.0,7.0,-350,290,190,2
+1299,2014-05-14,San Antonio Spurs,Portland Trail Blazers,207.5,8.0,-425,335,186,22
+1300,2014-05-15,Washington Wizards,Indiana Pacers,181.0,4.5,-199,169,173,-13
+1301,2014-05-15,Los Angeles Clippers,Oklahoma City Thunder,213.0,4.5,-180,155,202,-6
+1302,2014-05-18,Indiana Pacers,Miami Heat,182.0,2.0,110,-130,203,11
+1303,2014-05-19,San Antonio Spurs,Oklahoma City Thunder,210.0,4.5,-280,230,227,17
+1304,2014-05-20,Indiana Pacers,Miami Heat,184.0,2.5,120,-140,170,-4
+1305,2014-05-21,San Antonio Spurs,Oklahoma City Thunder,210.5,6.0,-235,195,189,35
+1306,2014-05-24,Miami Heat,Indiana Pacers,182.5,7.0,-270,225,186,12
+1307,2014-05-25,Oklahoma City Thunder,San Antonio Spurs,208.0,2.5,-145,125,203,9
+1308,2014-05-26,Miami Heat,Indiana Pacers,183.5,7.0,-290,240,192,12
+1309,2014-05-27,Oklahoma City Thunder,San Antonio Spurs,207.5,3.0,-135,115,197,13
+1310,2014-05-28,Indiana Pacers,Miami Heat,184.0,2.0,-117,-102,183,3
+1311,2014-05-29,San Antonio Spurs,Oklahoma City Thunder,206.0,4.5,-245,205,206,28
+1312,2014-05-30,Miami Heat,Indiana Pacers,183.5,6.0,-430,340,209,25
+1313,2014-05-31,Oklahoma City Thunder,San Antonio Spurs,206.5,3.0,-170,145,219,-5
+1314,2014-06-05,San Antonio Spurs,Miami Heat,198.5,4.0,-240,200,205,15
+1315,2014-06-08,San Antonio Spurs,Miami Heat,200.0,4.0,-170,145,194,-2
+1316,2014-06-10,Miami Heat,San Antonio Spurs,198.0,4.0,-200,170,203,-19
+1317,2014-06-12,Miami Heat,San Antonio Spurs,198.0,5.0,-233,196,193,-21
+1318,2014-06-15,San Antonio Spurs,Miami Heat,195.0,5.5,-215,180,191,17

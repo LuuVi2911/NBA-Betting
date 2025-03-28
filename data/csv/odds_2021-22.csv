@@ -1,0 +1,1324 @@
+index,Date,Home,Away,OU,Spread,ML_Home,ML_Away,Points,Win_Margin
+0,2021-10-19,Milwaukee Bucks,Brooklyn Nets,240.5,0.0,-125,105,231,23
+1,2021-10-19,Los Angeles Lakers,Golden State Warriors,230.5,4.5,-160,140,235,-7
+2,2021-10-20,Charlotte Bobcats,Indiana Pacers,228.5,2.0,105,-125,245,1
+3,2021-10-20,Detroit Pistons,Chicago Bulls,220.5,2.5,190,-220,182,-6
+4,2021-10-20,Toronto Raptors,Washington Wizards,220.0,3.5,-140,120,181,-15
+5,2021-10-20,New York Knicks,Boston Celtics,217.5,1.0,-140,120,272,4
+6,2021-10-20,Memphis Grizzlies,Cleveland Cavaliers,217.5,8.0,-280,240,253,11
+7,2021-10-20,New Orleans Pelicans,Philadelphia 76ers,227.5,1.5,150,-170,214,-20
+8,2021-10-20,Minnesota Timberwolves,Houston Rockets,228.5,4.5,-260,220,230,18
+9,2021-10-20,San Antonio Spurs,Orlando Magic,215.5,5.5,-265,225,220,26
+10,2021-10-20,Utah Jazz,Oklahoma City Thunder,221.5,11.5,-1200,750,193,21
+11,2021-10-20,Portland Trail Blazers,Sacramento Kings,231.5,5.5,-260,220,245,-3
+12,2021-10-20,Phoenix Suns,Denver Nuggets,224.5,6.5,-240,200,208,-12
+13,2021-10-21,Atlanta Hawks,Dallas Mavericks,224.5,2.5,-140,120,200,26
+14,2021-10-21,Miami Heat,Milwaukee Bucks,224.5,1.5,-150,130,232,42
+15,2021-10-21,Golden State Warriors,Los Angeles Clippers,225.5,2.5,-180,160,228,2
+16,2021-10-22,Orlando Magic,New York Knicks,212.0,4.5,290,-350,217,-25
+17,2021-10-22,Cleveland Cavaliers,Charlotte Bobcats,225.5,3.0,115,-135,235,-11
+18,2021-10-22,Washington Wizards,Indiana Pacers,230.0,2.0,110,-130,269,1
+19,2021-10-22,Boston Celtics,Toronto Raptors,221.0,8.0,-280,240,198,-32
+20,2021-10-22,Philadelphia 76ers,Brooklyn Nets,229.5,1.0,100,-120,223,-5
+21,2021-10-22,Houston Rockets,Oklahoma City Thunder,225.5,3.0,-150,130,215,33
+22,2021-10-22,Chicago Bulls,New Orleans Pelicans,224.0,6.5,-275,235,240,16
+23,2021-10-22,Denver Nuggets,San Antonio Spurs,219.0,8.0,-310,260,198,6
+24,2021-10-22,Los Angeles Lakers,Phoenix Suns,226.5,3.0,-125,105,220,-10
+25,2021-10-22,Sacramento Kings,Utah Jazz,226.5,6.0,200,-240,211,-9
+26,2021-10-23,Cleveland Cavaliers,Atlanta Hawks,223.0,3.0,300,-360,196,6
+27,2021-10-23,Indiana Pacers,Miami Heat,224.0,3.0,135,-155,193,11
+28,2021-10-23,Toronto Raptors,Dallas Mavericks,218.0,3.5,170,-190,198,-8
+29,2021-10-23,Minnesota Timberwolves,New Orleans Pelicans,226.0,6.0,-310,260,185,7
+30,2021-10-23,Chicago Bulls,Detroit Pistons,214.5,9.0,-340,280,179,15
+31,2021-10-23,San Antonio Spurs,Milwaukee Bucks,223.5,7.5,210,-250,232,-10
+32,2021-10-23,Portland Trail Blazers,Phoenix Suns,232.0,2.0,-155,135,239,29
+33,2021-10-23,Los Angeles Clippers,Memphis Grizzlies,226.0,3.5,-175,155,234,-6
+34,2021-10-24,Brooklyn Nets,Charlotte Bobcats,231.5,8.5,-420,350,206,-16
+35,2021-10-24,New York Knicks,Orlando Magic,215.0,12.0,-900,600,214,-6
+36,2021-10-24,Houston Rockets,Boston Celtics,225.5,6.0,180,-210,204,-10
+37,2021-10-24,Oklahoma City Thunder,Philadelphia 76ers,216.5,7.5,400,-500,218,-12
+38,2021-10-24,Sacramento Kings,Golden State Warriors,231.0,3.0,130,-150,226,-12
+39,2021-10-24,Los Angeles Lakers,Memphis Grizzlies,221.0,6.0,-210,180,239,3
+40,2021-10-25,Indiana Pacers,Milwaukee Bucks,3.0,10.5,-105,-115,228,-10
+41,2021-10-25,Charlotte Bobcats,Boston Celtics,224.0,1.0,110,-130,269,-11
+42,2021-10-25,Miami Heat,Orlando Magic,213.5,14.0,-1100,700,197,17
+43,2021-10-25,Toronto Raptors,Chicago Bulls,213.0,2.5,115,-135,219,-3
+44,2021-10-25,Atlanta Hawks,Detroit Pistons,213.5,10.5,-750,525,226,18
+45,2021-10-25,Brooklyn Nets,Washington Wizards,233.5,7.5,-240,200,194,14
+46,2021-10-25,Minnesota Timberwolves,New Orleans Pelicans,225.0,5.5,-220,190,205,-9
+47,2021-10-25,Denver Nuggets,Cleveland Cavaliers,220.5,10.5,-500,400,186,-12
+48,2021-10-25,Los Angeles Clippers,Portland Trail Blazers,234.5,3.0,-140,120,202,30
+49,2021-10-26,New York Knicks,Philadelphia 76ers,218.5,1.0,-120,100,211,13
+50,2021-10-26,Oklahoma City Thunder,Golden State Warriors,224.0,9.0,450,-600,204,-8
+51,2021-10-26,Dallas Mavericks,Houston Rockets,220.5,11.0,-650,475,222,10
+52,2021-10-26,San Antonio Spurs,Los Angeles Lakers,220.0,4.5,-135,115,246,-4
+53,2021-10-26,Utah Jazz,Denver Nuggets,220.0,7.0,-320,265,232,12
+54,2021-10-27,Orlando Magic,Charlotte Bobcats,220.5,6.5,180,-210,231,-9
+55,2021-10-27,Brooklyn Nets,Miami Heat,222.5,5.0,-160,140,199,-13
+56,2021-10-27,Toronto Raptors,Indiana Pacers,220.0,1.5,-120,100,218,18
+57,2021-10-27,New Orleans Pelicans,Atlanta Hawks,222.0,5.5,175,-200,201,-3
+58,2021-10-27,Boston Celtics,Washington Wizards,228.5,4.5,-175,155,223,-9
+59,2021-10-27,Oklahoma City Thunder,Los Angeles Lakers,220.5,9.0,190,-220,238,8
+60,2021-10-27,Milwaukee Bucks,Minnesota Timberwolves,228.5,7.0,-235,195,221,-5
+61,2021-10-27,Phoenix Suns,Sacramento Kings,228.0,8.5,-360,300,217,-3
+62,2021-10-27,Portland Trail Blazers,Memphis Grizzlies,235.5,4.5,-135,115,212,20
+63,2021-10-27,Los Angeles Clippers,Cleveland Cavaliers,220.0,7.5,-350,290,171,-13
+64,2021-10-28,Philadelphia 76ers,Detroit Pistons,217.0,10.5,-600,450,212,8
+65,2021-10-28,Washington Wizards,Atlanta Hawks,224.0,2.5,150,-170,233,11
+66,2021-10-28,Chicago Bulls,New York Knicks,215.0,4.0,-120,100,207,-1
+67,2021-10-28,Houston Rockets,Utah Jazz,223.5,9.0,375,-450,213,-31
+68,2021-10-28,Dallas Mavericks,San Antonio Spurs,221.5,6.0,-260,220,203,5
+69,2021-10-28,Golden State Warriors,Memphis Grizzlies,233.0,5.0,-240,200,205,-3
+70,2021-10-29,Toronto Raptors,Orlando Magic,210.0,7.0,-460,380,219,1
+71,2021-10-29,Miami Heat,Charlotte Bobcats,220.5,5.5,-280,240,213,15
+72,2021-10-29,Brooklyn Nets,Indiana Pacers,223.0,9.0,-410,340,203,7
+73,2021-10-29,New Orleans Pelicans,Sacramento Kings,222.5,1.0,100,-120,222,-4
+74,2021-10-29,Portland Trail Blazers,Los Angeles Clippers,225.0,4.0,-160,140,203,19
+75,2021-10-29,Denver Nuggets,Dallas Mavericks,219.5,1.5,-165,145,181,31
+76,2021-10-29,Los Angeles Lakers,Cleveland Cavaliers,219.5,8.0,-350,290,214,12
+77,2021-10-30,Washington Wizards,Boston Celtics,225.0,1.5,-130,110,227,3
+78,2021-10-30,Detroit Pistons,Orlando Magic,205.5,5.5,-240,200,213,7
+79,2021-10-30,New Orleans Pelicans,New York Knicks,217.0,4.5,300,-360,240,-6
+80,2021-10-30,Indiana Pacers,Toronto Raptors,215.5,3.5,-145,125,191,-3
+81,2021-10-30,Philadelphia 76ers,Atlanta Hawks,218.5,3.0,-165,145,216,28
+82,2021-10-30,Chicago Bulls,Utah Jazz,216.5,4.5,140,-160,206,8
+83,2021-10-30,Milwaukee Bucks,San Antonio Spurs,224.5,7.0,-280,240,195,-9
+84,2021-10-30,Memphis Grizzlies,Miami Heat,217.5,2.0,-155,135,232,-26
+85,2021-10-30,Golden State Warriors,Oklahoma City Thunder,220.0,12.5,-900,600,185,21
+86,2021-10-30,Minnesota Timberwolves,Denver Nuggets,222.0,2.5,-125,105,184,-2
+87,2021-10-30,Phoenix Suns,Cleveland Cavaliers,218.0,9.5,-500,400,193,9
+88,2021-10-31,Dallas Mavericks,Sacramento Kings,219.0,4.5,-185,165,204,6
+89,2021-10-31,Charlotte Bobcats,Portland Trail Blazers,230.0,1.0,105,-125,238,12
+90,2021-10-31,Milwaukee Bucks,Utah Jazz,224.5,1.0,165,-185,202,-12
+91,2021-10-31,Brooklyn Nets,Detroit Pistons,215.0,12.5,-900,600,208,26
+92,2021-10-31,Los Angeles Lakers,Houston Rockets,224.0,12.0,-650,475,180,10
+93,2021-11-01,Charlotte Bobcats,Cleveland Cavaliers,224.5,4.0,-210,180,223,-3
+94,2021-11-01,Philadelphia 76ers,Portland Trail Blazers,220.5,6.5,105,-125,216,10
+95,2021-11-01,Indiana Pacers,San Antonio Spurs,218.5,3.5,-140,120,249,13
+96,2021-11-01,New York Knicks,Toronto Raptors,211.5,7.0,-300,250,217,-9
+97,2021-11-01,Atlanta Hawks,Washington Wizards,224.0,6.0,-200,175,229,7
+98,2021-11-01,Boston Celtics,Chicago Bulls,217.5,2.0,-140,120,242,-14
+99,2021-11-01,Memphis Grizzlies,Denver Nuggets,216.0,1.5,-135,115,203,9
+100,2021-11-01,Minnesota Timberwolves,Orlando Magic,218.0,9.0,-380,320,212,-18
+101,2021-11-01,Los Angeles Clippers,Oklahoma City Thunder,214.0,11.0,-800,550,193,5
+102,2021-11-02,Detroit Pistons,Milwaukee Bucks,216.0,4.5,160,-180,206,-28
+103,2021-11-02,Dallas Mavericks,Miami Heat,212.5,2.0,120,-140,235,-15
+104,2021-11-02,Utah Jazz,Sacramento Kings,220.0,10.0,-410,340,232,6
+105,2021-11-02,Phoenix Suns,New Orleans Pelicans,216.5,11.5,-450,375,212,12
+106,2021-11-02,Los Angeles Lakers,Houston Rockets,219.0,11.0,-600,450,236,2
+107,2021-11-03,Cleveland Cavaliers,Portland Trail Blazers,219.5,4.5,180,-210,211,3
+108,2021-11-03,Orlando Magic,Boston Celtics,214.0,6.5,250,-300,171,-13
+109,2021-11-03,Washington Wizards,Toronto Raptors,215.0,3.0,-160,140,209,-9
+110,2021-11-03,Philadelphia 76ers,Chicago Bulls,217.5,2.5,-140,120,201,5
+111,2021-11-03,Indiana Pacers,New York Knicks,218.0,0.0,-115,-105,209,13
+112,2021-11-03,Brooklyn Nets,Atlanta Hawks,218.0,4.5,-185,165,225,9
+113,2021-11-03,Memphis Grizzlies,Denver Nuggets,213.5,1.0,105,-125,214,2
+114,2021-11-03,Minnesota Timberwolves,Los Angeles Clippers,215.5,0.0,120,-140,241,-11
+115,2021-11-03,San Antonio Spurs,Dallas Mavericks,216.0,1.0,110,-130,217,-1
+116,2021-11-03,Sacramento Kings,New Orleans Pelicans,218.5,5.5,-220,190,211,13
+117,2021-11-03,Golden State Warriors,Charlotte Bobcats,224.0,6.0,-240,200,206,22
+118,2021-11-04,Detroit Pistons,Philadelphia 76ers,208.5,5.5,170,-190,207,-11
+119,2021-11-04,Atlanta Hawks,Utah Jazz,220.5,0.0,100,-120,214,-18
+120,2021-11-04,Miami Heat,Boston Celtics,215.0,6.0,-265,225,173,-17
+121,2021-11-04,Phoenix Suns,Houston Rockets,217.5,10.5,-700,500,234,12
+122,2021-11-04,Los Angeles Lakers,Oklahoma City Thunder,217.5,13.0,-650,475,211,-3
+123,2021-11-05,Orlando Magic,San Antonio Spurs,212.0,5.0,150,-170,191,-13
+124,2021-11-05,Detroit Pistons,Brooklyn Nets,212.0,9.5,400,-500,186,-6
+125,2021-11-05,Washington Wizards,Memphis Grizzlies,225.0,0.0,-140,120,202,28
+126,2021-11-05,Milwaukee Bucks,New York Knicks,217.5,5.5,-165,145,211,-15
+127,2021-11-05,Toronto Raptors,Cleveland Cavaliers,212.5,6.0,-230,195,203,-1
+128,2021-11-05,Minnesota Timberwolves,Los Angeles Clippers,215.5,3.0,120,-140,188,-20
+129,2021-11-05,Golden State Warriors,New Orleans Pelicans,219.5,3.0,-480,390,211,41
+130,2021-11-05,Sacramento Kings,Charlotte Bobcats,228.0,3.0,-135,115,250,30
+131,2021-11-05,Portland Trail Blazers,Indiana Pacers,224.0,4.5,-210,180,216,4
+132,2021-11-06,Denver Nuggets,Houston Rockets,218.0,10.5,-700,500,189,1
+133,2021-11-06,Miami Heat,Utah Jazz,212.5,3.5,-110,-110,233,3
+134,2021-11-06,Chicago Bulls,Philadelphia 76ers,211.5,3.0,-170,150,219,-9
+135,2021-11-06,Dallas Mavericks,Boston Celtics,213.0,5.5,-160,140,211,3
+136,2021-11-06,Phoenix Suns,Atlanta Hawks,222.0,5.0,-165,145,238,4
+137,2021-11-06,Portland Trail Blazers,Los Angeles Lakers,218.5,5.0,-205,180,195,15
+138,2021-11-07,Toronto Raptors,Brooklyn Nets,211.0,4.0,135,-155,219,-13
+139,2021-11-07,Sacramento Kings,Indiana Pacers,223.0,2.0,-140,120,185,-3
+140,2021-11-07,New York Knicks,Cleveland Cavaliers,209.0,7.5,-310,260,235,-17
+141,2021-11-07,Orlando Magic,Utah Jazz,212.0,11.5,500,-700,207,7
+142,2021-11-07,Washington Wizards,Milwaukee Bucks,221.5,3.0,-105,-115,195,7
+143,2021-11-07,Oklahoma City Thunder,San Antonio Spurs,212.0,5.5,145,-165,193,5
+144,2021-11-07,Golden State Warriors,Houston Rockets,222.0,13.0,-1000,650,227,13
+145,2021-11-07,Los Angeles Clippers,Charlotte Bobcats,224.0,6.0,-250,210,226,14
+146,2021-11-08,Philadelphia 76ers,New York Knicks,210.0,4.5,105,-125,199,-7
+147,2021-11-08,Chicago Bulls,Brooklyn Nets,215.0,1.5,-120,100,213,23
+148,2021-11-08,Memphis Grizzlies,Minnesota Timberwolves,218.5,6.0,-185,165,243,7
+149,2021-11-08,Dallas Mavericks,New Orleans Pelicans,210.5,9.0,-400,330,200,16
+150,2021-11-08,Denver Nuggets,Miami Heat,208.5,0.0,105,-125,209,17
+151,2021-11-08,Golden State Warriors,Atlanta Hawks,223.0,3.5,-160,140,240,14
+152,2021-11-08,Sacramento Kings,Phoenix Suns,222.5,3.0,135,-155,213,-5
+153,2021-11-08,Los Angeles Lakers,Charlotte Bobcats,224.5,2.5,-135,115,249,3
+154,2021-11-09,Philadelphia 76ers,Milwaukee Bucks,222.5,6.5,240,-280,227,-9
+155,2021-11-09,Utah Jazz,Atlanta Hawks,22.0,7.5,-360,300,208,12
+156,2021-11-09,Los Angeles Clippers,Portland Trail Blazers,222.5,3.5,-145,125,226,8
+157,2021-11-10,Cleveland Cavaliers,Washington Wizards,213.5,3.0,140,-160,191,-3
+158,2021-11-10,Orlando Magic,Brooklyn Nets,212.0,9.0,400,-500,213,-33
+159,2021-11-10,Boston Celtics,Toronto Raptors,212.0,2.0,-165,145,192,16
+160,2021-11-10,New York Knicks,Milwaukee Bucks,218.0,1.5,-160,140,212,-12
+161,2021-11-10,Houston Rockets,Detroit Pistons,210.5,3.5,-140,120,216,-8
+162,2021-11-10,Memphis Grizzlies,Charlotte Bobcats,226.5,4.0,-190,170,226,-10
+163,2021-11-10,New Orleans Pelicans,Oklahoma City Thunder,211.0,4.5,-180,160,208,-8
+164,2021-11-10,Chicago Bulls,Dallas Mavericks,214.0,3.0,-165,145,224,10
+165,2021-11-10,San Antonio Spurs,Sacramento Kings,222.5,1.5,-115,-105,253,19
+166,2021-11-10,Phoenix Suns,Portland Trail Blazers,221.0,6.0,-210,180,228,10
+167,2021-11-10,Denver Nuggets,Indiana Pacers,213.0,3.0,130,-150,199,3
+168,2021-11-10,Golden State Warriors,Minnesota Timberwolves,220.0,8.0,-320,265,233,13
+169,2021-11-10,Los Angeles Lakers,Miami Heat,215.0,3.0,190,-220,237,3
+170,2021-11-11,Philadelphia 76ers,Toronto Raptors,213.5,2.0,-175,155,224,-6
+171,2021-11-11,Utah Jazz,Indiana Pacers,219.5,9.0,-550,425,211,-11
+172,2021-11-11,Los Angeles Clippers,Miami Heat,214.5,2.5,-220,190,221,3
+173,2021-11-12,Charlotte Bobcats,New York Knicks,225.5,0.0,115,-135,200,8
+174,2021-11-12,Cleveland Cavaliers,Detroit Pistons,204.0,5.0,-185,165,176,20
+175,2021-11-12,Boston Celtics,Milwaukee Bucks,216.0,2.0,-200,175,235,9
+176,2021-11-12,Houston Rockets,Portland Trail Blazers,223.5,6.5,250,-300,196,-12
+177,2021-11-12,New Orleans Pelicans,Brooklyn Nets,211.5,7.5,360,-430,232,-8
+178,2021-11-12,Memphis Grizzlies,Phoenix Suns,222.0,1.0,115,-135,213,-25
+179,2021-11-12,Oklahoma City Thunder,Sacramento Kings,217.5,4.5,175,-200,208,2
+180,2021-11-12,San Antonio Spurs,Dallas Mavericks,217.5,1.5,125,-145,232,-14
+181,2021-11-12,Denver Nuggets,Atlanta Hawks,215.5,4.5,-160,140,201,9
+182,2021-11-12,Golden State Warriors,Chicago Bulls,221.5,4.5,-220,190,212,26
+183,2021-11-12,Los Angeles Lakers,Minnesota Timberwolves,226.0,4.5,-125,105,190,-24
+184,2021-11-13,Utah Jazz,Miami Heat,213.5,7.5,-350,290,216,-6
+185,2021-11-13,Orlando Magic,Washington Wizards,204.5,2.0,180,-210,196,-12
+186,2021-11-13,Indiana Pacers,Philadelphia 76ers,217.5,2.5,-180,160,231,5
+187,2021-11-13,New Orleans Pelicans,Memphis Grizzlies,221.5,7.0,140,-160,213,11
+188,2021-11-13,Toronto Raptors,Detroit Pistons,201.5,9.5,-340,280,248,-6
+189,2021-11-13,Cleveland Cavaliers,Boston Celtics,202.5,3.5,-135,115,180,2
+190,2021-11-13,Los Angeles Clippers,Minnesota Timberwolves,222.5,7.5,-275,235,231,27
+191,2021-11-14,Los Angeles Lakers,San Antonio Spurs,223.0,2.5,-140,120,220,8
+192,2021-11-14,Atlanta Hawks,Milwaukee Bucks,219.0,0.0,-130,110,220,20
+193,2021-11-14,Charlotte Bobcats,Golden State Warriors,224.0,4.0,180,-210,208,4
+194,2021-11-14,Houston Rockets,Phoenix Suns,223.0,9.0,320,-380,204,-26
+195,2021-11-14,Oklahoma City Thunder,Brooklyn Nets,212.0,9.5,330,-400,216,-24
+196,2021-11-14,Denver Nuggets,Portland Trail Blazers,217.0,4.0,-250,210,219,29
+197,2021-11-14,Los Angeles Clippers,Chicago Bulls,221.0,6.0,-165,145,190,-10
+198,2021-11-15,Washington Wizards,New Orleans Pelicans,213.5,2.5,-170,150,205,5
+199,2021-11-15,Cleveland Cavaliers,Boston Celtics,199.0,1.5,150,-170,190,-6
+200,2021-11-15,Detroit Pistons,Sacramento Kings,213.0,4.5,160,-180,236,-22
+201,2021-11-15,New York Knicks,Indiana Pacers,217.0,3.0,-150,130,176,8
+202,2021-11-15,Atlanta Hawks,Orlando Magic,214.0,11.0,-600,450,240,18
+203,2021-11-15,Memphis Grizzlies,Houston Rockets,221.0,11.0,-750,525,238,34
+204,2021-11-15,Dallas Mavericks,Denver Nuggets,209.0,4.0,-210,180,212,10
+205,2021-11-15,Minnesota Timberwolves,Phoenix Suns,223.0,3.0,150,-170,195,-3
+206,2021-11-15,Oklahoma City Thunder,Miami Heat,210.5,9.0,225,-265,193,-13
+207,2021-11-15,Portland Trail Blazers,Toronto Raptors,212.5,1.5,-150,130,231,5
+208,2021-11-15,Los Angeles Lakers,Chicago Bulls,219.0,1.0,105,-125,224,-18
+209,2021-11-16,Brooklyn Nets,Golden State Warriors,220.5,3.5,-145,125,216,-18
+210,2021-11-16,Utah Jazz,Philadelphia 76ers,217.0,9.0,-600,450,205,35
+211,2021-11-16,Los Angeles Clippers,San Antonio Spurs,218.5,6.5,-300,250,198,14
+212,2021-11-17,Detroit Pistons,Indiana Pacers,210.0,6.5,225,-265,186,8
+213,2021-11-17,Charlotte Bobcats,Washington Wizards,215.0,2.5,-120,100,184,10
+214,2021-11-17,Miami Heat,New Orleans Pelicans,220.0,8.5,-275,235,211,15
+215,2021-11-17,New York Knicks,Orlando Magic,210.0,11.5,-750,525,202,-6
+216,2021-11-17,Brooklyn Nets,Cleveland Cavaliers,207.0,13.0,-600,450,208,10
+217,2021-11-17,Atlanta Hawks,Boston Celtics,215.0,6.0,-200,175,209,11
+218,2021-11-17,Milwaukee Bucks,Los Angeles Lakers,214.5,7.5,-420,350,211,7
+219,2021-11-17,Oklahoma City Thunder,Houston Rockets,213.5,3.5,-150,130,190,12
+220,2021-11-17,Minnesota Timberwolves,Sacramento Kings,224.5,3.0,-145,125,204,10
+221,2021-11-17,Phoenix Suns,Dallas Mavericks,220.0,5.5,-360,300,203,7
+222,2021-11-17,Portland Trail Blazers,Chicago Bulls,221.5,3.0,-160,140,219,5
+223,2021-11-18,Miami Heat,Washington Wizards,210.0,7.0,-265,225,209,15
+224,2021-11-18,Cleveland Cavaliers,Golden State Warriors,208.0,8.5,400,-500,193,-15
+225,2021-11-18,Minnesota Timberwolves,San Antonio Spurs,223.0,1.5,-130,110,205,25
+226,2021-11-18,Memphis Grizzlies,Los Angeles Clippers,221.5,0.0,-110,-110,228,12
+227,2021-11-18,Denver Nuggets,Philadelphia 76ers,209.0,8.0,-320,265,192,-14
+228,2021-11-18,Utah Jazz,Toronto Raptors,213.0,9.0,-500,400,222,16
+229,2021-11-19,Charlotte Bobcats,Indiana Pacers,218.0,2.5,-105,-115,239,3
+230,2021-11-19,Detroit Pistons,Golden State Warriors,210.0,10.5,105,-125,207,-3
+231,2021-11-19,Boston Celtics,Los Angeles Lakers,212.5,2.0,-110,-110,238,22
+232,2021-11-19,Brooklyn Nets,Orlando Magic,209.0,12.5,-500,400,228,2
+233,2021-11-19,Milwaukee Bucks,Oklahoma City Thunder,216.5,12.5,-1000,650,185,7
+234,2021-11-19,New Orleans Pelicans,Los Angeles Clippers,216.5,5.0,155,-175,175,13
+235,2021-11-19,Denver Nuggets,Chicago Bulls,211.5,4.0,130,-150,222,-6
+236,2021-11-19,Phoenix Suns,Dallas Mavericks,211.5,7.5,-350,290,216,8
+237,2021-11-19,Sacramento Kings,Toronto Raptors,220.0,4.0,-165,145,197,-19
+238,2021-11-20,New York Knicks,Houston Rockets,211.5,11.0,-550,425,205,7
+239,2021-11-20,Indiana Pacers,New Orleans Pelicans,214.5,7.5,-310,260,205,17
+240,2021-11-20,Washington Wizards,Miami Heat,210.0,1.5,115,-135,203,3
+241,2021-11-20,Atlanta Hawks,Charlotte Bobcats,226.0,6.0,-300,250,220,10
+242,2021-11-20,Boston Celtics,Oklahoma City Thunder,205.5,10.5,-450,375,216,6
+243,2021-11-20,Minnesota Timberwolves,Memphis Grizzlies,218.5,1.0,-140,120,233,43
+244,2021-11-20,Milwaukee Bucks,Orlando Magic,213.0,11.5,-850,575,225,9
+245,2021-11-20,Sacramento Kings,Utah Jazz,225.0,7.0,270,-330,228,-18
+246,2021-11-20,Portland Trail Blazers,Philadelphia 76ers,218.5,6.0,-290,245,229,7
+247,2021-11-21,Los Angeles Clippers,Dallas Mavericks,215.5,3.5,-215,185,188,6
+248,2021-11-21,Detroit Pistons,Los Angeles Lakers,209.0,7.5,250,-300,237,-5
+249,2021-11-21,Phoenix Suns,Denver Nuggets,209.5,7.5,-500,400,223,29
+250,2021-11-21,Chicago Bulls,New York Knicks,210.0,5.5,-210,180,212,6
+251,2021-11-21,Golden State Warriors,Toronto Raptors,215.5,7.5,-400,330,223,15
+252,2021-11-22,Cleveland Cavaliers,Brooklyn Nets,207.5,7.5,190,-220,229,-5
+253,2021-11-22,Washington Wizards,Charlotte Bobcats,216.0,4.5,-180,160,212,-6
+254,2021-11-22,Atlanta Hawks,Oklahoma City Thunder,212.0,11.0,-900,600,214,12
+255,2021-11-22,Boston Celtics,Houston Rockets,211.5,12.5,-700,500,198,18
+256,2021-11-22,Chicago Bulls,Indiana Pacers,208.0,3.5,-125,105,186,-32
+257,2021-11-22,Milwaukee Bucks,Orlando Magic,216.5,12.5,-1400,800,215,31
+258,2021-11-22,New Orleans Pelicans,Minnesota Timberwolves,213.5,2.5,135,-155,206,-14
+259,2021-11-22,San Antonio Spurs,Phoenix Suns,220.5,5.5,180,-210,226,-4
+260,2021-11-22,Utah Jazz,Memphis Grizzlies,222.5,9.5,-500,400,237,-1
+261,2021-11-22,Sacramento Kings,Philadelphia 76ers,216.5,2.5,-200,175,196,-8
+262,2021-11-23,Detroit Pistons,Miami Heat,205.5,9.0,450,-600,192,-8
+263,2021-11-23,New York Knicks,Los Angeles Lakers,214.5,3.5,-185,165,206,6
+264,2021-11-23,Portland Trail Blazers,Denver Nuggets,212.5,5.5,-420,350,219,19
+265,2021-11-23,Los Angeles Clippers,Dallas Mavericks,207.5,4.5,-150,130,216,-8
+266,2021-11-24,Indiana Pacers,Los Angeles Lakers,218.5,1.5,-250,210,240,-8
+267,2021-11-24,Cleveland Cavaliers,Phoenix Suns,211.0,6.0,250,-300,235,-5
+268,2021-11-24,Orlando Magic,Charlotte Bobcats,219.5,7.0,280,-340,205,-7
+269,2021-11-24,Boston Celtics,Brooklyn Nets,216.0,0.0,-125,105,227,-19
+270,2021-11-24,Milwaukee Bucks,Detroit Pistons,214.5,14.0,-1600,900,207,21
+271,2021-11-24,Oklahoma City Thunder,Utah Jazz,208.5,12.5,750,-1200,214,-6
+272,2021-11-24,Houston Rockets,Chicago Bulls,213.5,8.5,400,-500,231,5
+273,2021-11-24,Minnesota Timberwolves,Miami Heat,212.5,2.0,-110,-110,214,12
+274,2021-11-24,Memphis Grizzlies,Toronto Raptors,221.5,3.5,-155,135,239,-13
+275,2021-11-24,New Orleans Pelicans,Washington Wizards,209.5,3.5,145,-165,229,25
+276,2021-11-24,San Antonio Spurs,Atlanta Hawks,221.5,3.0,145,-165,230,-18
+277,2021-11-24,Sacramento Kings,Portland Trail Blazers,226.0,3.0,140,-160,246,4
+278,2021-11-24,Golden State Warriors,Philadelphia 76ers,218.5,10.5,-500,400,212,20
+279,2021-11-26,Los Angeles Clippers,Detroit Pistons,206.0,11.5,-750,525,203,11
+280,2021-11-26,Charlotte Bobcats,Minnesota Timberwolves,224.5,3.0,-130,110,248,18
+281,2021-11-26,New York Knicks,Phoenix Suns,216.5,3.0,145,-165,215,-21
+282,2021-11-26,Orlando Magic,Chicago Bulls,213.5,8.5,375,-450,211,-35
+283,2021-11-26,Memphis Grizzlies,Atlanta Hawks,224.5,2.0,-105,-115,232,-32
+284,2021-11-26,Indiana Pacers,Toronto Raptors,213.5,3.5,-190,170,211,17
+285,2021-11-26,Oklahoma City Thunder,Washington Wizards,208.5,7.5,235,-275,200,-2
+286,2021-11-26,San Antonio Spurs,Boston Celtics,215.5,2.5,160,-180,184,8
+287,2021-11-26,Utah Jazz,New Orleans Pelicans,213.0,12.0,-1000,650,195,-1
+288,2021-11-26,Denver Nuggets,Milwaukee Bucks,213.5,3.5,205,-245,229,-11
+289,2021-11-26,Golden State Warriors,Portland Trail Blazers,224.0,6.0,-240,200,221,15
+290,2021-11-26,Los Angeles Lakers,Sacramento Kings,224.5,1.0,-300,250,278,-4
+291,2021-11-27,Philadelphia 76ers,Minnesota Timberwolves,218.0,4.0,-270,220,241,-1
+292,2021-11-27,Atlanta Hawks,New York Knicks,218.0,4.0,-340,270,189,-9
+293,2021-11-27,Brooklyn Nets,Phoenix Suns,219.0,3.0,-130,110,220,-6
+294,2021-11-27,Houston Rockets,Charlotte Bobcats,221.5,5.5,175,-210,289,3
+295,2021-11-27,Chicago Bulls,Miami Heat,212.0,1.0,-115,-105,211,-3
+296,2021-11-27,Cleveland Cavaliers,Orlando Magic,203.5,7.5,-500,375,197,13
+297,2021-11-27,Dallas Mavericks,Washington Wizards,210.5,7.5,-250,210,234,-6
+298,2021-11-27,Utah Jazz,New Orleans Pelicans,217.0,13.0,-1000,650,232,22
+299,2021-11-28,Los Angeles Clippers,Golden State Warriors,218.0,1.5,120,-140,195,-15
+300,2021-11-28,Indiana Pacers,Milwaukee Bucks,217.5,3.0,115,-135,218,-18
+301,2021-11-28,Memphis Grizzlies,Sacramento Kings,214.5,2.5,-170,150,229,27
+302,2021-11-28,Toronto Raptors,Boston Celtics,210.0,2.5,105,-125,206,-12
+303,2021-11-28,Los Angeles Lakers,Detroit Pistons,216.5,9.5,-525,400,216,4
+304,2021-11-29,Philadelphia 76ers,Orlando Magic,208.5,15.5,-1200,750,197,5
+305,2021-11-29,Miami Heat,Denver Nuggets,207.5,7.5,-150,130,231,-9
+306,2021-11-29,Houston Rockets,Oklahoma City Thunder,213.5,3.0,-140,120,191,13
+307,2021-11-29,Minnesota Timberwolves,Indiana Pacers,218.0,4.0,-170,150,198,2
+308,2021-11-29,Chicago Bulls,Charlotte Bobcats,225.0,6.5,-200,175,252,14
+309,2021-11-29,Dallas Mavericks,Cleveland Cavaliers,207.0,5.0,-260,220,210,-18
+310,2021-11-29,San Antonio Spurs,Washington Wizards,214.5,3.0,135,-155,215,17
+311,2021-11-29,Utah Jazz,Portland Trail Blazers,223.0,7.5,-280,240,236,22
+312,2021-11-29,Los Angeles Clippers,New Orleans Pelicans,211.0,9.0,-280,240,227,-19
+313,2021-11-30,Toronto Raptors,Memphis Grizzlies,219.5,4.5,-150,130,189,-7
+314,2021-11-30,Brooklyn Nets,New York Knicks,218.5,6.5,-240,200,222,2
+315,2021-11-30,Sacramento Kings,Los Angeles Lakers,227.5,3.5,-110,-110,209,-25
+316,2021-11-30,Phoenix Suns,Golden State Warriors,221.0,2.5,-155,135,200,8
+317,2021-11-30,Portland Trail Blazers,Detroit Pistons,216.0,9.5,-350,290,202,18
+318,2021-12-01,Washington Wizards,Minnesota Timberwolves,216.5,2.5,-170,150,222,8
+319,2021-12-01,Indiana Pacers,Atlanta Hawks,217.5,1.0,-135,115,225,-3
+320,2021-12-01,Orlando Magic,Denver Nuggets,207.5,8.5,280,-340,211,5
+321,2021-12-01,Boston Celtics,Philadelphia 76ers,210.5,2.5,-155,135,175,1
+322,2021-12-01,Miami Heat,Cleveland Cavaliers,204.5,7.5,-150,130,196,-26
+323,2021-12-01,New Orleans Pelicans,Dallas Mavericks,213.5,3.5,150,-170,246,-32
+324,2021-12-01,Oklahoma City Thunder,Houston Rockets,211.5,3.5,-135,115,224,-4
+325,2021-12-01,Milwaukee Bucks,Charlotte Bobcats,230.0,8.5,-360,300,252,2
+326,2021-12-01,Los Angeles Clippers,Sacramento Kings,215.5,7.5,-245,205,239,-9
+327,2021-12-02,New York Knicks,Chicago Bulls,213.5,1.0,-105,-115,234,-4
+328,2021-12-02,Toronto Raptors,Milwaukee Bucks,213.5,4.5,130,-150,190,4
+329,2021-12-02,Memphis Grizzlies,Oklahoma City Thunder,215.5,9.5,-430,340,231,73
+330,2021-12-02,Phoenix Suns,Detroit Pistons,210.5,13.0,-1100,700,217,11
+331,2021-12-02,Portland Trail Blazers,San Antonio Spurs,221.5,3.5,-230,195,197,-31
+332,2021-12-03,Indiana Pacers,Miami Heat,208.0,5.5,-220,190,217,-9
+333,2021-12-03,Washington Wizards,Cleveland Cavaliers,209.0,3.0,-150,130,217,-15
+334,2021-12-03,Atlanta Hawks,Philadelphia 76ers,213.0,3.0,-140,120,194,-2
+335,2021-12-03,Brooklyn Nets,Minnesota Timberwolves,219.0,8.0,-410,340,215,5
+336,2021-12-03,Houston Rockets,Orlando Magic,216.0,3.0,-150,130,234,2
+337,2021-12-03,Dallas Mavericks,New Orleans Pelicans,218.5,7.5,-300,250,198,-16
+338,2021-12-03,Utah Jazz,Boston Celtics,213.0,9.0,-350,290,267,7
+339,2021-12-03,Golden State Warriors,Phoenix Suns,215.5,7.0,-300,250,214,22
+340,2021-12-03,Los Angeles Lakers,Los Angeles Clippers,217.0,3.5,-135,115,234,-4
+341,2021-12-04,New York Knicks,Denver Nuggets,210.5,1.5,-140,120,212,-14
+342,2021-12-04,Brooklyn Nets,Chicago Bulls,220.0,3.0,-140,120,218,-4
+343,2021-12-04,Milwaukee Bucks,Miami Heat,215.5,5.5,-260,220,226,22
+344,2021-12-04,Dallas Mavericks,Memphis Grizzlies,216.5,5.5,-110,-110,187,-7
+345,2021-12-04,Golden State Warriors,San Antonio Spurs,219.5,10.0,-400,330,219,-5
+346,2021-12-04,Portland Trail Blazers,Boston Celtics,217.5,1.5,-115,-105,262,-28
+347,2021-12-04,Sacramento Kings,Los Angeles Clippers,215.5,1.5,105,-125,203,5
+348,2021-12-05,Cleveland Cavaliers,Utah Jazz,210.0,6.0,175,-200,217,-1
+349,2021-12-05,Toronto Raptors,Washington Wizards,212.5,1.5,-120,100,192,12
+350,2021-12-05,Atlanta Hawks,Charlotte Bobcats,224.5,7.0,-330,270,257,-3
+351,2021-12-05,Houston Rockets,New Orleans Pelicans,222.5,3.0,125,-145,226,10
+352,2021-12-06,Charlotte Bobcats,Philadelphia 76ers,206.5,4.5,250,-300,251,-3
+353,2021-12-06,Detroit Pistons,Oklahoma City Thunder,206.5,4.5,-155,135,217,-11
+354,2021-12-06,Indiana Pacers,Washington Wizards,212.5,5.5,-220,190,226,6
+355,2021-12-06,Miami Heat,Memphis Grizzlies,215.5,4.5,-215,185,195,-15
+356,2021-12-06,Chicago Bulls,Denver Nuggets,214.0,5.0,-135,115,206,12
+357,2021-12-06,Minnesota Timberwolves,Atlanta Hawks,219.5,1.5,-130,110,231,-11
+358,2021-12-06,Milwaukee Bucks,Cleveland Cavaliers,213.5,7.5,-360,300,216,8
+359,2021-12-06,Phoenix Suns,San Antonio Spurs,218.5,7.5,-300,250,212,4
+360,2021-12-06,Portland Trail Blazers,Los Angeles Clippers,215.5,3.5,175,-200,192,-12
+361,2021-12-06,Golden State Warriors,Orlando Magic,216.0,13.5,-1800,950,221,31
+362,2021-12-07,Dallas Mavericks,Brooklyn Nets,215.5,2.5,105,-125,201,-3
+363,2021-12-07,San Antonio Spurs,New York Knicks,212.5,2.5,105,-125,230,-12
+364,2021-12-07,Los Angeles Lakers,Boston Celtics,217.5,2.5,-150,130,219,15
+365,2021-12-08,Indiana Pacers,New York Knicks,213.0,4.5,-210,180,224,20
+366,2021-12-08,Cleveland Cavaliers,Chicago Bulls,208.0,0.0,-165,145,207,23
+367,2021-12-08,Detroit Pistons,Washington Wizards,209.5,5.5,175,-200,235,-3
+368,2021-12-08,Charlotte Bobcats,Philadelphia 76ers,217.5,6.5,210,-250,216,-4
+369,2021-12-08,Toronto Raptors,Oklahoma City Thunder,208.0,7.0,-320,265,219,-1
+370,2021-12-08,Miami Heat,Milwaukee Bucks,216.5,6.5,220,-260,217,9
+371,2021-12-08,Houston Rockets,Brooklyn Nets,225.0,6.5,140,-160,218,10
+372,2021-12-08,Minnesota Timberwolves,Utah Jazz,220.5,8.5,240,-280,240,-32
+373,2021-12-08,Memphis Grizzlies,Dallas Mavericks,215.5,4.5,-120,100,200,-8
+374,2021-12-08,New Orleans Pelicans,Denver Nuggets,216.0,4.0,110,-130,234,-6
+375,2021-12-08,Sacramento Kings,Orlando Magic,220.0,8.0,-300,250,272,12
+376,2021-12-08,Golden State Warriors,Portland Trail Blazers,217.5,13.5,-1500,850,198,10
+377,2021-12-08,Los Angeles Clippers,Boston Celtics,212.5,3.0,-120,100,225,3
+378,2021-12-09,Philadelphia 76ers,Utah Jazz,217.5,3.5,120,-140,214,-22
+379,2021-12-09,Memphis Grizzlies,Los Angeles Lakers,221.0,2.5,155,-175,203,13
+380,2021-12-09,San Antonio Spurs,Denver Nuggets,214.5,1.5,-140,120,234,12
+381,2021-12-10,Charlotte Bobcats,Sacramento Kings,227.5,1.5,105,-125,247,1
+382,2021-12-10,Indiana Pacers,Dallas Mavericks,213.5,2.0,-130,110,199,13
+383,2021-12-10,Atlanta Hawks,Brooklyn Nets,224.0,1.0,-130,110,218,-8
+384,2021-12-10,Toronto Raptors,New York Knicks,209.0,1.5,-125,105,177,3
+385,2021-12-10,Minnesota Timberwolves,Cleveland Cavaliers,213.5,1.0,105,-125,229,-17
+386,2021-12-10,Houston Rockets,Milwaukee Bucks,225.0,7.5,350,-420,237,-9
+387,2021-12-10,Oklahoma City Thunder,Los Angeles Lakers,216.0,6.0,150,-170,211,-21
+388,2021-12-10,New Orleans Pelicans,Detroit Pistons,212.5,6.5,-240,200,202,16
+389,2021-12-10,Phoenix Suns,Boston Celtics,216.5,5.5,-160,140,201,21
+390,2021-12-11,Los Angeles Clippers,Orlando Magic,211.5,11.0,-340,280,210,2
+391,2021-12-11,Washington Wizards,Utah Jazz,219.0,5.5,250,-300,221,-25
+392,2021-12-11,Memphis Grizzlies,Houston Rockets,222.5,9.5,-340,280,219,7
+393,2021-12-11,Miami Heat,Chicago Bulls,211.5,1.0,105,-125,210,26
+394,2021-12-11,Cleveland Cavaliers,Sacramento Kings,215.0,7.0,-260,220,220,14
+395,2021-12-11,Philadelphia 76ers,Golden State Warriors,212.5,3.5,135,-155,195,9
+396,2021-12-11,San Antonio Spurs,Denver Nuggets,214.0,2.0,-110,-110,239,-15
+397,2021-12-12,New York Knicks,Milwaukee Bucks,215.5,3.0,200,-240,209,-15
+398,2021-12-12,Detroit Pistons,Brooklyn Nets,211.5,9.5,260,-310,220,-12
+399,2021-12-12,San Antonio Spurs,New Orleans Pelicans,216.5,3.0,-130,110,209,15
+400,2021-12-12,Oklahoma City Thunder,Dallas Mavericks,209.5,5.0,155,-175,187,-19
+401,2021-12-12,Portland Trail Blazers,Minnesota Timberwolves,219.0,1.0,-150,130,227,-5
+402,2021-12-12,Los Angeles Lakers,Orlando Magic,220.5,11.5,-430,360,200,12
+403,2021-12-13,Cleveland Cavaliers,Miami Heat,207.0,4.5,-210,180,199,11
+404,2021-12-13,Indiana Pacers,Golden State Warriors,213.5,3.5,155,-175,202,-2
+405,2021-12-13,Toronto Raptors,Sacramento Kings,220.0,5.0,-185,165,225,23
+406,2021-12-13,Atlanta Hawks,Houston Rockets,225.5,12.5,-500,400,258,-6
+407,2021-12-13,Boston Celtics,Milwaukee Bucks,218.5,2.0,-105,-115,220,14
+408,2021-12-13,Memphis Grizzlies,Philadelphia 76ers,210.5,2.0,-145,125,217,35
+409,2021-12-13,Dallas Mavericks,Charlotte Bobcats,219.5,4.0,-140,120,216,24
+410,2021-12-13,Denver Nuggets,Washington Wizards,215.5,3.5,-165,145,220,6
+411,2021-12-13,Los Angeles Clippers,Phoenix Suns,213.0,2.0,135,-155,206,16
+412,2021-12-14,New York Knicks,Golden State Warriors,211.5,3.5,195,-225,201,-9
+413,2021-12-14,Brooklyn Nets,Toronto Raptors,217.0,8.5,-165,145,260,2
+414,2021-12-14,Portland Trail Blazers,Phoenix Suns,218.0,2.5,-110,-110,218,-4
+415,2021-12-15,Orlando Magic,Atlanta Hawks,220.5,8.0,320,-380,210,-12
+416,2021-12-15,Cleveland Cavaliers,Houston Rockets,216.5,8.5,-420,350,213,35
+417,2021-12-15,Philadelphia 76ers,Miami Heat,207.0,3.0,-300,250,197,-5
+418,2021-12-15,Dallas Mavericks,Los Angeles Lakers,217.0,0.0,140,-160,211,-3
+419,2021-12-15,Oklahoma City Thunder,New Orleans Pelicans,210.5,1.5,160,-180,223,-3
+420,2021-12-15,Milwaukee Bucks,Indiana Pacers,217.0,1.0,130,-150,213,15
+421,2021-12-15,San Antonio Spurs,Charlotte Bobcats,228.0,3.5,-140,120,246,-16
+422,2021-12-15,Denver Nuggets,Minnesota Timberwolves,217.0,4.5,-175,155,231,-17
+423,2021-12-15,Sacramento Kings,Washington Wizards,225.5,0.0,110,-130,224,14
+424,2021-12-15,Utah Jazz,Los Angeles Clippers,215.5,8.0,-800,550,227,21
+425,2021-12-15,Portland Trail Blazers,Memphis Grizzlies,220.5,1.5,-105,-115,216,-10
+426,2021-12-16,Indiana Pacers,Detroit Pistons,210.0,10.5,-600,450,235,9
+427,2021-12-16,Brooklyn Nets,Philadelphia 76ers,213.5,0.0,130,-150,219,9
+428,2021-12-16,Houston Rockets,New York Knicks,216.0,4.5,180,-210,219,-13
+429,2021-12-16,Phoenix Suns,Washington Wizards,216.5,9.0,-390,325,216,20
+430,2021-12-17,Orlando Magic,Miami Heat,208.5,3.5,340,-410,220,-10
+431,2021-12-17,Atlanta Hawks,Denver Nuggets,222.0,4.5,-160,140,248,-18
+432,2021-12-17,Boston Celtics,Golden State Warriors,214.5,3.5,165,-185,218,-4
+433,2021-12-17,Minnesota Timberwolves,Los Angeles Lakers,224.5,0.0,100,-120,202,18
+434,2021-12-17,Utah Jazz,San Antonio Spurs,222.5,12.0,-700,500,254,-2
+435,2021-12-17,Portland Trail Blazers,Charlotte Bobcats,228.0,3.0,-125,105,241,9
+436,2021-12-17,Sacramento Kings,Memphis Grizzlies,225.5,2.0,230,-270,229,-19
+437,2021-12-17,New Orleans Pelicans,Milwaukee Bucks,217.0,2.5,-120,100,228,4
+438,2021-12-18,Detroit Pistons,Houston Rockets,215.0,1.5,-110,-110,223,-9
+439,2021-12-18,Brooklyn Nets,Orlando Magic,214.5,2.0,-220,190,193,-7
+440,2021-12-18,Toronto Raptors,Golden State Warriors,209.0,8.5,-360,300,219,19
+441,2021-12-18,Oklahoma City Thunder,Los Angeles Clippers,207.5,3.0,165,-185,207,1
+442,2021-12-18,Boston Celtics,New York Knicks,210.5,4.5,-215,185,221,7
+443,2021-12-18,Milwaukee Bucks,Cleveland Cavaliers,214.0,1.5,195,-230,209,-29
+444,2021-12-18,Utah Jazz,Washington Wizards,219.0,11.5,-280,240,212,-6
+445,2021-12-19,Chicago Bulls,Los Angeles Lakers,213.5,4.5,-280,240,225,5
+446,2021-12-19,Sacramento Kings,San Antonio Spurs,226.0,4.5,170,-190,235,7
+447,2021-12-19,Memphis Grizzlies,Portland Trail Blazers,220.5,4.5,-185,165,205,-5
+448,2021-12-19,Detroit Pistons,Miami Heat,204.0,6.0,220,-260,190,10
+449,2021-12-19,Minnesota Timberwolves,Dallas Mavericks,214.0,3.5,-165,145,216,6
+450,2021-12-19,Phoenix Suns,Charlotte Bobcats,226.5,8.5,-400,330,243,31
+451,2021-12-20,Boston Celtics,Philadelphia 76ers,213.5,3.0,-140,120,211,-5
+452,2021-12-20,Memphis Grizzlies,Oklahoma City Thunder,211.5,10.0,-400,330,201,-3
+453,2021-12-20,Chicago Bulls,Houston Rockets,223.5,8.5,-280,240,251,15
+454,2021-12-20,Utah Jazz,Charlotte Bobcats,234.0,11.0,-900,600,214,10
+455,2021-12-20,Golden State Warriors,Sacramento Kings,223.5,13.5,-1000,650,211,15
+456,2021-12-20,Los Angeles Clippers,San Antonio Spurs,216.5,4.5,-230,195,208,-24
+457,2021-12-21,New York Knicks,Detroit Pistons,206.5,9.5,-290,245,196,14
+458,2021-12-21,Miami Heat,Indiana Pacers,208.5,0.0,110,-130,221,29
+459,2021-12-21,New Orleans Pelicans,Portland Trail Blazers,219.0,0.0,100,-120,208,14
+460,2021-12-21,Dallas Mavericks,Minnesota Timberwolves,212.5,1.0,120,-140,216,12
+461,2021-12-21,Los Angeles Lakers,Phoenix Suns,218.5,6.5,250,-300,198,-18
+462,2021-12-22,Atlanta Hawks,Orlando Magic,211.5,5.5,-300,250,202,-6
+463,2021-12-22,Boston Celtics,Cleveland Cavaliers,215.5,8.5,-250,210,212,10
+464,2021-12-22,Milwaukee Bucks,Houston Rockets,224.5,9.0,-390,325,232,20
+465,2021-12-22,Oklahoma City Thunder,Denver Nuggets,215.5,5.0,220,-260,202,14
+466,2021-12-22,Sacramento Kings,Los Angeles Clippers,219.5,5.5,155,-175,194,-16
+467,2021-12-23,Philadelphia 76ers,Atlanta Hawks,214.5,9.5,-700,500,194,-2
+468,2021-12-23,Indiana Pacers,Houston Rockets,219.0,8.5,-270,230,224,12
+469,2021-12-23,Orlando Magic,New Orleans Pelicans,210.5,5.0,170,-190,214,-6
+470,2021-12-23,Miami Heat,Detroit Pistons,206.0,9.5,-750,525,227,3
+471,2021-12-23,New York Knicks,Washington Wizards,210.5,1.0,-160,140,241,-7
+472,2021-12-23,Dallas Mavericks,Milwaukee Bucks,215.5,5.0,140,-160,197,-7
+473,2021-12-23,Utah Jazz,Minnesota Timberwolves,224.5,9.5,-1300,775,244,12
+474,2021-12-23,Denver Nuggets,Charlotte Bobcats,229.0,3.0,-140,120,222,-8
+475,2021-12-23,Phoenix Suns,Oklahoma City Thunder,215.0,14.5,-1400,800,214,12
+476,2021-12-23,Golden State Warriors,Memphis Grizzlies,217.5,6.0,-210,180,217,9
+477,2021-12-23,Los Angeles Lakers,San Antonio Spurs,224.0,1.0,-125,105,248,-28
+478,2021-12-25,New York Knicks,Atlanta Hawks,218.5,1.0,-210,180,188,14
+479,2021-12-25,Milwaukee Bucks,Boston Celtics,234.5,7.5,-330,270,230,4
+480,2021-12-25,Phoenix Suns,Golden State Warriors,228.5,3.5,-240,200,223,-9
+481,2021-12-25,Los Angeles Lakers,Brooklyn Nets,238.5,1.5,-135,115,237,-7
+482,2021-12-25,Utah Jazz,Dallas Mavericks,224.5,5.0,-1000,650,236,4
+483,2021-12-26,Miami Heat,Orlando Magic,207.0,8.5,-500,400,176,10
+484,2021-12-26,Washington Wizards,Philadelphia 76ers,208.5,2.0,155,-175,213,-21
+485,2021-12-26,Cleveland Cavaliers,Toronto Raptors,204.0,7.5,-380,320,243,45
+486,2021-12-26,Sacramento Kings,Memphis Grizzlies,226.5,5.0,120,-140,229,-25
+487,2021-12-26,Oklahoma City Thunder,New Orleans Pelicans,209.5,1.0,105,-125,229,5
+488,2021-12-26,San Antonio Spurs,Detroit Pistons,216.0,10.0,-550,425,253,35
+489,2021-12-26,Chicago Bulls,Indiana Pacers,215.5,8.0,-180,160,218,8
+490,2021-12-26,Los Angeles Clippers,Denver Nuggets,214.5,3.5,140,-160,203,-3
+491,2021-12-27,Charlotte Bobcats,Houston Rockets,236.0,7.0,-330,270,222,24
+492,2021-12-27,Atlanta Hawks,Chicago Bulls,208.5,6.5,140,-160,248,-12
+493,2021-12-27,Minnesota Timberwolves,Boston Celtics,218.5,8.5,185,-215,211,5
+494,2021-12-27,San Antonio Spurs,Utah Jazz,228.5,7.0,240,-280,214,-6
+495,2021-12-27,Phoenix Suns,Memphis Grizzlies,218.0,8.0,-320,265,227,-1
+496,2021-12-27,Portland Trail Blazers,Dallas Mavericks,213.5,1.5,-150,130,249,-15
+497,2021-12-27,Los Angeles Clippers,Brooklyn Nets,216.5,4.5,150,-170,232,-16
+498,2021-12-28,Orlando Magic,Milwaukee Bucks,216.0,12.5,800,-1400,237,-17
+499,2021-12-28,Toronto Raptors,Philadelphia 76ers,211.5,6.5,210,-250,223,-5
+500,2021-12-28,Miami Heat,Washington Wizards,211.5,6.0,-320,265,231,7
+501,2021-12-28,Minnesota Timberwolves,New York Knicks,213.5,4.5,170,-190,184,-8
+502,2021-12-28,Houston Rockets,Los Angeles Lakers,228.5,4.5,190,-220,255,-9
+503,2021-12-28,New Orleans Pelicans,Cleveland Cavaliers,213.0,5.5,165,-185,212,4
+504,2021-12-28,Golden State Warriors,Denver Nuggets,215.5,7.5,-350,290,175,-3
+505,2021-12-28,Sacramento Kings,Oklahoma City Thunder,218.5,5.5,-220,190,228,6
+506,2021-12-29,Detroit Pistons,New York Knicks,206.5,6.5,280,-340,179,-9
+507,2021-12-29,Indiana Pacers,Charlotte Bobcats,227.5,2.5,-165,145,224,-8
+508,2021-12-29,Boston Celtics,Los Angeles Clippers,211.5,5.5,-240,200,173,-9
+509,2021-12-29,Memphis Grizzlies,Los Angeles Lakers,225.5,4.5,-250,210,203,5
+510,2021-12-29,Chicago Bulls,Atlanta Hawks,220.5,8.5,-330,270,248,14
+511,2021-12-29,Phoenix Suns,Oklahoma City Thunder,217.0,15.0,-1800,950,212,18
+512,2021-12-29,Portland Trail Blazers,Utah Jazz,230.0,6.0,265,-320,225,-15
+513,2021-12-29,Sacramento Kings,Dallas Mavericks,219.5,1.5,-105,-115,189,1
+514,2021-12-30,Brooklyn Nets,Philadelphia 76ers,217.0,3.0,-200,175,212,-8
+515,2021-12-30,Washington Wizards,Cleveland Cavaliers,211.0,4.5,-165,145,203,17
+516,2021-12-30,Orlando Magic,Milwaukee Bucks,216.0,12.5,700,-1100,254,-18
+517,2021-12-31,Boston Celtics,Phoenix Suns,214.5,4.0,130,-150,231,15
+518,2021-12-31,Indiana Pacers,Chicago Bulls,219.0,4.0,115,-135,214,-2
+519,2021-12-31,Sacramento Kings,Dallas Mavericks,217.5,0.0,-105,-115,208,-16
+520,2021-12-31,Houston Rockets,Miami Heat,215.0,4.5,170,-190,230,-10
+521,2021-12-31,Cleveland Cavaliers,Atlanta Hawks,215.5,1.0,-135,115,239,-3
+522,2021-12-31,Toronto Raptors,Los Angeles Clippers,209.0,4.0,-260,220,224,8
+523,2021-12-31,Oklahoma City Thunder,New York Knicks,205.5,6.5,130,-150,175,15
+524,2021-12-31,Memphis Grizzlies,San Antonio Spurs,224.5,4.5,-220,190,223,13
+525,2021-12-31,Utah Jazz,Minnesota Timberwolves,224.0,10.5,-800,550,228,12
+526,2021-12-31,Los Angeles Lakers,Portland Trail Blazers,231.0,5.5,-230,195,245,33
+527,2022-01-01,Milwaukee Bucks,New Orleans Pelicans,219.5,11.0,-850,575,249,23
+528,2022-01-01,Washington Wizards,Chicago Bulls,214.5,0.0,110,-130,239,-1
+529,2022-01-01,Detroit Pistons,San Antonio Spurs,222.5,5.0,225,-265,233,1
+530,2022-01-01,Brooklyn Nets,Los Angeles Clippers,213.5,11.0,-1200,750,236,-4
+531,2022-01-01,Houston Rockets,Denver Nuggets,222.5,6.0,265,-320,235,-13
+532,2022-01-01,Utah Jazz,Golden State Warriors,222.0,3.5,-220,190,239,-7
+533,2022-01-02,Toronto Raptors,New York Knicks,209.5,7.5,-360,300,225,15
+534,2022-01-02,Cleveland Cavaliers,Indiana Pacers,215.5,3.5,-175,155,212,4
+535,2022-01-02,Boston Celtics,Orlando Magic,213.5,10.5,-600,450,227,5
+536,2022-01-02,Sacramento Kings,Miami Heat,221.5,3.5,145,-165,228,2
+537,2022-01-02,Oklahoma City Thunder,Dallas Mavericks,209.5,8.5,400,-500,181,-9
+538,2022-01-02,Charlotte Bobcats,Phoenix Suns,231.5,2.5,105,-125,232,-34
+539,2022-01-02,Los Angeles Lakers,Minnesota Timberwolves,223.5,7.5,-320,265,211,5
+540,2022-01-03,Philadelphia 76ers,Houston Rockets,221.0,13.0,-1000,650,246,20
+541,2022-01-03,Washington Wizards,Charlotte Bobcats,229.0,1.0,-125,105,245,3
+542,2022-01-03,Brooklyn Nets,Memphis Grizzlies,227.0,7.0,-260,220,222,-14
+543,2022-01-03,Milwaukee Bucks,Detroit Pistons,226.0,15.5,-2500,1100,221,-9
+544,2022-01-03,Chicago Bulls,Orlando Magic,223.0,13.0,-1200,750,200,4
+545,2022-01-03,New Orleans Pelicans,Utah Jazz,226.0,10.0,330,-400,219,-11
+546,2022-01-03,Dallas Mavericks,Denver Nuggets,213.0,2.5,-145,125,192,14
+547,2022-01-03,Portland Trail Blazers,Atlanta Hawks,226.0,4.0,150,-170,267,5
+548,2022-01-03,Golden State Warriors,Miami Heat,219.0,9.0,-550,425,223,7
+549,2022-01-03,Los Angeles Clippers,Minnesota Timberwolves,219.0,3.0,-160,140,226,-18
+550,2022-01-04,Toronto Raptors,San Antonio Spurs,217.5,5.5,-290,245,233,25
+551,2022-01-04,Cleveland Cavaliers,Memphis Grizzlies,217.5,2.5,-160,140,216,-4
+552,2022-01-04,New York Knicks,Indiana Pacers,209.5,1.5,-160,140,198,10
+553,2022-01-04,New Orleans Pelicans,Phoenix Suns,218.5,7.0,225,-265,233,-13
+554,2022-01-04,Los Angeles Lakers,Sacramento Kings,228.5,7.5,-250,210,236,8
+555,2022-01-05,Orlando Magic,Philadelphia 76ers,209.5,8.0,290,-350,222,-10
+556,2022-01-05,Charlotte Bobcats,Detroit Pistons,225.0,10.0,-600,450,251,29
+557,2022-01-05,Washington Wizards,Houston Rockets,222.0,6.0,-300,250,225,-3
+558,2022-01-05,Boston Celtics,San Antonio Spurs,220.0,6.0,-330,270,196,-2
+559,2022-01-05,Dallas Mavericks,Golden State Warriors,209.5,4.5,170,-190,181,17
+560,2022-01-05,Indiana Pacers,Brooklyn Nets,217.5,3.5,310,-370,250,-8
+561,2022-01-05,Minnesota Timberwolves,Oklahoma City Thunder,210.5,8.5,-420,350,188,8
+562,2022-01-05,Milwaukee Bucks,Toronto Raptors,221.0,7.0,-130,110,228,-6
+563,2022-01-05,Sacramento Kings,Atlanta Hawks,229.5,1.0,-125,105,210,-6
+564,2022-01-05,Portland Trail Blazers,Miami Heat,214.0,1.0,120,-140,224,-6
+565,2022-01-05,Denver Nuggets,Utah Jazz,219.5,5.5,-110,-110,224,-6
+566,2022-01-06,New York Knicks,Boston Celtics,209.5,1.5,110,-130,213,3
+567,2022-01-06,New Orleans Pelicans,Golden State Warriors,216.0,6.5,-115,-105,197,5
+568,2022-01-06,Memphis Grizzlies,Detroit Pistons,218.0,12.5,-1000,650,206,30
+569,2022-01-06,Phoenix Suns,Los Angeles Clippers,216.5,10.0,-600,450,195,17
+570,2022-01-07,Philadelphia 76ers,San Antonio Spurs,219.5,5.0,-340,280,219,19
+571,2022-01-07,Brooklyn Nets,Milwaukee Bucks,229.5,4.5,-180,160,230,-12
+572,2022-01-07,Toronto Raptors,Utah Jazz,224.0,2.5,-1100,700,230,14
+573,2022-01-07,Houston Rockets,Dallas Mavericks,216.5,0.0,130,-150,236,-24
+574,2022-01-07,Oklahoma City Thunder,Minnesota Timberwolves,215.0,5.5,165,-185,240,-30
+575,2022-01-07,Chicago Bulls,Washington Wizards,219.5,6.5,-220,190,252,8
+576,2022-01-07,Denver Nuggets,Sacramento Kings,220.5,6.0,-310,260,232,10
+577,2022-01-07,Portland Trail Blazers,Cleveland Cavaliers,215.5,4.5,200,-240,215,-13
+578,2022-01-07,Los Angeles Lakers,Atlanta Hawks,225.5,2.5,-120,100,252,16
+579,2022-01-08,Los Angeles Clippers,Memphis Grizzlies,214.5,3.5,110,-130,231,-15
+580,2022-01-08,Indiana Pacers,Utah Jazz,220.5,3.5,165,-185,238,12
+581,2022-01-08,Detroit Pistons,Orlando Magic,210.0,2.5,-120,100,189,5
+582,2022-01-08,Charlotte Bobcats,Milwaukee Bucks,233.0,1.0,-125,105,220,8
+583,2022-01-08,Boston Celtics,New York Knicks,209.5,6.0,-310,260,174,24
+584,2022-01-08,Phoenix Suns,Miami Heat,217.0,9.0,-500,400,223,-23
+585,2022-01-09,Los Angeles Clippers,Atlanta Hawks,225.0,4.5,155,-175,199,13
+586,2022-01-09,Orlando Magic,Washington Wizards,220.0,7.5,240,-280,202,-2
+587,2022-01-09,Toronto Raptors,New Orleans Pelicans,222.5,8.0,-280,240,206,4
+588,2022-01-09,Houston Rockets,Minnesota Timberwolves,232.0,7.0,210,-250,264,-18
+589,2022-01-09,Oklahoma City Thunder,Denver Nuggets,214.0,6.5,235,-275,194,-4
+590,2022-01-09,Dallas Mavericks,Chicago Bulls,218.0,3.0,-130,110,212,14
+591,2022-01-09,Brooklyn Nets,San Antonio Spurs,229.5,10.0,-500,400,240,2
+592,2022-01-09,Golden State Warriors,Cleveland Cavaliers,216.5,9.0,-290,245,178,14
+593,2022-01-09,Portland Trail Blazers,Sacramento Kings,225.0,1.0,105,-125,191,15
+594,2022-01-09,Los Angeles Lakers,Memphis Grizzlies,226.5,3.0,-160,140,246,-8
+595,2022-01-10,Detroit Pistons,Utah Jazz,223.0,11.0,525,-750,242,10
+596,2022-01-10,Charlotte Bobcats,Milwaukee Bucks,234.5,2.5,120,-140,202,4
+597,2022-01-10,New York Knicks,San Antonio Spurs,214.5,6.5,-255,215,207,15
+598,2022-01-10,Boston Celtics,Indiana Pacers,215.5,5.5,-400,330,199,3
+599,2022-01-10,Sacramento Kings,Cleveland Cavaliers,218.5,4.5,180,-210,217,-1
+600,2022-01-10,Houston Rockets,Philadelphia 76ers,226.5,10.5,400,-500,202,-20
+601,2022-01-10,Portland Trail Blazers,Brooklyn Nets,227.5,10.5,290,-350,222,6
+602,2022-01-11,Washington Wizards,Oklahoma City Thunder,217.0,9.5,-260,220,240,4
+603,2022-01-11,Toronto Raptors,Phoenix Suns,223.5,4.5,165,-185,194,-4
+604,2022-01-11,Memphis Grizzlies,Golden State Warriors,218.5,2.0,110,-130,224,8
+605,2022-01-11,New Orleans Pelicans,Minnesota Timberwolves,228.0,3.0,140,-160,253,3
+606,2022-01-11,Los Angeles Clippers,Denver Nuggets,218.0,1.5,125,-145,172,2
+607,2022-01-11,Chicago Bulls,Detroit Pistons,221.0,13.5,-1200,750,220,46
+608,2022-01-12,Philadelphia 76ers,Charlotte Bobcats,226.5,5.0,-220,190,207,-11
+609,2022-01-12,Washington Wizards,Orlando Magic,218.0,9.0,-260,220,218,6
+610,2022-01-12,Indiana Pacers,Boston Celtics,210.5,3.5,-120,100,219,-19
+611,2022-01-12,New York Knicks,Dallas Mavericks,204.5,2.5,115,-135,193,23
+612,2022-01-12,Atlanta Hawks,Miami Heat,221.0,1.0,-140,120,206,-24
+613,2022-01-12,San Antonio Spurs,Houston Rockets,233.0,6.0,-280,240,252,-4
+614,2022-01-12,Utah Jazz,Cleveland Cavaliers,222.0,6.0,-200,175,202,-20
+615,2022-01-12,Sacramento Kings,Los Angeles Lakers,230.5,0.5,140,-160,241,9
+616,2022-01-12,Chicago Bulls,Brooklyn Nets,227.5,1.5,100,-120,250,-26
+617,2022-01-13,Milwaukee Bucks,Golden State Warriors,223.0,2.0,-120,100,217,19
+618,2022-01-13,Memphis Grizzlies,Minnesota Timberwolves,227.0,4.5,-145,125,224,8
+619,2022-01-13,New Orleans Pelicans,Los Angeles Clippers,214.0,1.5,-180,160,202,24
+620,2022-01-13,Brooklyn Nets,Oklahoma City Thunder,213.5,10.0,-210,180,239,-21
+621,2022-01-13,Denver Nuggets,Portland Trail Blazers,216.0,8.0,-650,475,248,32
+622,2022-01-14,Charlotte Bobcats,Orlando Magic,224.0,11.0,-650,475,225,-7
+623,2022-01-14,Detroit Pistons,Toronto Raptors,213.5,7.5,340,-410,190,16
+624,2022-01-14,Indiana Pacers,Phoenix Suns,215.5,6.0,180,-210,206,-18
+625,2022-01-14,Philadelphia 76ers,Boston Celtics,211.0,3.0,-150,130,210,12
+626,2022-01-14,Chicago Bulls,Golden State Warriors,220.0,1.0,-145,125,234,-42
+627,2022-01-14,Miami Heat,Atlanta Hawks,220.0,4.0,-215,185,242,6
+628,2022-01-14,San Antonio Spurs,Cleveland Cavaliers,218.5,3.0,130,-150,223,-5
+629,2022-01-14,Sacramento Kings,Houston Rockets,237.5,6.0,-220,190,240,12
+630,2022-01-14,Memphis Grizzlies,Dallas Mavericks,217.5,3.0,-140,120,197,-27
+631,2022-01-15,Milwaukee Bucks,Toronto Raptors,221.5,7.5,-340,280,199,-7
+632,2022-01-15,Washington Wizards,Portland Trail Blazers,218.5,7.0,-280,240,225,-5
+633,2022-01-15,Brooklyn Nets,New Orleans Pelicans,223.5,8.5,-200,175,225,15
+634,2022-01-15,Atlanta Hawks,New York Knicks,215.5,3.0,-125,105,225,-9
+635,2022-01-15,Oklahoma City Thunder,Cleveland Cavaliers,209.0,6.5,175,-200,209,-5
+636,2022-01-15,Miami Heat,Philadelphia 76ers,207.5,2.5,-155,135,207,-11
+637,2022-01-15,Boston Celtics,Chicago Bulls,219.5,2.5,-310,260,226,2
+638,2022-01-15,San Antonio Spurs,Los Angeles Clippers,217.5,2.5,-115,-105,195,7
+639,2022-01-15,Denver Nuggets,Los Angeles Lakers,221.5,3.5,-185,165,229,37
+640,2022-01-15,Dallas Mavericks,Orlando Magic,208.0,12.0,-800,550,200,16
+641,2022-01-16,Sacramento Kings,Houston Rockets,238.5,5.0,-185,165,230,-6
+642,2022-01-16,Minnesota Timberwolves,Golden State Warriors,226.5,2.5,-190,170,218,20
+643,2022-01-16,Denver Nuggets,Utah Jazz,223.5,4.5,190,-220,227,-23
+644,2022-01-16,Detroit Pistons,Phoenix Suns,215.5,12.0,550,-800,243,-27
+645,2022-01-17,Boston Celtics,New Orleans Pelicans,216.0,6.0,-180,160,196,12
+646,2022-01-17,New York Knicks,Charlotte Bobcats,218.0,2.5,-150,130,184,-10
+647,2022-01-17,Washington Wizards,Philadelphia 76ers,213.0,3.0,105,-125,215,19
+648,2022-01-17,Cleveland Cavaliers,Brooklyn Nets,219.5,2.5,-160,140,221,7
+649,2022-01-17,Memphis Grizzlies,Chicago Bulls,224.0,5.5,-360,300,225,13
+650,2022-01-17,Los Angeles Clippers,Indiana Pacers,209.5,1.0,-130,110,272,6
+651,2022-01-17,Atlanta Hawks,Milwaukee Bucks,229.0,4.0,180,-210,235,7
+652,2022-01-17,Orlando Magic,Portland Trail Blazers,214.0,2.5,110,-130,186,-10
+653,2022-01-17,Miami Heat,Toronto Raptors,209.5,4.0,-115,105,203,5
+654,2022-01-17,San Antonio Spurs,Phoenix Suns,223.5,5.0,150,-170,228,-14
+655,2022-01-17,Dallas Mavericks,Oklahoma City Thunder,206.5,10.5,-800,550,206,2
+656,2022-01-17,Los Angeles Lakers,Utah Jazz,229.0,5.0,190,-220,196,6
+657,2022-01-18,New York Knicks,Minnesota Timberwolves,212.5,1.5,155,-175,222,-2
+658,2022-01-18,Golden State Warriors,Detroit Pistons,215.5,14.5,-2000,1000,188,16
+659,2022-01-19,Washington Wizards,Brooklyn Nets,228.5,0.0,-115,-105,237,-1
+660,2022-01-19,Philadelphia 76ers,Orlando Magic,211.5,11.5,-850,575,233,13
+661,2022-01-19,Boston Celtics,Charlotte Bobcats,220.5,6.0,-155,135,213,-9
+662,2022-01-19,Miami Heat,Portland Trail Blazers,215.5,9.0,-430,360,196,12
+663,2022-01-19,Atlanta Hawks,Minnesota Timberwolves,233.0,2.5,-125,105,256,12
+664,2022-01-19,Chicago Bulls,Cleveland Cavaliers,216.5,0.0,140,-160,221,13
+665,2022-01-19,Milwaukee Bucks,Memphis Grizzlies,225.5,4.5,-265,225,240,12
+666,2022-01-19,Dallas Mavericks,Toronto Raptors,206.0,3.5,-175,155,200,4
+667,2022-01-19,San Antonio Spurs,Oklahoma City Thunder,219.5,6.5,-280,240,214,22
+668,2022-01-19,Utah Jazz,Houston Rockets,233.0,15.5,-1200,750,227,-5
+669,2022-01-19,Sacramento Kings,Detroit Pistons,220.5,5.5,-300,250,264,-2
+670,2022-01-19,Denver Nuggets,Los Angeles Clippers,211.0,6.0,-420,350,258,2
+671,2022-01-19,Los Angeles Lakers,Indiana Pacers,222.5,3.5,-165,145,215,-7
+672,2022-01-20,New York Knicks,New Orleans Pelicans,210.0,2.5,-160,140,193,-11
+673,2022-01-20,Dallas Mavericks,Phoenix Suns,213.0,2.5,110,-130,210,-8
+674,2022-01-20,Golden State Warriors,Indiana Pacers,216.5,10.0,-1500,850,238,-4
+675,2022-01-21,Charlotte Bobcats,Oklahoma City Thunder,221.5,9.0,-400,330,219,23
+676,2022-01-21,Orlando Magic,Los Angeles Lakers,221.0,5.5,170,-190,221,-11
+677,2022-01-21,Philadelphia 76ers,Los Angeles Clippers,211.5,8.5,-330,270,203,-1
+678,2022-01-21,Atlanta Hawks,Miami Heat,217.0,0.0,-125,105,218,2
+679,2022-01-21,Boston Celtics,Portland Trail Blazers,214.5,8.0,-340,280,214,-4
+680,2022-01-21,Washington Wizards,Toronto Raptors,216.5,1.0,120,-140,214,-4
+681,2022-01-21,Milwaukee Bucks,Chicago Bulls,224.0,8.0,-600,450,184,4
+682,2022-01-21,San Antonio Spurs,Brooklyn Nets,232.5,0.0,-120,100,219,-15
+683,2022-01-21,Utah Jazz,Detroit Pistons,218.0,15.5,-1200,750,212,10
+684,2022-01-21,Denver Nuggets,Memphis Grizzlies,218.0,3.5,-160,140,240,-4
+685,2022-01-21,Golden State Warriors,Houston Rockets,226.0,13.0,-650,475,208,2
+686,2022-01-22,Cleveland Cavaliers,Oklahoma City Thunder,207.5,13.5,-900,600,181,7
+687,2022-01-22,Milwaukee Bucks,Sacramento Kings,230.5,9.5,-320,265,260,6
+688,2022-01-22,Phoenix Suns,Indiana Pacers,217.5,12.5,-950,625,216,10
+689,2022-01-23,New York Knicks,Los Angeles Clippers,206.0,3.0,-175,155,212,8
+690,2022-01-23,Washington Wizards,Boston Celtics,217.5,1.5,115,-135,203,-29
+691,2022-01-23,Toronto Raptors,Portland Trail Blazers,214.5,7.5,-340,280,219,-9
+692,2022-01-23,Orlando Magic,Chicago Bulls,216.0,4.0,140,-160,209,19
+693,2022-01-23,Miami Heat,Los Angeles Lakers,216.5,5.0,-170,150,220,6
+694,2022-01-23,Charlotte Bobcats,Atlanta Hawks,236.5,2.5,-125,105,204,-22
+695,2022-01-23,San Antonio Spurs,Philadelphia 76ers,222.0,1.5,100,-120,224,-6
+696,2022-01-23,Dallas Mavericks,Memphis Grizzlies,216.0,2.5,-170,150,195,13
+697,2022-01-23,Denver Nuggets,Detroit Pistons,217.5,11.0,-800,550,228,6
+698,2022-01-23,Minnesota Timberwolves,Brooklyn Nets,239.0,1.5,-145,125,261,11
+699,2022-01-23,Golden State Warriors,Utah Jazz,221.5,1.0,-130,110,186,2
+700,2022-01-24,Cleveland Cavaliers,New York Knicks,203.0,7.5,-190,170,188,2
+701,2022-01-24,New Orleans Pelicans,Indiana Pacers,214.5,1.0,-165,145,230,4
+702,2022-01-24,Phoenix Suns,Utah Jazz,222.5,7.0,-900,600,224,6
+703,2022-01-24,Oklahoma City Thunder,Chicago Bulls,214.5,1.5,-110,-110,221,-1
+704,2022-01-25,Washington Wizards,Los Angeles Clippers,216.0,5.0,-200,175,231,-1
+705,2022-01-25,Detroit Pistons,Denver Nuggets,219.0,6.5,235,-275,215,-5
+706,2022-01-25,Toronto Raptors,Charlotte Bobcats,221.5,2.5,105,-125,238,12
+707,2022-01-25,Brooklyn Nets,Los Angeles Lakers,226.0,2.5,145,-165,202,-10
+708,2022-01-25,Boston Celtics,Sacramento Kings,219.0,9.0,-420,350,203,53
+709,2022-01-25,Houston Rockets,San Antonio Spurs,235.5,3.5,165,-185,238,-30
+710,2022-01-25,Golden State Warriors,Dallas Mavericks,212.0,5.0,-165,145,222,38
+711,2022-01-25,Portland Trail Blazers,Minnesota Timberwolves,227.5,3.5,130,-150,216,-2
+712,2022-01-25,Philadelphia 76ers,New Orleans Pelicans,215.5,9.0,-650,475,224,10
+713,2022-01-26,Orlando Magic,Los Angeles Clippers,210.5,1.0,-120,100,213,-9
+714,2022-01-26,Indiana Pacers,Charlotte Bobcats,225.5,0.0,110,-130,284,-32
+715,2022-01-26,Cleveland Cavaliers,Milwaukee Bucks,217.5,4.5,160,-180,214,16
+716,2022-01-26,Atlanta Hawks,Sacramento Kings,233.0,7.5,-550,425,225,17
+717,2022-01-26,San Antonio Spurs,Memphis Grizzlies,227.5,2.0,150,-170,228,-8
+718,2022-01-26,Miami Heat,New York Knicks,201.0,6.0,-240,200,206,14
+719,2022-01-26,Utah Jazz,Phoenix Suns,221.5,1.5,-110,-110,202,-8
+720,2022-01-26,Portland Trail Blazers,Dallas Mavericks,216.0,3.5,160,-180,244,-20
+721,2022-01-26,Brooklyn Nets,Denver Nuggets,219.0,2.5,180,-210,242,-6
+722,2022-01-26,Chicago Bulls,Toronto Raptors,220.5,2.5,-180,160,216,6
+723,2022-01-27,Philadelphia 76ers,Los Angeles Lakers,217.5,2.0,-240,200,192,18
+724,2022-01-27,Golden State Warriors,Minnesota Timberwolves,228.0,5.5,-240,200,239,9
+725,2022-01-28,Charlotte Bobcats,Los Angeles Lakers,228.5,7.0,-410,340,231,3
+726,2022-01-28,Orlando Magic,Detroit Pistons,211.0,2.5,-165,145,222,16
+727,2022-01-28,Atlanta Hawks,Boston Celtics,218.5,2.0,-135,115,200,16
+728,2022-01-28,Miami Heat,Los Angeles Clippers,208.5,8.0,-370,310,235,7
+729,2022-01-28,Houston Rockets,Portland Trail Blazers,232.5,2.0,130,-150,235,-15
+730,2022-01-28,Memphis Grizzlies,Utah Jazz,224.5,3.0,-220,190,228,10
+731,2022-01-28,Oklahoma City Thunder,Indiana Pacers,215.0,0.0,110,-130,223,-3
+732,2022-01-28,San Antonio Spurs,Chicago Bulls,228.0,2.0,-130,110,253,9
+733,2022-01-28,Phoenix Suns,Minnesota Timberwolves,230.5,9.0,-380,320,258,10
+734,2022-01-28,Milwaukee Bucks,New York Knicks,214.0,9.5,-380,320,231,15
+735,2022-01-28,New Orleans Pelicans,Denver Nuggets,214.5,4.5,145,-165,221,-11
+736,2022-01-29,New Orleans Pelicans,Boston Celtics,213.5,5.5,200,-240,204,-10
+737,2022-01-29,Dallas Mavericks,Indiana Pacers,216.0,10.0,-550,425,237,27
+738,2022-01-29,Philadelphia 76ers,Sacramento Kings,221.5,10.5,-550,425,204,2
+739,2022-01-29,Memphis Grizzlies,Washington Wizards,227.0,5.5,-220,190,210,20
+740,2022-01-29,Miami Heat,Toronto Raptors,208.0,5.0,-145,125,244,-4
+741,2022-01-29,Golden State Warriors,Brooklyn Nets,232.0,5.5,-440,370,216,4
+742,2022-01-30,Atlanta Hawks,Los Angeles Lakers,226.0,7.5,-300,250,250,8
+743,2022-01-30,Charlotte Bobcats,Los Angeles Clippers,225.0,6.5,-240,200,205,-25
+744,2022-01-30,Chicago Bulls,Portland Trail Blazers,229.0,6.5,-210,180,246,14
+745,2022-01-30,Detroit Pistons,Cleveland Cavaliers,211.5,8.0,270,-330,220,10
+746,2022-01-30,Milwaukee Bucks,Denver Nuggets,227.0,6.5,-250,210,236,-36
+747,2022-01-30,Orlando Magic,Dallas Mavericks,213.0,6.5,170,-190,218,2
+748,2022-01-30,Minnesota Timberwolves,Utah Jazz,227.0,1.0,-135,115,232,20
+749,2022-01-30,Phoenix Suns,San Antonio Spurs,232.0,8.5,-1000,650,225,5
+750,2022-01-31,Cleveland Cavaliers,New Orleans Pelicans,210.5,8.0,-190,170,183,3
+751,2022-01-31,Philadelphia 76ers,Memphis Grizzlies,219.0,3.5,140,-160,241,3
+752,2022-01-31,Indiana Pacers,Los Angeles Clippers,220.0,2.0,-110,-110,238,6
+753,2022-01-31,New York Knicks,Sacramento Kings,214.5,5.0,-290,245,212,20
+754,2022-01-31,Boston Celtics,Miami Heat,209.5,3.0,-250,210,214,30
+755,2022-01-31,Houston Rockets,Golden State Warriors,230.5,11.0,400,-500,230,-14
+756,2022-01-31,Oklahoma City Thunder,Portland Trail Blazers,218.5,4.0,140,-160,179,17
+757,2022-01-31,Atlanta Hawks,Toronto Raptors,219.0,2.0,115,-135,206,-6
+758,2022-02-01,Detroit Pistons,New Orleans Pelicans,214.5,2.0,120,-140,212,-10
+759,2022-02-01,Milwaukee Bucks,Washington Wizards,225.5,11.5,-700,500,210,14
+760,2022-02-01,Minnesota Timberwolves,Denver Nuggets,232.0,3.0,-125,105,245,15
+761,2022-02-01,Chicago Bulls,Orlando Magic,220.5,10.5,-360,300,241,11
+762,2022-02-01,San Antonio Spurs,Golden State Warriors,226.5,2.5,-250,210,244,-4
+763,2022-02-01,Phoenix Suns,Brooklyn Nets,227.0,7.0,-280,240,232,10
+764,2022-02-01,Toronto Raptors,Miami Heat,210.5,2.5,-125,105,216,4
+765,2022-02-02,Philadelphia 76ers,Washington Wizards,216.5,9.5,-550,425,209,-3
+766,2022-02-02,Indiana Pacers,Orlando Magic,219.5,5.0,-165,145,237,-1
+767,2022-02-02,Boston Celtics,Charlotte Bobcats,220.5,4.5,-245,205,220,6
+768,2022-02-02,New York Knicks,Memphis Grizzlies,217.0,4.5,150,-170,228,-12
+769,2022-02-02,Houston Rockets,Cleveland Cavaliers,219.5,3.5,170,-190,219,11
+770,2022-02-02,Dallas Mavericks,Oklahoma City Thunder,208.5,11.0,-800,550,234,-6
+771,2022-02-02,Utah Jazz,Denver Nuggets,226.0,2.0,-255,215,212,4
+772,2022-02-02,Sacramento Kings,Brooklyn Nets,230.5,4.5,180,-210,213,11
+773,2022-02-02,Los Angeles Lakers,Portland Trail Blazers,222.0,2.5,-175,155,193,5
+774,2022-02-03,Detroit Pistons,Minnesota Timberwolves,225.5,7.5,250,-300,245,-11
+775,2022-02-03,Atlanta Hawks,Phoenix Suns,223.5,5.5,135,-155,239,9
+776,2022-02-03,Los Angeles Clippers,Los Angeles Lakers,217.5,3.0,-165,145,221,1
+777,2022-02-03,Golden State Warriors,Sacramento Kings,221.0,13.0,-1100,700,240,12
+778,2022-02-03,Toronto Raptors,Chicago Bulls,223.0,3.5,-190,170,247,7
+779,2022-02-03,San Antonio Spurs,Miami Heat,220.5,2.5,260,-310,207,-17
+780,2022-02-04,Charlotte Bobcats,Cleveland Cavaliers,218.5,4.5,-240,200,203,-1
+781,2022-02-04,Detroit Pistons,Boston Celtics,214.0,8.0,400,-500,195,-9
+782,2022-02-04,Indiana Pacers,Chicago Bulls,231.5,3.0,-105,-115,237,-7
+783,2022-02-04,Toronto Raptors,Atlanta Hawks,216.5,1.5,-130,110,239,11
+784,2022-02-04,San Antonio Spurs,Houston Rockets,234.5,3.5,-330,270,237,25
+785,2022-02-04,Dallas Mavericks,Philadelphia 76ers,212.5,1.5,105,-125,205,9
+786,2022-02-04,Utah Jazz,Brooklyn Nets,228.5,5.0,-220,190,227,23
+787,2022-02-04,Denver Nuggets,New Orleans Pelicans,222.5,6.0,-230,195,218,-8
+788,2022-02-04,Portland Trail Blazers,Oklahoma City Thunder,214.0,7.0,-240,200,189,-3
+789,2022-02-05,Orlando Magic,Memphis Grizzlies,223.5,7.5,300,-360,250,-20
+790,2022-02-05,Washington Wizards,Phoenix Suns,223.0,7.5,270,-330,175,-15
+791,2022-02-05,Charlotte Bobcats,Miami Heat,224.5,3.5,120,-140,190,-18
+792,2022-02-05,Los Angeles Lakers,New York Knicks,213.0,2.0,-210,180,237,7
+793,2022-02-05,Sacramento Kings,Oklahoma City Thunder,216.5,6.5,-330,270,216,10
+794,2022-02-05,Portland Trail Blazers,Milwaukee Bucks,227.0,9.0,425,-550,245,-29
+795,2022-02-06,Minnesota Timberwolves,Detroit Pistons,229.5,11.5,-900,600,223,13
+796,2022-02-06,Chicago Bulls,Philadelphia 76ers,219.5,1.5,150,-170,227,-11
+797,2022-02-06,Denver Nuggets,Brooklyn Nets,229.5,5.5,-350,290,228,20
+798,2022-02-06,Cleveland Cavaliers,Indiana Pacers,216.5,5.5,-270,230,183,13
+799,2022-02-06,Dallas Mavericks,Atlanta Hawks,218.5,2.5,100,-120,197,9
+800,2022-02-06,Orlando Magic,Boston Celtics,216.0,7.0,360,-430,199,-33
+801,2022-02-06,Houston Rockets,New Orleans Pelicans,231.0,4.5,230,-270,227,-13
+802,2022-02-06,Los Angeles Clippers,Milwaukee Bucks,227.0,4.5,180,-210,250,-24
+803,2022-02-07,Charlotte Bobcats,Toronto Raptors,225.5,0.0,100,-120,217,-15
+804,2022-02-07,Washington Wizards,Miami Heat,212.5,4.5,240,-280,221,-21
+805,2022-02-07,Chicago Bulls,Phoenix Suns,228.0,6.5,225,-265,251,-3
+806,2022-02-07,Oklahoma City Thunder,Golden State Warriors,212.5,12.0,600,-900,208,-12
+807,2022-02-07,Utah Jazz,New York Knicks,213.5,7.5,-310,260,217,9
+808,2022-02-08,Philadelphia 76ers,Phoenix Suns,216.5,1.5,-120,100,223,-5
+809,2022-02-08,Brooklyn Nets,Boston Celtics,216.5,5.5,375,-450,217,-35
+810,2022-02-08,Atlanta Hawks,Indiana Pacers,226.5,9.5,-900,600,245,21
+811,2022-02-08,New Orleans Pelicans,Houston Rockets,229.0,8.5,-400,330,207,13
+812,2022-02-08,Memphis Grizzlies,Los Angeles Clippers,228.0,7.0,-335,275,244,26
+813,2022-02-08,Dallas Mavericks,Detroit Pistons,213.5,11.5,-600,450,202,30
+814,2022-02-08,Denver Nuggets,New York Knicks,217.5,6.5,-400,330,247,17
+815,2022-02-08,Los Angeles Lakers,Milwaukee Bucks,230.0,3.5,145,-165,247,-15
+816,2022-02-08,Portland Trail Blazers,Orlando Magic,224.5,5.5,-105,-115,208,-18
+817,2022-02-08,Sacramento Kings,Minnesota Timberwolves,233.5,3.5,280,-340,248,-20
+818,2022-02-09,Cleveland Cavaliers,San Antonio Spurs,218.0,6.5,-220,190,197,13
+819,2022-02-09,Charlotte Bobcats,Chicago Bulls,230.5,3.0,105,-125,230,-12
+820,2022-02-09,Oklahoma City Thunder,Toronto Raptors,210.0,8.5,425,-550,215,-19
+821,2022-02-09,Sacramento Kings,Minnesota Timberwolves,233.5,9.0,270,-330,251,13
+822,2022-02-09,Portland Trail Blazers,Los Angeles Lakers,225.0,9.0,380,-460,212,2
+823,2022-02-09,Utah Jazz,Golden State Warriors,221.0,2.0,-120,100,196,26
+824,2022-02-10,Detroit Pistons,Memphis Grizzlies,225.5,11.5,525,-750,239,-25
+825,2022-02-10,Washington Wizards,Brooklyn Nets,218.5,3.0,-115,-105,225,1
+826,2022-02-10,New Orleans Pelicans,Miami Heat,217.0,4.5,155,-175,209,-15
+827,2022-02-10,Houston Rockets,Toronto Raptors,226.5,8.0,265,-320,259,-19
+828,2022-02-10,Dallas Mavericks,Los Angeles Clippers,216.0,7.0,-260,220,217,7
+829,2022-02-10,Phoenix Suns,Milwaukee Bucks,232.5,3.5,-155,135,238,24
+830,2022-02-10,Golden State Warriors,New York Knicks,218.0,10.0,-460,380,230,-2
+831,2022-02-11,Philadelphia 76ers,Oklahoma City Thunder,208.5,12.5,-1100,700,187,13
+832,2022-02-11,Indiana Pacers,Cleveland Cavaliers,215.0,7.0,195,-230,233,-7
+833,2022-02-11,Detroit Pistons,Charlotte Bobcats,225.5,7.5,205,-245,260,-22
+834,2022-02-11,Boston Celtics,Denver Nuggets,217.5,3.5,-250,210,210,6
+835,2022-02-11,Atlanta Hawks,San Antonio Spurs,232.0,7.0,-380,320,257,-15
+836,2022-02-11,Chicago Bulls,Minnesota Timberwolves,238.0,1.5,-115,-105,256,12
+837,2022-02-11,Utah Jazz,Orlando Magic,221.5,12.5,-800,550,213,15
+838,2022-02-12,Portland Trail Blazers,New York Knicks,218.5,4.5,165,-185,215,9
+839,2022-02-12,Charlotte Bobcats,Memphis Grizzlies,233.0,4.5,220,-260,243,-7
+840,2022-02-12,New Orleans Pelicans,San Antonio Spurs,225.0,4.5,-250,210,238,-10
+841,2022-02-12,Washington Wizards,Sacramento Kings,221.5,1.5,130,-150,233,-13
+842,2022-02-12,Philadelphia 76ers,Cleveland Cavaliers,206.5,4.0,-145,125,196,10
+843,2022-02-12,Toronto Raptors,Denver Nuggets,222.5,3.5,-210,180,219,-1
+844,2022-02-12,Chicago Bulls,Oklahoma City Thunder,220.0,12.5,-600,450,207,5
+845,2022-02-12,Miami Heat,Brooklyn Nets,220.5,10.0,-700,500,226,4
+846,2022-02-12,Dallas Mavericks,Los Angeles Clippers,215.0,6.0,-300,250,196,-2
+847,2022-02-12,Golden State Warriors,Los Angeles Lakers,225.5,16.0,-280,240,232,2
+848,2022-02-12,Phoenix Suns,Orlando Magic,225.0,15.5,-2500,1100,237,27
+849,2022-02-13,Boston Celtics,Atlanta Hawks,220.5,6.0,-310,260,200,10
+850,2022-02-13,Indiana Pacers,Minnesota Timberwolves,235.5,6.0,260,-310,249,-9
+851,2022-02-14,Washington Wizards,Detroit Pistons,218.5,5.0,-165,145,197,9
+852,2022-02-14,New York Knicks,Oklahoma City Thunder,206.5,8.5,-450,375,250,-4
+853,2022-02-14,Brooklyn Nets,Sacramento Kings,224.5,4.5,105,-125,194,24
+854,2022-02-14,Milwaukee Bucks,Portland Trail Blazers,232.0,15.0,-650,475,229,-15
+855,2022-02-14,New Orleans Pelicans,Toronto Raptors,222.0,4.0,145,-165,210,30
+856,2022-02-14,Chicago Bulls,San Antonio Spurs,233.5,4.5,-150,130,229,11
+857,2022-02-14,Denver Nuggets,Orlando Magic,225.0,10.5,-650,475,232,10
+858,2022-02-14,Utah Jazz,Houston Rockets,229.5,15.0,-1600,900,236,34
+859,2022-02-14,Los Angeles Clippers,Golden State Warriors,222.5,5.5,200,-240,223,15
+860,2022-02-15,Philadelphia 76ers,Boston Celtics,211.0,1.0,110,-130,222,-48
+861,2022-02-15,Miami Heat,Dallas Mavericks,221.0,1.5,-210,180,206,-8
+862,2022-02-15,Atlanta Hawks,Cleveland Cavaliers,221.0,1.5,-140,120,240,8
+863,2022-02-15,Milwaukee Bucks,Indiana Pacers,232.0,11.5,-1100,700,247,9
+864,2022-02-15,New Orleans Pelicans,Memphis Grizzlies,227.5,5.5,140,-160,230,-12
+865,2022-02-15,Minnesota Timberwolves,Charlotte Bobcats,244.0,6.5,-240,200,246,6
+866,2022-02-15,Phoenix Suns,Los Angeles Clippers,222.0,12.5,-1000,650,199,7
+867,2022-02-16,Orlando Magic,Atlanta Hawks,227.5,6.0,185,-215,239,-21
+868,2022-02-16,New York Knicks,Brooklyn Nets,217.5,5.0,-190,170,217,-5
+869,2022-02-16,Indiana Pacers,Washington Wizards,224.0,0.0,-110,-110,221,5
+870,2022-02-16,Boston Celtics,Detroit Pistons,215.5,13.5,-900,600,223,-1
+871,2022-02-16,Chicago Bulls,Sacramento Kings,233.0,5.5,-240,200,243,7
+872,2022-02-16,Oklahoma City Thunder,San Antonio Spurs,218.5,6.5,280,-340,220,-8
+873,2022-02-16,Memphis Grizzlies,Portland Trail Blazers,227.5,12.0,-800,550,242,-4
+874,2022-02-16,Minnesota Timberwolves,Toronto Raptors,230.5,1.0,-120,100,194,-12
+875,2022-02-16,Phoenix Suns,Houston Rockets,234.0,15.5,-2000,1000,245,3
+876,2022-02-16,Golden State Warriors,Denver Nuggets,223.5,8.0,-200,175,233,-1
+877,2022-02-16,Los Angeles Lakers,Utah Jazz,227.0,2.0,155,-175,207,5
+878,2022-02-17,Charlotte Bobcats,Miami Heat,225.5,5.0,150,-170,218,-4
+879,2022-02-17,Brooklyn Nets,Washington Wizards,217.5,4.5,-190,170,220,-14
+880,2022-02-17,New Orleans Pelicans,Dallas Mavericks,215.5,3.5,120,-140,243,-7
+881,2022-02-17,Milwaukee Bucks,Philadelphia 76ers,223.0,6.0,-260,220,243,-3
+882,2022-02-17,Los Angeles Clippers,Houston Rockets,228.5,10.5,-550,425,253,31
+883,2022-02-24,Detroit Pistons,Cleveland Cavaliers,211.0,8.0,190,-220,209,3
+884,2022-02-24,Brooklyn Nets,Boston Celtics,213.5,4.0,330,-400,235,-23
+885,2022-02-24,Chicago Bulls,Atlanta Hawks,234.5,3.5,-150,130,220,4
+886,2022-02-24,Oklahoma City Thunder,Phoenix Suns,214.0,10.5,450,-600,228,-20
+887,2022-02-24,Minnesota Timberwolves,Memphis Grizzlies,239.0,1.5,110,-130,233,5
+888,2022-02-24,Portland Trail Blazers,Golden State Warriors,223.0,6.0,400,-500,227,-37
+889,2022-02-24,Sacramento Kings,Denver Nuggets,229.0,3.5,145,-165,238,-18
+890,2022-02-25,Orlando Magic,Houston Rockets,228.5,4.0,-160,140,230,8
+891,2022-02-25,Indiana Pacers,Oklahoma City Thunder,216.0,7.0,-330,270,254,-4
+892,2022-02-25,Charlotte Bobcats,Toronto Raptors,225.5,1.5,115,-135,218,32
+893,2022-02-25,Washington Wizards,San Antonio Spurs,225.0,1.5,140,-160,310,-4
+894,2022-02-25,New York Knicks,Miami Heat,211.0,4.0,200,-240,215,-15
+895,2022-02-25,Minnesota Timberwolves,Philadelphia 76ers,227.0,1.0,120,-140,235,-31
+896,2022-02-25,Utah Jazz,Dallas Mavericks,215.0,6.0,-235,195,223,5
+897,2022-02-25,Phoenix Suns,New Orleans Pelicans,224.0,9.0,-260,220,219,-15
+898,2022-02-25,Los Angeles Lakers,Los Angeles Clippers,223.5,1.0,-145,125,207,-3
+899,2022-02-26,Detroit Pistons,Boston Celtics,215.0,10.5,500,-700,217,-9
+900,2022-02-26,Atlanta Hawks,Toronto Raptors,225.5,2.0,-180,160,227,27
+901,2022-02-26,Miami Heat,San Antonio Spurs,224.0,7.5,-900,600,262,4
+902,2022-02-26,Cleveland Cavaliers,Washington Wizards,209.0,7.0,-380,320,178,6
+903,2022-02-26,Chicago Bulls,Memphis Grizzlies,236.0,1.0,115,-135,226,-6
+904,2022-02-26,Milwaukee Bucks,Brooklyn Nets,234.0,9.5,-500,400,249,-3
+905,2022-02-26,Denver Nuggets,Sacramento Kings,235.5,9.5,-350,290,225,5
+906,2022-02-27,New York Knicks,Philadelphia 76ers,215.5,6.5,280,-340,234,-16
+907,2022-02-27,Phoenix Suns,Utah Jazz,227.5,1.5,130,-150,232,-4
+908,2022-02-27,Indiana Pacers,Boston Celtics,223.5,7.0,350,-420,235,21
+909,2022-02-27,Charlotte Bobcats,Detroit Pistons,226.5,10.0,-600,450,253,-1
+910,2022-02-27,Houston Rockets,Los Angeles Clippers,229.5,7.0,220,-260,197,-1
+911,2022-02-27,Golden State Warriors,Dallas Mavericks,219.5,5.0,-160,140,208,-6
+912,2022-02-27,Portland Trail Blazers,Denver Nuggets,230.5,7.5,280,-340,216,-32
+913,2022-02-27,Los Angeles Lakers,New Orleans Pelicans,225.5,2.0,-140,120,218,-28
+914,2022-02-28,Orlando Magic,Indiana Pacers,229.5,2.0,-140,120,222,16
+915,2022-02-28,Cleveland Cavaliers,Minnesota Timberwolves,222.0,1.0,140,-160,249,-5
+916,2022-02-28,Brooklyn Nets,Toronto Raptors,222.0,2.5,135,-155,230,-36
+917,2022-02-28,Miami Heat,Chicago Bulls,227.0,5.0,-190,170,211,13
+918,2022-02-28,Memphis Grizzlies,San Antonio Spurs,234.5,9.0,-380,320,223,13
+919,2022-02-28,Milwaukee Bucks,Charlotte Bobcats,242.0,10.0,-550,425,236,24
+920,2022-02-28,Oklahoma City Thunder,Sacramento Kings,223.5,4.5,180,-210,241,-21
+921,2022-03-01,Washington Wizards,Detroit Pistons,217.5,3.5,-150,130,229,3
+922,2022-03-01,Boston Celtics,Atlanta Hawks,222.5,7.0,-260,220,205,9
+923,2022-03-01,Toronto Raptors,Brooklyn Nets,218.5,8.5,-360,300,217,1
+924,2022-03-01,Houston Rockets,Los Angeles Clippers,228.5,6.0,230,-270,213,-13
+925,2022-03-01,Minnesota Timberwolves,Golden State Warriors,229.0,0.0,150,-170,243,15
+926,2022-03-01,Los Angeles Lakers,Dallas Mavericks,217.5,4.5,175,-200,213,-5
+927,2022-03-02,Cleveland Cavaliers,Charlotte Bobcats,215.5,3.5,-170,150,217,-21
+928,2022-03-02,Orlando Magic,Indiana Pacers,231.5,2.0,110,-130,236,-8
+929,2022-03-02,Philadelphia 76ers,New York Knicks,221.0,10.5,-600,450,231,15
+930,2022-03-02,Milwaukee Bucks,Miami Heat,227.0,4.5,-180,160,239,1
+931,2022-03-02,New Orleans Pelicans,Sacramento Kings,232.5,3.5,-250,210,220,30
+932,2022-03-02,Houston Rockets,Utah Jazz,232.0,10.5,850,-1500,259,-5
+933,2022-03-02,Denver Nuggets,Oklahoma City Thunder,225.5,13.5,-1600,900,226,-12
+934,2022-03-02,Phoenix Suns,Portland Trail Blazers,228.0,12.5,-650,475,210,30
+935,2022-03-03,Atlanta Hawks,Chicago Bulls,231.5,4.5,-130,110,254,6
+936,2022-03-03,Brooklyn Nets,Miami Heat,221.0,3.0,-145,125,220,-6
+937,2022-03-03,Toronto Raptors,Detroit Pistons,216.5,8.5,-360,300,214,-2
+938,2022-03-03,Boston Celtics,Memphis Grizzlies,224.0,3.0,-135,115,227,13
+939,2022-03-03,San Antonio Spurs,Sacramento Kings,237.5,6.5,-260,220,227,-3
+940,2022-03-03,Dallas Mavericks,Golden State Warriors,219.0,2.5,-125,105,235,9
+941,2022-03-03,Los Angeles Clippers,Los Angeles Lakers,218.5,2.5,-130,110,243,21
+942,2022-03-04,Philadelphia 76ers,Cleveland Cavaliers,219.5,5.0,-330,270,244,6
+943,2022-03-04,Detroit Pistons,Indiana Pacers,230.5,3.5,120,-140,217,5
+944,2022-03-04,Washington Wizards,Atlanta Hawks,221.5,3.0,195,-230,231,-3
+945,2022-03-04,Chicago Bulls,Milwaukee Bucks,238.0,3.5,175,-200,230,-6
+946,2022-03-04,Toronto Raptors,Orlando Magic,230.5,8.0,-310,260,200,-6
+947,2022-03-04,New Orleans Pelicans,Utah Jazz,226.5,4.0,170,-190,214,34
+948,2022-03-04,Oklahoma City Thunder,Minnesota Timberwolves,230.5,8.0,350,-420,239,-37
+949,2022-03-04,Denver Nuggets,Houston Rockets,232.5,13.5,-450,375,217,15
+950,2022-03-04,Phoenix Suns,New York Knicks,224.5,6.5,-250,210,229,1
+951,2022-03-05,Dallas Mavericks,Sacramento Kings,221.5,7.5,-185,165,227,1
+952,2022-03-05,Charlotte Bobcats,San Antonio Spurs,241.5,3.5,-170,150,240,6
+953,2022-03-05,Memphis Grizzlies,Orlando Magic,231.5,15.5,-1600,900,220,28
+954,2022-03-05,Miami Heat,Philadelphia 76ers,220.5,1.0,-200,175,181,17
+955,2022-03-05,Minnesota Timberwolves,Portland Trail Blazers,232.5,13.0,-1100,700,256,14
+956,2022-03-05,Los Angeles Lakers,Golden State Warriors,224.5,5.5,190,-220,240,8
+957,2022-03-06,Boston Celtics,Brooklyn Nets,224.5,4.5,-220,190,246,6
+958,2022-03-06,Milwaukee Bucks,Phoenix Suns,231.5,7.5,-450,375,254,10
+959,2022-03-06,Washington Wizards,Indiana Pacers,227.5,3.0,-135,115,256,10
+960,2022-03-06,Oklahoma City Thunder,Utah Jazz,223.5,13.5,750,-1200,219,-13
+961,2022-03-06,Houston Rockets,Memphis Grizzlies,237.5,11.0,450,-600,235,11
+962,2022-03-06,Cleveland Cavaliers,Toronto Raptors,210.5,4.0,-200,175,200,8
+963,2022-03-06,Denver Nuggets,New Orleans Pelicans,228.0,3.5,-185,165,268,8
+964,2022-03-06,Los Angeles Clippers,New York Knicks,217.0,4.0,-230,195,209,-23
+965,2022-03-07,Philadelphia 76ers,Chicago Bulls,229.5,5.5,-330,270,227,15
+966,2022-03-07,Detroit Pistons,Atlanta Hawks,225.5,7.5,250,-300,223,3
+967,2022-03-07,Miami Heat,Houston Rockets,226.0,15.5,-2500,1100,229,17
+968,2022-03-07,Minnesota Timberwolves,Portland Trail Blazers,235.0,15.0,-1200,750,205,43
+969,2022-03-07,San Antonio Spurs,Los Angeles Lakers,233.5,3.5,-260,220,227,7
+970,2022-03-07,Dallas Mavericks,Utah Jazz,217.0,1.5,-105,-115,214,8
+971,2022-03-07,Denver Nuggets,Golden State Warriors,223.5,9.5,-350,290,255,7
+972,2022-03-07,Sacramento Kings,New York Knicks,228.5,2.5,-170,150,246,-16
+973,2022-03-08,Charlotte Bobcats,Brooklyn Nets,239.5,2.5,150,-170,253,-11
+974,2022-03-08,Orlando Magic,Phoenix Suns,224.5,8.0,205,-245,201,-3
+975,2022-03-08,Indiana Pacers,Cleveland Cavaliers,221.5,3.5,125,-145,251,-3
+976,2022-03-08,Memphis Grizzlies,New Orleans Pelicans,231.0,6.0,-330,270,243,21
+977,2022-03-08,Oklahoma City Thunder,Milwaukee Bucks,230.5,14.0,700,-1100,257,-27
+978,2022-03-08,Golden State Warriors,Los Angeles Clippers,219.0,7.0,-240,200,209,15
+979,2022-03-09,Detroit Pistons,Chicago Bulls,226.0,6.5,215,-255,222,-6
+980,2022-03-09,Charlotte Bobcats,Boston Celtics,227.0,2.0,220,-260,216,-14
+981,2022-03-09,Miami Heat,Phoenix Suns,215.5,9.0,-180,160,201,-21
+982,2022-03-09,Milwaukee Bucks,Atlanta Hawks,236.5,5.5,-185,165,239,9
+983,2022-03-09,Houston Rockets,Los Angeles Lakers,235.0,5.0,260,-310,269,9
+984,2022-03-09,New Orleans Pelicans,Orlando Magic,223.0,8.5,-360,300,210,-6
+985,2022-03-09,Minnesota Timberwolves,Oklahoma City Thunder,230.0,14.5,-1400,800,234,30
+986,2022-03-09,San Antonio Spurs,Toronto Raptors,227.5,1.5,100,-120,223,-15
+987,2022-03-09,Dallas Mavericks,New York Knicks,215.0,7.5,-400,330,184,-30
+988,2022-03-09,Utah Jazz,Portland Trail Blazers,217.0,16.5,-4000,1400,208,38
+989,2022-03-09,Sacramento Kings,Denver Nuggets,237.0,4.5,220,-260,206,-6
+990,2022-03-09,Los Angeles Clippers,Washington Wizards,219.5,5.0,-160,140,224,6
+991,2022-03-10,Philadelphia 76ers,Brooklyn Nets,230.0,4.5,-180,160,229,-29
+992,2022-03-10,Denver Nuggets,Golden State Warriors,222.5,3.0,105,-125,215,-11
+993,2022-03-11,Orlando Magic,Minnesota Timberwolves,233.5,8.0,300,-360,228,8
+994,2022-03-11,Boston Celtics,Detroit Pistons,215.0,14.0,-1100,700,217,11
+995,2022-03-11,Atlanta Hawks,Los Angeles Clippers,227.5,6.0,-280,240,218,6
+996,2022-03-11,Houston Rockets,Dallas Mavericks,225.5,11.0,450,-600,213,-13
+997,2022-03-11,Memphis Grizzlies,New York Knicks,230.0,9.5,-410,340,232,4
+998,2022-03-11,Miami Heat,Cleveland Cavaliers,209.0,5.5,-340,280,222,12
+999,2022-03-11,New Orleans Pelicans,Charlotte Bobcats,231.0,3.5,130,-150,262,-22
+1000,2022-03-11,San Antonio Spurs,Utah Jazz,230.0,7.0,190,-220,206,2
+1001,2022-03-11,Phoenix Suns,Toronto Raptors,223.0,5.5,-210,180,229,-5
+1002,2022-03-11,Los Angeles Lakers,Washington Wizards,226.5,5.0,-185,165,231,13
+1003,2022-03-12,San Antonio Spurs,Indiana Pacers,235.0,5.5,-130,110,227,-11
+1004,2022-03-12,Miami Heat,Minnesota Timberwolves,225.5,5.5,-165,145,217,-9
+1005,2022-03-12,Chicago Bulls,Cleveland Cavaliers,221.0,2.5,-190,170,192,10
+1006,2022-03-12,Golden State Warriors,Milwaukee Bucks,230.5,0.0,110,-130,231,13
+1007,2022-03-12,Utah Jazz,Sacramento Kings,232.0,10.0,-400,330,259,9
+1008,2022-03-12,Denver Nuggets,Toronto Raptors,225.5,5.0,-275,235,242,-12
+1009,2022-03-12,Portland Trail Blazers,Washington Wizards,219.0,7.0,230,-270,245,9
+1010,2022-03-13,Brooklyn Nets,New York Knicks,224.5,5.5,-240,200,217,3
+1011,2022-03-13,Detroit Pistons,Los Angeles Clippers,217.5,5.5,155,-175,208,-4
+1012,2022-03-13,Boston Celtics,Dallas Mavericks,217.0,5.0,-280,240,187,-3
+1013,2022-03-13,Orlando Magic,Philadelphia 76ers,223.0,13.0,500,-700,230,-2
+1014,2022-03-13,Oklahoma City Thunder,Memphis Grizzlies,229.5,12.5,800,-1400,243,-7
+1015,2022-03-13,Atlanta Hawks,Indiana Pacers,236.0,10.0,-800,550,259,3
+1016,2022-03-13,New Orleans Pelicans,Houston Rockets,228.0,6.0,-250,210,235,25
+1017,2022-03-13,Phoenix Suns,Los Angeles Lakers,228.0,9.5,-330,270,251,29
+1018,2022-03-14,Cleveland Cavaliers,Los Angeles Clippers,211.5,5.5,-280,240,231,9
+1019,2022-03-14,Atlanta Hawks,Portland Trail Blazers,233.5,12.0,-1100,700,235,9
+1020,2022-03-14,Philadelphia 76ers,Denver Nuggets,221.5,5.0,-165,145,224,-4
+1021,2022-03-14,Oklahoma City Thunder,Charlotte Bobcats,231.0,7.0,450,-600,250,-18
+1022,2022-03-14,San Antonio Spurs,Minnesota Timberwolves,237.5,5.0,145,-165,288,-10
+1023,2022-03-14,Golden State Warriors,Washington Wizards,226.0,12.0,-800,550,238,14
+1024,2022-03-14,Sacramento Kings,Chicago Bulls,235.5,4.5,160,-180,215,9
+1025,2022-03-14,Utah Jazz,Milwaukee Bucks,236.0,2.0,-135,115,228,-6
+1026,2022-03-14,Los Angeles Lakers,Toronto Raptors,224.5,5.5,165,-185,217,-11
+1027,2022-03-15,Orlando Magic,Brooklyn Nets,231.0,9.5,400,-500,258,-42
+1028,2022-03-15,Indiana Pacers,Memphis Grizzlies,233.0,7.0,225,-265,237,-33
+1029,2022-03-15,Miami Heat,Detroit Pistons,216.5,13.5,-1100,700,203,7
+1030,2022-03-15,New Orleans Pelicans,Phoenix Suns,225.0,5.5,160,-180,246,-16
+1031,2022-03-16,Charlotte Bobcats,Atlanta Hawks,237.5,1.5,-110,-110,222,10
+1032,2022-03-16,Washington Wizards,Denver Nuggets,228.5,5.5,240,-280,236,-18
+1033,2022-03-16,Cleveland Cavaliers,Philadelphia 76ers,218.0,3.5,150,-170,232,-4
+1034,2022-03-16,New York Knicks,Portland Trail Blazers,224.5,10.0,-850,575,226,30
+1035,2022-03-16,Brooklyn Nets,Dallas Mavericks,220.5,1.5,135,-155,224,-2
+1036,2022-03-16,Houston Rockets,Phoenix Suns,235.5,11.0,425,-550,241,-17
+1037,2022-03-16,Minnesota Timberwolves,Los Angeles Lakers,237.0,8.5,-420,350,228,20
+1038,2022-03-16,San Antonio Spurs,Oklahoma City Thunder,235.0,11.5,-750,525,242,2
+1039,2022-03-16,Utah Jazz,Chicago Bulls,225.5,6.5,-270,230,235,15
+1040,2022-03-16,Sacramento Kings,Milwaukee Bucks,240.0,8.5,330,-400,261,-9
+1041,2022-03-16,Golden State Warriors,Boston Celtics,221.5,4.0,-125,105,198,-22
+1042,2022-03-16,Los Angeles Clippers,Toronto Raptors,218.0,2.0,120,-140,203,-3
+1043,2022-03-17,Orlando Magic,Detroit Pistons,219.0,3.5,-145,125,254,-14
+1044,2022-03-18,Philadelphia 76ers,Dallas Mavericks,221.5,4.0,-185,165,212,10
+1045,2022-03-18,Cleveland Cavaliers,Denver Nuggets,220.5,1.0,125,-145,235,3
+1046,2022-03-18,Brooklyn Nets,Portland Trail Blazers,225.5,11.5,-1200,750,251,5
+1047,2022-03-18,Toronto Raptors,Los Angeles Lakers,224.5,7.5,-370,310,251,-5
+1048,2022-03-18,Atlanta Hawks,Memphis Grizzlies,236.0,2.5,210,-250,225,15
+1049,2022-03-18,New York Knicks,Washington Wizards,224.0,5.5,-250,210,197,3
+1050,2022-03-18,Houston Rockets,Indiana Pacers,239.5,3.0,145,-165,239,-3
+1051,2022-03-18,Miami Heat,Oklahoma City Thunder,220.0,15.5,-1600,900,228,12
+1052,2022-03-18,San Antonio Spurs,New Orleans Pelicans,235.0,3.5,-130,110,215,-33
+1053,2022-03-18,Utah Jazz,Los Angeles Clippers,220.0,9.5,-220,190,213,29
+1054,2022-03-18,Sacramento Kings,Boston Celtics,226.5,8.0,425,-550,223,-29
+1055,2022-03-18,Phoenix Suns,Chicago Bulls,231.0,7.0,-190,170,231,27
+1056,2022-03-19,Minnesota Timberwolves,Milwaukee Bucks,242.0,1.0,-155,135,257,19
+1057,2022-03-19,Charlotte Bobcats,Dallas Mavericks,225.5,1.0,-135,115,237,21
+1058,2022-03-19,Cleveland Cavaliers,Detroit Pistons,215.0,10.0,-235,195,222,4
+1059,2022-03-19,Washington Wizards,Los Angeles Lakers,231.0,2.0,100,-120,246,8
+1060,2022-03-20,Houston Rockets,Memphis Grizzlies,232.5,10.0,550,-800,220,-24
+1061,2022-03-20,Indiana Pacers,Portland Trail Blazers,232.5,7.5,-350,290,227,31
+1062,2022-03-20,Sacramento Kings,Phoenix Suns,231.5,10.0,290,-350,251,-3
+1063,2022-03-20,Atlanta Hawks,New Orleans Pelicans,232.5,3.5,-200,175,229,-5
+1064,2022-03-20,Orlando Magic,Oklahoma City Thunder,227.0,5.0,-350,290,175,5
+1065,2022-03-20,New York Knicks,Utah Jazz,222.5,5.0,140,-160,201,-15
+1066,2022-03-20,Denver Nuggets,Boston Celtics,221.5,3.0,125,-145,228,-20
+1067,2022-03-20,Golden State Warriors,San Antonio Spurs,229.0,6.0,-265,225,218,-2
+1068,2022-03-20,Philadelphia 76ers,Toronto Raptors,223.5,5.5,-350,290,181,-5
+1069,2022-03-21,Detroit Pistons,Portland Trail Blazers,224.0,6.5,-450,375,234,-4
+1070,2022-03-21,Cleveland Cavaliers,Los Angeles Lakers,222.0,6.0,-200,175,251,-11
+1071,2022-03-21,Philadelphia 76ers,Miami Heat,216.5,1.5,270,-330,219,7
+1072,2022-03-21,Charlotte Bobcats,New Orleans Pelicans,234.5,5.5,-230,195,209,3
+1073,2022-03-21,Brooklyn Nets,Utah Jazz,229.0,1.5,110,-130,220,8
+1074,2022-03-21,Chicago Bulls,Toronto Raptors,225.5,4.5,-165,145,212,14
+1075,2022-03-21,Oklahoma City Thunder,Boston Celtics,215.5,12.0,700,-1100,255,-9
+1076,2022-03-21,Houston Rockets,Washington Wizards,234.5,5.0,145,-165,212,18
+1077,2022-03-21,Dallas Mavericks,Minnesota Timberwolves,230.0,2.5,-125,105,218,2
+1078,2022-03-22,Orlando Magic,Golden State Warriors,218.5,8.5,260,-310,184,4
+1079,2022-03-22,New York Knicks,Atlanta Hawks,226.0,1.5,145,-165,228,-6
+1080,2022-03-22,Milwaukee Bucks,Chicago Bulls,231.0,5.5,-265,225,224,28
+1081,2022-03-22,Denver Nuggets,Los Angeles Clippers,223.0,8.0,-260,220,242,12
+1082,2022-03-23,Detroit Pistons,Atlanta Hawks,224.5,5.5,175,-200,223,21
+1083,2022-03-23,Indiana Pacers,Sacramento Kings,238.0,4.0,-220,190,219,-1
+1084,2022-03-23,Charlotte Bobcats,New York Knicks,227.0,6.5,-360,300,227,-15
+1085,2022-03-23,Miami Heat,Golden State Warriors,215.0,8.0,-500,400,222,-14
+1086,2022-03-23,Memphis Grizzlies,Brooklyn Nets,236.5,1.5,-110,-110,252,12
+1087,2022-03-23,Boston Celtics,Utah Jazz,221.5,5.0,-200,175,222,28
+1088,2022-03-23,Oklahoma City Thunder,Orlando Magic,219.5,0.0,110,-130,220,16
+1089,2022-03-23,Minnesota Timberwolves,Phoenix Suns,236.0,1.5,-125,105,241,-9
+1090,2022-03-23,Dallas Mavericks,Houston Rockets,227.0,14.5,-500,400,201,19
+1091,2022-03-23,Los Angeles Lakers,Philadelphia 76ers,228.5,6.0,375,-450,247,-5
+1092,2022-03-23,Portland Trail Blazers,San Antonio Spurs,233.5,6.5,370,-440,229,-37
+1093,2022-03-24,Toronto Raptors,Cleveland Cavaliers,214.0,3.0,-200,175,221,13
+1094,2022-03-24,Milwaukee Bucks,Washington Wizards,233.5,12.0,-400,330,216,12
+1095,2022-03-24,New Orleans Pelicans,Chicago Bulls,228.5,1.0,-160,140,235,17
+1096,2022-03-24,Memphis Grizzlies,Indiana Pacers,235.5,11.5,-650,475,236,30
+1097,2022-03-24,Denver Nuggets,Phoenix Suns,231.0,3.0,-115,-105,270,-10
+1098,2022-03-25,Charlotte Bobcats,Utah Jazz,231.5,3.5,150,-170,208,6
+1099,2022-03-25,Detroit Pistons,Washington Wizards,219.0,2.5,-170,150,197,-3
+1100,2022-03-25,Atlanta Hawks,Golden State Warriors,221.0,2.0,-130,110,231,11
+1101,2022-03-25,Minnesota Timberwolves,Dallas Mavericks,227.5,1.5,-165,145,211,21
+1102,2022-03-25,Miami Heat,New York Knicks,215.5,5.5,-420,350,214,-8
+1103,2022-03-25,Portland Trail Blazers,Houston Rockets,235.5,3.5,160,-180,231,-19
+1104,2022-03-25,Los Angeles Clippers,Philadelphia 76ers,222.0,4.5,190,-220,219,-25
+1105,2022-03-26,New Orleans Pelicans,San Antonio Spurs,234.0,5.0,-240,200,210,-4
+1106,2022-03-26,Orlando Magic,Sacramento Kings,224.0,3.0,-140,120,224,-4
+1107,2022-03-26,Toronto Raptors,Indiana Pacers,227.0,9.0,-700,500,222,40
+1108,2022-03-26,Miami Heat,Brooklyn Nets,227.0,2.0,120,-140,205,-15
+1109,2022-03-26,Memphis Grizzlies,Milwaukee Bucks,225.5,2.0,100,-120,229,25
+1110,2022-03-26,Cleveland Cavaliers,Chicago Bulls,220.5,1.0,-130,110,192,-4
+1111,2022-03-26,Denver Nuggets,Oklahoma City Thunder,225.5,13.5,-1800,950,220,6
+1112,2022-03-26,Portland Trail Blazers,Houston Rockets,232.0,4.5,160,-180,213,-17
+1113,2022-03-27,Detroit Pistons,New York Knicks,220.0,4.0,165,-185,206,-2
+1114,2022-03-27,Boston Celtics,Minnesota Timberwolves,227.0,6.5,-250,210,246,22
+1115,2022-03-27,Washington Wizards,Golden State Warriors,221.5,7.5,240,-280,238,8
+1116,2022-03-27,Phoenix Suns,Philadelphia 76ers,229.5,5.0,-185,165,218,10
+1117,2022-03-27,New Orleans Pelicans,Los Angeles Lakers,228.0,3.0,-160,140,224,8
+1118,2022-03-27,Brooklyn Nets,Charlotte Bobcats,237.5,7.0,-265,225,229,-9
+1119,2022-03-27,Dallas Mavericks,Utah Jazz,222.0,2.5,-170,150,214,14
+1120,2022-03-28,Charlotte Bobcats,Denver Nuggets,232.5,3.5,140,-160,222,-4
+1121,2022-03-28,Cleveland Cavaliers,Orlando Magic,215.0,10.0,-400,330,208,6
+1122,2022-03-28,Indiana Pacers,Atlanta Hawks,234.5,6.0,265,-320,255,-9
+1123,2022-03-28,Miami Heat,Sacramento Kings,220.0,13.5,-1400,800,223,23
+1124,2022-03-28,New York Knicks,Chicago Bulls,223.5,4.0,145,-165,213,5
+1125,2022-03-28,Toronto Raptors,Boston Celtics,220.0,3.0,-360,300,227,3
+1126,2022-03-28,Memphis Grizzlies,Golden State Warriors,225.0,8.0,-430,360,218,28
+1127,2022-03-28,Houston Rockets,San Antonio Spurs,238.0,5.5,350,-420,243,-3
+1128,2022-03-28,Portland Trail Blazers,Oklahoma City Thunder,223.0,2.5,-120,100,265,-3
+1129,2022-03-29,Philadelphia 76ers,Milwaukee Bucks,226.5,3.5,-110,-110,234,-2
+1130,2022-03-29,Washington Wizards,Chicago Bulls,226.5,3.0,155,-175,201,-13
+1131,2022-03-29,Dallas Mavericks,Los Angeles Lakers,222.0,8.5,-800,550,238,18
+1132,2022-03-29,Brooklyn Nets,Detroit Pistons,228.5,12.5,-1200,750,253,7
+1133,2022-03-29,Los Angeles Clippers,Utah Jazz,213.5,1.5,120,-140,236,6
+1134,2022-03-30,Indiana Pacers,Denver Nuggets,232.5,9.5,400,-500,243,-7
+1135,2022-03-30,Cleveland Cavaliers,Dallas Mavericks,215.0,3.0,110,-130,232,-8
+1136,2022-03-30,Washington Wizards,Orlando Magic,223.0,4.0,-165,145,237,17
+1137,2022-03-30,New York Knicks,Charlotte Bobcats,226.0,0.0,120,-140,239,-11
+1138,2022-03-30,Toronto Raptors,Minnesota Timberwolves,228.5,4.0,-140,120,227,23
+1139,2022-03-30,Boston Celtics,Miami Heat,214.0,4.0,-200,175,204,-8
+1140,2022-03-30,Houston Rockets,Sacramento Kings,236.5,1.0,130,-150,239,-3
+1141,2022-03-30,Oklahoma City Thunder,Atlanta Hawks,229.5,10.0,600,-900,254,-18
+1142,2022-03-30,San Antonio Spurs,Memphis Grizzlies,6.5,31.0,175,-200,223,-1
+1143,2022-03-30,Portland Trail Blazers,New Orleans Pelicans,228.0,10.0,850,-1500,224,-10
+1144,2022-03-30,Golden State Warriors,Phoenix Suns,225.5,5.5,175,-200,210,-4
+1145,2022-03-31,Detroit Pistons,Philadelphia 76ers,223.0,9.5,375,-450,196,8
+1146,2022-03-31,Brooklyn Nets,Milwaukee Bucks,238.0,1.0,-125,105,239,-1
+1147,2022-03-31,Atlanta Hawks,Cleveland Cavaliers,220.5,4.5,-255,215,238,24
+1148,2022-03-31,Chicago Bulls,Los Angeles Clippers,223.0,4.0,-135,115,265,5
+1149,2022-03-31,Utah Jazz,Los Angeles Lakers,225.0,9.0,-1000,650,231,13
+1150,2022-04-01,Washington Wizards,Dallas Mavericks,220.0,8.5,275,-335,238,32
+1151,2022-04-01,Orlando Magic,Toronto Raptors,218.5,9.5,475,-650,191,-13
+1152,2022-04-01,Boston Celtics,Indiana Pacers,221.5,14.5,-1600,900,251,5
+1153,2022-04-01,Houston Rockets,Sacramento Kings,231.5,2.0,140,-160,239,-5
+1154,2022-04-01,Milwaukee Bucks,Los Angeles Clippers,32.5,8.5,-165,145,272,-34
+1155,2022-04-01,Oklahoma City Thunder,Detroit Pistons,219.5,3.5,160,-180,211,-9
+1156,2022-04-01,Memphis Grizzlies,Phoenix Suns,227.5,3.0,265,-320,236,8
+1157,2022-04-01,San Antonio Spurs,Portland Trail Blazers,231.0,13.0,-1400,800,241,19
+1158,2022-04-01,Denver Nuggets,Minnesota Timberwolves,233.5,4.0,-140,120,266,-6
+1159,2022-04-01,Los Angeles Lakers,New Orleans Pelicans,231.5,2.0,-135,115,225,-3
+1160,2022-04-02,Philadelphia 76ers,Charlotte Bobcats,231.5,7.5,-220,190,258,30
+1161,2022-04-02,New York Knicks,Cleveland Cavaliers,214.5,2.0,-135,115,220,-18
+1162,2022-04-02,Atlanta Hawks,Brooklyn Nets,242.5,2.0,115,-135,237,7
+1163,2022-04-02,Chicago Bulls,Miami Heat,220.0,1.5,120,-140,236,-18
+1164,2022-04-02,Golden State Warriors,Utah Jazz,219.5,1.5,120,-140,218,4
+1165,2022-04-03,Milwaukee Bucks,Dallas Mavericks,227.5,4.5,-280,240,230,-6
+1166,2022-04-03,Boston Celtics,Washington Wizards,220.5,12.5,-1200,750,246,42
+1167,2022-04-03,Los Angeles Lakers,Denver Nuggets,231.0,3.0,195,-230,247,-11
+1168,2022-04-03,Indiana Pacers,Detroit Pistons,232.0,1.0,-175,155,238,-4
+1169,2022-04-03,Cleveland Cavaliers,Philadelphia 76ers,227.5,4.5,180,-210,220,-4
+1170,2022-04-03,Orlando Magic,New York Knicks,216.0,3.0,180,-210,206,-30
+1171,2022-04-03,Oklahoma City Thunder,Phoenix Suns,226.5,16.0,800,-1400,213,21
+1172,2022-04-03,San Antonio Spurs,Portland Trail Blazers,231.5,14.5,-1400,800,205,21
+1173,2022-04-03,Toronto Raptors,Miami Heat,214.0,2.0,-190,170,223,-5
+1174,2022-04-03,Houston Rockets,Minnesota Timberwolves,244.0,12.5,750,-1200,271,-7
+1175,2022-04-03,Sacramento Kings,Golden State Warriors,224.0,5.0,165,-185,199,-19
+1176,2022-04-03,Los Angeles Clippers,New Orleans Pelicans,223.5,2.5,-130,110,219,19
+1177,2022-04-05,Orlando Magic,Cleveland Cavaliers,214.5,8.5,290,-350,235,5
+1178,2022-04-05,Indiana Pacers,Philadelphia 76ers,231.0,12.5,500,-700,253,-9
+1179,2022-04-05,Toronto Raptors,Atlanta Hawks,226.5,4.0,-180,160,226,10
+1180,2022-04-05,Brooklyn Nets,Houston Rockets,244.5,18.5,-1800,950,223,13
+1181,2022-04-05,Miami Heat,Charlotte Bobcats,224.5,5.0,-190,170,259,29
+1182,2022-04-05,Minnesota Timberwolves,Washington Wizards,233.5,11.5,-750,525,246,-18
+1183,2022-04-05,Chicago Bulls,Milwaukee Bucks,228.5,3.5,235,-275,233,-21
+1184,2022-04-05,Oklahoma City Thunder,Portland Trail Blazers,223.0,3.5,-160,140,192,4
+1185,2022-04-05,Denver Nuggets,San Antonio Spurs,237.0,6.0,-400,330,213,-19
+1186,2022-04-05,Utah Jazz,Memphis Grizzlies,221.0,5.5,-240,200,236,6
+1187,2022-04-05,Sacramento Kings,New Orleans Pelicans,227.0,7.5,265,-320,232,-14
+1188,2022-04-05,Phoenix Suns,Los Angeles Lakers,232.5,11.5,-850,575,231,11
+1189,2022-04-06,Detroit Pistons,Dallas Mavericks,220.5,9.0,330,-400,244,-18
+1190,2022-04-06,New York Knicks,Brooklyn Nets,230.5,7.0,230,-270,208,-12
+1191,2022-04-06,Atlanta Hawks,Washington Wizards,231.5,11.0,-550,425,221,15
+1192,2022-04-06,Chicago Bulls,Boston Celtics,223.0,6.5,245,-290,211,-23
+1193,2022-04-06,Utah Jazz,Oklahoma City Thunder,223.0,17.0,-1600,900,238,36
+1194,2022-04-06,Los Angeles Clippers,Phoenix Suns,228.0,3.0,-280,240,222,4
+1195,2022-04-07,Charlotte Bobcats,Orlando Magic,227.0,13.5,-1000,650,229,27
+1196,2022-04-07,Milwaukee Bucks,Boston Celtics,226.5,4.5,-360,300,248,6
+1197,2022-04-07,Toronto Raptors,Philadelphia 76ers,215.0,1.5,135,-155,233,5
+1198,2022-04-07,Minnesota Timberwolves,San Antonio Spurs,238.0,8.0,-280,240,248,6
+1199,2022-04-07,New Orleans Pelicans,Portland Trail Blazers,222.5,16.0,-2000,1000,221,33
+1200,2022-04-07,Denver Nuggets,Memphis Grizzlies,233.0,2.0,-180,160,231,13
+1201,2022-04-07,Golden State Warriors,Los Angeles Lakers,224.0,10.5,-1200,750,240,16
+1202,2022-04-08,Detroit Pistons,Milwaukee Bucks,228.5,11.5,400,-500,232,-30
+1203,2022-04-08,Washington Wizards,New York Knicks,218.5,0.0,145,-165,206,-22
+1204,2022-04-08,Toronto Raptors,Houston Rockets,228.5,15.0,-700,500,232,2
+1205,2022-04-08,Brooklyn Nets,Cleveland Cavaliers,228.5,9.0,-360,300,225,11
+1206,2022-04-08,Miami Heat,Atlanta Hawks,229.5,4.5,-125,105,222,4
+1207,2022-04-08,Chicago Bulls,Charlotte Bobcats,227.5,2.0,-145,125,250,-16
+1208,2022-04-08,Dallas Mavericks,Portland Trail Blazers,221.0,17.5,-3000,1200,206,50
+1209,2022-04-08,Utah Jazz,Phoenix Suns,226.5,2.5,-145,125,216,-6
+1210,2022-04-08,Los Angeles Lakers,Oklahoma City Thunder,229.5,9.0,-230,195,221,19
+1211,2022-04-09,Philadelphia 76ers,Indiana Pacers,231.0,13.5,-1100,700,253,13
+1212,2022-04-09,Los Angeles Clippers,Sacramento Kings,227.5,11.5,-700,500,215,19
+1213,2022-04-09,Memphis Grizzlies,New Orleans Pelicans,232.5,5.0,-350,290,255,27
+1214,2022-04-09,San Antonio Spurs,Golden State Warriors,222.5,1.5,250,-300,194,-6
+1215,2022-04-10,Memphis Grizzlies,Boston Celtics,227.5,1.5,330,-400,249,-29
+1216,2022-04-10,New York Knicks,Toronto Raptors,225.5,5.0,-110,-110,199,11
+1217,2022-04-10,Minnesota Timberwolves,Chicago Bulls,231.5,6.0,-300,250,244,-4
+1218,2022-04-10,Orlando Magic,Miami Heat,221.5,10.5,235,-275,236,14
+1219,2022-04-10,Los Angeles Clippers,Oklahoma City Thunder,220.5,10.5,-800,550,226,50
+1220,2022-04-10,Brooklyn Nets,Indiana Pacers,234.5,15.0,-2000,1000,260,8
+1221,2022-04-10,Portland Trail Blazers,Utah Jazz,230.5,18.5,1100,-2500,191,-31
+1222,2022-04-10,Dallas Mavericks,San Antonio Spurs,224.5,9.0,-500,400,250,10
+1223,2022-04-10,Phoenix Suns,Sacramento Kings,231.5,12.5,-500,400,225,-7
+1224,2022-04-10,Cleveland Cavaliers,Milwaukee Bucks,223.5,7.5,-380,320,248,18
+1225,2022-04-10,New Orleans Pelicans,Golden State Warriors,223.5,4.0,240,-280,235,-21
+1226,2022-04-10,Charlotte Bobcats,Washington Wizards,230.5,12.5,-900,600,232,16
+1227,2022-04-10,Philadelphia 76ers,Detroit Pistons,233.5,12.0,-255,215,224,12
+1228,2022-04-10,Houston Rockets,Atlanta Hawks,236.5,10.5,550,-800,244,-16
+1229,2022-04-10,Denver Nuggets,Los Angeles Lakers,229.5,8.0,-240,200,287,-5
+1230,2022-04-12,Brooklyn Nets,Cleveland Cavaliers,230.5,7.5,-500,400,223,7
+1231,2022-04-12,Minnesota Timberwolves,Los Angeles Clippers,231.0,2.5,-155,135,213,5
+1232,2022-04-13,Atlanta Hawks,Charlotte Bobcats,239.0,4.5,-215,185,235,29
+1233,2022-04-13,New Orleans Pelicans,San Antonio Spurs,230.5,5.5,-215,185,216,10
+1234,2022-04-15,Cleveland Cavaliers,Atlanta Hawks,226.0,1.5,115,-135,208,-6
+1235,2022-04-15,Los Angeles Clippers,New Orleans Pelicans,217.0,5.0,-260,220,206,-4
+1236,2022-04-16,Dallas Mavericks,Utah Jazz,217.5,3.0,195,-230,192,-6
+1237,2022-04-16,Memphis Grizzlies,Minnesota Timberwolves,235.0,7.0,-265,225,247,-13
+1238,2022-04-16,Philadelphia 76ers,Toronto Raptors,217.5,5.0,-190,170,242,20
+1239,2022-04-16,Golden State Warriors,Denver Nuggets,225.5,5.5,-255,215,230,16
+1240,2022-04-17,Boston Celtics,Brooklyn Nets,226.0,2.5,-170,150,229,1
+1241,2022-04-17,Miami Heat,Atlanta Hawks,215.5,6.0,-265,225,206,24
+1242,2022-04-17,Milwaukee Bucks,Chicago Bulls,229.5,9.0,-600,450,179,7
+1243,2022-04-17,Phoenix Suns,New Orleans Pelicans,226.5,10.5,-500,400,209,11
+1244,2022-04-18,Philadelphia 76ers,Toronto Raptors,220.5,6.5,-310,260,209,15
+1245,2022-04-18,Dallas Mavericks,Utah Jazz,203.5,5.0,180,-210,214,6
+1246,2022-04-18,Golden State Warriors,Denver Nuggets,224.5,6.5,-290,245,232,20
+1247,2022-04-19,Miami Heat,Atlanta Hawks,217.0,7.0,-330,270,220,10
+1248,2022-04-19,Memphis Grizzlies,Minnesota Timberwolves,241.5,7.0,-280,240,220,28
+1249,2022-04-19,Phoenix Suns,New Orleans Pelicans,222.5,10.5,-550,425,239,-11
+1250,2022-04-20,Boston Celtics,Brooklyn Nets,228.0,4.0,-155,135,221,7
+1251,2022-04-20,Toronto Raptors,Philadelphia 76ers,214.5,2.0,110,-130,205,-3
+1252,2022-04-20,Milwaukee Bucks,Chicago Bulls,225.0,10.0,-500,400,224,-4
+1253,2022-04-21,Minnesota Timberwolves,Memphis Grizzlies,238.0,2.5,120,-140,199,-9
+1254,2022-04-21,Utah Jazz,Dallas Mavericks,209.0,7.5,-390,325,244,-8
+1255,2022-04-21,Denver Nuggets,Golden State Warriors,224.5,2.5,120,-140,231,-5
+1256,2022-04-22,Atlanta Hawks,Miami Heat,220.0,3.0,105,-125,221,1
+1257,2022-04-22,Chicago Bulls,Milwaukee Bucks,223.5,1.5,125,-145,192,-30
+1258,2022-04-22,New Orleans Pelicans,Phoenix Suns,221.5,0.0,115,-135,225,-3
+1259,2022-04-23,Toronto Raptors,Philadelphia 76ers,214.0,2.5,130,-150,212,8
+1260,2022-04-23,Utah Jazz,Dallas Mavericks,211.5,4.5,-240,200,199,1
+1261,2022-04-23,Brooklyn Nets,Boston Celtics,223.5,3.0,-175,155,212,-6
+1262,2022-04-23,Minnesota Timberwolves,Memphis Grizzlies,233.5,3.0,120,-140,237,1
+1263,2022-04-24,Chicago Bulls,Milwaukee Bucks,219.0,4.0,160,-180,214,-24
+1264,2022-04-24,Denver Nuggets,Golden State Warriors,224.0,3.5,180,-210,247,5
+1265,2022-04-24,Atlanta Hawks,Miami Heat,221.0,1.5,100,-120,196,-24
+1266,2022-04-24,New Orleans Pelicans,Phoenix Suns,217.5,3.0,110,-130,221,15
+1267,2022-04-25,Brooklyn Nets,Boston Celtics,220.5,2.5,-125,105,228,-4
+1268,2022-04-25,Philadelphia 76ers,Toronto Raptors,210.0,8.0,-370,310,191,-15
+1269,2022-04-25,Dallas Mavericks,Utah Jazz,212.0,3.0,-155,135,179,25
+1270,2022-04-26,Miami Heat,Atlanta Hawks,218.0,7.0,-185,165,191,3
+1271,2022-04-26,Memphis Grizzlies,Minnesota Timberwolves,232.5,7.0,-270,230,220,2
+1272,2022-04-26,Phoenix Suns,New Orleans Pelicans,215.5,6.5,-260,220,209,15
+1273,2022-04-27,Milwaukee Bucks,Chicago Bulls,218.5,10.5,-1000,650,216,16
+1274,2022-04-27,Golden State Warriors,Denver Nuggets,225.5,8.5,-450,375,200,4
+1275,2022-04-28,New Orleans Pelicans,Phoenix Suns,214.0,2.5,130,-150,224,-6
+1276,2022-04-28,Utah Jazz,Dallas Mavericks,210.5,1.5,100,-120,194,-2
+1277,2022-04-28,Toronto Raptors,Philadelphia 76ers,210.0,2.0,100,-120,229,-35
+1278,2022-04-29,Minnesota Timberwolves,Memphis Grizzlies,229.0,2.0,100,-120,220,-8
+1279,2022-05-01,Boston Celtics,Milwaukee Bucks,218.0,5.0,-190,170,190,-12
+1280,2022-05-01,Memphis Grizzlies,Golden State Warriors,217.5,2.5,125,-145,233,-1
+1281,2022-05-02,Miami Heat,Philadelphia 76ers,207.0,4.5,-370,310,198,14
+1282,2022-05-02,Phoenix Suns,Dallas Mavericks,212.5,6.0,-240,200,235,7
+1283,2022-05-03,Boston Celtics,Milwaukee Bucks,215.0,4.0,-180,160,195,23
+1284,2022-05-03,Memphis Grizzlies,Golden State Warriors,227.0,2.0,110,-130,207,5
+1285,2022-05-04,Miami Heat,Philadelphia 76ers,206.5,9.0,-380,320,222,16
+1286,2022-05-04,Phoenix Suns,Dallas Mavericks,216.0,6.0,-250,210,238,20
+1287,2022-05-06,Philadelphia 76ers,Miami Heat,210.5,1.0,-120,100,178,20
+1288,2022-05-06,Dallas Mavericks,Phoenix Suns,219.5,1.0,-125,105,197,9
+1289,2022-05-07,Milwaukee Bucks,Boston Celtics,213.0,2.5,-130,110,204,2
+1290,2022-05-07,Golden State Warriors,Memphis Grizzlies,226.5,6.5,-310,260,254,30
+1291,2022-05-08,Dallas Mavericks,Phoenix Suns,215.0,1.5,130,-150,212,10
+1292,2022-05-08,Philadelphia 76ers,Miami Heat,207.5,1.5,-145,125,224,8
+1293,2022-05-09,Milwaukee Bucks,Boston Celtics,210.0,1.5,-125,105,224,-8
+1294,2022-05-09,Golden State Warriors,Memphis Grizzlies,227.0,9.0,-550,425,199,3
+1295,2022-05-10,Miami Heat,Philadelphia 76ers,210.0,3.5,-155,135,205,35
+1296,2022-05-10,Phoenix Suns,Dallas Mavericks,213.0,5.5,-300,250,190,30
+1297,2022-05-11,Boston Celtics,Milwaukee Bucks,214.5,5.5,-210,180,217,-3
+1298,2022-05-11,Memphis Grizzlies,Golden State Warriors,219.5,3.0,155,-175,229,39
+1299,2022-05-12,Philadelphia 76ers,Miami Heat,208.0,2.5,-140,120,189,-9
+1300,2022-05-12,Dallas Mavericks,Phoenix Suns,214.0,2.0,110,-130,199,27
+1301,2022-05-13,Milwaukee Bucks,Boston Celtics,212.0,1.5,-125,105,203,-13
+1302,2022-05-13,Golden State Warriors,Memphis Grizzlies,219.5,8.5,-380,320,206,14
+1303,2022-05-15,Boston Celtics,Milwaukee Bucks,210.0,5.5,-240,200,190,28
+1304,2022-05-15,Phoenix Suns,Dallas Mavericks,210.0,6.0,-280,240,213,-33
+1305,2022-05-17,Miami Heat,Boston Celtics,206.5,2.5,-200,175,225,11
+1306,2022-05-18,Golden State Warriors,Dallas Mavericks,214.5,5.5,-240,200,199,25
+1307,2022-05-19,Miami Heat,Boston Celtics,205.5,4.0,-115,-105,229,-25
+1308,2022-05-20,Golden State Warriors,Dallas Mavericks,214.0,6.5,-250,210,243,9
+1309,2022-05-21,Boston Celtics,Miami Heat,208.5,6.0,-250,210,212,-6
+1310,2022-05-22,Dallas Mavericks,Golden State Warriors,218.5,2.0,-165,145,209,-9
+1311,2022-05-23,Boston Celtics,Miami Heat,208.5,6.5,-265,225,184,20
+1312,2022-05-24,Dallas Mavericks,Golden State Warriors,215.5,1.0,-125,105,228,10
+1313,2022-05-25,Miami Heat,Boston Celtics,204.0,1.5,145,-165,173,-13
+1314,2022-05-26,Golden State Warriors,Dallas Mavericks,216.5,7.5,-280,240,230,10
+1315,2022-05-27,Boston Celtics,Miami Heat,200.0,9.0,-400,330,214,-8
+1316,2022-05-29,Miami Heat,Boston Celtics,200.5,2.5,130,-150,196,-4
+1317,2022-06-02,Golden State Warriors,Boston Celtics,210.5,2.0,-165,145,228,-12
+1318,2022-06-06,Golden State Warriors,Boston Celtics,212.5,3.5,-200,175,195,19
+1319,2022-06-08,Boston Celtics,Golden State Warriors,212.5,2.5,-155,135,216,16
+1320,2022-06-10,Boston Celtics,Golden State Warriors,212.5,2.5,-165,145,204,-10
+1321,2022-06-13,Golden State Warriors,Boston Celtics,212.5,3.5,-165,+145 ,198,10
+1322,2022-06-16,Boston Celtics,Golden State Warriors,212.5,2.5,-175,+155 ,193,-13

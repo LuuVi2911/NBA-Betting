@@ -1,0 +1,1310 @@
+index,Date,Home,Away,OU,Spread,ML_Home,ML_Away,Points,Win_Margin
+0,2016-10-25,Cleveland Cavaliers,New York Knicks,205.5,9.5,-450,355,205,29
+1,2016-10-25,Portland Trail Blazers,Utah Jazz,194.0,6.0,-235,195,217,9
+2,2016-10-25,Golden State Warriors,San Antonio Spurs,210.5,8.0,-400,325,229,-29
+3,2016-10-26,Orlando Magic,Miami Heat,202.0,4.0,-155,135,204,-12
+4,2016-10-26,Indiana Pacers,Dallas Mavericks,207.5,5.0,-215,185,251,9
+5,2016-10-26,Toronto Raptors,Detroit Pistons,195.0,7.0,-260,210,200,18
+6,2016-10-26,Boston Celtics,Brooklyn Nets,209.0,14.0,-902,601,239,5
+7,2016-10-26,Memphis Grizzlies,Minnesota Timberwolves,197.0,3.5,100,-120,200,4
+8,2016-10-26,Milwaukee Bucks,Charlotte Bobcats,196.0,0.0,100,-120,203,-11
+9,2016-10-26,Philadelphia 76ers,Oklahoma City Thunder,208.0,7.0,365,-460,200,-6
+10,2016-10-26,New Orleans Pelicans,Denver Nuggets,208.5,4.0,-125,105,209,-5
+11,2016-10-26,Phoenix Suns,Sacramento Kings,210.0,3.0,-150,130,207,-19
+12,2016-10-26,Los Angeles Lakers,Houston Rockets,220.0,5.0,210,-260,234,6
+13,2016-10-27,Atlanta Hawks,Washington Wizards,203.5,2.5,-175,155,213,15
+14,2016-10-27,Chicago Bulls,Boston Celtics,210.5,1.0,-115,-105,204,6
+15,2016-10-27,Portland Trail Blazers,Los Angeles Clippers,208.5,1.5,120,-140,220,-8
+16,2016-10-27,Sacramento Kings,San Antonio Spurs,206.0,8.0,295,-360,196,-8
+17,2016-10-28,Toronto Raptors,Cleveland Cavaliers,204.5,3.0,125,-145,185,-3
+18,2016-10-28,Detroit Pistons,Orlando Magic,197.0,4.0,-180,160,190,26
+19,2016-10-28,Brooklyn Nets,Indiana Pacers,211.5,6.5,190,-230,197,9
+20,2016-10-28,Oklahoma City Thunder,Phoenix Suns,211.0,10.5,-345,280,223,3
+21,2016-10-28,Miami Heat,Charlotte Bobcats,198.0,1.5,100,-120,188,-6
+22,2016-10-28,Dallas Mavericks,Houston Rockets,217.0,2.0,110,-130,204,-8
+23,2016-10-28,Utah Jazz,Los Angeles Lakers,199.0,9.5,-465,370,185,7
+24,2016-10-28,New Orleans Pelicans,Golden State Warriors,217.0,9.5,700,-1000,236,-8
+25,2016-10-29,Philadelphia 76ers,Atlanta Hawks,204.0,6.5,285,-370,176,-32
+26,2016-10-29,Charlotte Bobcats,Boston Celtics,206.0,0.0,125,-145,202,-6
+27,2016-10-29,Cleveland Cavaliers,Orlando Magic,207.0,11.5,-800,500,204,6
+28,2016-10-29,New York Knicks,Memphis Grizzlies,200.0,2.5,-155,135,215,7
+29,2016-10-29,Milwaukee Bucks,Brooklyn Nets,206.0,6.5,-360,280,218,2
+30,2016-10-29,Chicago Bulls,Indiana Pacers,210.0,3.0,-165,145,219,17
+31,2016-10-29,San Antonio Spurs,New Orleans Pelicans,206.0,12.5,-1900,900,177,19
+32,2016-10-29,Denver Nuggets,Portland Trail Blazers,211.0,1.0,105,-125,228,-2
+33,2016-10-29,Sacramento Kings,Minnesota Timberwolves,203.5,2.5,-110,-110,209,3
+34,2016-10-30,Los Angeles Clippers,Utah Jazz,196.0,8.0,-360,295,163,13
+35,2016-10-30,Phoenix Suns,Golden State Warriors,225.0,12.0,570,-791,206,-6
+36,2016-10-30,Detroit Pistons,Milwaukee Bucks,193.5,7.0,-315,250,181,15
+37,2016-10-30,Miami Heat,San Antonio Spurs,195.0,6.0,230,-290,205,-7
+38,2016-10-30,Oklahoma City Thunder,Los Angeles Lakers,214.0,8.5,-450,355,209,17
+39,2016-10-30,Memphis Grizzlies,Washington Wizards,202.5,1.0,140,-160,215,9
+40,2016-10-30,Houston Rockets,Dallas Mavericks,216.0,6.5,-240,200,185,1
+41,2016-10-31,Toronto Raptors,Denver Nuggets,204.0,7.5,-290,230,207,3
+42,2016-10-31,Brooklyn Nets,Chicago Bulls,210.5,5.5,205,-245,206,-30
+43,2016-10-31,Atlanta Hawks,Sacramento Kings,202.5,7.5,-310,250,201,11
+44,2016-10-31,Los Angeles Clippers,Phoenix Suns,207.0,10.5,-1150,750,214,18
+45,2016-11-01,Cleveland Cavaliers,Houston Rockets,218.0,8.5,-540,420,248,8
+46,2016-11-01,Indiana Pacers,Los Angeles Lakers,216.0,9.5,-450,355,223,7
+47,2016-11-01,Philadelphia 76ers,Orlando Magic,199.0,4.0,172,-202,204,-2
+48,2016-11-01,Detroit Pistons,New York Knicks,198.0,3.5,-170,150,191,13
+49,2016-11-01,Miami Heat,Sacramento Kings,201.0,4.0,-165,145,204,12
+50,2016-11-01,Minnesota Timberwolves,Memphis Grizzlies,199.0,5.5,-350,285,196,36
+51,2016-11-01,New Orleans Pelicans,Milwaukee Bucks,206.0,3.0,-165,145,230,-4
+52,2016-11-01,San Antonio Spurs,Utah Jazz,189.0,11.0,-575,435,197,-15
+53,2016-11-01,Portland Trail Blazers,Golden State Warriors,225.0,6.0,200,-240,231,-23
+54,2016-11-02,Washington Wizards,Toronto Raptors,203.0,1.0,-125,105,216,-10
+55,2016-11-02,Charlotte Bobcats,Philadelphia 76ers,195.0,11.5,-1350,850,202,16
+56,2016-11-02,New York Knicks,Houston Rockets,213.5,1.0,-115,-105,217,-19
+57,2016-11-02,Atlanta Hawks,Los Angeles Lakers,208.0,11.0,-1150,750,239,-7
+58,2016-11-02,Brooklyn Nets,Detroit Pistons,204.5,4.0,150,-170,210,8
+59,2016-11-02,Memphis Grizzlies,New Orleans Pelicans,206.0,6.0,-205,175,172,6
+60,2016-11-02,Boston Celtics,Chicago Bulls,209.5,2.5,-164,144,207,7
+61,2016-11-02,Utah Jazz,Dallas Mavericks,188.0,4.5,-160,140,178,16
+62,2016-11-02,Phoenix Suns,Portland Trail Blazers,215.5,3.5,130,-150,233,3
+63,2016-11-02,Los Angeles Clippers,Oklahoma City Thunder,205.0,6.0,-300,240,168,-2
+64,2016-11-03,Orlando Magic,Sacramento Kings,202.0,2.0,100,-120,196,8
+65,2016-11-03,Cleveland Cavaliers,Boston Celtics,210.0,7.0,-700,450,250,6
+66,2016-11-03,Minnesota Timberwolves,Denver Nuggets,209.0,3.5,-165,145,201,-3
+67,2016-11-03,Milwaukee Bucks,Indiana Pacers,210.0,2.5,125,-145,232,18
+68,2016-11-03,Golden State Warriors,Oklahoma City Thunder,226.5,10.0,-850,525,218,26
+69,2016-11-04,Washington Wizards,Atlanta Hawks,207.0,2.0,-120,100,187,3
+70,2016-11-04,Brooklyn Nets,Charlotte Bobcats,206.0,5.5,225,-275,194,-4
+71,2016-11-04,Toronto Raptors,Miami Heat,199.0,7.5,-300,240,183,9
+72,2016-11-04,Chicago Bulls,New York Knicks,208.0,6.5,-320,255,221,-13
+73,2016-11-04,New Orleans Pelicans,Phoenix Suns,211.0,4.0,-145,125,223,-1
+74,2016-11-04,Memphis Grizzlies,Los Angeles Clippers,196.5,4.0,195,-235,187,-11
+75,2016-11-04,Dallas Mavericks,Portland Trail Blazers,208.0,1.5,115,-135,200,-10
+76,2016-11-04,Utah Jazz,San Antonio Spurs,186.0,5.0,145,-165,186,-14
+77,2016-11-04,Los Angeles Lakers,Golden State Warriors,226.5,10.5,600,-900,214,20
+78,2016-11-05,Oklahoma City Thunder,Minnesota Timberwolves,207.0,5.0,-200,170,204,20
+79,2016-11-05,Detroit Pistons,Denver Nuggets,203.0,3.5,-200,170,189,17
+80,2016-11-05,Philadelphia 76ers,Cleveland Cavaliers,204.5,13.0,700,-1000,203,-1
+81,2016-11-05,Orlando Magic,Washington Wizards,205.0,1.5,-270,220,174,2
+82,2016-11-05,Indiana Pacers,Chicago Bulls,215.0,2.5,-165,145,205,17
+83,2016-11-05,Atlanta Hawks,Houston Rockets,217.0,3.0,-155,135,209,15
+84,2016-11-05,Milwaukee Bucks,Sacramento Kings,203.0,2.5,-165,145,208,26
+85,2016-11-05,San Antonio Spurs,Los Angeles Clippers,195.5,5.5,-200,170,208,-24
+86,2016-11-06,New York Knicks,Utah Jazz,194.0,1.5,120,-140,223,-5
+87,2016-11-06,Memphis Grizzlies,Portland Trail Blazers,203.5,1.5,-110,-110,194,-6
+88,2016-11-06,Toronto Raptors,Sacramento Kings,201.0,10.0,-330,270,187,-5
+89,2016-11-06,Dallas Mavericks,Milwaukee Bucks,198.0,2.0,-155,135,161,11
+90,2016-11-06,Boston Celtics,Denver Nuggets,212.0,7.0,-330,270,230,-16
+91,2016-11-06,Los Angeles Lakers,Phoenix Suns,216.0,3.0,-175,155,227,11
+92,2016-11-07,Charlotte Bobcats,Indiana Pacers,206.0,3.0,-140,120,222,22
+93,2016-11-07,Washington Wizards,Houston Rockets,219.0,1.5,-115,-105,220,-8
+94,2016-11-07,Philadelphia 76ers,Utah Jazz,193.5,8.0,170,-200,193,-25
+95,2016-11-07,Oklahoma City Thunder,Miami Heat,203.0,6.5,-230,190,182,12
+96,2016-11-07,Chicago Bulls,Orlando Magic,205.0,7.0,-300,240,192,32
+97,2016-11-07,Los Angeles Clippers,Detroit Pistons,196.0,8.5,-375,305,196,32
+98,2016-11-07,Golden State Warriors,New Orleans Pelicans,224.0,16.0,-5000,1700,222,10
+99,2016-11-08,Cleveland Cavaliers,Atlanta Hawks,205.0,8.5,-360,300,216,-4
+100,2016-11-08,Brooklyn Nets,Minnesota Timberwolves,204.0,3.5,165,-185,229,9
+101,2016-11-08,Memphis Grizzlies,Denver Nuggets,201.0,2.0,-165,145,215,1
+102,2016-11-08,Portland Trail Blazers,Phoenix Suns,215.5,8.5,-400,330,245,3
+103,2016-11-08,Sacramento Kings,New Orleans Pelicans,203.0,5.5,-280,240,196,8
+104,2016-11-08,Los Angeles Lakers,Dallas Mavericks,205.5,4.5,-185,165,206,-12
+105,2016-11-09,Orlando Magic,Minnesota Timberwolves,200.0,0.0,-140,120,230,-16
+106,2016-11-09,New York Knicks,Brooklyn Nets,211.0,7.5,-360,300,206,14
+107,2016-11-09,Washington Wizards,Boston Celtics,214.0,1.5,-125,105,211,25
+108,2016-11-09,Charlotte Bobcats,Utah Jazz,192.0,2.0,-150,130,202,6
+109,2016-11-09,Indiana Pacers,Philadelphia 76ers,209.0,11.5,-1000,650,237,7
+110,2016-11-09,Atlanta Hawks,Chicago Bulls,203.0,3.5,-160,140,222,8
+111,2016-11-09,Oklahoma City Thunder,Toronto Raptors,199.5,3.5,-155,135,214,-10
+112,2016-11-09,Phoenix Suns,Detroit Pistons,203.0,2.5,160,-180,207,7
+113,2016-11-09,San Antonio Spurs,Houston Rockets,212.5,7.0,-420,350,200,-2
+114,2016-11-09,Los Angeles Clippers,Portland Trail Blazers,207.0,8.5,-700,500,191,31
+115,2016-11-09,Golden State Warriors,Dallas Mavericks,209.5,16.5,-9000,1900,211,21
+116,2016-11-10,Milwaukee Bucks,New Orleans Pelicans,205.5,5.5,-205,175,218,-6
+117,2016-11-10,Miami Heat,Chicago Bulls,198.0,0.0,-117,-103,193,-3
+118,2016-11-10,Denver Nuggets,Golden State Warriors,221.5,6.5,220,-270,226,-24
+119,2016-11-10,Sacramento Kings,Los Angeles Lakers,210.0,4.5,-215,185,192,-10
+120,2016-11-11,Philadelphia 76ers,Indiana Pacers,213.0,5.0,175,-210,214,4
+121,2016-11-11,Orlando Magic,Utah Jazz,192.0,4.0,170,-200,161,-13
+122,2016-11-11,Washington Wizards,Cleveland Cavaliers,208.5,6.5,275,-350,199,-11
+123,2016-11-11,Charlotte Bobcats,Toronto Raptors,198.0,3.0,-105,-115,224,-2
+124,2016-11-11,Boston Celtics,New York Knicks,217.0,6.0,-180,160,202,28
+125,2016-11-11,Oklahoma City Thunder,Los Angeles Clippers,202.5,4.5,170,-200,218,-2
+126,2016-11-11,San Antonio Spurs,Detroit Pistons,195.0,9.0,-550,375,182,10
+127,2016-11-11,Portland Trail Blazers,Sacramento Kings,211.0,5.5,-340,270,242,2
+128,2016-11-12,Indiana Pacers,Boston Celtics,221.0,2.5,105,-125,204,-6
+129,2016-11-12,New Orleans Pelicans,Los Angeles Lakers,213.0,1.5,-105,-115,225,-27
+130,2016-11-12,Toronto Raptors,New York Knicks,207.0,8.0,-320,260,225,11
+131,2016-11-12,Atlanta Hawks,Philadelphia 76ers,205.0,13.5,-2500,1200,213,21
+132,2016-11-12,Houston Rockets,San Antonio Spurs,209.5,2.0,110,-130,206,-6
+133,2016-11-12,Minnesota Timberwolves,Los Angeles Clippers,204.0,6.0,180,-220,224,-14
+134,2016-11-12,Chicago Bulls,Washington Wizards,203.5,9.0,-650,425,201,11
+135,2016-11-12,Miami Heat,Utah Jazz,187.5,2.5,100,-120,193,-11
+136,2016-11-12,Milwaukee Bucks,Memphis Grizzlies,200.0,3.0,-145,125,202,10
+137,2016-11-12,Phoenix Suns,Brooklyn Nets,217.5,5.0,-200,170,226,-18
+138,2016-11-12,Denver Nuggets,Detroit Pistons,202.5,3.5,-210,175,201,-11
+139,2016-11-13,Cleveland Cavaliers,Charlotte Bobcats,209.0,8.0,-320,260,193,7
+140,2016-11-13,Minnesota Timberwolves,Los Angeles Lakers,215.0,4.5,-110,-110,224,26
+141,2016-11-13,Oklahoma City Thunder,Orlando Magic,204.0,9.0,-550,375,236,-2
+142,2016-11-13,Golden State Warriors,Phoenix Suns,230.0,16.0,-5000,1500,253,13
+143,2016-11-13,Portland Trail Blazers,Denver Nuggets,217.0,4.0,-330,265,217,7
+144,2016-11-14,Indiana Pacers,Orlando Magic,207.0,6.0,-350,290,157,19
+145,2016-11-14,Detroit Pistons,Oklahoma City Thunder,200.0,2.0,100,-120,192,16
+146,2016-11-14,New York Knicks,Dallas Mavericks,204.0,4.5,-175,155,170,16
+147,2016-11-14,New Orleans Pelicans,Boston Celtics,211.5,5.5,145,-165,211,1
+148,2016-11-14,Houston Rockets,Philadelphia 76ers,215.0,11.5,-1000,650,203,27
+149,2016-11-14,San Antonio Spurs,Miami Heat,191.0,11.0,-800,550,184,4
+150,2016-11-14,Utah Jazz,Memphis Grizzlies,187.0,6.0,-260,220,198,-6
+151,2016-11-14,Los Angeles Clippers,Brooklyn Nets,211.0,15.0,-5000,1500,222,32
+152,2016-11-15,Cleveland Cavaliers,Toronto Raptors,207.0,6.0,-250,210,238,4
+153,2016-11-15,Miami Heat,Atlanta Hawks,198.0,5.5,225,-265,183,-3
+154,2016-11-15,Minnesota Timberwolves,Charlotte Bobcats,206.0,1.5,100,-120,223,-7
+155,2016-11-15,Portland Trail Blazers,Chicago Bulls,212.0,2.5,-190,170,201,-25
+156,2016-11-15,Los Angeles Lakers,Brooklyn Nets,219.0,7.0,-290,245,243,7
+157,2016-11-16,Indiana Pacers,Cleveland Cavaliers,213.0,5.0,-150,130,196,10
+158,2016-11-16,Orlando Magic,New Orleans Pelicans,201.0,5.0,-330,270,171,7
+159,2016-11-16,Philadelphia 76ers,Washington Wizards,208.0,5.0,245,-290,211,7
+160,2016-11-16,Atlanta Hawks,Milwaukee Bucks,207.0,8.5,-220,190,207,7
+161,2016-11-16,Boston Celtics,Dallas Mavericks,204.5,8.0,-250,210,173,7
+162,2016-11-16,New York Knicks,Detroit Pistons,203.0,3.5,-125,105,207,3
+163,2016-11-16,Toronto Raptors,Golden State Warriors,219.0,3.0,200,-240,248,-6
+164,2016-11-16,Oklahoma City Thunder,Houston Rockets,218.5,1.5,-140,120,208,2
+165,2016-11-16,Denver Nuggets,Phoenix Suns,218.5,5.0,-185,165,224,16
+166,2016-11-16,Sacramento Kings,San Antonio Spurs,194.0,6.5,195,-230,215,-5
+167,2016-11-16,Los Angeles Clippers,Memphis Grizzlies,202.5,11.5,-1200,750,218,-4
+168,2016-11-17,Washington Wizards,New York Knicks,205.5,3.0,-200,175,231,7
+169,2016-11-17,Miami Heat,Milwaukee Bucks,198.0,3.5,-170,150,169,23
+170,2016-11-17,Houston Rockets,Portland Trail Blazers,220.0,5.0,-220,190,235,17
+171,2016-11-17,Minnesota Timberwolves,Philadelphia 76ers,214.0,10.0,-900,600,196,24
+172,2016-11-17,Utah Jazz,Chicago Bulls,1955.5,3.5,-155,135,162,-8
+173,2016-11-18,Indiana Pacers,Phoenix Suns,219.0,8.0,-175,155,212,-20
+174,2016-11-18,Charlotte Bobcats,Atlanta Hawks,206.0,3.0,-130,110,196,4
+175,2016-11-18,Cleveland Cavaliers,Detroit Pistons,205.0,10.0,-420,350,185,23
+176,2016-11-18,Oklahoma City Thunder,Brooklyn Nets,218.0,9.0,-500,400,229,19
+177,2016-11-18,Boston Celtics,Golden State Warriors,225.0,7.0,330,-400,192,-16
+178,2016-11-18,New Orleans Pelicans,Portland Trail Blazers,214.5,2.0,-110,-110,214,12
+179,2016-11-18,Dallas Mavericks,Memphis Grizzlies,191.5,1.5,155,-175,144,-16
+180,2016-11-18,Denver Nuggets,Toronto Raptors,216.0,4.0,140,-160,224,-2
+181,2016-11-18,Sacramento Kings,Los Angeles Clippers,204.5,7.0,310,-370,236,-6
+182,2016-11-18,Los Angeles Lakers,San Antonio Spurs,208.0,5.5,300,-360,223,-9
+183,2016-11-19,Houston Rockets,Utah Jazz,200.0,3.5,-280,240,213,9
+184,2016-11-19,Detroit Pistons,Boston Celtics,201.0,2.5,-130,110,186,-2
+185,2016-11-19,Orlando Magic,Dallas Mavericks,184.0,5.5,-360,300,182,8
+186,2016-11-19,Washington Wizards,Miami Heat,198.5,4.5,-200,175,225,-3
+187,2016-11-19,New Orleans Pelicans,Charlotte Bobcats,206.0,5.0,115,-135,237,5
+188,2016-11-19,Philadelphia 76ers,Phoenix Suns,215.0,2.0,115,-135,225,15
+189,2016-11-19,Memphis Grizzlies,Minnesota Timberwolves,204.5,0.0,-105,-115,164,22
+190,2016-11-19,Milwaukee Bucks,Golden State Warriors,223.0,9.5,350,-420,245,-3
+191,2016-11-19,Los Angeles Clippers,Chicago Bulls,205.5,7.5,-380,320,197,7
+192,2016-11-20,New York Knicks,Atlanta Hawks,210.0,2.5,165,-185,198,10
+193,2016-11-20,Brooklyn Nets,Portland Trail Blazers,221.0,4.0,160,-180,238,-20
+194,2016-11-20,Oklahoma City Thunder,Indiana Pacers,211.5,9.0,-500,400,226,-4
+195,2016-11-20,Denver Nuggets,Utah Jazz,198.0,2.0,-175,155,196,14
+196,2016-11-20,Sacramento Kings,Toronto Raptors,208.0,4.5,145,-165,201,3
+197,2016-11-20,Los Angeles Lakers,Chicago Bulls,211.5,3.5,-145,125,228,-8
+198,2016-11-21,Washington Wizards,Phoenix Suns,219.0,7.5,-330,270,207,5
+199,2016-11-21,Indiana Pacers,Golden State Warriors,222.5,11.5,1000,-2000,203,-37
+200,2016-11-21,Philadelphia 76ers,Miami Heat,198.0,4.0,155,-175,195,7
+201,2016-11-21,Charlotte Bobcats,Memphis Grizzlies,196.5,6.0,-210,180,195,-15
+202,2016-11-21,Detroit Pistons,Houston Rockets,204.0,1.0,120,-140,195,-3
+203,2016-11-21,Milwaukee Bucks,Orlando Magic,200.0,5.5,-280,240,182,4
+204,2016-11-21,Minnesota Timberwolves,Boston Celtics,210.0,1.0,110,-130,192,-6
+205,2016-11-21,San Antonio Spurs,Dallas Mavericks,180.0,17.0,-2000,1000,187,5
+206,2016-11-21,Los Angeles Clippers,Toronto Raptors,210.5,7.0,-450,375,238,8
+207,2016-11-22,Atlanta Hawks,New Orleans Pelicans,208.0,8.0,-375,305,206,-18
+208,2016-11-22,New York Knicks,Portland Trail Blazers,215.5,2.0,-115,-105,210,4
+209,2016-11-22,Denver Nuggets,Chicago Bulls,207.5,1.0,100,-120,217,3
+210,2016-11-22,Los Angeles Lakers,Oklahoma City Thunder,220.0,1.5,140,-160,220,2
+211,2016-11-23,Orlando Magic,Phoenix Suns,206.5,4.5,-170,150,179,-5
+212,2016-11-23,Cleveland Cavaliers,Portland Trail Blazers,218.5,11.0,-1000,650,262,12
+213,2016-11-23,Indiana Pacers,Atlanta Hawks,208.0,2.5,100,-120,181,-11
+214,2016-11-23,Charlotte Bobcats,San Antonio Spurs,198.5,3.0,195,-230,233,-5
+215,2016-11-23,Philadelphia 76ers,Memphis Grizzlies,197.5,5.0,190,-220,203,-5
+216,2016-11-23,Detroit Pistons,Miami Heat,190.0,4.5,-190,170,191,23
+217,2016-11-23,Brooklyn Nets,Boston Celtics,213.0,7.0,265,-320,203,-19
+218,2016-11-23,Houston Rockets,Toronto Raptors,219.0,3.0,-175,155,217,-13
+219,2016-11-23,Dallas Mavericks,Los Angeles Clippers,191.5,9.0,450,-600,228,-20
+220,2016-11-23,Utah Jazz,Denver Nuggets,196.5,4.5,-360,300,191,25
+221,2016-11-23,New Orleans Pelicans,Minnesota Timberwolves,210.0,0.0,125,-145,213,21
+222,2016-11-23,Sacramento Kings,Oklahoma City Thunder,208.0,1.0,-125,105,217,15
+223,2016-11-23,Golden State Warriors,Los Angeles Lakers,231.0,16.0,-9900,2000,255,43
+224,2016-11-25,Boston Celtics,San Antonio Spurs,203.5,2.5,145,-165,212,-6
+225,2016-11-25,Orlando Magic,Washington Wizards,201.0,1.0,110,-130,185,-3
+226,2016-11-25,New York Knicks,Charlotte Bobcats,209.5,0.0,105,-125,224,2
+227,2016-11-25,Cleveland Cavaliers,Dallas Mavericks,203.0,16.0,-1400,800,218,38
+228,2016-11-25,Detroit Pistons,Los Angeles Clippers,199.0,6.5,220,-260,205,11
+229,2016-11-25,Philadelphia 76ers,Chicago Bulls,203.5,8.0,400,-500,194,-16
+230,2016-11-25,Utah Jazz,Atlanta Hawks,194.0,2.5,-160,140,163,27
+231,2016-11-25,Milwaukee Bucks,Toronto Raptors,211.0,3.0,135,-155,204,-6
+232,2016-11-25,Memphis Grizzlies,Miami Heat,185.5,6.5,-210,180,171,-9
+233,2016-11-25,Indiana Pacers,Brooklyn Nets,214.0,8.0,-220,190,215,21
+234,2016-11-25,Phoenix Suns,Minnesota Timberwolves,216.0,1.5,110,-130,183,-13
+235,2016-11-25,Denver Nuggets,Oklahoma City Thunder,213.5,1.5,130,-150,261,-3
+236,2016-11-25,Portland Trail Blazers,New Orleans Pelicans,219.0,4.5,-165,145,223,15
+237,2016-11-25,Sacramento Kings,Houston Rockets,216.0,3.0,145,-165,221,-13
+238,2016-11-25,Los Angeles Lakers,Golden State Warriors,233.0,12.0,950,-1800,194,-24
+239,2016-11-26,Charlotte Bobcats,New York Knicks,209.0,6.0,-240,200,209,5
+240,2016-11-26,Washington Wizards,San Antonio Spurs,203.0,5.0,220,-260,212,-12
+241,2016-11-26,Oklahoma City Thunder,Detroit Pistons,203.0,5.0,-180,160,194,18
+242,2016-11-26,Miami Heat,Memphis Grizzlies,184.0,0.0,100,-120,217,-3
+243,2016-11-26,Golden State Warriors,Minnesota Timberwolves,223.0,14.0,-1400,800,217,13
+244,2016-11-27,Philadelphia 76ers,Cleveland Cavaliers,209.5,12.5,600,-900,220,-4
+245,2016-11-27,Phoenix Suns,Denver Nuggets,215.5,1.0,-140,120,234,-6
+246,2016-11-27,Brooklyn Nets,Sacramento Kings,218.0,3.0,175,-205,227,-17
+247,2016-11-27,Orlando Magic,Milwaukee Bucks,194.0,1.0,-135,115,200,-8
+248,2016-11-27,Indiana Pacers,Los Angeles Clippers,207.5,10.5,575,-800,161,21
+249,2016-11-27,Dallas Mavericks,New Orleans Pelicans,200.5,2.5,175,-205,172,10
+250,2016-11-27,Portland Trail Blazers,Houston Rockets,225.0,1.5,-105,-115,244,-16
+251,2016-11-27,Los Angeles Lakers,Atlanta Hawks,212.0,4.0,205,-245,203,15
+252,2016-11-28,Washington Wizards,Sacramento Kings,210.0,4.5,-205,175,196,6
+253,2016-11-28,Toronto Raptors,Philadelphia 76ers,213.5,14.5,-2000,1000,217,27
+254,2016-11-28,New York Knicks,Oklahoma City Thunder,214.5,0.0,-105,-115,215,-9
+255,2016-11-28,Miami Heat,Boston Celtics,196.0,3.5,160,-180,216,-8
+256,2016-11-28,Minnesota Timberwolves,Utah Jazz,196.0,0.0,130,-150,215,-9
+257,2016-11-28,Memphis Grizzlies,Charlotte Bobcats,196.0,2.5,110,-130,189,-19
+258,2016-11-28,Golden State Warriors,Atlanta Hawks,218.0,13.0,-1650,950,205,5
+259,2016-11-29,Charlotte Bobcats,Detroit Pistons,196.0,4.0,-165,145,201,-23
+260,2016-11-29,Brooklyn Nets,Los Angeles Clippers,219.0,12.0,525,-750,249,5
+261,2016-11-29,Milwaukee Bucks,Cleveland Cavaliers,211.0,7.5,270,-330,219,17
+262,2016-11-29,New Orleans Pelicans,Los Angeles Lakers,217.0,5.0,-240,200,193,17
+263,2016-11-29,San Antonio Spurs,Orlando Magic,197.0,14.5,-1400,800,178,-12
+264,2016-11-29,Utah Jazz,Houston Rockets,204.0,1.0,100,-120,221,19
+265,2016-11-30,Toronto Raptors,Memphis Grizzlies,195.5,10.0,-1450,850,225,15
+266,2016-11-30,Boston Celtics,Detroit Pistons,197.5,7.0,-265,215,235,-7
+267,2016-11-30,Oklahoma City Thunder,Washington Wizards,212.0,5.5,-200,170,241,11
+268,2016-11-30,Minnesota Timberwolves,New York Knicks,211.5,3.5,-175,155,210,-2
+269,2016-11-30,Chicago Bulls,Los Angeles Lakers,212.0,10.0,-615,465,186,-6
+270,2016-11-30,Dallas Mavericks,San Antonio Spurs,192.0,10.0,345,-425,181,-7
+271,2016-11-30,Denver Nuggets,Miami Heat,205.0,4.5,-270,220,204,-8
+272,2016-11-30,Phoenix Suns,Atlanta Hawks,209.5,6.5,145,-165,216,2
+273,2016-11-30,Portland Trail Blazers,Indiana Pacers,215.0,7.5,-315,250,240,22
+274,2016-12-01,Charlotte Bobcats,Dallas Mavericks,194.0,9.5,-1000,650,184,10
+275,2016-12-01,Brooklyn Nets,Milwaukee Bucks,216.5,3.5,180,-210,204,-18
+276,2016-12-01,Cleveland Cavaliers,Los Angeles Clippers,215.5,4.0,-170,150,207,-19
+277,2016-12-01,Memphis Grizzlies,Orlando Magic,181.5,2.0,150,-170,189,1
+278,2016-12-01,Utah Jazz,Miami Heat,189.0,9.0,-270,230,221,-1
+279,2016-12-01,Golden State Warriors,Houston Rockets,230.0,9.5,-750,525,259,-5
+280,2016-12-02,Philadelphia 76ers,Orlando Magic,196.0,1.0,-110,-110,193,-17
+281,2016-12-02,Toronto Raptors,Los Angeles Lakers,216.0,10.5,-500,400,193,33
+282,2016-12-02,Boston Celtics,Sacramento Kings,208.0,7.0,-250,210,189,5
+283,2016-12-02,New York Knicks,Minnesota Timberwolves,210.0,3.5,125,-145,232,4
+284,2016-12-02,Atlanta Hawks,Detroit Pistons,194.0,3.5,-125,105,206,-36
+285,2016-12-02,Chicago Bulls,Cleveland Cavaliers,210.0,1.5,100,-120,216,6
+286,2016-12-02,New Orleans Pelicans,Los Angeles Clippers,207.0,4.5,160,-180,210,-18
+287,2016-12-02,San Antonio Spurs,Washington Wizards,203.0,9.0,-450,375,212,2
+288,2016-12-02,Denver Nuggets,Houston Rockets,222.0,1.5,-160,140,238,-18
+289,2016-12-03,Milwaukee Bucks,Brooklyn Nets,217.0,9.5,-550,425,215,9
+290,2016-12-03,Charlotte Bobcats,Minnesota Timberwolves,206.5,5.5,-250,210,245,-5
+291,2016-12-03,Toronto Raptors,Atlanta Hawks,207.0,8.5,-400,330,212,44
+292,2016-12-03,Philadelphia 76ers,Boston Celtics,205.0,8.5,425,-550,213,-1
+293,2016-12-03,Memphis Grizzlies,Los Angeles Lakers,203.0,0.0,-145,125,203,3
+294,2016-12-03,Dallas Mavericks,Chicago Bulls,189.0,5.5,145,-165,189,25
+295,2016-12-03,Utah Jazz,Denver Nuggets,197.5,5.5,-310,260,203,7
+296,2016-12-03,Portland Trail Blazers,Miami Heat,214.5,6.5,-245,205,191,7
+297,2016-12-03,Golden State Warriors,Phoenix Suns,228.5,16.5,-6000,1600,247,29
+298,2016-12-04,Detroit Pistons,Orlando Magic,192.0,7.0,-325,260,190,-6
+299,2016-12-04,Oklahoma City Thunder,New Orleans Pelicans,213.0,6.0,-260,210,193,9
+300,2016-12-04,New York Knicks,Sacramento Kings,210.0,3.0,-115,-105,204,8
+301,2016-12-04,Los Angeles Clippers,Indiana Pacers,204.0,12.0,-750,550,213,-9
+302,2016-12-05,Philadelphia 76ers,Denver Nuggets,211.0,4.0,145,-165,204,-8
+303,2016-12-05,Atlanta Hawks,Oklahoma City Thunder,209.5,0.0,-175,155,201,-3
+304,2016-12-05,Toronto Raptors,Cleveland Cavaliers,216.0,2.0,-125,105,228,-4
+305,2016-12-05,Brooklyn Nets,Washington Wizards,217.0,4.5,235,-275,231,-5
+306,2016-12-05,New Orleans Pelicans,Memphis Grizzlies,200.0,6.5,-175,155,218,-2
+307,2016-12-05,Chicago Bulls,Portland Trail Blazers,216.5,6.5,-175,155,222,-2
+308,2016-12-05,Milwaukee Bucks,San Antonio Spurs,203.5,5.0,200,-240,193,-1
+309,2016-12-05,Houston Rockets,Boston Celtics,219.5,4.5,-220,190,213,1
+310,2016-12-05,Dallas Mavericks,Charlotte Bobcats,190.0,4.0,145,-165,210,-8
+311,2016-12-05,Los Angeles Lakers,Utah Jazz,197.5,2.5,160,-180,208,-6
+312,2016-12-05,Golden State Warriors,Indiana Pacers,221.0,13.5,-2100,1100,248,36
+313,2016-12-06,Washington Wizards,Orlando Magic,195.0,4.5,-150,130,240,-8
+314,2016-12-06,Detroit Pistons,Chicago Bulls,198.0,4.0,-230,195,193,11
+315,2016-12-06,Miami Heat,New York Knicks,202.5,2.0,-120,100,217,-11
+316,2016-12-06,Memphis Grizzlies,Philadelphia 76ers,195.0,8.5,-300,250,187,5
+317,2016-12-06,Minnesota Timberwolves,San Antonio Spurs,206.0,4.0,160,-180,196,-14
+318,2016-12-06,Utah Jazz,Phoenix Suns,204.0,9.0,-300,250,217,7
+319,2016-12-07,Charlotte Bobcats,Detroit Pistons,204.0,4.0,-220,190,164,10
+320,2016-12-07,Orlando Magic,Boston Celtics,200.5,3.0,-105,-115,204,-30
+321,2016-12-07,Brooklyn Nets,Denver Nuggets,221.0,4.5,165,-185,227,5
+322,2016-12-07,Atlanta Hawks,Miami Heat,198.0,6.5,-450,375,198,8
+323,2016-12-07,Houston Rockets,Los Angeles Lakers,222.0,11.5,-2000,1000,229,39
+324,2016-12-07,New York Knicks,Cleveland Cavaliers,217.0,7.0,320,-380,220,-32
+325,2016-12-07,Milwaukee Bucks,Portland Trail Blazers,218.0,2.0,-125,105,222,8
+326,2016-12-07,Dallas Mavericks,Sacramento Kings,190.0,2.0,130,-150,209,-31
+327,2016-12-07,Phoenix Suns,Indiana Pacers,217.0,3.0,150,-170,203,-15
+328,2016-12-07,Los Angeles Clippers,Golden State Warriors,223.0,3.5,145,-165,213,-17
+329,2016-12-08,Washington Wizards,Denver Nuggets,218.0,5.0,-230,195,177,7
+330,2016-12-08,Toronto Raptors,Minnesota Timberwolves,215.5,8.0,-500,400,234,14
+331,2016-12-08,Memphis Grizzlies,Portland Trail Blazers,205.5,3.0,110,-130,174,2
+332,2016-12-08,New Orleans Pelicans,Philadelphia 76ers,205.0,9.5,-245,205,187,-11
+333,2016-12-08,Utah Jazz,Golden State Warriors,214.0,5.0,550,-800,205,-7
+334,2016-12-08,Chicago Bulls,San Antonio Spurs,199.0,3.0,140,-160,186,4
+335,2016-12-09,Charlotte Bobcats,Orlando Magic,199.5,7.0,-280,240,197,21
+336,2016-12-09,Cleveland Cavaliers,Miami Heat,210.5,13.0,-900,600,198,30
+337,2016-12-09,Boston Celtics,Toronto Raptors,208.5,3.0,-140,120,195,-7
+338,2016-12-09,Milwaukee Bucks,Atlanta Hawks,205.5,2.0,-155,135,224,-4
+339,2016-12-09,Minnesota Timberwolves,Detroit Pistons,204.0,1.0,135,-155,207,-27
+340,2016-12-09,Oklahoma City Thunder,Houston Rockets,224.0,1.0,100,-120,201,-3
+341,2016-12-09,Dallas Mavericks,Indiana Pacers,198.5,4.5,145,-165,214,8
+342,2016-12-09,Sacramento Kings,New York Knicks,211.0,4.0,-220,190,203,-3
+343,2016-12-09,Los Angeles Lakers,Phoenix Suns,217.0,3.0,-125,105,234,-4
+344,2016-12-10,Orlando Magic,Denver Nuggets,203.5,1.0,105,-125,234,-8
+345,2016-12-10,Washington Wizards,Milwaukee Bucks,208.0,4.5,-180,160,215,5
+346,2016-12-10,Indiana Pacers,Portland Trail Blazers,216.0,1.0,-105,-115,229,7
+347,2016-12-10,Cleveland Cavaliers,Charlotte Bobcats,212.0,7.5,-350,285,221,11
+348,2016-12-10,Houston Rockets,Dallas Mavericks,207.0,13.0,-1000,700,196,22
+349,2016-12-10,Chicago Bulls,Miami Heat,198.0,9.5,-475,380,205,5
+350,2016-12-10,Memphis Grizzlies,Golden State Warriors,209.0,10.5,800,-1300,199,21
+351,2016-12-10,San Antonio Spurs,Brooklyn Nets,212.0,14.5,-2650,1050,231,29
+352,2016-12-10,Utah Jazz,Sacramento Kings,198.5,7.0,-260,210,188,20
+353,2016-12-10,Los Angeles Clippers,New Orleans Pelicans,203.5,13.0,-2000,1000,238,28
+354,2016-12-11,Detroit Pistons,Philadelphia 76ers,199.5,12.5,-1000,700,176,-18
+355,2016-12-11,Oklahoma City Thunder,Boston Celtics,209.0,4.5,-155,135,195,3
+356,2016-12-11,Minnesota Timberwolves,Golden State Warriors,223.0,9.5,400,-520,224,-8
+357,2016-12-11,Phoenix Suns,New Orleans Pelicans,208.0,4.5,-125,105,239,-1
+358,2016-12-11,Los Angeles Lakers,New York Knicks,217.5,2.0,120,-140,230,-6
+359,2016-12-12,Indiana Pacers,Charlotte Bobcats,210.5,0.0,-110,-110,204,16
+360,2016-12-12,Toronto Raptors,Milwaukee Bucks,211.5,8.5,-360,300,222,22
+361,2016-12-12,Miami Heat,Washington Wizards,205.0,1.0,-105,-115,213,11
+362,2016-12-12,Houston Rockets,Brooklyn Nets,227.5,15.0,-1200,750,240,4
+363,2016-12-12,Dallas Mavericks,Denver Nuggets,203.5,1.0,135,-155,204,20
+364,2016-12-12,Sacramento Kings,Los Angeles Lakers,214.0,7.0,-400,330,208,24
+365,2016-12-12,Los Angeles Clippers,Portland Trail Blazers,218.5,9.0,-550,425,241,1
+366,2016-12-13,Cleveland Cavaliers,Memphis Grizzlies,203.0,12.5,-1600,900,189,17
+367,2016-12-13,Atlanta Hawks,Orlando Magic,197.5,6.5,-380,320,251,-11
+368,2016-12-13,Chicago Bulls,Minnesota Timberwolves,208.0,7.0,-220,190,193,-5
+369,2016-12-13,New Orleans Pelicans,Golden State Warriors,224.5,10.0,550,-800,222,-4
+370,2016-12-13,Phoenix Suns,New York Knicks,221.0,3.5,115,-135,22,2
+371,2016-12-13,Portland Trail Blazers,Oklahoma City Thunder,219.5,1.0,-145,125,209,19
+372,2016-12-14,Miami Heat,Indiana Pacers,206.0,1.0,-105,-115,184,6
+373,2016-12-14,Philadelphia 76ers,Toronto Raptors,208.0,9.0,320,-380,237,-9
+374,2016-12-14,Orlando Magic,Los Angeles Clippers,206.0,8.5,350,-420,221,-5
+375,2016-12-14,Washington Wizards,Charlotte Bobcats,210.0,0.0,110,-130,215,3
+376,2016-12-14,Brooklyn Nets,Los Angeles Lakers,226.0,0.0,-105,-115,204,10
+377,2016-12-14,Memphis Grizzlies,Cleveland Cavaliers,203.0,7.5,-310,260,178,8
+378,2016-12-14,Houston Rockets,Sacramento Kings,216.0,9.5,-1400,800,230,34
+379,2016-12-14,Dallas Mavericks,Detroit Pistons,192.0,4.0,190,-220,180,-10
+380,2016-12-14,Utah Jazz,Oklahoma City Thunder,199.0,4.0,-340,280,198,20
+381,2016-12-14,San Antonio Spurs,Boston Celtics,201.5,7.5,-260,220,209,7
+382,2016-12-15,New Orleans Pelicans,Indiana Pacers,211.0,3.5,-159,139,197,7
+383,2016-12-15,Milwaukee Bucks,Chicago Bulls,206.5,2.5,-102,-118,205,11
+384,2016-12-15,Phoenix Suns,San Antonio Spurs,210.0,8.5,290,-355,199,-15
+385,2016-12-15,Denver Nuggets,Portland Trail Blazers,224.0,1.0,-145,125,252,12
+386,2016-12-15,Golden State Warriors,New York Knicks,226.5,15.0,-5500,1700,193,13
+387,2016-12-16,Orlando Magic,Brooklyn Nets,219.5,6.5,-280,240,229,7
+388,2016-12-16,Washington Wizards,Detroit Pistons,202.0,0.0,100,-120,230,14
+389,2016-12-16,Toronto Raptors,Atlanta Hawks,213.0,7.5,-290,245,246,-4
+390,2016-12-16,Boston Celtics,Charlotte Bobcats,206.0,7.5,-250,210,184,8
+391,2016-12-16,Chicago Bulls,Milwaukee Bucks,206.5,4.5,-220,190,164,-26
+392,2016-12-16,Memphis Grizzlies,Sacramento Kings,194.5,4.0,-210,180,188,-4
+393,2016-12-16,Houston Rockets,New Orleans Pelicans,220.0,10.0,-900,600,222,22
+394,2016-12-16,Philadelphia 76ers,Los Angeles Lakers,207.5,1.0,-120,100,189,-11
+395,2016-12-16,Miami Heat,Los Angeles Clippers,206.5,6.5,330,-400,200,-4
+396,2016-12-16,Utah Jazz,Dallas Mavericks,188.0,11.0,-800,550,203,3
+397,2016-12-17,Oklahoma City Thunder,Phoenix Suns,214.5,8.0,-280,240,215,13
+398,2016-12-17,Detroit Pistons,Indiana Pacers,200.0,4.0,-190,170,195,-15
+399,2016-12-17,Cleveland Cavaliers,Los Angeles Lakers,218.5,17.0,-4000,1400,227,11
+400,2016-12-17,Atlanta Hawks,Charlotte Bobcats,206.5,2.0,-140,120,206,-8
+401,2016-12-17,Minnesota Timberwolves,Houston Rockets,221.0,4.5,120,-140,220,-2
+402,2016-12-17,Denver Nuggets,New York Knicks,217.5,2.0,-170,150,241,13
+403,2016-12-17,Golden State Warriors,Portland Trail Blazers,232.0,14.0,-1600,900,225,45
+404,2016-12-18,Washington Wizards,Los Angeles Clippers,216.0,5.0,185,-215,227,7
+405,2016-12-18,Philadelphia 76ers,Brooklyn Nets,217.5,3.5,-120,100,215,1
+406,2016-12-18,Miami Heat,Boston Celtics,203.0,4.5,150,-170,200,-10
+407,2016-12-18,Orlando Magic,Toronto Raptors,218.5,6.0,190,-230,188,-30
+408,2016-12-18,Memphis Grizzlies,Utah Jazz,185.0,1.5,-105,-115,155,-9
+409,2016-12-18,Dallas Mavericks,Sacramento Kings,195.5,1.0,-105,-115,178,20
+410,2016-12-18,San Antonio Spurs,New Orleans Pelicans,200.0,12.0,-900,600,213,13
+411,2016-12-19,Indiana Pacers,Washington Wizards,211.5,6.0,-205,175,212,2
+412,2016-12-19,Oklahoma City Thunder,Atlanta Hawks,211.0,3.5,-155,135,218,-2
+413,2016-12-19,Chicago Bulls,Detroit Pistons,195.0,4.0,-135,115,195,31
+414,2016-12-19,Minnesota Timberwolves,Phoenix Suns,216.0,5.5,-260,210,223,7
+415,2016-12-19,Denver Nuggets,Dallas Mavericks,205.5,9.0,-365,300,224,10
+416,2016-12-20,Philadelphia 76ers,New Orleans Pelicans,207.0,1.0,135,-155,201,-15
+417,2016-12-20,Charlotte Bobcats,Los Angeles Lakers,213.5,9.5,-450,375,230,4
+418,2016-12-20,Toronto Raptors,Brooklyn Nets,225.0,16.0,-2500,1100,220,12
+419,2016-12-20,Miami Heat,Orlando Magic,197.5,2.5,-165,145,266,-6
+420,2016-12-20,New York Knicks,Indiana Pacers,210.5,5.0,-190,170,229,7
+421,2016-12-20,Memphis Grizzlies,Boston Celtics,192.0,2.0,110,-130,221,-3
+422,2016-12-20,Milwaukee Bucks,Cleveland Cavaliers,213.5,3.5,140,-160,222,-6
+423,2016-12-20,Houston Rockets,San Antonio Spurs,212.5,2.0,-110,-110,202,-2
+424,2016-12-20,Sacramento Kings,Portland Trail Blazers,215.0,3.0,-105,-115,247,5
+425,2016-12-20,Los Angeles Clippers,Denver Nuggets,214.0,8.5,-360,300,221,17
+426,2016-12-20,Golden State Warriors,Utah Jazz,211.0,10.5,-1200,750,178,30
+427,2016-12-21,Cleveland Cavaliers,Milwaukee Bucks,210.5,8.0,-320,255,215,11
+428,2016-12-21,Detroit Pistons,Memphis Grizzlies,185.0,5.5,-265,215,184,-12
+429,2016-12-21,Atlanta Hawks,Minnesota Timberwolves,212.0,5.0,-175,155,176,-8
+430,2016-12-21,Chicago Bulls,Washington Wizards,208.0,5.0,-180,160,204,-10
+431,2016-12-21,New Orleans Pelicans,Oklahoma City Thunder,210.0,1.0,105,-125,231,-11
+432,2016-12-21,Phoenix Suns,Houston Rockets,223.0,7.0,205,-245,236,-14
+433,2016-12-21,Utah Jazz,Sacramento Kings,192.5,7.0,-360,295,187,-1
+434,2016-12-21,Portland Trail Blazers,Dallas Mavericks,209.0,6.0,-245,205,191,-1
+435,2016-12-22,New York Knicks,Orlando Magic,210.5,5.5,-180,160,201,11
+436,2016-12-22,Miami Heat,Los Angeles Lakers,208.0,4.5,-250,210,222,8
+437,2016-12-22,Brooklyn Nets,Golden State Warriors,231.0,14.0,900,-1600,218,-16
+438,2016-12-22,Indiana Pacers,Boston Celtics,208.5,1.0,100,-120,211,-7
+439,2016-12-22,Los Angeles Clippers,San Antonio Spurs,207.0,1.5,135,-155,207,5
+440,2016-12-23,Charlotte Bobcats,Chicago Bulls,203.0,3.5,-180,160,194,12
+441,2016-12-23,Orlando Magic,Los Angeles Lakers,213.0,4.0,-210,180,199,19
+442,2016-12-23,Detroit Pistons,Golden State Warriors,212.5,7.0,280,-345,232,-6
+443,2016-12-23,Cleveland Cavaliers,Brooklyn Nets,221.0,16.5,-4000,1400,218,20
+444,2016-12-23,Boston Celtics,Oklahoma City Thunder,209.0,4.5,-230,190,229,-5
+445,2016-12-23,Milwaukee Bucks,Washington Wizards,211.0,3.0,-150,130,219,27
+446,2016-12-23,New Orleans Pelicans,Miami Heat,203.0,4.5,-185,165,178,4
+447,2016-12-23,Memphis Grizzlies,Houston Rockets,207.0,2.5,140,-160,224,6
+448,2016-12-23,Minnesota Timberwolves,Sacramento Kings,208.5,3.0,-205,175,214,-4
+449,2016-12-23,Phoenix Suns,Philadelphia 76ers,210.0,4.0,-260,210,239,7
+450,2016-12-23,Denver Nuggets,Atlanta Hawks,220.5,3.0,-260,210,217,-1
+451,2016-12-23,Utah Jazz,Toronto Raptors,201.0,1.0,-105,-115,202,-6
+452,2016-12-23,Portland Trail Blazers,San Antonio Spurs,211.5,3.0,105,-125,200,-20
+453,2016-12-23,Los Angeles Clippers,Dallas Mavericks,195.5,5.5,-170,150,178,-2
+454,2016-12-25,New York Knicks,Boston Celtics,212.0,1.5,-104,-116,233,-5
+455,2016-12-25,Cleveland Cavaliers,Golden State Warriors,224.5,1.5,135,-155,217,1
+456,2016-12-25,San Antonio Spurs,Chicago Bulls,200.0,8.5,-465,370,219,19
+457,2016-12-25,Oklahoma City Thunder,Minnesota Timberwolves,212.0,5.0,-175,155,212,12
+458,2016-12-25,Los Angeles Lakers,Los Angeles Clippers,215.0,6.0,120,-140,213,9
+459,2016-12-26,Orlando Magic,Memphis Grizzlies,193.5,1.0,135,-155,214,10
+460,2016-12-26,Washington Wizards,Milwaukee Bucks,213.0,5.0,-160,140,209,5
+461,2016-12-26,Detroit Pistons,Cleveland Cavaliers,207.5,4.5,-220,190,196,16
+462,2016-12-26,Brooklyn Nets,Charlotte Bobcats,216.0,7.0,235,-275,238,2
+463,2016-12-26,New Orleans Pelicans,Dallas Mavericks,199.0,4.5,-185,165,215,7
+464,2016-12-26,Houston Rockets,Phoenix Suns,230.0,12.5,-1100,700,246,16
+465,2016-12-26,Minnesota Timberwolves,Atlanta Hawks,213.0,2.0,115,-135,194,14
+466,2016-12-26,Chicago Bulls,Indiana Pacers,204.0,4.0,-130,110,175,5
+467,2016-12-26,Portland Trail Blazers,Toronto Raptors,217.5,4.5,290,-350,186,-4
+468,2016-12-26,Sacramento Kings,Philadelphia 76ers,204.5,9.0,-365,305,202,2
+469,2016-12-26,Los Angeles Clippers,Denver Nuggets,211.5,1.0,165,-185,208,-4
+470,2016-12-27,Boston Celtics,Memphis Grizzlies,197.0,6.5,-345,280,216,10
+471,2016-12-27,Miami Heat,Oklahoma City Thunder,206.0,2.0,160,-180,200,-12
+472,2016-12-27,Dallas Mavericks,Houston Rockets,209.0,6.5,165,-185,230,-16
+473,2016-12-27,Los Angeles Lakers,Utah Jazz,205.0,4.0,185,-215,202,-2
+474,2016-12-28,Washington Wizards,Indiana Pacers,211.5,4.0,-180,160,216,6
+475,2016-12-28,Orlando Magic,Charlotte Bobcats,205.0,2.5,165,-185,221,-19
+476,2016-12-28,Detroit Pistons,Milwaukee Bucks,197.5,4.0,-155,135,213,-25
+477,2016-12-28,Atlanta Hawks,New York Knicks,211.0,2.0,-215,185,200,4
+478,2016-12-28,Chicago Bulls,Brooklyn Nets,213.5,10.0,-550,425,200,2
+479,2016-12-28,New Orleans Pelicans,Los Angeles Clippers,203.5,4.0,100,-120,200,4
+480,2016-12-28,San Antonio Spurs,Phoenix Suns,213.5,13.5,-900,600,217,21
+481,2016-12-28,Denver Nuggets,Minnesota Timberwolves,217.5,4.0,-170,150,208,2
+482,2016-12-28,Portland Trail Blazers,Sacramento Kings,211.0,2.0,-130,110,191,13
+483,2016-12-28,Golden State Warriors,Toronto Raptors,226.5,9.0,-550,425,232,10
+484,2016-12-29,Charlotte Bobcats,Miami Heat,199.0,6.0,-250,210,173,9
+485,2016-12-29,Cleveland Cavaliers,Boston Celtics,215.0,7.0,-250,210,242,6
+486,2016-12-29,Memphis Grizzlies,Oklahoma City Thunder,199.5,1.5,-120,100,194,34
+487,2016-12-29,Utah Jazz,Philadelphia 76ers,194.5,11.5,-2000,1000,183,17
+488,2016-12-29,Phoenix Suns,Toronto Raptors,219.5,8.0,350,-420,190,8
+489,2016-12-29,Los Angeles Lakers,Dallas Mavericks,203.0,3.0,-175,155,190,-12
+490,2016-12-30,Indiana Pacers,Chicago Bulls,201.0,3.5,-170,150,212,10
+491,2016-12-30,Washington Wizards,Brooklyn Nets,220.5,7.5,-330,270,213,23
+492,2016-12-30,Boston Celtics,Miami Heat,204.5,9.5,-500,400,231,3
+493,2016-12-30,Atlanta Hawks,Detroit Pistons,203.0,4.0,-145,125,203,7
+494,2016-12-30,Minnesota Timberwolves,Milwaukee Bucks,209.0,1.0,-120,100,215,17
+495,2016-12-30,New Orleans Pelicans,New York Knicks,212.0,2.0,-160,140,196,12
+496,2016-12-30,Houston Rockets,Los Angeles Clippers,218.5,5.0,-650,475,256,24
+497,2016-12-30,San Antonio Spurs,Portland Trail Blazers,207.5,13.5,-500,400,204,16
+498,2016-12-30,Denver Nuggets,Philadelphia 76ers,211.5,11.0,-600,450,246,-2
+499,2016-12-30,Golden State Warriors,Dallas Mavericks,212.0,18.0,-8000,1800,207,9
+500,2016-12-31,Sacramento Kings,Memphis Grizzlies,194.0,1.5,105,-125,210,-14
+501,2016-12-31,Charlotte Bobcats,Cleveland Cavaliers,214.5,3.0,100,-120,230,-12
+502,2016-12-31,Chicago Bulls,Milwaukee Bucks,201.0,2.5,-150,130,212,-20
+503,2016-12-31,Houston Rockets,New York Knicks,221.5,9.0,-1400,800,251,7
+504,2016-12-31,Utah Jazz,Phoenix Suns,206.5,9.5,-800,550,177,5
+505,2016-12-31,Oklahoma City Thunder,Los Angeles Clippers,206.0,5.5,-450,375,202,26
+506,2017-01-01,Indiana Pacers,Orlando Magic,207.0,6.0,-240,200,221,13
+507,2017-01-01,Miami Heat,Detroit Pistons,196.0,3.5,240,-280,205,-9
+508,2017-01-01,Atlanta Hawks,San Antonio Spurs,204.0,3.5,175,-200,226,2
+509,2017-01-01,Minnesota Timberwolves,Portland Trail Blazers,211.0,5.5,-250,210,184,-6
+510,2017-01-01,Los Angeles Lakers,Toronto Raptors,217.5,8.5,320,-380,237,-9
+511,2017-01-02,Cleveland Cavaliers,New Orleans Pelicans,216.0,10.0,-420,350,172,8
+512,2017-01-02,Milwaukee Bucks,Oklahoma City Thunder,212.0,2.5,-120,100,192,4
+513,2017-01-02,Brooklyn Nets,Utah Jazz,204.5,6.0,240,-280,190,-12
+514,2017-01-02,New York Knicks,Orlando Magic,208.5,4.0,-175,155,218,-12
+515,2017-01-02,Houston Rockets,Washington Wizards,229.0,9.0,-350,290,192,10
+516,2017-01-02,Chicago Bulls,Charlotte Bobcats,203.0,1.5,100,-120,229,7
+517,2017-01-02,Golden State Warriors,Denver Nuggets,227.5,15.0,-3000,1200,246,8
+518,2017-01-02,Los Angeles Clippers,Phoenix Suns,209.0,5.5,-190,170,207,11
+519,2017-01-03,Philadelphia 76ers,Minnesota Timberwolves,203.5,4.0,170,-190,184,2
+520,2017-01-03,Boston Celtics,Utah Jazz,201.0,6.0,-215,185,219,11
+521,2017-01-03,Detroit Pistons,Indiana Pacers,203.0,3.5,-200,175,237,-5
+522,2017-01-03,San Antonio Spurs,Toronto Raptors,212.0,5.5,-255,215,192,28
+523,2017-01-03,Dallas Mavericks,Washington Wizards,202.0,1.0,-110,-110,218,8
+524,2017-01-03,Phoenix Suns,Miami Heat,209.5,2.5,-210,180,189,9
+525,2017-01-03,Denver Nuggets,Sacramento Kings,214.0,0.0,-175,155,233,-7
+526,2017-01-03,Los Angeles Lakers,Memphis Grizzlies,203.5,2.5,180,-210,218,14
+527,2017-01-04,Orlando Magic,Atlanta Hawks,205.0,3.0,110,-130,203,-19
+528,2017-01-04,Charlotte Bobcats,Oklahoma City Thunder,210.0,3.5,-135,115,235,11
+529,2017-01-04,New York Knicks,Milwaukee Bucks,213.0,0.0,150,-170,209,-1
+530,2017-01-04,Cleveland Cavaliers,Chicago Bulls,208.5,8.0,-190,170,200,-12
+531,2017-01-04,Los Angeles Clippers,Memphis Grizzlies,198.5,0.0,105,-125,221,9
+532,2017-01-04,Golden State Warriors,Portland Trail Blazers,225.0,16.0,-3000,1200,242,8
+533,2017-01-04,Sacramento Kings,Miami Heat,200.0,8.5,-340,280,209,-5
+534,2017-01-05,Indiana Pacers,Brooklyn Nets,219.0,10.5,-600,450,230,12
+535,2017-01-05,Toronto Raptors,Utah Jazz,203.0,6.5,-200,175,194,8
+536,2017-01-05,Detroit Pistons,Charlotte Bobcats,204.5,4.0,-210,180,229,1
+537,2017-01-05,Houston Rockets,Oklahoma City Thunder,224.0,9.0,-400,330,234,2
+538,2017-01-05,New Orleans Pelicans,Atlanta Hawks,206.0,2.0,-120,100,193,-5
+539,2017-01-05,Dallas Mavericks,Phoenix Suns,204.5,4.0,-215,185,197,-7
+540,2017-01-05,Portland Trail Blazers,Los Angeles Lakers,214.0,3.5,-270,230,227,9
+541,2017-01-05,Denver Nuggets,San Antonio Spurs,213.0,6.5,250,-300,226,-28
+542,2017-01-06,Washington Wizards,Minnesota Timberwolves,210.5,4.0,-190,170,217,7
+543,2017-01-06,Orlando Magic,Houston Rockets,223.0,4.5,175,-200,193,-7
+544,2017-01-06,Brooklyn Nets,Cleveland Cavaliers,222.0,12.0,700,-1100,224,-8
+545,2017-01-06,Boston Celtics,Philadelphia 76ers,214.0,12.5,-750,525,216,4
+546,2017-01-06,Milwaukee Bucks,New York Knicks,213.5,6.0,-220,190,227,-5
+547,2017-01-06,Los Angeles Lakers,Miami Heat,210.0,3.0,-140,120,227,27
+548,2017-01-06,Golden State Warriors,Memphis Grizzlies,214.5,14.0,-1200,750,247,-9
+549,2017-01-06,Sacramento Kings,Los Angeles Clippers,206.0,1.5,120,-140,204,-8
+550,2017-01-07,Indiana Pacers,New York Knicks,215.0,7.0,-310,260,232,14
+551,2017-01-07,Boston Celtics,New Orleans Pelicans,214.5,7.0,-260,220,225,9
+552,2017-01-07,Minnesota Timberwolves,Utah Jazz,195.0,2.0,170,-190,186,-2
+553,2017-01-07,Oklahoma City Thunder,Denver Nuggets,219.5,7.0,-360,300,227,15
+554,2017-01-07,Chicago Bulls,Toronto Raptors,208.5,2.5,100,-120,241,5
+555,2017-01-07,Dallas Mavericks,Atlanta Hawks,196.0,3.5,105,-125,179,-15
+556,2017-01-07,San Antonio Spurs,Charlotte Bobcats,208.0,10.0,-800,550,187,17
+557,2017-01-08,Brooklyn Nets,Philadelphia 76ers,214.0,2.5,-115,-105,200,-10
+558,2017-01-08,Los Angeles Clippers,Miami Heat,207.5,10.0,-450,375,184,12
+559,2017-01-08,Milwaukee Bucks,Washington Wizards,213.0,4.0,100,-120,208,-6
+560,2017-01-08,Toronto Raptors,Houston Rockets,224.5,0.0,115,-135,251,-7
+561,2017-01-08,Memphis Grizzlies,Utah Jazz,187.0,2.0,-140,120,167,9
+562,2017-01-08,Phoenix Suns,Cleveland Cavaliers,220.0,9.0,350,-420,236,-4
+563,2017-01-08,Sacramento Kings,Golden State Warriors,222.5,9.5,575,-850,223,-11
+564,2017-01-08,Los Angeles Lakers,Orlando Magic,217.0,1.5,-140,120,206,16
+565,2017-01-08,Portland Trail Blazers,Detroit Pistons,215.0,3.5,-170,150,249,-1
+566,2017-01-09,New York Knicks,New Orleans Pelicans,214.0,4.0,-160,140,206,-14
+567,2017-01-09,Minnesota Timberwolves,Dallas Mavericks,196.0,5.0,-185,165,193,9
+568,2017-01-09,Chicago Bulls,Oklahoma City Thunder,207.0,2.0,100,-120,203,-15
+569,2017-01-10,Washington Wizards,Chicago Bulls,203.0,10.0,-900,600,200,2
+570,2017-01-10,Toronto Raptors,Boston Celtics,218.0,4.5,-220,190,220,8
+571,2017-01-10,Brooklyn Nets,Atlanta Hawks,214.0,6.5,320,-380,214,-20
+572,2017-01-10,Houston Rockets,Charlotte Bobcats,224.5,9.5,-500,400,235,7
+573,2017-01-10,San Antonio Spurs,Milwaukee Bucks,205.5,10.0,-600,450,216,-2
+574,2017-01-10,Utah Jazz,Cleveland Cavaliers,202.5,2.5,100,-120,192,8
+575,2017-01-10,Los Angeles Lakers,Portland Trail Blazers,224.0,2.0,120,-140,195,-21
+576,2017-01-10,Golden State Warriors,Miami Heat,217.0,15.5,-2000,1000,202,12
+577,2017-01-10,Sacramento Kings,Detroit Pistons,207.0,1.5,-150,130,194,6
+578,2017-01-11,Philadelphia 76ers,New York Knicks,209.0,2.0,110,-130,195,1
+579,2017-01-11,Boston Celtics,Washington Wizards,217.0,5.5,-230,195,225,9
+580,2017-01-11,Oklahoma City Thunder,Memphis Grizzlies,205.0,4.5,-185,165,198,8
+581,2017-01-11,Minnesota Timberwolves,Houston Rockets,219.0,4.0,140,-160,224,14
+582,2017-01-11,Portland Trail Blazers,Cleveland Cavaliers,221.0,4.0,200,-240,188,16
+583,2017-01-11,Los Angeles Clippers,Orlando Magic,209.0,9.5,-650,475,201,9
+584,2017-01-12,Denver Nuggets,Indiana Pacers,223.0,1.5,160,-180,252,28
+585,2017-01-12,Brooklyn Nets,New Orleans Pelicans,214.0,5.0,-140,120,199,-9
+586,2017-01-12,New York Knicks,Chicago Bulls,204.5,2.5,-150,130,193,15
+587,2017-01-12,San Antonio Spurs,Los Angeles Lakers,212.0,14.5,-1800,950,228,40
+588,2017-01-12,Phoenix Suns,Dallas Mavericks,203.0,1.0,120,-140,221,-5
+589,2017-01-12,Golden State Warriors,Detroit Pistons,219.5,12.5,-1600,900,234,20
+590,2017-01-13,Philadelphia 76ers,Charlotte Bobcats,209.5,4.5,180,-210,195,9
+591,2017-01-13,Toronto Raptors,Brooklyn Nets,221.5,15.0,-2500,1100,245,19
+592,2017-01-13,Atlanta Hawks,Boston Celtics,213.0,2.5,-160,140,204,-2
+593,2017-01-13,Milwaukee Bucks,Miami Heat,203.0,7.5,-360,300,224,8
+594,2017-01-13,Houston Rockets,Memphis Grizzlies,215.5,7.0,-350,290,215,-5
+595,2017-01-13,Minnesota Timberwolves,Oklahoma City Thunder,209.0,2.0,110,-130,182,10
+596,2017-01-13,Portland Trail Blazers,Orlando Magic,213.5,7.0,-315,260,224,-6
+597,2017-01-13,Utah Jazz,Detroit Pistons,192.0,8.0,-700,500,187,33
+598,2017-01-13,Sacramento Kings,Cleveland Cavaliers,210.0,7.0,250,-300,228,-12
+599,2017-01-14,Los Angeles Clippers,Los Angeles Lakers,217.0,9.5,-900,600,210,16
+600,2017-01-14,Chicago Bulls,New Orleans Pelicans,202.0,2.0,-165,145,206,8
+601,2017-01-14,Phoenix Suns,San Antonio Spurs,213.0,12.0,700,-1100,213,3
+602,2017-01-14,Washington Wizards,Philadelphia 76ers,207.0,9.5,-600,450,202,16
+603,2017-01-14,Utah Jazz,Orlando Magic,194.0,10.5,-800,550,221,7
+604,2017-01-15,Toronto Raptors,New York Knicks,217.5,10.0,-600,450,217,15
+605,2017-01-15,Atlanta Hawks,Milwaukee Bucks,208.0,3.5,-175,155,209,13
+606,2017-01-15,Dallas Mavericks,Minnesota Timberwolves,195.5,2.5,-110,-110,185,11
+607,2017-01-15,Brooklyn Nets,Houston Rockets,232.0,12.5,950,-1800,249,-25
+608,2017-01-15,Memphis Grizzlies,Chicago Bulls,191.5,6.5,-410,340,212,-4
+609,2017-01-15,Sacramento Kings,Oklahoma City Thunder,212.0,1.5,105,-125,240,-4
+610,2017-01-15,Los Angeles Lakers,Detroit Pistons,213.5,2.0,110,-130,199,-5
+611,2017-01-16,New York Knicks,Atlanta Hawks,208.0,3.0,115,-135,215,-1
+612,2017-01-16,Washington Wizards,Portland Trail Blazers,220.0,3.5,-170,150,221,19
+613,2017-01-16,Milwaukee Bucks,Philadelphia 76ers,206.5,7.0,-410,340,217,-9
+614,2017-01-16,Indiana Pacers,New Orleans Pelicans,214.0,5.5,-210,180,193,3
+615,2017-01-16,Denver Nuggets,Orlando Magic,221.5,5.0,-240,200,237,13
+616,2017-01-16,Boston Celtics,Charlotte Bobcats,217.0,5.0,-220,190,206,10
+617,2017-01-16,Golden State Warriors,Cleveland Cavaliers,224.0,7.5,-380,320,217,35
+618,2017-01-16,Phoenix Suns,Utah Jazz,202.0,5.0,230,-270,207,-5
+619,2017-01-16,Los Angeles Clippers,Oklahoma City Thunder,210.5,7.0,-380,320,218,22
+620,2017-01-17,Brooklyn Nets,Toronto Raptors,228.0,11.0,350,-420,228,-10
+621,2017-01-17,Miami Heat,Houston Rockets,220.0,8.0,265,-320,212,6
+622,2017-01-17,Chicago Bulls,Dallas Mavericks,197.0,5.0,-210,180,197,-1
+623,2017-01-17,San Antonio Spurs,Minnesota Timberwolves,203.0,10.5,-1100,700,236,8
+624,2017-01-17,Los Angeles Lakers,Denver Nuggets,227.0,1.0,-105,-115,248,-6
+625,2017-01-18,Charlotte Bobcats,Portland Trail Blazers,216.5,5.5,-240,200,192,22
+626,2017-01-18,Washington Wizards,Memphis Grizzlies,203.0,3.0,-135,115,205,3
+627,2017-01-18,Philadelphia 76ers,Toronto Raptors,210.0,5.0,195,-230,183,5
+628,2017-01-18,Boston Celtics,New York Knicks,220.0,8.0,-500,400,223,-11
+629,2017-01-18,New Orleans Pelicans,Orlando Magic,209.5,6.0,-240,200,216,20
+630,2017-01-18,Detroit Pistons,Atlanta Hawks,203.5,0.0,120,-140,213,23
+631,2017-01-18,Houston Rockets,Milwaukee Bucks,227.0,7.5,-260,220,203,19
+632,2017-01-18,Sacramento Kings,Indiana Pacers,215.0,1.5,-145,125,206,-6
+633,2017-01-18,Golden State Warriors,Oklahoma City Thunder,227.0,12.5,-2000,1000,221,21
+634,2017-01-19,Cleveland Cavaliers,Phoenix Suns,220.0,12.5,-900,600,221,15
+635,2017-01-19,Miami Heat,Dallas Mavericks,195.5,1.0,-130,110,194,4
+636,2017-01-19,New York Knicks,Washington Wizards,216.5,2.5,105,-125,223,-3
+637,2017-01-19,San Antonio Spurs,Denver Nuggets,220.0,11.5,-1200,750,222,14
+638,2017-01-19,Los Angeles Clippers,Minnesota Timberwolves,203.5,2.5,105,-125,205,-3
+639,2017-01-20,Philadelphia 76ers,Portland Trail Blazers,209.5,0.0,115,-135,185,1
+640,2017-01-20,Charlotte Bobcats,Toronto Raptors,216.5,0.0,-120,100,191,35
+641,2017-01-20,Orlando Magic,Milwaukee Bucks,210.0,2.5,140,-160,208,16
+642,2017-01-20,New Orleans Pelicans,Brooklyn Nets,218.5,10.0,-600,450,257,-29
+643,2017-01-20,Atlanta Hawks,Chicago Bulls,204.0,5.0,-170,150,195,9
+644,2017-01-20,Memphis Grizzlies,Sacramento Kings,203.0,6.5,-350,290,198,16
+645,2017-01-20,Houston Rockets,Golden State Warriors,237.5,4.0,180,-210,233,-17
+646,2017-01-20,Dallas Mavericks,Utah Jazz,187.5,5.0,190,-220,219,-5
+647,2017-01-20,Los Angeles Lakers,Indiana Pacers,220.0,2.5,150,-170,204,12
+648,2017-01-21,Boston Celtics,Portland Trail Blazers,219.0,7.0,-330,270,250,-4
+649,2017-01-21,Detroit Pistons,Washington Wizards,212.0,1.0,-125,105,225,1
+650,2017-01-21,Charlotte Bobcats,Brooklyn Nets,220.0,11.5,-1000,650,217,7
+651,2017-01-21,Atlanta Hawks,Philadelphia 76ers,201.0,9.0,-600,450,203,17
+652,2017-01-21,Miami Heat,Milwaukee Bucks,206.0,0.0,110,-130,206,12
+653,2017-01-21,New York Knicks,Phoenix Suns,221.0,5.5,-210,180,212,-2
+654,2017-01-21,Memphis Grizzlies,Houston Rockets,217.5,2.5,-110,-110,214,-24
+655,2017-01-21,Cleveland Cavaliers,San Antonio Spurs,211.5,2.0,-160,140,233,-3
+656,2017-01-21,Chicago Bulls,Sacramento Kings,206.0,6.0,-280,240,201,3
+657,2017-01-21,Utah Jazz,Indiana Pacers,203.0,6.5,-300,250,209,9
+658,2017-01-21,Denver Nuggets,Los Angeles Clippers,218.5,3.0,-200,175,221,25
+659,2017-01-22,Orlando Magic,Golden State Warriors,224.5,12.5,800,-1400,216,-20
+660,2017-01-22,Dallas Mavericks,Los Angeles Lakers,206.5,5.5,-250,210,195,49
+661,2017-01-22,Toronto Raptors,Phoenix Suns,221.5,11.5,-1000,650,218,-12
+662,2017-01-22,Minnesota Timberwolves,Denver Nuggets,221.0,4.5,-165,145,219,3
+663,2017-01-23,Charlotte Bobcats,Washington Wizards,214.5,4.5,-250,210,208,-10
+664,2017-01-23,Detroit Pistons,Sacramento Kings,203.5,5.0,-300,250,213,-5
+665,2017-01-23,Brooklyn Nets,San Antonio Spurs,217.0,11.5,350,-420,198,-26
+666,2017-01-23,Miami Heat,Golden State Warriors,216.0,11.0,550,-800,207,3
+667,2017-01-23,Atlanta Hawks,Los Angeles Clippers,206.0,6.0,-310,260,220,-10
+668,2017-01-23,Milwaukee Bucks,Houston Rockets,223.0,4.0,185,-215,241,13
+669,2017-01-23,New Orleans Pelicans,Cleveland Cavaliers,213.5,6.0,425,-550,246,2
+670,2017-01-23,Indiana Pacers,New York Knicks,220.0,5.5,-240,200,212,-6
+671,2017-01-23,Utah Jazz,Oklahoma City Thunder,203.0,6.5,-200,175,192,-2
+672,2017-01-24,Washington Wizards,Boston Celtics,220.0,0.0,-115,-105,231,15
+673,2017-01-24,Orlando Magic,Chicago Bulls,205.0,2.5,135,-155,192,-8
+674,2017-01-24,Toronto Raptors,San Antonio Spurs,209.0,3.0,-135,115,214,-2
+675,2017-01-24,Philadelphia 76ers,Los Angeles Clippers,198.0,0.0,175,-195,231,11
+676,2017-01-24,Phoenix Suns,Minnesota Timberwolves,211.0,1.0,105,-125,223,-1
+677,2017-01-24,Denver Nuggets,Utah Jazz,212.0,1.5,-125,105,196,10
+678,2017-01-25,Cleveland Cavaliers,Sacramento Kings,215.0,11.0,-850,575,228,-4
+679,2017-01-25,Boston Celtics,Houston Rockets,230.0,0.0,155,-175,229,11
+680,2017-01-25,Brooklyn Nets,Miami Heat,213.5,4.0,125,-145,215,-3
+681,2017-01-25,Milwaukee Bucks,Philadelphia 76ers,208.0,10.0,-900,600,223,-5
+682,2017-01-25,Chicago Bulls,Atlanta Hawks,203.0,0.0,100,-120,233,-5
+683,2017-01-25,Memphis Grizzlies,Toronto Raptors,200.0,5.5,-210,180,200,2
+684,2017-01-25,Charlotte Bobcats,Golden State Warriors,221.5,7.5,450,-600,216,-10
+685,2017-01-25,New Orleans Pelicans,Oklahoma City Thunder,215.5,1.5,105,-125,219,-9
+686,2017-01-25,Dallas Mavericks,New York Knicks,203.0,1.5,-145,125,198,8
+687,2017-01-25,Portland Trail Blazers,Los Angeles Lakers,220.0,10.5,-370,310,203,7
+688,2017-01-26,Minnesota Timberwolves,Indiana Pacers,211.5,3.0,-155,135,212,-6
+689,2017-01-26,Oklahoma City Thunder,Dallas Mavericks,199.5,8.0,-450,375,207,11
+690,2017-01-26,Denver Nuggets,Phoenix Suns,229.5,6.5,-290,245,247,7
+691,2017-01-26,Utah Jazz,Los Angeles Lakers,202.0,13.0,-1600,900,184,8
+692,2017-01-27,Philadelphia 76ers,Houston Rockets,218.0,7.5,250,-300,241,-5
+693,2017-01-27,Indiana Pacers,Sacramento Kings,212.0,4.0,-185,165,226,4
+694,2017-01-27,Toronto Raptors,Milwaukee Bucks,215.0,4.0,-240,200,188,16
+695,2017-01-27,Cleveland Cavaliers,Brooklyn Nets,226.0,15.5,-6000,1600,240,8
+696,2017-01-27,Boston Celtics,Orlando Magic,214.5,9.0,-330,270,226,30
+697,2017-01-27,New York Knicks,Charlotte Bobcats,212.5,1.0,-105,-115,217,3
+698,2017-01-27,Atlanta Hawks,Washington Wizards,213.0,4.0,-155,135,198,-26
+699,2017-01-27,Chicago Bulls,Miami Heat,202.5,6.0,-310,260,188,-12
+700,2017-01-27,New Orleans Pelicans,San Antonio Spurs,208.0,5.5,265,-320,222,16
+701,2017-01-27,Portland Trail Blazers,Memphis Grizzlies,206.0,0.0,-125,105,221,3
+702,2017-01-28,Charlotte Bobcats,Sacramento Kings,208.5,6.0,-295,235,215,-3
+703,2017-01-28,Miami Heat,Detroit Pistons,201.5,2.5,130,-150,219,13
+704,2017-01-28,Milwaukee Bucks,Boston Celtics,217.5,0.0,-140,120,220,-4
+705,2017-01-28,Golden State Warriors,Los Angeles Clippers,223.5,12.5,-1150,750,242,46
+706,2017-01-28,Minnesota Timberwolves,Brooklyn Nets,217.5,11.0,-650,500,238,20
+707,2017-01-28,Phoenix Suns,Denver Nuggets,234.0,1.0,-160,140,235,-11
+708,2017-01-28,Utah Jazz,Memphis Grizzlies,187.0,7.5,-360,295,197,-7
+709,2017-01-29,Atlanta Hawks,New York Knicks,212.0,8.0,-250,210,281,3
+710,2017-01-29,Cleveland Cavaliers,Oklahoma City Thunder,220.5,6.5,-350,290,198,16
+711,2017-01-29,New Orleans Pelicans,Washington Wizards,218.0,1.0,-105,-115,201,-13
+712,2017-01-29,Toronto Raptors,Orlando Magic,210.5,9.5,-700,500,227,-1
+713,2017-01-29,Indiana Pacers,Houston Rockets,225.5,3.0,150,-170,221,19
+714,2017-01-29,San Antonio Spurs,Dallas Mavericks,196.0,13.0,-1000,650,206,-4
+715,2017-01-29,Chicago Bulls,Philadelphia 76ers,206.0,6.5,-300,250,229,13
+716,2017-01-29,Portland Trail Blazers,Golden State Warriors,228.0,9.0,210,-250,224,-2
+717,2017-01-30,Miami Heat,Brooklyn Nets,218.5,9.5,-370,310,200,8
+718,2017-01-30,Minnesota Timberwolves,Orlando Magic,209.5,8.0,-380,320,216,6
+719,2017-01-30,Boston Celtics,Detroit Pistons,212.5,6.0,-230,195,222,4
+720,2017-01-30,Dallas Mavericks,Cleveland Cavaliers,205.0,5.0,165,-185,201,7
+721,2017-01-30,Phoenix Suns,Memphis Grizzlies,210.0,3.0,150,-170,211,-19
+722,2017-01-30,Philadelphia 76ers,Sacramento Kings,206.0,1.5,130,-150,241,3
+723,2017-01-31,Washington Wizards,New York Knicks,217.5,8.0,-380,320,218,16
+724,2017-01-31,Toronto Raptors,New Orleans Pelicans,214.5,7.5,-330,270,214,2
+725,2017-01-31,Houston Rockets,Sacramento Kings,226.5,12.0,-1100,700,188,22
+726,2017-01-31,San Antonio Spurs,Oklahoma City Thunder,210.0,8.5,-550,425,202,14
+727,2017-01-31,Portland Trail Blazers,Charlotte Bobcats,214.5,3.0,-180,160,213,17
+728,2017-01-31,Los Angeles Lakers,Denver Nuggets,226.0,3.0,-110,-110,236,4
+729,2017-02-01,Cleveland Cavaliers,Minnesota Timberwolves,213.0,8.0,-270,230,222,28
+730,2017-02-01,Orlando Magic,Indiana Pacers,212.0,2.5,130,-150,186,-10
+731,2017-02-01,Miami Heat,Atlanta Hawks,204.0,1.0,-130,110,209,23
+732,2017-02-01,Brooklyn Nets,New York Knicks,223.0,2.0,130,-150,185,-5
+733,2017-02-01,Detroit Pistons,New Orleans Pelicans,213.0,5.0,-320,265,216,20
+734,2017-02-01,Boston Celtics,Toronto Raptors,217.5,5.0,-250,210,213,5
+735,2017-02-01,Dallas Mavericks,Philadelphia 76ers,202.0,5.5,-340,280,208,18
+736,2017-02-01,Utah Jazz,Milwaukee Bucks,197.0,8.5,-340,280,192,16
+737,2017-02-01,Denver Nuggets,Memphis Grizzlies,216.0,1.5,150,-170,218,-20
+738,2017-02-01,Phoenix Suns,Los Angeles Clippers,219.5,3.0,130,-150,238,-10
+739,2017-02-01,Oklahoma City Thunder,Chicago Bulls,208.0,4.0,-140,120,228,-28
+740,2017-02-01,Golden State Warriors,Charlotte Bobcats,223.0,14.0,-2500,1100,237,15
+741,2017-02-02,Washington Wizards,Los Angeles Lakers,218.5,11.0,-650,475,224,8
+742,2017-02-02,Houston Rockets,Atlanta Hawks,222.0,9.0,-550,425,221,-5
+743,2017-02-02,San Antonio Spurs,Philadelphia 76ers,209.5,13.5,-5000,1500,188,16
+744,2017-02-02,Los Angeles Clippers,Golden State Warriors,225.0,8.0,265,-320,253,-13
+745,2017-02-03,Orlando Magic,Toronto Raptors,211.0,4.5,180,-210,196,8
+746,2017-02-03,Detroit Pistons,Minnesota Timberwolves,211.0,3.5,-180,160,224,8
+747,2017-02-03,Brooklyn Nets,Indiana Pacers,222.0,6.5,220,-260,203,-9
+748,2017-02-03,Oklahoma City Thunder,Memphis Grizzlies,204.5,1.5,100,-120,216,12
+749,2017-02-03,Houston Rockets,Chicago Bulls,223.0,7.0,-500,400,238,4
+750,2017-02-03,Boston Celtics,Los Angeles Lakers,221.0,11.5,-750,525,220,6
+751,2017-02-03,Denver Nuggets,Milwaukee Bucks,223.0,2.0,-155,135,238,4
+752,2017-02-03,Portland Trail Blazers,Dallas Mavericks,207.0,4.5,-250,210,212,-4
+753,2017-02-03,Sacramento Kings,Phoenix Suns,218.0,4.5,-175,155,208,-2
+754,2017-02-04,Atlanta Hawks,Orlando Magic,206.5,7.5,-310,260,199,27
+755,2017-02-04,Indiana Pacers,Detroit Pistons,211.0,4.5,-150,130,189,21
+756,2017-02-04,Washington Wizards,New Orleans Pelicans,217.0,7.0,-300,250,196,14
+757,2017-02-04,Miami Heat,Philadelphia 76ers,208.0,8.5,-450,375,227,23
+758,2017-02-04,New York Knicks,Cleveland Cavaliers,219.5,6.0,160,-180,215,-7
+759,2017-02-04,Minnesota Timberwolves,Memphis Grizzlies,202.5,1.5,-185,165,206,-8
+760,2017-02-04,San Antonio Spurs,Denver Nuggets,219.5,11.5,-1200,750,218,24
+761,2017-02-04,Phoenix Suns,Milwaukee Bucks,218.0,0.0,105,-125,249,-25
+762,2017-02-04,Utah Jazz,Charlotte Bobcats,197.0,7.5,-370,310,203,7
+763,2017-02-04,Sacramento Kings,Golden State Warriors,225.0,14.0,1000,-2000,215,3
+764,2017-02-05,Brooklyn Nets,Toronto Raptors,216.5,6.5,240,-280,198,-8
+765,2017-02-05,Boston Celtics,Los Angeles Clippers,222.0,5.5,-250,210,209,5
+766,2017-02-05,Oklahoma City Thunder,Portland Trail Blazers,215.5,4.5,-215,185,204,6
+767,2017-02-06,Washington Wizards,Cleveland Cavaliers,220.0,0.0,100,-120,275,-5
+768,2017-02-06,New York Knicks,Los Angeles Lakers,220.0,5.0,-200,175,228,-14
+769,2017-02-06,Indiana Pacers,Oklahoma City Thunder,210.5,4.0,-200,175,183,3
+770,2017-02-06,Toronto Raptors,Los Angeles Clippers,216.0,5.0,-275,235,227,9
+771,2017-02-06,Atlanta Hawks,Utah Jazz,196.5,1.0,-110,-110,215,-25
+772,2017-02-06,Detroit Pistons,Philadelphia 76ers,213.0,10.0,-420,350,209,17
+773,2017-02-06,Minnesota Timberwolves,Miami Heat,207.0,1.5,-115,-105,228,-2
+774,2017-02-06,New Orleans Pelicans,Phoenix Suns,221.0,4.0,-230,195,217,5
+775,2017-02-06,Denver Nuggets,Dallas Mavericks,214.0,2.5,-145,125,197,23
+776,2017-02-06,Memphis Grizzlies,San Antonio Spurs,203.5,2.0,-115,-105,163,15
+777,2017-02-06,Sacramento Kings,Chicago Bulls,206.5,2.0,-185,165,219,-5
+778,2017-02-07,Charlotte Bobcats,Brooklyn Nets,217.0,10.5,-600,450,218,4
+779,2017-02-07,Houston Rockets,Orlando Magic,223.0,11.5,-900,600,232,24
+780,2017-02-07,Dallas Mavericks,Portland Trail Blazers,204.5,0.0,125,-145,227,-1
+781,2017-02-08,Indiana Pacers,Cleveland Cavaliers,214.0,2.5,145,-165,249,-15
+782,2017-02-08,Philadelphia 76ers,San Antonio Spurs,212.0,8.0,650,-1000,214,-8
+783,2017-02-08,Atlanta Hawks,Denver Nuggets,222.0,5.0,-170,150,223,11
+784,2017-02-08,Detroit Pistons,Los Angeles Lakers,216.0,8.0,-280,240,223,19
+785,2017-02-08,Brooklyn Nets,Washington Wizards,220.0,9.5,425,-550,224,-4
+786,2017-02-08,Milwaukee Bucks,Miami Heat,208.5,2.0,-175,155,194,-18
+787,2017-02-08,Memphis Grizzlies,Phoenix Suns,211.0,10.0,-340,280,201,19
+788,2017-02-08,New Orleans Pelicans,Utah Jazz,202.0,4.5,145,-165,221,-33
+789,2017-02-08,Minnesota Timberwolves,Toronto Raptors,212.5,2.5,135,-155,221,3
+790,2017-02-08,New York Knicks,Los Angeles Clippers,219.0,0.0,100,-120,234,-4
+791,2017-02-08,Golden State Warriors,Chicago Bulls,222.0,13.5,-8000,1800,215,31
+792,2017-02-08,Sacramento Kings,Boston Celtics,211.5,8.5,350,-420,200,16
+793,2017-02-09,Orlando Magic,Philadelphia 76ers,211.5,5.0,-270,230,223,-1
+794,2017-02-09,Charlotte Bobcats,Houston Rockets,223.5,3.5,120,-140,202,-12
+795,2017-02-09,Oklahoma City Thunder,Cleveland Cavaliers,213.5,4.0,-115,-105,227,9
+796,2017-02-09,Dallas Mavericks,Utah Jazz,193.0,2.5,120,-140,217,7
+797,2017-02-09,Portland Trail Blazers,Boston Celtics,219.5,1.5,-150,130,231,-9
+798,2017-02-10,Brooklyn Nets,Miami Heat,212.0,7.0,195,-230,207,-9
+799,2017-02-10,Detroit Pistons,San Antonio Spurs,208.0,4.0,175,-200,195,-11
+800,2017-02-10,New York Knicks,Denver Nuggets,228.5,1.5,-130,110,254,-8
+801,2017-02-10,Milwaukee Bucks,Los Angeles Lakers,219.0,4.0,-220,190,236,-8
+802,2017-02-10,Minnesota Timberwolves,New Orleans Pelicans,214.0,3.5,-200,175,228,-16
+803,2017-02-10,Washington Wizards,Indiana Pacers,214.5,5.0,-240,200,219,5
+804,2017-02-10,Memphis Grizzlies,Golden State Warriors,215.5,7.0,280,-340,229,-15
+805,2017-02-10,Sacramento Kings,Atlanta Hawks,208.5,1.0,105,-125,215,1
+806,2017-02-10,Phoenix Suns,Chicago Bulls,217.0,2.5,145,-165,212,18
+807,2017-02-11,Charlotte Bobcats,Los Angeles Clippers,216.5,2.5,-140,120,209,-5
+808,2017-02-11,Indiana Pacers,Milwaukee Bucks,212.0,6.0,-250,210,216,-16
+809,2017-02-11,Philadelphia 76ers,Miami Heat,206.5,4.5,115,-135,226,8
+810,2017-02-11,Cleveland Cavaliers,Denver Nuggets,228.5,12.5,-950,625,234,16
+811,2017-02-11,Oklahoma City Thunder,Golden State Warriors,226.0,7.5,300,-360,244,-16
+812,2017-02-11,Houston Rockets,Phoenix Suns,231.0,13.5,-3500,1300,235,31
+813,2017-02-11,Dallas Mavericks,Orlando Magic,203.0,6.0,-260,220,192,32
+814,2017-02-11,Utah Jazz,Boston Celtics,203.5,5.0,-265,225,216,-8
+815,2017-02-12,New York Knicks,San Antonio Spurs,213.0,7.5,400,-500,184,4
+816,2017-02-12,Minnesota Timberwolves,Chicago Bulls,209.0,0.0,-300,250,206,28
+817,2017-02-12,Toronto Raptors,Detroit Pistons,212.5,6.0,-280,240,203,-1
+818,2017-02-12,Sacramento Kings,New Orleans Pelicans,210.0,3.5,-175,155,204,6
+819,2017-02-13,Charlotte Bobcats,Philadelphia 76ers,212.0,9.0,-350,290,204,-6
+820,2017-02-13,Washington Wizards,Oklahoma City Thunder,218.5,5.0,-260,220,218,22
+821,2017-02-13,Miami Heat,Orlando Magic,208.5,8.5,-350,290,223,-9
+822,2017-02-13,Brooklyn Nets,Memphis Grizzlies,208.0,8.5,330,-400,215,-9
+823,2017-02-13,Indiana Pacers,San Antonio Spurs,208.5,3.0,180,-210,216,-4
+824,2017-02-13,Milwaukee Bucks,Detroit Pistons,212.0,3.5,-145,125,191,13
+825,2017-02-13,Dallas Mavericks,Boston Celtics,209.0,1.5,110,-130,209,-13
+826,2017-02-13,Phoenix Suns,New Orleans Pelicans,220.0,2.5,-165,145,218,-2
+827,2017-02-13,Denver Nuggets,Golden State Warriors,238.0,11.0,650,-1000,242,22
+828,2017-02-13,Utah Jazz,Los Angeles Clippers,207.5,7.0,-380,320,160,-16
+829,2017-02-13,Portland Trail Blazers,Atlanta Hawks,217.0,2.5,-135,115,213,-5
+830,2017-02-14,Chicago Bulls,Toronto Raptors,205.0,4.5,160,-180,199,11
+831,2017-02-14,Minnesota Timberwolves,Cleveland Cavaliers,219.0,3.5,170,-190,224,-8
+832,2017-02-14,Los Angeles Lakers,Sacramento Kings,218.0,0.0,-145,125,193,-1
+833,2017-02-15,Cleveland Cavaliers,Indiana Pacers,219.0,6.0,-260,220,217,9
+834,2017-02-15,Orlando Magic,San Antonio Spurs,206.0,10.0,475,-650,186,-28
+835,2017-02-15,Detroit Pistons,Dallas Mavericks,200.5,4.5,-200,175,189,7
+836,2017-02-15,Brooklyn Nets,Milwaukee Bucks,219.0,6.0,180,-210,254,-4
+837,2017-02-15,Boston Celtics,Philadelphia 76ers,219.0,10.0,-600,450,224,8
+838,2017-02-15,Toronto Raptors,Charlotte Bobcats,213.0,6.5,-250,210,175,5
+839,2017-02-15,Houston Rockets,Miami Heat,224.0,10.0,-600,450,226,-8
+840,2017-02-15,Memphis Grizzlies,New Orleans Pelicans,205.0,8.0,-360,300,186,-4
+841,2017-02-15,Denver Nuggets,Minnesota Timberwolves,225.5,5.5,-250,210,211,-13
+842,2017-02-15,Phoenix Suns,Los Angeles Lakers,226.0,4.0,-180,160,238,36
+843,2017-02-15,Utah Jazz,Portland Trail Blazers,204.5,8.5,-450,375,199,23
+844,2017-02-15,Oklahoma City Thunder,New York Knicks,218.0,7.0,-300,250,221,11
+845,2017-02-15,Los Angeles Clippers,Atlanta Hawks,212.5,3.5,-160,140,183,15
+846,2017-02-15,Golden State Warriors,Sacramento Kings,225.0,18.0,-9100,2000,195,23
+847,2017-02-16,Indiana Pacers,Washington Wizards,216.5,1.5,125,-145,209,-13
+848,2017-02-16,Chicago Bulls,Boston Celtics,212.0,1.0,100,-120,207,1
+849,2017-02-23,Orlando Magic,Portland Trail Blazers,213.0,2.0,120,-140,215,-9
+850,2017-02-23,Detroit Pistons,Charlotte Bobcats,208.0,4.5,-185,165,222,6
+851,2017-02-23,New Orleans Pelicans,Houston Rockets,227.0,3.0,140,-160,228,-30
+852,2017-02-23,Cleveland Cavaliers,New York Knicks,223.0,10.5,-650,475,223,15
+853,2017-02-23,Sacramento Kings,Denver Nuggets,222.0,5.5,230,-270,216,16
+854,2017-02-23,Golden State Warriors,Los Angeles Clippers,229.0,13.5,-1400,800,236,10
+855,2017-02-24,Indiana Pacers,Memphis Grizzlies,207.0,1.0,-110,-110,194,10
+856,2017-02-24,Philadelphia 76ers,Washington Wizards,217.0,8.0,390,-480,232,8
+857,2017-02-24,Toronto Raptors,Boston Celtics,216.0,2.5,-125,105,204,10
+858,2017-02-24,Atlanta Hawks,Miami Heat,207.0,3.5,-145,125,198,-18
+859,2017-02-24,Milwaukee Bucks,Utah Jazz,200.5,2.0,140,-160,204,-14
+860,2017-02-24,Oklahoma City Thunder,Los Angeles Lakers,221.0,10.5,-650,475,203,17
+861,2017-02-24,Chicago Bulls,Phoenix Suns,215.5,6.5,-260,220,249,7
+862,2017-02-24,Minnesota Timberwolves,Dallas Mavericks,203.0,3.5,-165,145,181,13
+863,2017-02-24,Denver Nuggets,Brooklyn Nets,231.0,10.0,-600,450,238,20
+864,2017-02-24,Los Angeles Clippers,San Antonio Spurs,212.5,4.0,125,-145,202,-8
+865,2017-02-25,Sacramento Kings,Charlotte Bobcats,207.0,2.0,145,-165,184,-14
+866,2017-02-25,Orlando Magic,Atlanta Hawks,207.0,3.0,150,-170,191,19
+867,2017-02-25,New York Knicks,Philadelphia 76ers,215.5,5.0,-270,230,219,1
+868,2017-02-25,Miami Heat,Indiana Pacers,209.5,3.5,-190,170,208,18
+869,2017-02-25,Dallas Mavericks,New Orleans Pelicans,205.0,1.0,110,-130,179,13
+870,2017-02-25,Cleveland Cavaliers,Chicago Bulls,216.5,9.0,-260,220,216,-18
+871,2017-02-25,Houston Rockets,Minnesota Timberwolves,228.0,10.5,-1300,775,272,12
+872,2017-02-25,Golden State Warriors,Brooklyn Nets,233.0,22.0,-4400,2950,207,17
+873,2017-02-26,Los Angeles Lakers,San Antonio Spurs,212.0,10.0,600,-900,217,-21
+874,2017-02-26,Milwaukee Bucks,Phoenix Suns,222.0,6.5,-250,210,196,4
+875,2017-02-26,Washington Wizards,Utah Jazz,205.5,3.0,-125,105,194,-10
+876,2017-02-26,Denver Nuggets,Memphis Grizzlies,215.0,1.0,-130,110,203,-7
+877,2017-02-26,Toronto Raptors,Portland Trail Blazers,212.5,4.5,-215,185,218,6
+878,2017-02-26,Detroit Pistons,Boston Celtics,214.5,1.5,115,-135,202,-6
+879,2017-02-26,Oklahoma City Thunder,New Orleans Pelicans,214.0,4.5,-250,210,228,8
+880,2017-02-26,Los Angeles Clippers,Charlotte Bobcats,213.0,8.0,-800,550,245,3
+881,2017-02-27,New York Knicks,Toronto Raptors,212.5,2.0,140,-160,183,-1
+882,2017-02-27,Cleveland Cavaliers,Milwaukee Bucks,217.0,8.0,-600,450,197,7
+883,2017-02-27,Philadelphia 76ers,Golden State Warriors,230.0,14.0,1100,-2500,227,-11
+884,2017-02-27,Boston Celtics,Atlanta Hawks,214.0,5.0,-190,170,212,-16
+885,2017-02-27,Houston Rockets,Indiana Pacers,229.0,10.0,-600,450,225,-9
+886,2017-02-27,Dallas Mavericks,Miami Heat,199.0,1.0,-105,-115,185,7
+887,2017-02-27,Sacramento Kings,Minnesota Timberwolves,210.0,4.0,160,-180,190,-14
+888,2017-02-28,Washington Wizards,Golden State Warriors,229.5,6.5,260,-310,220,4
+889,2017-02-28,Detroit Pistons,Portland Trail Blazers,213.0,5.0,-175,155,233,7
+890,2017-02-28,Chicago Bulls,Denver Nuggets,222.5,4.5,-140,120,232,-18
+891,2017-02-28,Memphis Grizzlies,Phoenix Suns,211.0,10.0,-420,350,242,18
+892,2017-02-28,Oklahoma City Thunder,Utah Jazz,203.0,0.0,120,-140,215,3
+893,2017-02-28,Los Angeles Lakers,Charlotte Bobcats,215.0,3.0,175,-200,213,-5
+894,2017-03-01,Orlando Magic,New York Knicks,215.0,1.5,-135,115,191,-11
+895,2017-03-01,Toronto Raptors,Washington Wizards,213.0,3.0,-185,165,201,-9
+896,2017-03-01,Miami Heat,Philadelphia 76ers,212.0,7.5,-550,425,223,27
+897,2017-03-01,Atlanta Hawks,Dallas Mavericks,194.0,5.0,-250,210,195,5
+898,2017-03-01,Boston Celtics,Cleveland Cavaliers,221.5,1.0,-130,110,202,4
+899,2017-03-01,Milwaukee Bucks,Denver Nuggets,226.5,3.5,-185,165,208,-12
+900,2017-03-01,New Orleans Pelicans,Detroit Pistons,209.0,1.0,-140,120,195,23
+901,2017-03-01,San Antonio Spurs,Indiana Pacers,210.0,10.5,-600,450,199,1
+902,2017-03-01,Utah Jazz,Minnesota Timberwolves,201.0,7.0,-265,225,187,-27
+903,2017-03-01,Los Angeles Clippers,Houston Rockets,232.0,1.5,-140,120,225,-19
+904,2017-03-01,Sacramento Kings,Brooklyn Nets,213.5,4.0,-140,120,209,-9
+905,2017-03-02,Chicago Bulls,Golden State Warriors,219.5,6.0,275,-335,181,7
+906,2017-03-02,Phoenix Suns,Charlotte Bobcats,218.0,3.0,140,-160,223,17
+907,2017-03-02,Portland Trail Blazers,Oklahoma City Thunder,220.0,1.5,-105,-115,223,5
+908,2017-03-03,Washington Wizards,Toronto Raptors,209.0,5.0,-210,180,220,-8
+909,2017-03-03,Philadelphia 76ers,New York Knicks,218.5,1.5,115,-135,207,3
+910,2017-03-03,Orlando Magic,Miami Heat,210.5,4.0,180,-210,209,11
+911,2017-03-03,Atlanta Hawks,Cleveland Cavaliers,214.0,3.0,135,-155,265,-5
+912,2017-03-03,Milwaukee Bucks,Los Angeles Clippers,216.0,2.5,185,-215,213,11
+913,2017-03-03,Dallas Mavericks,Memphis Grizzlies,190.0,2.5,125,-145,204,4
+914,2017-03-03,Utah Jazz,Brooklyn Nets,206.5,14.0,-1400,800,209,15
+915,2017-03-03,Phoenix Suns,Oklahoma City Thunder,225.0,3.5,175,-200,229,7
+916,2017-03-03,New Orleans Pelicans,San Antonio Spurs,206.0,5.5,200,-240,199,-3
+917,2017-03-03,Los Angeles Lakers,Boston Celtics,221.5,8.0,260,-310,210,-20
+918,2017-03-04,Philadelphia 76ers,Detroit Pistons,210.0,4.0,200,-240,242,-30
+919,2017-03-04,Miami Heat,Cleveland Cavaliers,216.0,3.5,-380,320,212,28
+920,2017-03-04,Milwaukee Bucks,Toronto Raptors,206.0,2.0,-115,-105,195,7
+921,2017-03-04,Chicago Bulls,Los Angeles Clippers,213.0,1.5,135,-155,192,-10
+922,2017-03-04,San Antonio Spurs,Minnesota Timberwolves,206.5,8.5,-340,280,187,7
+923,2017-03-04,Houston Rockets,Memphis Grizzlies,218.0,8.0,-410,340,231,15
+924,2017-03-04,Denver Nuggets,Charlotte Bobcats,222.0,5.0,-220,190,214,-10
+925,2017-03-04,Portland Trail Blazers,Brooklyn Nets,227.0,9.5,-750,525,246,14
+926,2017-03-05,Atlanta Hawks,Indiana Pacers,208.0,3.0,-150,130,193,-1
+927,2017-03-05,New York Knicks,Golden State Warriors,221.0,9.0,550,-800,217,-7
+928,2017-03-05,Washington Wizards,Orlando Magic,215.0,12.0,-1000,650,229,1
+929,2017-03-05,Phoenix Suns,Boston Celtics,225.0,5.5,160,-180,215,3
+930,2017-03-05,Sacramento Kings,Utah Jazz,196.0,10.0,425,-550,219,-1
+931,2017-03-05,Dallas Mavericks,Oklahoma City Thunder,204.0,1.0,-120,100,193,15
+932,2017-03-05,Los Angeles Lakers,New Orleans Pelicans,213.0,5.5,220,-260,202,-8
+933,2017-03-06,Orlando Magic,New York Knicks,210.0,0.0,-145,125,218,-8
+934,2017-03-06,Cleveland Cavaliers,Miami Heat,217.0,7.5,-500,400,204,-8
+935,2017-03-06,Philadelphia 76ers,Milwaukee Bucks,214.0,3.0,190,-220,210,-14
+936,2017-03-06,Detroit Pistons,Chicago Bulls,204.5,3.5,-240,200,204,14
+937,2017-03-06,Atlanta Hawks,Golden State Warriors,216.0,6.0,200,-240,230,-8
+938,2017-03-06,Charlotte Bobcats,Indiana Pacers,209.0,2.5,-175,155,188,12
+939,2017-03-06,Memphis Grizzlies,Brooklyn Nets,214.0,12.0,-900,600,231,-13
+940,2017-03-06,San Antonio Spurs,Houston Rockets,219.0,4.0,-165,145,222,2
+941,2017-03-06,Utah Jazz,New Orleans Pelicans,197.0,7.5,-200,175,171,5
+942,2017-03-06,Denver Nuggets,Sacramento Kings,219.0,13.0,-700,500,204,12
+943,2017-03-06,Los Angeles Clippers,Boston Celtics,216.5,5.0,-310,260,218,14
+944,2017-03-07,Oklahoma City Thunder,Portland Trail Blazers,223.5,6.0,-275,235,247,-5
+945,2017-03-07,Dallas Mavericks,Los Angeles Lakers,206.5,10.0,-450,375,233,11
+946,2017-03-07,Phoenix Suns,Washington Wizards,225.5,3.5,180,-210,258,-4
+947,2017-03-08,Orlando Magic,Chicago Bulls,203.0,2.0,-110,-110,189,7
+948,2017-03-08,Miami Heat,Charlotte Bobcats,207.0,4.0,-185,165,209,7
+949,2017-03-08,Atlanta Hawks,Brooklyn Nets,219.0,9.5,-600,450,215,5
+950,2017-03-08,Milwaukee Bucks,New York Knicks,213.0,5.0,-265,225,197,11
+951,2017-03-08,Minnesota Timberwolves,Los Angeles Clippers,211.0,2.5,135,-155,198,16
+952,2017-03-08,New Orleans Pelicans,Toronto Raptors,201.5,1.5,-150,130,181,-7
+953,2017-03-08,Indiana Pacers,Detroit Pistons,205.0,3.5,-165,145,213,17
+954,2017-03-08,Houston Rockets,Utah Jazz,216.0,5.5,-400,330,223,-7
+955,2017-03-08,San Antonio Spurs,Sacramento Kings,200.0,16.0,-800,550,218,10
+956,2017-03-08,Denver Nuggets,Washington Wizards,227.0,1.0,105,-125,236,-10
+957,2017-03-08,Golden State Warriors,Boston Celtics,224.0,9.0,-340,280,185,-13
+958,2017-03-09,Detroit Pistons,Cleveland Cavaliers,216.0,3.5,160,-180,207,5
+959,2017-03-09,Oklahoma City Thunder,San Antonio Spurs,212.5,3.0,130,-150,194,10
+960,2017-03-09,Memphis Grizzlies,Los Angeles Clippers,208.0,1.5,-145,125,212,-16
+961,2017-03-09,Portland Trail Blazers,Philadelphia 76ers,223.0,10.0,-550,425,222,6
+962,2017-03-09,Phoenix Suns,Los Angeles Lakers,229.0,7.0,-270,230,232,-12
+963,2017-03-10,Charlotte Bobcats,Orlando Magic,205.0,7.5,-480,390,202,40
+964,2017-03-10,Minnesota Timberwolves,Golden State Warriors,217.5,4.5,180,-210,205,1
+965,2017-03-10,Chicago Bulls,Houston Rockets,224.5,4.5,210,-250,209,-21
+966,2017-03-10,Atlanta Hawks,Toronto Raptors,199.5,1.0,-145,125,204,6
+967,2017-03-10,Milwaukee Bucks,Indiana Pacers,209.5,2.5,-130,110,184,14
+968,2017-03-10,Denver Nuggets,Boston Celtics,225.0,2.5,120,-140,218,20
+969,2017-03-10,Dallas Mavericks,Brooklyn Nets,214.0,9.5,-650,475,201,9
+970,2017-03-10,Sacramento Kings,Washington Wizards,214.5,8.0,320,-380,252,-8
+971,2017-03-11,Oklahoma City Thunder,Utah Jazz,205.0,2.0,-190,170,216,8
+972,2017-03-11,Los Angeles Clippers,Philadelphia 76ers,217.5,13.5,-2500,1100,212,12
+973,2017-03-11,Detroit Pistons,New York Knicks,212.0,6.0,-250,210,204,20
+974,2017-03-11,Charlotte Bobcats,New Orleans Pelicans,201.5,3.0,-165,145,247,-3
+975,2017-03-11,Orlando Magic,Cleveland Cavaliers,215.0,9.0,330,-400,220,-12
+976,2017-03-11,Miami Heat,Toronto Raptors,203.0,4.0,-220,190,193,15
+977,2017-03-11,Milwaukee Bucks,Minnesota Timberwolves,203.0,2.0,-155,135,197,7
+978,2017-03-11,San Antonio Spurs,Golden State Warriors,203.0,10.0,-700,500,192,22
+979,2017-03-11,Dallas Mavericks,Phoenix Suns,215.0,7.5,-240,200,198,-2
+980,2017-03-11,Memphis Grizzlies,Atlanta Hawks,201.5,4.5,-260,220,197,-17
+981,2017-03-11,Portland Trail Blazers,Washington Wizards,226.0,0.0,-185,165,249,-1
+982,2017-03-11,Sacramento Kings,Denver Nuggets,217.0,6.0,175,-200,197,-13
+983,2017-03-12,Boston Celtics,Chicago Bulls,208.0,7.0,-300,250,180,20
+984,2017-03-12,Indiana Pacers,Miami Heat,207.0,3.5,-270,230,200,4
+985,2017-03-12,Brooklyn Nets,New York Knicks,221.5,1.5,-120,100,232,8
+986,2017-03-12,Houston Rockets,Cleveland Cavaliers,231.0,4.5,-290,245,229,5
+987,2017-03-12,Phoenix Suns,Portland Trail Blazers,232.0,2.0,110,-130,211,-9
+988,2017-03-12,Los Angeles Lakers,Philadelphia 76ers,221.0,3.5,-185,165,234,-2
+989,2017-03-13,Charlotte Bobcats,Chicago Bulls,200.0,6.5,-330,270,224,-6
+990,2017-03-13,Toronto Raptors,Dallas Mavericks,198.5,5.0,-190,170,178,22
+991,2017-03-13,San Antonio Spurs,Atlanta Hawks,200.0,7.5,-310,260,206,8
+992,2017-03-13,Memphis Grizzlies,Milwaukee Bucks,203.0,4.0,-170,150,206,20
+993,2017-03-13,Minnesota Timberwolves,Washington Wizards,216.0,1.0,-130,110,223,15
+994,2017-03-13,Utah Jazz,Los Angeles Clippers,201.0,1.0,-135,115,222,6
+995,2017-03-13,Denver Nuggets,Los Angeles Lakers,231.0,11.0,-1300,775,230,28
+996,2017-03-13,Sacramento Kings,Orlando Magic,206.5,0.0,100,-120,235,5
+997,2017-03-14,Cleveland Cavaliers,Detroit Pistons,215.0,8.5,-340,280,224,32
+998,2017-03-14,New York Knicks,Indiana Pacers,211.5,2.5,135,-155,168,6
+999,2017-03-14,Brooklyn Nets,Oklahoma City Thunder,225.0,6.0,230,-270,226,-18
+1000,2017-03-14,New Orleans Pelicans,Portland Trail Blazers,217.0,2.5,-165,145,177,23
+1001,2017-03-14,Golden State Warriors,Philadelphia 76ers,223.0,16.0,-6000,1600,210,2
+1002,2017-03-15,Indiana Pacers,Charlotte Bobcats,203.0,1.5,-140,120,175,21
+1003,2017-03-15,Washington Wizards,Dallas Mavericks,208.0,7.5,-330,270,219,-5
+1004,2017-03-15,Boston Celtics,Minnesota Timberwolves,210.5,6.0,-240,200,221,13
+1005,2017-03-15,Miami Heat,New Orleans Pelicans,208.0,6.0,-250,210,232,8
+1006,2017-03-15,Detroit Pistons,Utah Jazz,199.0,3.0,130,-150,180,-14
+1007,2017-03-15,Chicago Bulls,Memphis Grizzlies,200.5,0.0,115,-135,189,-7
+1008,2017-03-15,San Antonio Spurs,Portland Trail Blazers,212.5,10.5,-900,600,216,-4
+1009,2017-03-15,Houston Rockets,Los Angeles Lakers,236.0,17.0,-9000,1900,239,39
+1010,2017-03-15,Phoenix Suns,Sacramento Kings,218.5,6.0,-220,190,208,-6
+1011,2017-03-15,Los Angeles Clippers,Milwaukee Bucks,212.0,8.0,-340,280,193,-1
+1012,2017-03-16,Cleveland Cavaliers,Utah Jazz,210.0,6.0,-380,320,174,8
+1013,2017-03-16,Toronto Raptors,Oklahoma City Thunder,208.5,3.0,-130,110,225,-21
+1014,2017-03-16,Atlanta Hawks,Memphis Grizzlies,205.0,4.0,-170,150,194,-12
+1015,2017-03-16,New York Knicks,Brooklyn Nets,219.5,3.5,-210,180,231,-11
+1016,2017-03-16,Denver Nuggets,Los Angeles Clippers,222.0,2.5,-240,200,243,15
+1017,2017-03-16,Golden State Warriors,Orlando Magic,218.0,13.5,-2000,1000,214,30
+1018,2017-03-17,Philadelphia 76ers,Dallas Mavericks,206.0,3.5,190,-220,190,42
+1019,2017-03-17,Washington Wizards,Chicago Bulls,208.5,6.5,-330,270,219,5
+1020,2017-03-17,Detroit Pistons,Toronto Raptors,199.5,3.5,-160,140,162,-12
+1021,2017-03-17,Brooklyn Nets,Boston Celtics,220.5,9.0,350,-420,193,-3
+1022,2017-03-17,Miami Heat,Minnesota Timberwolves,208.5,4.5,-180,160,228,18
+1023,2017-03-17,New Orleans Pelicans,Houston Rockets,227.5,5.0,225,-265,240,16
+1024,2017-03-17,Phoenix Suns,Orlando Magic,221.0,2.5,-130,110,212,-6
+1025,2017-03-17,Los Angeles Lakers,Milwaukee Bucks,215.5,5.5,300,-360,210,-4
+1026,2017-03-18,Oklahoma City Thunder,Sacramento Kings,215.0,12.5,-1400,800,204,16
+1027,2017-03-18,Atlanta Hawks,Portland Trail Blazers,214.0,3.0,-130,110,210,-16
+1028,2017-03-18,Charlotte Bobcats,Washington Wizards,213.5,1.0,-175,155,191,5
+1029,2017-03-18,Los Angeles Clippers,Cleveland Cavaliers,219.5,1.5,-1400,800,186,30
+1030,2017-03-18,Chicago Bulls,Utah Jazz,193.0,7.0,220,-260,181,9
+1031,2017-03-18,Memphis Grizzlies,San Antonio Spurs,198.0,4.0,145,-165,200,8
+1032,2017-03-18,Denver Nuggets,Houston Rockets,238.0,3.5,125,-145,214,-4
+1033,2017-03-18,Golden State Warriors,Milwaukee Bucks,217.0,11.5,-750,525,209,25
+1034,2017-03-19,Brooklyn Nets,Dallas Mavericks,208.5,4.5,175,-200,215,-7
+1035,2017-03-19,Philadelphia 76ers,Boston Celtics,208.0,5.0,180,-210,204,6
+1036,2017-03-19,Detroit Pistons,Phoenix Suns,214.5,9.0,-1100,700,207,17
+1037,2017-03-19,Miami Heat,Portland Trail Blazers,214.0,7.0,-250,210,219,-11
+1038,2017-03-19,Toronto Raptors,Indiana Pacers,201.0,4.0,-145,125,207,25
+1039,2017-03-19,New Orleans Pelicans,Minnesota Timberwolves,206.5,2.0,-165,145,232,14
+1040,2017-03-19,San Antonio Spurs,Sacramento Kings,201.0,13.0,-2000,1000,220,16
+1041,2017-03-19,Los Angeles Lakers,Cleveland Cavaliers,224.0,10.0,700,-1100,245,-5
+1042,2017-03-20,Orlando Magic,Philadelphia 76ers,211.0,5.5,-250,210,221,3
+1043,2017-03-20,Charlotte Bobcats,Atlanta Hawks,203.0,5.0,-210,180,195,15
+1044,2017-03-20,Indiana Pacers,Utah Jazz,192.0,3.0,120,-140,207,7
+1045,2017-03-20,Boston Celtics,Washington Wizards,215.5,1.5,-175,155,212,8
+1046,2017-03-20,Houston Rockets,Denver Nuggets,238.5,9.0,-360,300,249,1
+1047,2017-03-20,Oklahoma City Thunder,Golden State Warriors,222.0,3.0,110,-130,206,-16
+1048,2017-03-20,Los Angeles Clippers,New York Knicks,215.5,11.0,-700,500,219,9
+1049,2017-03-21,Toronto Raptors,Chicago Bulls,202.0,6.5,-330,270,242,2
+1050,2017-03-21,Brooklyn Nets,Detroit Pistons,216.5,4.5,180,-210,194,2
+1051,2017-03-21,Miami Heat,Phoenix Suns,215.5,11.0,-1000,650,209,15
+1052,2017-03-21,New Orleans Pelicans,Memphis Grizzlies,205.0,2.0,-140,120,177,13
+1053,2017-03-21,Dallas Mavericks,Golden State Warriors,209.0,4.5,175,-200,199,-25
+1054,2017-03-21,Minnesota Timberwolves,San Antonio Spurs,205.5,5.0,175,-200,193,-7
+1055,2017-03-21,Portland Trail Blazers,Milwaukee Bucks,214.0,4.0,-175,155,183,-3
+1056,2017-03-21,Los Angeles Lakers,Los Angeles Clippers,221.0,8.5,450,-600,242,-24
+1057,2017-03-22,Orlando Magic,Charlotte Bobcats,205.0,4.0,170,-190,211,-7
+1058,2017-03-22,Boston Celtics,Indiana Pacers,208.5,8.5,-265,225,209,9
+1059,2017-03-22,Chicago Bulls,Detroit Pistons,199.0,1.5,110,-130,212,22
+1060,2017-03-22,Washington Wizards,Atlanta Hawks,214.5,7.0,-330,270,204,4
+1061,2017-03-22,Oklahoma City Thunder,Philadelphia 76ers,219.5,10.5,-900,600,219,25
+1062,2017-03-22,Denver Nuggets,Cleveland Cavaliers,230.0,4.0,115,-135,239,13
+1063,2017-03-22,Sacramento Kings,Milwaukee Bucks,205.5,4.0,195,-230,214,-18
+1064,2017-03-22,Utah Jazz,New York Knicks,202.0,10.0,-850,575,209,7
+1065,2017-03-23,Miami Heat,Toronto Raptors,203.0,3.0,-180,160,185,-17
+1066,2017-03-23,Brooklyn Nets,Phoenix Suns,220.0,2.5,-220,190,224,28
+1067,2017-03-23,Dallas Mavericks,Los Angeles Clippers,206.5,3.5,185,-215,192,2
+1068,2017-03-23,San Antonio Spurs,Memphis Grizzlies,199.0,9.0,-380,320,187,7
+1069,2017-03-23,Portland Trail Blazers,New York Knicks,218.5,9.5,-1400,800,205,15
+1070,2017-03-24,Washington Wizards,Brooklyn Nets,224.0,12.5,-700,500,237,21
+1071,2017-03-24,Indiana Pacers,Denver Nuggets,221.0,2.0,-125,105,242,-8
+1072,2017-03-24,Charlotte Bobcats,Cleveland Cavaliers,215.5,2.5,140,-160,217,-7
+1073,2017-03-24,Orlando Magic,Detroit Pistons,207.0,3.5,110,-130,202,28
+1074,2017-03-24,Boston Celtics,Phoenix Suns,219.0,13.5,-5000,1500,250,10
+1075,2017-03-24,Milwaukee Bucks,Atlanta Hawks,202.0,4.5,-260,220,197,3
+1076,2017-03-24,Houston Rockets,New Orleans Pelicans,228.5,7.5,-360,300,224,10
+1077,2017-03-24,Chicago Bulls,Philadelphia 76ers,210.0,6.0,-270,230,224,-10
+1078,2017-03-24,Los Angeles Lakers,Minnesota Timberwolves,219.5,6.0,230,-270,249,11
+1079,2017-03-24,Golden State Warriors,Sacramento Kings,214.0,18.0,-9900,2000,214,14
+1080,2017-03-25,Los Angeles Clippers,Utah Jazz,204.0,4.0,-200,175,203,13
+1081,2017-03-25,Cleveland Cavaliers,Washington Wizards,215.0,1.0,-250,210,242,-12
+1082,2017-03-25,San Antonio Spurs,New York Knicks,203.5,16.0,-2500,1100,204,8
+1083,2017-03-25,Dallas Mavericks,Toronto Raptors,195.0,1.0,-105,-115,180,-8
+1084,2017-03-25,Portland Trail Blazers,Minnesota Timberwolves,217.0,6.0,-250,210,212,12
+1085,2017-03-26,Atlanta Hawks,Brooklyn Nets,214.0,6.5,-280,240,199,-15
+1086,2017-03-26,Charlotte Bobcats,Phoenix Suns,215.0,11.5,-1500,850,226,14
+1087,2017-03-26,Los Angeles Clippers,Sacramento Kings,211.0,13.5,-1600,900,195,-1
+1088,2017-03-26,Houston Rockets,Oklahoma City Thunder,233.0,7.0,-220,190,262,12
+1089,2017-03-26,Milwaukee Bucks,Chicago Bulls,200.0,6.0,-260,220,203,-15
+1090,2017-03-26,Boston Celtics,Miami Heat,209.0,4.0,-250,210,220,4
+1091,2017-03-26,Indiana Pacers,Philadelphia 76ers,211.0,8.5,-450,375,201,13
+1092,2017-03-26,Golden State Warriors,Memphis Grizzlies,209.0,9.5,-850,575,200,12
+1093,2017-03-26,Denver Nuggets,New Orleans Pelicans,228.0,5.0,-335,275,205,-25
+1094,2017-03-26,Los Angeles Lakers,Portland Trail Blazers,223.0,6.0,250,-300,178,-16
+1095,2017-03-27,Toronto Raptors,Orlando Magic,206.0,9.0,-350,290,243,19
+1096,2017-03-27,New York Knicks,Detroit Pistons,207.5,2.5,-110,-110,204,14
+1097,2017-03-27,San Antonio Spurs,Cleveland Cavaliers,213.0,4.5,-220,190,177,29
+1098,2017-03-27,Dallas Mavericks,Oklahoma City Thunder,207.0,1.0,100,-120,183,-1
+1099,2017-03-27,Utah Jazz,New Orleans Pelicans,200.0,7.0,-220,190,208,8
+1100,2017-03-27,Sacramento Kings,Memphis Grizzlies,199.0,6.5,240,-280,181,1
+1101,2017-03-28,Indiana Pacers,Minnesota Timberwolves,208.0,5.0,-175,155,229,-1
+1102,2017-03-28,Charlotte Bobcats,Milwaukee Bucks,204.0,3.0,-180,160,226,-10
+1103,2017-03-28,Detroit Pistons,Miami Heat,204.0,2.0,130,-150,193,-1
+1104,2017-03-28,Atlanta Hawks,Phoenix Suns,215.0,7.5,-600,450,186,4
+1105,2017-03-28,Brooklyn Nets,Philadelphia 76ers,221.5,2.5,-175,155,207,-5
+1106,2017-03-28,Houston Rockets,Golden State Warriors,234.0,1.0,-120,100,219,-7
+1107,2017-03-28,Portland Trail Blazers,Denver Nuggets,226.5,2.5,-135,115,235,9
+1108,2017-03-28,Los Angeles Lakers,Washington Wizards,226.0,9.0,400,-500,227,-11
+1109,2017-03-29,Philadelphia 76ers,Atlanta Hawks,208.0,1.0,120,-140,191,-7
+1110,2017-03-29,Orlando Magic,Oklahoma City Thunder,218.0,5.5,190,-220,220,-8
+1111,2017-03-29,Toronto Raptors,Charlotte Bobcats,205.0,6.0,-210,180,216,-4
+1112,2017-03-29,New York Knicks,Miami Heat,210.0,3.0,115,-135,193,-17
+1113,2017-03-29,Boston Celtics,Milwaukee Bucks,208.0,8.0,-300,250,203,-3
+1114,2017-03-29,Memphis Grizzlies,Indiana Pacers,197.5,5.0,-175,155,207,13
+1115,2017-03-29,New Orleans Pelicans,Dallas Mavericks,200.5,4.0,-250,210,239,3
+1116,2017-03-29,San Antonio Spurs,Golden State Warriors,209.5,4.5,-185,165,208,-12
+1117,2017-03-29,Sacramento Kings,Utah Jazz,195.5,7.5,280,-340,194,-30
+1118,2017-03-29,Los Angeles Clippers,Washington Wizards,219.5,5.0,-250,210,257,9
+1119,2017-03-30,Detroit Pistons,Brooklyn Nets,213.0,6.5,-260,220,179,1
+1120,2017-03-30,Chicago Bulls,Cleveland Cavaliers,210.5,5.5,190,-220,192,6
+1121,2017-03-30,Minnesota Timberwolves,Los Angeles Lakers,221.5,10.0,-800,550,223,15
+1122,2017-03-30,Phoenix Suns,Los Angeles Clippers,218.5,11.0,425,-550,242,-6
+1123,2017-03-30,Portland Trail Blazers,Houston Rockets,228.5,1.0,-110,-110,224,10
+1124,2017-03-31,Charlotte Bobcats,Denver Nuggets,221.5,1.0,-135,115,236,8
+1125,2017-03-31,Toronto Raptors,Indiana Pacers,207.0,6.0,-215,180,211,11
+1126,2017-03-31,Cleveland Cavaliers,Philadelphia 76ers,219.0,10.5,-1777,973,227,17
+1127,2017-03-31,Boston Celtics,Orlando Magic,217.5,11.0,-650,477,233,1
+1128,2017-03-31,Miami Heat,New York Knicks,208.0,9.5,-730,523,192,-4
+1129,2017-03-31,Milwaukee Bucks,Detroit Pistons,200.0,8.5,-325,263,213,3
+1130,2017-03-31,Memphis Grizzlies,Dallas Mavericks,192.0,5.5,-160,140,189,9
+1131,2017-03-31,New Orleans Pelicans,Sacramento Kings,205.5,9.5,-950,639,206,28
+1132,2017-03-31,Utah Jazz,Washington Wizards,206.5,3.5,-145,125,183,7
+1133,2017-03-31,Oklahoma City Thunder,San Antonio Spurs,209.0,1.0,135,-155,195,-5
+1134,2017-03-31,Golden State Warriors,Houston Rockets,231.0,6.5,-450,351,205,9
+1135,2017-04-01,Los Angeles Clippers,Los Angeles Lakers,225.5,15.0,-2500,1100,219,11
+1136,2017-04-01,Chicago Bulls,Atlanta Hawks,202.5,3.5,-230,195,210,2
+1137,2017-04-01,Brooklyn Nets,Orlando Magic,222.0,3.5,-175,155,232,10
+1138,2017-04-01,Minnesota Timberwolves,Sacramento Kings,210.0,11.0,-1100,700,240,-6
+1139,2017-04-01,Portland Trail Blazers,Phoenix Suns,220.5,13.0,-850,575,247,13
+1140,2017-04-02,New York Knicks,Boston Celtics,211.0,6.5,290,-350,204,-16
+1141,2017-04-02,Oklahoma City Thunder,Charlotte Bobcats,216.0,5.5,-200,175,214,-12
+1142,2017-04-02,Milwaukee Bucks,Dallas Mavericks,196.0,5.5,-250,210,214,-4
+1143,2017-04-02,San Antonio Spurs,Utah Jazz,191.5,5.0,-210,180,212,6
+1144,2017-04-02,Los Angeles Lakers,Memphis Grizzlies,208.0,8.0,250,-300,211,5
+1145,2017-04-02,Miami Heat,Denver Nuggets,220.0,4.0,-160,140,229,-3
+1146,2017-04-02,Cleveland Cavaliers,Indiana Pacers,214.0,9.0,-360,300,265,5
+1147,2017-04-02,Brooklyn Nets,Atlanta Hawks,215.5,1.0,130,-150,173,9
+1148,2017-04-02,New Orleans Pelicans,Chicago Bulls,209.0,6.0,-360,300,227,-7
+1149,2017-04-02,Toronto Raptors,Philadelphia 76ers,212.0,11.0,-850,575,218,8
+1150,2017-04-02,Golden State Warriors,Washington Wizards,224.0,10.0,-500,400,254,24
+1151,2017-04-02,Phoenix Suns,Houston Rockets,234.0,11.5,260,-310,239,-7
+1152,2017-04-03,Minnesota Timberwolves,Portland Trail Blazers,218.0,0.0,-125,105,219,1
+1153,2017-04-04,Philadelphia 76ers,Brooklyn Nets,219.0,1.5,115,-135,259,-23
+1154,2017-04-04,Cleveland Cavaliers,Orlando Magic,221.5,11.0,-800,550,224,20
+1155,2017-04-04,Indiana Pacers,Toronto Raptors,205.0,0.0,-140,120,198,18
+1156,2017-04-04,Washington Wizards,Charlotte Bobcats,217.5,5.5,-145,125,229,7
+1157,2017-04-04,New York Knicks,Chicago Bulls,207.0,3.0,175,-200,191,9
+1158,2017-04-04,Oklahoma City Thunder,Milwaukee Bucks,211.0,4.5,-250,210,189,31
+1159,2017-04-04,New Orleans Pelicans,Denver Nuggets,229.5,3.0,-155,135,265,-3
+1160,2017-04-04,San Antonio Spurs,Memphis Grizzlies,193.0,8.0,-450,375,184,6
+1161,2017-04-04,Sacramento Kings,Dallas Mavericks,196.0,1.0,130,-150,185,11
+1162,2017-04-04,Golden State Warriors,Minnesota Timberwolves,220.5,13.0,-2000,1000,228,14
+1163,2017-04-04,Utah Jazz,Portland Trail Blazers,205.0,7.0,-240,200,193,19
+1164,2017-04-05,Charlotte Bobcats,Miami Heat,207.0,1.5,-150,130,211,-13
+1165,2017-04-05,Detroit Pistons,Toronto Raptors,198.0,1.5,135,-155,207,-3
+1166,2017-04-05,Boston Celtics,Cleveland Cavaliers,218.5,3.0,-175,155,205,-23
+1167,2017-04-05,Houston Rockets,Denver Nuggets,241.0,8.0,-350,290,214,6
+1168,2017-04-05,Memphis Grizzlies,Oklahoma City Thunder,203.0,1.5,120,-140,203,-3
+1169,2017-04-05,San Antonio Spurs,Los Angeles Lakers,204.0,11.0,-1600,900,197,-7
+1170,2017-04-05,Phoenix Suns,Golden State Warriors,217.5,7.5,375,-450,231,-9
+1171,2017-04-05,Los Angeles Clippers,Dallas Mavericks,203.5,12.0,-800,550,213,11
+1172,2017-04-06,Orlando Magic,Brooklyn Nets,227.5,2.0,-120,100,222,8
+1173,2017-04-06,Philadelphia 76ers,Chicago Bulls,211.0,5.5,200,-240,192,-12
+1174,2017-04-06,Indiana Pacers,Milwaukee Bucks,200.5,3.5,-185,165,193,15
+1175,2017-04-06,New York Knicks,Washington Wizards,217.0,5.0,205,-245,209,-3
+1176,2017-04-06,Atlanta Hawks,Boston Celtics,209.0,1.5,100,-120,239,7
+1177,2017-04-06,Portland Trail Blazers,Minnesota Timberwolves,219.5,6.0,-210,180,203,7
+1178,2017-04-07,Toronto Raptors,Miami Heat,207.5,5.0,-185,165,190,2
+1179,2017-04-07,Cleveland Cavaliers,Atlanta Hawks,214.0,10.0,-3500,1300,214,-14
+1180,2017-04-07,Houston Rockets,Detroit Pistons,223.0,11.0,-800,550,223,-5
+1181,2017-04-07,Memphis Grizzlies,New York Knicks,200.0,11.0,-1400,800,189,13
+1182,2017-04-07,Dallas Mavericks,San Antonio Spurs,186.5,6.0,-210,180,191,-13
+1183,2017-04-07,Utah Jazz,Minnesota Timberwolves,204.5,8.5,-800,550,233,7
+1184,2017-04-07,Denver Nuggets,New Orleans Pelicans,231.5,6.0,-300,250,228,16
+1185,2017-04-07,Phoenix Suns,Oklahoma City Thunder,226.0,8.0,400,-500,219,21
+1186,2017-04-07,Los Angeles Lakers,Sacramento Kings,213.0,2.5,-145,125,192,4
+1187,2017-04-08,Brooklyn Nets,Chicago Bulls,215.5,3.0,140,-160,213,1
+1188,2017-04-08,Charlotte Bobcats,Boston Celtics,214.0,1.0,-110,-110,235,-7
+1189,2017-04-08,Orlando Magic,Indiana Pacers,210.5,3.5,165,-185,239,-15
+1190,2017-04-08,Washington Wizards,Miami Heat,216.0,5.5,-165,145,209,-3
+1191,2017-04-08,Philadelphia 76ers,Milwaukee Bucks,207.0,5.0,250,-300,172,-8
+1192,2017-04-08,San Antonio Spurs,Los Angeles Clippers,206.5,4.0,-125,105,185,-11
+1193,2017-04-08,Portland Trail Blazers,Utah Jazz,202.0,1.5,-145,125,187,15
+1194,2017-04-08,Golden State Warriors,New Orleans Pelicans,219.0,13.0,-6000,1600,224,22
+1195,2017-04-09,New York Knicks,Toronto Raptors,203.0,7.5,400,-500,207,-13
+1196,2017-04-09,Atlanta Hawks,Cleveland Cavaliers,214.0,1.5,180,-210,251,1
+1197,2017-04-09,Denver Nuggets,Oklahoma City Thunder,229.0,4.5,-220,190,211,-1
+1198,2017-04-09,Memphis Grizzlies,Detroit Pistons,198.0,8.5,-220,190,193,-13
+1199,2017-04-09,Sacramento Kings,Houston Rockets,222.5,10.0,400,-500,263,-7
+1200,2017-04-09,Phoenix Suns,Dallas Mavericks,212.5,1.5,-140,120,235,13
+1201,2017-04-09,Los Angeles Lakers,Minnesota Timberwolves,221.0,4.0,195,-230,219,1
+1202,2017-04-10,Philadelphia 76ers,Indiana Pacers,211.0,7.0,330,-400,231,-9
+1203,2017-04-10,Miami Heat,Cleveland Cavaliers,211.5,2.0,-600,450,245,3
+1204,2017-04-10,Boston Celtics,Brooklyn Nets,223.0,10.5,-800,550,219,9
+1205,2017-04-10,Detroit Pistons,Washington Wizards,212.0,2.5,-220,190,206,-4
+1206,2017-04-10,Chicago Bulls,Orlando Magic,212.0,7.5,-400,330,197,47
+1207,2017-04-10,Milwaukee Bucks,Charlotte Bobcats,201.0,4.0,-265,225,168,10
+1208,2017-04-10,Portland Trail Blazers,San Antonio Spurs,204.5,3.5,450,-600,197,1
+1209,2017-04-10,Golden State Warriors,Utah Jazz,209.5,8.0,-600,450,204,-6
+1210,2017-04-10,Los Angeles Clippers,Houston Rockets,228.5,4.5,-420,350,221,29
+1211,2017-04-11,Atlanta Hawks,Charlotte Bobcats,206.0,7.5,-340,280,179,27
+1212,2017-04-11,Minnesota Timberwolves,Oklahoma City Thunder,217.0,1.0,-330,270,198,-2
+1213,2017-04-11,Dallas Mavericks,Denver Nuggets,213.5,1.0,-130,110,200,-18
+1214,2017-04-11,Los Angeles Lakers,New Orleans Pelicans,219.0,1.5,-140,120,204,12
+1215,2017-04-11,Sacramento Kings,Phoenix Suns,218.0,3.5,-210,180,233,25
+1216,2017-04-12,Houston Rockets,Minnesota Timberwolves,227.0,7.0,-360,300,241,5
+1217,2017-04-12,Memphis Grizzlies,Dallas Mavericks,194.0,5.5,-400,330,193,-7
+1218,2017-04-12,Oklahoma City Thunder,Denver Nuggets,220.0,3.0,-240,200,216,-6
+1219,2017-04-12,Cleveland Cavaliers,Toronto Raptors,206.0,3.5,145,-165,181,-15
+1220,2017-04-12,Indiana Pacers,Atlanta Hawks,207.0,7.5,-2500,1100,190,18
+1221,2017-04-12,Boston Celtics,Milwaukee Bucks,207.0,12.0,-2000,1000,206,18
+1222,2017-04-12,Orlando Magic,Detroit Pistons,209.0,0.0,-120,100,222,4
+1223,2017-04-12,New York Knicks,Philadelphia 76ers,202.0,3.0,-150,130,227,1
+1224,2017-04-12,Miami Heat,Washington Wizards,207.5,8.5,-650,475,212,8
+1225,2017-04-12,Chicago Bulls,Brooklyn Nets,214.0,9.0,-3000,1200,185,39
+1226,2017-04-12,Utah Jazz,San Antonio Spurs,189.5,4.0,-180,160,198,4
+1227,2017-04-12,Portland Trail Blazers,New Orleans Pelicans,211.0,12.5,-300,250,203,-3
+1228,2017-04-12,Golden State Warriors,Los Angeles Lakers,221.5,16.0,-1100,700,203,15
+1229,2017-04-12,Los Angeles Clippers,Sacramento Kings,211.5,15.5,-5000,1500,210,20
+1230,2017-04-15,Cleveland Cavaliers,Indiana Pacers,212.5,8.5,-550,425,217,1
+1231,2017-04-15,Toronto Raptors,Milwaukee Bucks,202.0,7.0,-340,280,180,-14
+1232,2017-04-15,San Antonio Spurs,Memphis Grizzlies,191.5,9.0,-600,450,193,29
+1233,2017-04-15,Los Angeles Clippers,Utah Jazz,201.0,5.0,-260,220,192,-2
+1234,2017-04-16,Washington Wizards,Atlanta Hawks,212.0,5.0,-240,200,221,7
+1235,2017-04-16,Golden State Warriors,Portland Trail Blazers,222.0,14.0,-3500,1300,230,12
+1236,2017-04-16,Boston Celtics,Chicago Bulls,207.5,7.5,-300,250,208,-4
+1237,2017-04-16,Houston Rockets,Oklahoma City Thunder,228.0,7.0,-340,280,205,31
+1238,2017-04-17,Cleveland Cavaliers,Indiana Pacers,212.0,7.5,-460,380,228,6
+1239,2017-04-17,San Antonio Spurs,Memphis Grizzlies,191.0,10.5,-750,525,178,14
+1240,2017-04-18,Toronto Raptors,Milwaukee Bucks,193.5,7.5,-370,310,206,6
+1241,2017-04-18,Boston Celtics,Chicago Bulls,207.5,7.0,-350,290,208,-14
+1242,2017-04-18,Los Angeles Clippers,Utah Jazz,196.5,6.5,-500,400,190,8
+1243,2017-04-19,Washington Wizards,Atlanta Hawks,212.0,6.0,-250,210,210,8
+1244,2017-04-19,Houston Rockets,Oklahoma City Thunder,224.0,7.5,-340,280,226,4
+1245,2017-04-19,Golden State Warriors,Portland Trail Blazers,221.5,15.0,-900,600,191,29
+1246,2017-04-20,Indiana Pacers,Cleveland Cavaliers,211.5,3.5,100,-120,233,-5
+1247,2017-04-20,Milwaukee Bucks,Toronto Raptors,196.5,1.0,-130,110,181,27
+1248,2017-04-20,Memphis Grizzlies,San Antonio Spurs,185.5,4.0,148,-170,199,11
+1249,2017-04-21,Chicago Bulls,Boston Celtics,207.0,1.5,115,-135,191,-17
+1250,2017-04-21,Oklahoma City Thunder,Houston Rockets,224.5,2.5,-145,125,228,2
+1251,2017-04-21,Utah Jazz,Los Angeles Clippers,197.0,1.0,100,-120,217,-5
+1252,2017-04-22,Milwaukee Bucks,Toronto Raptors,194.5,1.5,-135,115,163,-11
+1253,2017-04-22,Atlanta Hawks,Washington Wizards,210.0,2.5,-145,125,214,18
+1254,2017-04-22,Memphis Grizzlies,San Antonio Spurs,190.0,3.5,184,-220,218,2
+1255,2017-04-22,Portland Trail Blazers,Golden State Warriors,219.0,6.5,172,-205,232,-6
+1256,2017-04-23,Indiana Pacers,Cleveland Cavaliers,212.0,3.0,155,-175,208,-4
+1257,2017-04-23,Oklahoma City Thunder,Houston Rockets,225.0,2.0,-110,-110,222,-4
+1258,2017-04-23,Chicago Bulls,Boston Celtics,204.0,2.0,105,-125,199,-9
+1259,2017-04-23,Utah Jazz,Los Angeles Clippers,198.0,1.0,-215,185,203,7
+1260,2017-04-24,Toronto Raptors,Milwaukee Bucks,192.5,6.5,-240,200,211,25
+1261,2017-04-24,Atlanta Hawks,Washington Wizards,211.5,3.0,-140,120,212,10
+1262,2017-04-24,Portland Trail Blazers,Golden State Warriors,219.0,6.5,350,-420,231,-25
+1263,2017-04-25,San Antonio Spurs,Memphis Grizzlies,186.5,9.0,-800,562,219,13
+1264,2017-04-25,Houston Rockets,Oklahoma City Thunder,223.5,8.0,-380,303,204,6
+1265,2017-04-25,Los Angeles Clippers,Utah Jazz,196.5,3.5,-155,135,188,-4
+1266,2017-04-26,Washington Wizards,Atlanta Hawks,212.0,5.5,-280,230,202,4
+1267,2017-04-26,Boston Celtics,Chicago Bulls,202.0,8.0,-375,299,205,11
+1268,2017-04-27,Milwaukee Bucks,Toronto Raptors,195.0,1.5,-125,105,181,-3
+1269,2017-04-27,Memphis Grizzlies,San Antonio Spurs,190.0,4.5,180,-215,199,-7
+1270,2017-04-28,Utah Jazz,Los Angeles Clippers,191.5,5.5,-255,211,191,-5
+1271,2017-04-28,Chicago Bulls,Boston Celtics,204.0,0.0,135,-155,188,-22
+1272,2017-04-28,Atlanta Hawks,Washington Wizards,210.0,3.0,-155,135,214,-16
+1273,2017-04-30,Los Angeles Clippers,Utah Jazz,192.0,3.5,-165,144,195,-13
+1274,2017-04-30,Boston Celtics,Washington Wizards,214.0,4.5,-175,155,234,12
+1275,2017-05-01,Cleveland Cavaliers,Toronto Raptors,208.5,6.5,-325,263,221,11
+1276,2017-05-01,San Antonio Spurs,Houston Rockets,215.5,5.0,-285,234,225,-27
+1277,2017-05-02,Boston Celtics,Washington Wizards,219.0,5.0,-215,180,248,10
+1278,2017-05-02,Golden State Warriors,Utah Jazz,208.0,12.5,-1500,876,200,12
+1279,2017-05-03,Cleveland Cavaliers,Toronto Raptors,214.0,7.5,-353,283,228,22
+1280,2017-05-03,San Antonio Spurs,Houston Rockets,216.5,5.5,-255,211,217,25
+1281,2017-05-04,Washington Wizards,Boston Celtics,219.5,5.0,-250,207,205,27
+1282,2017-05-04,Golden State Warriors,Utah Jazz,204.5,12.5,-1800,980,219,11
+1283,2017-05-05,Toronto Raptors,Cleveland Cavaliers,214.5,2.0,135,-155,209,-21
+1284,2017-05-05,Houston Rockets,San Antonio Spurs,216.0,4.0,-265,218,195,-11
+1285,2017-05-06,Toronto Raptors,Cleveland Cavaliers,209.0,5.5,234,-285,211,-7
+1286,2017-05-06,Washington Wizards,Boston Celtics,214.5,5.5,245,-300,223,19
+1287,2017-05-06,Houston Rockets,San Antonio Spurs,215.0,4.5,-200,170,229,21
+1288,2017-05-07,Utah Jazz,Golden State Warriors,211.5,5.5,-225,188,193,-11
+1289,2017-05-08,Utah Jazz,Golden State Warriors,206.5,8.0,361,-465,216,-26
+1290,2017-05-09,San Antonio Spurs,Houston Rockets,215.0,6.0,-225,188,217,3
+1291,2017-05-10,Boston Celtics,Washington Wizards,215.0,4.0,-165,144,224,22
+1292,2017-05-11,Houston Rockets,San Antonio Spurs,215.0,6.5,-550,416,189,-39
+1293,2017-05-12,Washington Wizards,Boston Celtics,216.5,5.5,-215,180,183,1
+1294,2017-05-14,Golden State Warriors,San Antonio Spurs,211.0,10.0,-625,462,224,2
+1295,2017-05-15,Boston Celtics,Washington Wizards,211.5,4.0,-205,172,220,10
+1296,2017-05-16,Golden State Warriors,San Antonio Spurs,211.0,12.0,-1350,818,236,36
+1297,2017-05-17,Boston Celtics,Cleveland Cavaliers,219.5,3.0,160,-185,221,-13
+1298,2017-05-19,Boston Celtics,Cleveland Cavaliers,219.5,5.5,184,-220,216,-44
+1299,2017-05-20,San Antonio Spurs,Golden State Warriors,212.0,6.0,381,-495,228,-12
+1300,2017-05-21,Cleveland Cavaliers,Boston Celtics,220.0,5.5,-4000,1453,219,-3
+1301,2017-05-22,San Antonio Spurs,Golden State Warriors,216.0,9.5,534,-750,244,-14
+1302,2017-05-23,Cleveland Cavaliers,Boston Celtics,216.0,15.0,-2500,1175,211,13
+1303,2017-05-25,Boston Celtics,Cleveland Cavaliers,214.5,9.0,431,-575,237,-33
+1304,2017-06-01,Golden State Warriors,Cleveland Cavaliers,225.5,7.0,-355,285,204,22
+1305,2017-06-04,Golden State Warriors,Cleveland Cavaliers,221.5,8.0,-425,334,245,19
+1306,2017-06-07,Cleveland Cavaliers,Golden State Warriors,225.5,2.5,125,-145,231,-5
+1307,2017-06-09,Cleveland Cavaliers,Golden State Warriors,228.5,5.5,170,-200,253,21
+1308,2017-06-12,Golden State Warriors,Cleveland Cavaliers,230.5,8.5,-400,317,249,9

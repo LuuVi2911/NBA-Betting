@@ -1,0 +1,1196 @@
+index,Date,Home,Away,OU,Spread,ML_Home,ML_Away,Points,Win_Margin
+0,2023-10-24,Denver Nuggets,Los Angeles Lakers,229.0,5.0,-188,158,226,12
+1,2023-10-24,Golden State Warriors,Phoenix Suns,235.0,2.5,-148,126,212,-4
+2,2023-10-25,Indiana Pacers,Washington Wizards,235.5,5.0,-205,172,263,23
+3,2023-10-25,Charlotte Hornets,Atlanta Hawks,236.0,-4.0,152,-180,226,6
+4,2023-10-25,Orlando Magic,Houston Rockets,219.5,4.5,-184,154,202,30
+5,2023-10-25,New York Knicks,Boston Celtics,223.0,-4.0,146,-174,212,-4
+6,2023-10-25,Miami Heat,Detroit Pistons,218.5,9.5,-450,350,205,1
+7,2023-10-25,Brooklyn Nets,Cleveland Cavaliers,218.5,-1.5,106,-124,227,-1
+8,2023-10-25,Toronto Raptors,Minnesota Timberwolves,220.5,1.0,-112,-104,191,3
+9,2023-10-25,Chicago Bulls,Oklahoma City Thunder,224.5,2.5,-146,124,228,-20
+10,2023-10-25,Memphis Grizzlies,New Orleans Pelicans,224.5,1.0,-112,-104,215,-7
+11,2023-10-25,Utah Jazz,Sacramento Kings,234.0,-1.5,106,-124,244,-16
+12,2023-10-25,San Antonio Spurs,Dallas Mavericks,231.0,-4.5,164,-196,245,-7
+13,2023-10-25,Los Angeles Clippers,Portland Trail Blazers,226.0,9.5,-450,350,234,12
+14,2023-10-26,Milwaukee Bucks,Philadelphia 76ers,228.5,6.5,-280,210,235,1
+15,2023-10-26,Los Angeles Lakers,Phoenix Suns,226.5,6.5,-255,210,195,5
+16,2023-10-27,Memphis Grizzlies,Denver Nuggets,221.5,-6.0,190,-230,212,-4
+17,2023-10-27,Charlotte Hornets,Detroit Pistons,227.0,4.5,-188,158,210,-12
+18,2023-10-27,Atlanta Hawks,New York Knicks,229.0,-1.0,-102,-116,246,-6
+19,2023-10-27,Boston Celtics,Miami Heat,217.5,8.5,-360,290,230,8
+20,2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,225.5,2.5,-134,114,213,-3
+21,2023-10-27,San Antonio Spurs,Houston Rockets,224.5,3.5,-156,132,248,4
+22,2023-10-27,Chicago Bulls,Toronto Raptors,216.0,2.5,-136,116,207,1
+23,2023-10-27,Dallas Mavericks,Brooklyn Nets,230.0,6.0,-235,194,245,5
+24,2023-10-27,Utah Jazz,Los Angeles Clippers,227.5,-4.5,146,-174,238,2
+25,2023-10-27,Sacramento Kings,Golden State Warriors,237.5,3.5,-162,136,236,-8
+26,2023-10-27,Portland Trail Blazers,Orlando Magic,220.5,-3.5,142,-168,199,-5
+27,2023-10-28,New Orleans Pelicans,New York Knicks,223.5,3.0,-146,124,183,9
+28,2023-10-28,Detroit Pistons,Chicago Bulls,213.5,-2.5,120,-142,220,16
+29,2023-10-28,Washington Wizards,Memphis Grizzlies,230.0,-1.0,-102,-116,219,7
+30,2023-10-28,Cleveland Cavaliers,Indiana Pacers,221.0,-4.0,150,-178,238,-12
+31,2023-10-28,Toronto Raptors,Philadelphia 76ers,214.5,-5.0,164,-198,221,-7
+32,2023-10-28,Minnesota Timberwolves,Miami Heat,214.5,8.5,-410,290,196,16
+33,2023-10-28,Phoenix Suns,Utah Jazz,223.0,5.5,-210,176,230,22
+34,2023-10-29,Oklahoma City Thunder,Denver Nuggets,231.0,-4.0,138,-164,223,-33
+35,2023-10-29,Houston Rockets,Golden State Warriors,223.0,-7.0,220,-270,201,-11
+36,2023-10-29,Milwaukee Bucks,Atlanta Hawks,239.5,6.0,-255,210,237,-17
+37,2023-10-29,Philadelphia 76ers,Portland Trail Blazers,217.0,10.0,-450,350,224,28
+38,2023-10-29,Sacramento Kings,Los Angeles Lakers,235.5,2.5,-142,120,259,5
+39,2023-10-29,Los Angeles Clippers,San Antonio Spurs,229.5,9.0,-375,300,206,40
+40,2023-10-30,Washington Wizards,Boston Celtics,231.5,-10.5,420,-560,233,-19
+41,2023-10-30,Charlotte Hornets,Brooklyn Nets,227.5,-2.0,108,-126,254,-12
+42,2023-10-30,Indiana Pacers,Chicago Bulls,230.0,3.5,-162,136,217,-7
+43,2023-10-30,Atlanta Hawks,Minnesota Timberwolves,228.0,-2.0,118,-136,240,14
+44,2023-10-30,Toronto Raptors,Portland Trail Blazers,217.0,10.0,-450,350,190,-8
+45,2023-10-30,Memphis Grizzlies,Dallas Mavericks,222.0,1.5,-118,100,235,-15
+46,2023-10-30,New Orleans Pelicans,Golden State Warriors,221.0,2.5,-144,122,232,-28
+47,2023-10-30,Oklahoma City Thunder,Detroit Pistons,224.5,6.5,-295,220,236,12
+48,2023-10-30,Milwaukee Bucks,Miami Heat,226.0,7.5,-320,260,236,8
+49,2023-10-30,Denver Nuggets,Utah Jazz,225.0,9.0,-405,320,212,8
+50,2023-10-30,Los Angeles Lakers,Orlando Magic,219.5,3.5,-164,138,209,3
+51,2023-10-31,Cleveland Cavaliers,New York Knicks,213.0,-1.5,102,-120,200,-18
+52,2023-10-31,Phoenix Suns,San Antonio Spurs,224.5,7.0,-300,245,229,-1
+53,2023-10-31,Los Angeles Clippers,Orlando Magic,220.5,6.5,-260,215,220,16
+54,2023-11-01,Toronto Raptors,Milwaukee Bucks,223.5,-4.5,160,-190,241,19
+55,2023-11-01,Detroit Pistons,Portland Trail Blazers,216.5,3.5,-162,136,211,-9
+56,2023-11-01,Boston Celtics,Indiana Pacers,233.5,13.5,-850,590,259,51
+57,2023-11-01,Atlanta Hawks,Washington Wizards,240.5,9.0,-430,350,251,9
+58,2023-11-01,New York Knicks,Cleveland Cavaliers,210.5,5.5,-225,188,184,-6
+59,2023-11-01,Miami Heat,Brooklyn Nets,222.5,6.5,-310,230,214,-4
+60,2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,227.5,3.5,-154,130,216,-4
+61,2023-11-01,Houston Rockets,Charlotte Hornets,222.0,3.0,-154,130,247,9
+62,2023-11-01,Minnesota Timberwolves,Denver Nuggets,219.5,-2.5,114,-134,199,21
+63,2023-11-01,Dallas Mavericks,Chicago Bulls,220.5,4.0,-164,138,219,9
+64,2023-11-01,Utah Jazz,Memphis Grizzlies,225.5,2.0,-130,110,242,24
+65,2023-11-01,Golden State Warriors,Sacramento Kings,228.0,6.5,-255,210,203,1
+66,2023-11-01,Los Angeles Lakers,Los Angeles Clippers,227.5,3.0,-144,122,255,5
+67,2023-11-02,Philadelphia 76ers,Toronto Raptors,214.5,7.5,-295,240,213,15
+68,2023-11-02,New Orleans Pelicans,Detroit Pistons,215.5,4.5,-194,162,241,9
+69,2023-11-02,Utah Jazz,Orlando Magic,224.0,-1.5,102,-120,228,-2
+70,2023-11-02,Phoenix Suns,San Antonio Spurs,229.5,10.5,-490,380,253,-11
+71,2023-11-03,Indiana Pacers,Cleveland Cavaliers,230.5,-2.5,120,-142,237,5
+72,2023-11-03,Milwaukee Bucks,New York Knicks,224.5,5.5,-225,188,215,5
+73,2023-11-03,Chicago Bulls,Brooklyn Nets,221.0,4.0,-178,150,216,-2
+74,2023-11-03,Oklahoma City Thunder,Golden State Warriors,225.0,-6.0,205,-250,280,-2
+75,2023-11-03,Miami Heat,Washington Wizards,224.5,8.5,-405,320,235,7
+76,2023-11-03,Denver Nuggets,Dallas Mavericks,229.5,5.5,-265,200,239,11
+77,2023-11-03,Portland Trail Blazers,Memphis Grizzlies,220.0,-3.5,138,-164,228,2
+78,2023-11-04,Philadelphia 76ers,Phoenix Suns,220.5,6.5,-260,215,212,12
+79,2023-11-04,Indiana Pacers,Charlotte Hornets,240.5,4.5,-265,200,249,-1
+80,2023-11-04,New Orleans Pelicans,Atlanta Hawks,237.5,2.0,-134,114,228,-18
+81,2023-11-04,Orlando Magic,Los Angeles Lakers,222.5,-3.5,136,-162,221,19
+82,2023-11-04,Minnesota Timberwolves,Utah Jazz,224.5,8.0,-320,260,218,28
+83,2023-11-04,Brooklyn Nets,Boston Celtics,227.0,-10.0,370,-480,238,-10
+84,2023-11-04,Houston Rockets,Sacramento Kings,221.0,-2.5,120,-142,196,18
+85,2023-11-04,Denver Nuggets,Chicago Bulls,217.5,9.0,-420,330,224,22
+86,2023-11-05,Detroit Pistons,Phoenix Suns,218.0,-3.5,138,-164,226,-14
+87,2023-11-05,San Antonio Spurs,Toronto Raptors,222.0,-3.5,138,-164,239,-7
+88,2023-11-05,Cleveland Cavaliers,Golden State Warriors,223.0,1.5,-120,102,219,11
+89,2023-11-05,Dallas Mavericks,Charlotte Hornets,235.0,11.5,-590,440,242,6
+90,2023-11-05,Portland Trail Blazers,Memphis Grizzlies,219.0,-3.5,130,-154,212,-12
+91,2023-11-06,Indiana Pacers,San Antonio Spurs,239.0,8.5,-375,300,263,41
+92,2023-11-06,Detroit Pistons,Golden State Warriors,224.5,-9.0,320,-405,229,-11
+93,2023-11-06,Philadelphia 76ers,Washington Wizards,229.0,11.0,-560,430,274,18
+94,2023-11-06,Orlando Magic,Dallas Mavericks,230.5,-1.5,-104,-112,219,-15
+95,2023-11-06,Miami Heat,Los Angeles Lakers,222.5,1.5,-126,108,215,1
+96,2023-11-06,New York Knicks,Los Angeles Clippers,223.0,1.0,-116,-102,208,14
+97,2023-11-06,Brooklyn Nets,Milwaukee Bucks,232.5,-4.5,158,-225,254,-4
+98,2023-11-06,Houston Rockets,Sacramento Kings,213.5,2.5,-164,128,219,25
+99,2023-11-06,Oklahoma City Thunder,Atlanta Hawks,238.5,3.5,-148,116,243,9
+100,2023-11-06,Chicago Bulls,Utah Jazz,234.5,6.5,-225,172,243,17
+101,2023-11-06,Minnesota Timberwolves,Boston Celtics,217.5,-2.5,-113,-113,223,5
+102,2023-11-06,Denver Nuggets,New Orleans Pelicans,229.5,-3.5,164,-215,250,18
+103,2023-11-08,Indiana Pacers,Utah Jazz,243.0,6.0,-240,198,252,16
+104,2023-11-08,Philadelphia 76ers,Boston Celtics,229.5,-2.5,110,-130,209,3
+105,2023-11-08,Charlotte Hornets,Washington Wizards,239.0,2.0,-130,110,248,-16
+106,2023-11-08,New York Knicks,San Antonio Spurs,223.5,9.0,-390,310,231,21
+107,2023-11-08,Brooklyn Nets,Los Angeles Clippers,231.5,-5.5,180,-215,193,7
+108,2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,216.0,9.5,-420,330,223,21
+109,2023-11-08,Houston Rockets,Los Angeles Lakers,222.0,-2.0,108,-126,222,34
+110,2023-11-08,Memphis Grizzlies,Miami Heat,217.0,-2.0,112,-132,210,-6
+111,2023-11-08,Chicago Bulls,Phoenix Suns,218.0,-1.0,-102,-116,231,-1
+112,2023-11-08,Milwaukee Bucks,Detroit Pistons,227.0,12.0,-650,480,238,2
+113,2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,227.5,-2.0,110,-130,248,8
+114,2023-11-08,Dallas Mavericks,Toronto Raptors,225.5,4.0,-168,142,243,-11
+115,2023-11-08,Denver Nuggets,Golden State Warriors,228.5,4.5,-192,148,213,3
+116,2023-11-08,Sacramento Kings,Portland Trail Blazers,221.0,8.0,-330,265,239,3
+117,2023-11-09,Indiana Pacers,Milwaukee Bucks,239.5,-1.0,-104,-112,250,2
+118,2023-11-09,Orlando Magic,Atlanta Hawks,232.5,-3.5,130,-154,239,-1
+119,2023-11-10,Detroit Pistons,Philadelphia 76ers,224.0,-9.0,300,-375,220,-8
+120,2023-11-10,Washington Wizards,Charlotte Hornets,240.5,3.0,-154,130,241,-7
+121,2023-11-10,Boston Celtics,Brooklyn Nets,229.5,12.0,-750,530,228,14
+122,2023-11-10,San Antonio Spurs,Minnesota Timberwolves,225.0,-7.5,235,-290,227,-7
+123,2023-11-10,Houston Rockets,New Orleans Pelicans,219.5,3.0,-154,130,205,3
+124,2023-11-10,Memphis Grizzlies,Utah Jazz,230.5,5.0,-190,160,248,-6
+125,2023-11-10,Dallas Mavericks,Los Angeles Clippers,236.0,1.5,-118,100,270,18
+126,2023-11-10,Sacramento Kings,Oklahoma City Thunder,231.5,1.5,100,-128,203,7
+127,2023-11-10,Phoenix Suns,Los Angeles Lakers,224.5,-1.5,112,-142,241,-3
+128,2023-11-11,Orlando Magic,Milwaukee Bucks,226.5,-2.5,118,-138,209,15
+129,2023-11-11,Boston Celtics,Toronto Raptors,222.5,9.0,-390,310,211,23
+130,2023-11-11,Atlanta Hawks,Miami Heat,227.5,7.5,-310,250,226,-8
+131,2023-11-11,Golden State Warriors,Cleveland Cavaliers,224.0,4.5,-178,150,228,-8
+132,2023-11-12,New York Knicks,Charlotte Hornets,224.0,10.5,-560,420,236,22
+133,2023-11-12,Brooklyn Nets,Washington Wizards,233.5,7.0,-270,220,196,8
+134,2023-11-12,Los Angeles Clippers,Memphis Grizzlies,224.5,8.0,-340,275,206,-4
+135,2023-11-12,Philadelphia 76ers,Indiana Pacers,237.0,7.0,-260,215,263,11
+136,2023-11-12,San Antonio Spurs,Miami Heat,221.5,-2.0,108,-126,231,-5
+137,2023-11-12,Houston Rockets,Denver Nuggets,215.5,-4.5,164,-196,211,3
+138,2023-11-12,Chicago Bulls,Detroit Pistons,219.5,6.5,-250,205,227,11
+139,2023-11-12,New Orleans Pelicans,Dallas Mavericks,237.0,-3.5,138,-164,260,-12
+140,2023-11-12,Phoenix Suns,Oklahoma City Thunder,231.5,3.5,-168,142,210,-12
+141,2023-11-12,Golden State Warriors,Minnesota Timberwolves,222.0,3.5,-156,132,226,-6
+142,2023-11-12,Los Angeles Lakers,Portland Trail Blazers,220.5,8.5,-375,300,226,6
+143,2023-11-13,Boston Celtics,New York Knicks,220.0,9.5,-420,330,212,16
+144,2023-11-13,Toronto Raptors,Washington Wizards,230.5,8.0,-355,285,218,4
+145,2023-11-13,Milwaukee Bucks,Chicago Bulls,230.5,9.5,-430,350,227,9
+146,2023-11-13,Sacramento Kings,Cleveland Cavaliers,229.0,1.0,-116,-102,252,12
+147,2023-11-14,Detroit Pistons,Atlanta Hawks,225.0,-4.5,160,-190,246,-6
+148,2023-11-14,Charlotte Hornets,Miami Heat,221.5,-6.5,210,-255,216,-6
+149,2023-11-14,Philadelphia 76ers,Indiana Pacers,241.0,6.5,-255,210,258,-6
+150,2023-11-14,Oklahoma City Thunder,San Antonio Spurs,237.0,10.0,-480,370,210,36
+151,2023-11-14,Brooklyn Nets,Orlando Magic,218.0,2.5,-142,120,228,20
+152,2023-11-14,New Orleans Pelicans,Dallas Mavericks,239.5,-3.5,132,-156,241,21
+153,2023-11-14,Utah Jazz,Portland Trail Blazers,230.0,7.0,-270,220,214,16
+154,2023-11-14,Denver Nuggets,Los Angeles Clippers,226.0,4.5,-178,150,219,3
+155,2023-11-14,Golden State Warriors,Minnesota Timberwolves,215.5,-3.5,134,-158,205,-3
+156,2023-11-14,Los Angeles Lakers,Memphis Grizzlies,225.5,6.5,-255,210,241,27
+157,2023-11-15,Washington Wizards,Dallas Mavericks,243.5,-3.5,138,-164,247,-13
+158,2023-11-15,Philadelphia 76ers,Boston Celtics,228.5,-1.5,110,-140,224,-10
+159,2023-11-15,Toronto Raptors,Milwaukee Bucks,224.5,-1.5,100,-118,240,-16
+160,2023-11-15,Atlanta Hawks,New York Knicks,229.0,1.5,-118,100,230,-2
+161,2023-11-15,Chicago Bulls,Orlando Magic,215.5,2.0,-132,112,190,-2
+162,2023-11-15,Phoenix Suns,Minnesota Timberwolves,223.0,4.0,-180,152,248,18
+163,2023-11-15,Los Angeles Lakers,Sacramento Kings,239.5,0.5,-111,-115,235,-15
+164,2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,217.5,-9.5,340,-430,204,-14
+165,2023-11-16,Miami Heat,Brooklyn Nets,214.5,3.5,-168,142,237,7
+166,2023-11-16,Golden State Warriors,Oklahoma City Thunder,226.0,-3.5,138,-164,237,-19
+167,2023-11-17,Charlotte Hornets,Milwaukee Bucks,243.0,-8.0,290,-360,229,-31
+168,2023-11-17,Washington Wizards,New York Knicks,225.5,-7.0,230,-280,219,-21
+169,2023-11-17,Toronto Raptors,Boston Celtics,223.5,-6.5,210,-280,213,-3
+170,2023-11-17,San Antonio Spurs,Sacramento Kings,240.5,-8.5,255,-350,249,-9
+171,2023-11-17,Atlanta Hawks,Philadelphia 76ers,238.5,-1.5,108,-138,242,-10
+172,2023-11-17,Cleveland Cavaliers,Detroit Pistons,221.5,9.5,-520,350,208,8
+173,2023-11-17,Chicago Bulls,Orlando Magic,215.5,3.5,-168,142,200,-6
+174,2023-11-17,New Orleans Pelicans,Denver Nuggets,226.5,-5.0,152,-180,225,5
+175,2023-11-17,Portland Trail Blazers,Los Angeles Lakers,227.5,-13.5,560,-1000,202,-12
+176,2023-11-17,Utah Jazz,Phoenix Suns,247.5,-8.5,330,-480,259,-3
+177,2023-11-17,Los Angeles Clippers,Houston Rockets,221.5,9.5,-520,350,206,6
+178,2023-11-18,Charlotte Hornets,New York Knicks,225.0,-6.5,215,-260,230,-14
+179,2023-11-18,New Orleans Pelicans,Minnesota Timberwolves,221.0,-7.5,240,-300,241,-1
+180,2023-11-18,Chicago Bulls,Miami Heat,212.0,-2.0,112,-132,199,5
+181,2023-11-18,San Antonio Spurs,Memphis Grizzlies,226.0,-3.5,136,-162,228,-12
+182,2023-11-18,Milwaukee Bucks,Dallas Mavericks,247.5,2.0,-130,110,257,7
+183,2023-11-18,Golden State Warriors,Oklahoma City Thunder,235.5,2.0,-134,114,253,-7
+184,2023-11-19,Brooklyn Nets,Philadelphia 76ers,224.0,-3.5,138,-164,220,-22
+185,2023-11-19,Toronto Raptors,Detroit Pistons,219.0,9.5,-450,350,255,29
+186,2023-11-19,Indiana Pacers,Orlando Magic,236.0,4.5,-186,156,244,-12
+187,2023-11-19,Cleveland Cavaliers,Denver Nuggets,215.5,-4.5,162,-194,230,12
+188,2023-11-19,Dallas Mavericks,Sacramento Kings,247.0,1.5,-120,102,242,-16
+189,2023-11-19,Memphis Grizzlies,Boston Celtics,221.5,-12.0,460,-620,202,-2
+190,2023-11-19,Utah Jazz,Phoenix Suns,239.0,-5.0,162,-194,277,-3
+191,2023-11-19,Portland Trail Blazers,Oklahoma City Thunder,223.5,-6.5,210,-255,225,-43
+192,2023-11-19,Los Angeles Lakers,Houston Rockets,221.5,6.5,-235,194,209,1
+193,2023-11-20,Charlotte Hornets,Boston Celtics,234.5,-8.5,275,-335,239,3
+194,2023-11-20,Washington Wizards,Milwaukee Bucks,246.0,-10.0,360,-460,271,-13
+195,2023-11-20,Detroit Pistons,Denver Nuggets,225.5,-9.5,360,-460,210,-4
+196,2023-11-20,Minnesota Timberwolves,New York Knicks,214.5,2.5,-136,116,217,17
+197,2023-11-20,Chicago Bulls,Miami Heat,209.5,-1.5,102,-120,218,-18
+198,2023-11-20,New Orleans Pelicans,Sacramento Kings,237.0,-1.5,104,-122,222,36
+199,2023-11-20,San Antonio Spurs,Los Angeles Clippers,230.5,-8.5,310,-390,223,-25
+200,2023-11-20,Golden State Warriors,Houston Rockets,220.5,7.5,-295,240,237,5
+201,2023-11-21,Orlando Magic,Toronto Raptors,215.5,1.5,-118,100,233,19
+202,2023-11-21,Atlanta Hawks,Indiana Pacers,252.5,3.5,-164,138,309,-5
+203,2023-11-21,Philadelphia 76ers,Cleveland Cavaliers,218.5,8.0,-340,275,241,-3
+204,2023-11-21,Phoenix Suns,Portland Trail Blazers,223.5,12.5,-800,560,227,13
+205,2023-11-21,Los Angeles Lakers,Utah Jazz,239.5,7.5,-320,260,230,32
+206,2023-11-22,Charlotte Hornets,Washington Wizards,240.5,3.5,-162,136,231,3
+207,2023-11-22,Orlando Magic,Denver Nuggets,219.0,-3.0,130,-154,243,5
+208,2023-11-22,Cleveland Cavaliers,Miami Heat,213.0,1.5,-120,102,225,-33
+209,2023-11-22,Boston Celtics,Milwaukee Bucks,236.5,6.0,-245,200,235,3
+210,2023-11-22,Indiana Pacers,Toronto Raptors,242.0,2.5,-148,126,263,-1
+211,2023-11-22,Atlanta Hawks,Brooklyn Nets,236.0,3.5,-162,136,292,2
+212,2023-11-22,Oklahoma City Thunder,Chicago Bulls,223.0,8.0,-310,250,218,14
+213,2023-11-22,New Orleans Pelicans,Sacramento Kings,235.0,-1.5,104,-122,229,5
+214,2023-11-22,Houston Rockets,Memphis Grizzlies,213.0,5.0,-205,172,202,20
+215,2023-11-22,San Antonio Spurs,Los Angeles Clippers,231.0,-8.0,265,-330,211,-7
+216,2023-11-22,Minnesota Timberwolves,Philadelphia 76ers,221.0,7.0,-270,220,211,13
+217,2023-11-22,Portland Trail Blazers,Utah Jazz,228.0,-3.5,136,-162,226,16
+218,2023-11-22,Phoenix Suns,Golden State Warriors,233.5,2.5,-142,120,238,8
+219,2023-11-22,Los Angeles Lakers,Dallas Mavericks,244.0,-1.0,-102,-116,205,-3
+220,2023-11-24,Orlando Magic,Boston Celtics,221.0,-5.0,172,-205,209,17
+221,2023-11-24,Memphis Grizzlies,Phoenix Suns,220.5,-3.5,140,-166,199,-21
+222,2023-11-24,Toronto Raptors,Chicago Bulls,218.0,5.0,-188,158,229,13
+223,2023-11-24,New York Knicks,Miami Heat,209.5,5.5,-295,220,198,2
+224,2023-11-24,Indiana Pacers,Detroit Pistons,247.0,9.5,-430,340,249,23
+225,2023-11-24,Minnesota Timberwolves,Sacramento Kings,230.5,4.5,-190,160,235,-13
+226,2023-11-24,Milwaukee Bucks,Washington Wizards,248.0,13.5,-900,610,259,3
+227,2023-11-24,Houston Rockets,Denver Nuggets,216.5,-3.0,124,-146,191,19
+228,2023-11-24,Golden State Warriors,San Antonio Spurs,236.5,10.0,-450,350,230,6
+229,2023-11-24,Los Angeles Clippers,New Orleans Pelicans,228.0,5.5,-215,180,222,-10
+230,2023-11-25,Oklahoma City Thunder,Philadelphia 76ers,230.5,-1.0,100,-118,250,-4
+231,2023-11-25,Brooklyn Nets,Miami Heat,217.0,7.5,-300,245,209,15
+232,2023-11-25,Washington Wizards,Atlanta Hawks,248.5,-10.0,340,-430,244,-28
+233,2023-11-25,Cleveland Cavaliers,Los Angeles Lakers,228.0,4.0,-168,142,236,-6
+234,2023-11-25,Utah Jazz,New Orleans Pelicans,227.5,-3.5,130,-154,205,5
+235,2023-11-25,Los Angeles Clippers,Dallas Mavericks,237.0,1.0,-116,-102,195,19
+236,2023-11-26,Milwaukee Bucks,Portland Trail Blazers,231.5,13.0,-900,610,210,6
+237,2023-11-26,Boston Celtics,Atlanta Hawks,236.0,7.5,-310,250,216,10
+238,2023-11-26,Orlando Magic,Charlotte Hornets,228.5,6.5,-245,205,247,13
+239,2023-11-26,New York Knicks,Phoenix Suns,218.5,6.5,-240,194,229,-3
+240,2023-11-26,Memphis Grizzlies,Minnesota Timberwolves,217.5,-6.5,200,-245,216,-22
+241,2023-11-26,Cleveland Cavaliers,Toronto Raptors,222.5,3.0,-156,132,207,3
+242,2023-11-26,Brooklyn Nets,Chicago Bulls,221.5,3.0,-148,126,227,9
+243,2023-11-26,Denver Nuggets,San Antonio Spurs,229.5,10.5,-520,400,252,12
+244,2023-11-27,Detroit Pistons,Washington Wizards,236.5,2.0,-136,116,233,-19
+245,2023-11-27,Indiana Pacers,Portland Trail Blazers,240.5,12.0,-670,490,224,-4
+246,2023-11-27,Philadelphia 76ers,Los Angeles Lakers,230.5,6.0,-230,190,232,44
+247,2023-11-27,Utah Jazz,New Orleans Pelicans,232.0,-6.5,215,-260,226,2
+248,2023-11-27,Los Angeles Clippers,Denver Nuggets,217.5,11.5,-560,420,217,-9
+249,2023-11-28,Boston Celtics,Chicago Bulls,219.0,12.5,-770,540,221,27
+250,2023-11-28,Brooklyn Nets,Toronto Raptors,223.5,1.5,-124,106,218,12
+251,2023-11-28,New York Knicks,Charlotte Hornets,220.0,11.5,-590,430,206,24
+252,2023-11-28,Cleveland Cavaliers,Atlanta Hawks,238.5,4.0,-180,152,233,23
+253,2023-11-28,Miami Heat,Milwaukee Bucks,230.5,-4.5,154,-184,255,-7
+254,2023-11-28,Minnesota Timberwolves,Oklahoma City Thunder,228.5,3.0,-142,120,209,3
+255,2023-11-28,Dallas Mavericks,Houston Rockets,227.5,4.0,-184,154,236,6
+256,2023-11-28,Sacramento Kings,Golden State Warriors,237.5,2.0,-134,114,247,1
+257,2023-11-29,Detroit Pistons,Los Angeles Lakers,229.0,-7.5,245,-300,240,-26
+258,2023-11-29,Orlando Magic,Washington Wizards,235.5,10.0,-460,360,259,19
+259,2023-11-29,Toronto Raptors,Phoenix Suns,225.5,0.5,-115,-111,217,7
+260,2023-11-29,Memphis Grizzlies,Utah Jazz,223.5,2.5,-118,-108,196,14
+261,2023-11-29,New Orleans Pelicans,Philadelphia 76ers,232.5,9.5,-500,340,238,10
+262,2023-11-29,Denver Nuggets,Houston Rockets,227.5,18.5,-4500,1200,258,10
+263,2023-11-29,Sacramento Kings,Los Angeles Clippers,230.5,-1.5,-118,-108,248,-14
+264,2023-11-30,Cleveland Cavaliers,Portland Trail Blazers,218.5,12.5,-620,460,198,-8
+265,2023-11-30,Brooklyn Nets,Charlotte Hornets,223.0,9.0,-375,300,257,-1
+266,2023-11-30,New York Knicks,Detroit Pistons,218.5,14.5,-1100,700,230,6
+267,2023-11-30,Miami Heat,Indiana Pacers,237.5,3.5,-164,138,274,10
+268,2023-11-30,Oklahoma City Thunder,Los Angeles Lakers,234.5,5.0,-198,164,243,23
+269,2023-11-30,San Antonio Spurs,Atlanta Hawks,246.0,-6.5,215,-260,272,-2
+270,2023-11-30,Minnesota Timberwolves,Utah Jazz,219.5,11.5,-590,440,191,11
+271,2023-11-30,Chicago Bulls,Milwaukee Bucks,226.0,-10.5,420,-560,233,7
+272,2023-11-30,Golden State Warriors,Los Angeles Clippers,230.5,2.0,-126,108,234,6
+273,2023-12-01,Orlando Magic,Washington Wizards,236.0,10.5,-510,390,255,5
+274,2023-12-01,Boston Celtics,Philadelphia 76ers,217.5,11.5,-850,500,244,6
+275,2023-12-01,Toronto Raptors,New York Knicks,218.5,1.5,-126,108,225,-13
+276,2023-12-01,Dallas Mavericks,Memphis Grizzlies,224.5,6.0,-240,198,202,-14
+277,2023-12-01,New Orleans Pelicans,San Antonio Spurs,238.5,13.0,-750,530,227,15
+278,2023-12-01,Phoenix Suns,Denver Nuggets,226.5,-0.5,112,-142,230,-8
+279,2023-12-02,Los Angeles Clippers,Golden State Warriors,229.5,5.5,-220,184,225,1
+280,2023-12-02,Charlotte Hornets,Minnesota Timberwolves,219.5,-5.5,176,-210,240,-6
+281,2023-12-02,Detroit Pistons,Cleveland Cavaliers,225.0,-8.5,290,-360,211,-9
+282,2023-12-02,Brooklyn Nets,Orlando Magic,225.5,2.5,-134,114,230,28
+283,2023-12-02,Miami Heat,Indiana Pacers,237.0,4.5,-200,166,273,-15
+284,2023-12-02,Chicago Bulls,New Orleans Pelicans,219.0,-1.5,100,-118,242,6
+285,2023-12-02,Milwaukee Bucks,Atlanta Hawks,251.5,6.5,-260,215,253,11
+286,2023-12-02,Dallas Mavericks,Oklahoma City Thunder,234.5,-5.5,180,-220,246,-6
+287,2023-12-02,Phoenix Suns,Memphis Grizzlies,220.0,10.0,-490,380,225,7
+288,2023-12-02,Utah Jazz,Portland Trail Blazers,217.5,1.5,-120,102,231,5
+289,2023-12-02,Sacramento Kings,Denver Nuggets,235.0,3.5,-154,130,240,6
+290,2023-12-02,Los Angeles Lakers,Houston Rockets,226.5,4.5,-194,162,204,10
+291,2023-12-04,Indiana Pacers,Boston Celtics,244.5,-4.5,166,-198,234,10
+292,2023-12-04,Sacramento Kings,New Orleans Pelicans,237.0,3.5,-166,140,244,-10
+293,2023-12-05,Milwaukee Bucks,New York Knicks,229.5,4.5,-184,154,268,24
+294,2023-12-05,Los Angeles Lakers,Phoenix Suns,230.5,1.5,-150,118,209,3
+295,2023-12-06,Detroit Pistons,Memphis Grizzlies,216.5,-0.5,-106,-120,218,-14
+296,2023-12-06,Cleveland Cavaliers,Orlando Magic,225.0,4.0,-164,138,232,10
+297,2023-12-06,Washington Wizards,Philadelphia 76ers,234.5,-8.5,260,-360,257,-5
+298,2023-12-06,Toronto Raptors,Miami Heat,219.5,4.0,-176,148,215,-9
+299,2023-12-06,Minnesota Timberwolves,San Antonio Spurs,231.0,12.0,-700,500,196,8
+300,2023-12-06,Atlanta Hawks,Brooklyn Nets,242.5,3.5,-158,134,227,-1
+301,2023-12-06,Houston Rockets,Oklahoma City Thunder,224.5,-1.5,108,-126,211,9
+302,2023-12-06,Chicago Bulls,Charlotte Hornets,220.0,5.0,-235,180,211,11
+303,2023-12-06,Dallas Mavericks,Utah Jazz,238.5,14.5,-1800,800,244,50
+304,2023-12-06,Los Angeles Clippers,Denver Nuggets,230.0,1.0,-116,-102,213,9
+305,2023-12-06,Golden State Warriors,Portland Trail Blazers,225.5,13.0,-750,530,216,4
+306,2023-12-07,Milwaukee Bucks,Indiana Pacers,257.0,5.0,-200,168,247,-9
+307,2023-12-07,Los Angeles Lakers,New Orleans Pelicans,229.5,2.0,-130,110,222,44
+308,2023-12-08,Philadelphia 76ers,Atlanta Hawks,235.0,8.5,-370,295,239,11
+309,2023-12-08,Charlotte Hornets,Toronto Raptors,222.5,-5.5,180,-215,235,3
+310,2023-12-08,Orlando Magic,Detroit Pistons,229.5,10.5,-500,385,214,32
+311,2023-12-08,Boston Celtics,New York Knicks,220.5,7.5,-310,250,256,10
+312,2023-12-08,Brooklyn Nets,Washington Wizards,239.5,9.5,-405,320,221,27
+313,2023-12-08,Memphis Grizzlies,Minnesota Timberwolves,213.5,-5.5,180,-215,230,-24
+314,2023-12-08,Miami Heat,Cleveland Cavaliers,223.0,-1.5,106,-124,210,-12
+315,2023-12-08,Oklahoma City Thunder,Golden State Warriors,236.0,3.0,-154,130,274,2
+316,2023-12-08,San Antonio Spurs,Chicago Bulls,224.0,-2.5,108,-126,233,-9
+317,2023-12-08,Phoenix Suns,Sacramento Kings,235.5,-3.0,130,-154,220,-8
+318,2023-12-08,Denver Nuggets,Houston Rockets,221.0,9.0,-390,310,220,-8
+319,2023-12-08,Portland Trail Blazers,Dallas Mavericks,233.5,-9.5,360,-460,237,-13
+320,2023-12-08,Utah Jazz,Los Angeles Clippers,225.0,-8.0,260,-320,220,-14
+321,2023-12-09,Los Angeles Lakers,Indiana Pacers,248.5,4.5,-200,154,232,14
+322,2023-12-11,Orlando Magic,Cleveland Cavaliers,226.0,2.0,-136,116,198,10
+323,2023-12-11,Philadelphia 76ers,Washington Wizards,243.5,13.5,-800,560,247,45
+324,2023-12-11,Detroit Pistons,Indiana Pacers,247.5,-7.0,235,-290,254,-8
+325,2023-12-11,Charlotte Hornets,Miami Heat,222.5,-4.5,156,-186,230,-2
+326,2023-12-11,New York Knicks,Toronto Raptors,222.0,4.0,-158,134,266,6
+327,2023-12-11,Atlanta Hawks,Denver Nuggets,242.0,-3.5,138,-164,251,-7
+328,2023-12-11,Houston Rockets,San Antonio Spurs,224.0,9.0,-390,310,175,11
+329,2023-12-11,Oklahoma City Thunder,Utah Jazz,235.5,13.0,-750,530,254,14
+330,2023-12-11,Memphis Grizzlies,Dallas Mavericks,227.5,-1.5,-104,-112,233,-7
+331,2023-12-11,New Orleans Pelicans,Minnesota Timberwolves,222.0,4.0,-164,138,228,14
+332,2023-12-11,Milwaukee Bucks,Chicago Bulls,233.0,12.0,-650,480,262,4
+333,2023-12-11,Sacramento Kings,Brooklyn Nets,237.0,5.0,-198,166,249,13
+334,2023-12-11,Los Angeles Clippers,Portland Trail Blazers,220.5,14.5,-1150,730,259,5
+335,2023-12-12,Dallas Mavericks,Los Angeles Lakers,236.0,-3.5,132,-156,252,2
+336,2023-12-12,Boston Celtics,Cleveland Cavaliers,226.5,11.0,-560,420,233,7
+337,2023-12-12,Chicago Bulls,Denver Nuggets,220.0,-6.5,210,-255,220,-8
+338,2023-12-12,Phoenix Suns,Golden State Warriors,228.5,-1.5,102,-120,235,3
+339,2023-12-12,Los Angeles Clippers,Sacramento Kings,238.0,3.5,-168,142,218,20
+340,2023-12-13,Washington Wizards,New Orleans Pelicans,240.0,-7.0,210,-255,264,-20
+341,2023-12-13,Detroit Pistons,Philadelphia 76ers,233.5,-12.0,460,-620,240,-18
+342,2023-12-13,Miami Heat,Charlotte Hornets,223.5,7.5,-320,260,219,11
+343,2023-12-13,Toronto Raptors,Atlanta Hawks,240.5,2.5,-142,120,263,7
+344,2023-12-13,San Antonio Spurs,Los Angeles Lakers,231.5,-3.5,138,-164,241,-3
+345,2023-12-13,Houston Rockets,Memphis Grizzlies,210.5,10.0,-450,350,221,13
+346,2023-12-13,Milwaukee Bucks,Indiana Pacers,258.0,6.5,-245,200,266,14
+347,2023-12-13,Phoenix Suns,Brooklyn Nets,230.5,4.5,-186,156,228,-4
+348,2023-12-13,Utah Jazz,New York Knicks,229.5,-6.0,188,-220,230,4
+349,2023-12-14,Boston Celtics,Cleveland Cavaliers,227.0,8.5,-360,290,223,9
+350,2023-12-14,Miami Heat,Chicago Bulls,213.0,3.5,-162,136,240,-8
+351,2023-12-14,Dallas Mavericks,Minnesota Timberwolves,231.0,-2.0,112,-132,220,-18
+352,2023-12-14,Denver Nuggets,Brooklyn Nets,231.0,9.5,-420,330,225,23
+353,2023-12-14,Portland Trail Blazers,Utah Jazz,226.5,5.0,-205,172,236,-8
+354,2023-12-14,Sacramento Kings,Oklahoma City Thunder,245.5,2.0,-132,112,251,5
+355,2023-12-14,Los Angeles Clippers,Golden State Warriors,231.5,3.0,-138,118,234,8
+356,2023-12-15,Philadelphia 76ers,Detroit Pistons,235.0,15.5,-1000,660,216,32
+357,2023-12-15,Charlotte Hornets,New Orleans Pelicans,234.0,-9.5,310,-390,219,-5
+358,2023-12-15,Washington Wizards,Indiana Pacers,260.0,-8.0,265,-330,260,14
+359,2023-12-15,Toronto Raptors,Atlanta Hawks,240.5,1.5,-124,106,229,-21
+360,2023-12-15,Boston Celtics,Orlando Magic,227.5,5.5,-220,184,239,17
+361,2023-12-15,San Antonio Spurs,Los Angeles Lakers,235.5,-4.0,150,-178,244,14
+362,2023-12-15,Memphis Grizzlies,Houston Rockets,212.5,-2.5,120,-142,199,-7
+363,2023-12-15,Phoenix Suns,New York Knicks,230.0,5.0,-210,176,261,-17
+364,2023-12-16,Milwaukee Bucks,Detroit Pistons,241.0,16.5,-1200,750,260,32
+365,2023-12-16,Charlotte Hornets,Philadelphia 76ers,229.0,-12.0,490,-670,217,-53
+366,2023-12-16,Cleveland Cavaliers,Atlanta Hawks,236.5,4.5,-178,150,246,8
+367,2023-12-16,Minnesota Timberwolves,Indiana Pacers,238.0,10.5,-500,385,236,18
+368,2023-12-16,Miami Heat,Chicago Bulls,219.5,5.0,-188,158,234,2
+369,2023-12-16,Golden State Warriors,Brooklyn Nets,235.5,3.5,-162,136,244,4
+370,2023-12-16,Portland Trail Blazers,Dallas Mavericks,233.0,-4.5,158,-188,251,-11
+371,2023-12-16,Denver Nuggets,Oklahoma City Thunder,237.5,5.0,-215,180,235,-1
+372,2023-12-16,Sacramento Kings,Utah Jazz,235.0,8.0,-330,265,229,21
+373,2023-12-16,Los Angeles Clippers,New York Knicks,230.5,6.5,-260,215,266,22
+374,2023-12-17,Boston Celtics,Orlando Magic,226.0,9.0,-340,275,211,17
+375,2023-12-17,San Antonio Spurs,New Orleans Pelicans,239.0,-8.0,265,-330,256,-36
+376,2023-12-17,Milwaukee Bucks,Houston Rockets,231.5,7.0,-275,225,247,9
+377,2023-12-17,Phoenix Suns,Washington Wizards,245.5,13.0,-820,570,220,4
+378,2023-12-17,Portland Trail Blazers,Golden State Warriors,233.0,-6.0,198,-240,232,-4
+379,2023-12-18,Philadelphia 76ers,Chicago Bulls,227.0,10.5,-490,380,212,-4
+380,2023-12-18,Indiana Pacers,Los Angeles Clippers,252.5,-4.0,156,-186,278,-24
+381,2023-12-18,Cleveland Cavaliers,Houston Rockets,215.5,3.5,-164,138,265,5
+382,2023-12-18,Toronto Raptors,Charlotte Hornets,224.0,12.5,-770,540,213,15
+383,2023-12-18,Miami Heat,Minnesota Timberwolves,215.5,-1.5,-115,-111,220,-4
+384,2023-12-18,Atlanta Hawks,Detroit Pistons,247.0,11.5,-600,450,254,6
+385,2023-12-18,Oklahoma City Thunder,Memphis Grizzlies,228.5,10.5,-500,385,213,19
+386,2023-12-18,Utah Jazz,Brooklyn Nets,233.0,-3.5,132,-156,233,17
+387,2023-12-18,Denver Nuggets,Dallas Mavericks,239.5,8.0,-330,265,234,26
+388,2023-12-18,Sacramento Kings,Washington Wizards,252.0,14.5,-1100,700,274,12
+389,2023-12-18,Los Angeles Lakers,New York Knicks,235.5,4.5,-194,162,223,-5
+390,2023-12-19,New Orleans Pelicans,Memphis Grizzlies,228.5,8.5,-375,300,228,-2
+391,2023-12-19,Milwaukee Bucks,San Antonio Spurs,249.0,16.5,-1500,870,251,13
+392,2023-12-19,Portland Trail Blazers,Phoenix Suns,230.5,-7.5,240,-295,213,5
+393,2023-12-19,Golden State Warriors,Boston Celtics,233.5,-5.5,176,-230,258,6
+394,2023-12-20,Indiana Pacers,Charlotte Hornets,245.5,10.5,-500,385,257,31
+395,2023-12-20,Cleveland Cavaliers,Utah Jazz,225.5,3.5,-158,134,240,8
+396,2023-12-20,Orlando Magic,Miami Heat,219.5,5.5,-215,180,221,-9
+397,2023-12-20,Philadelphia 76ers,Minnesota Timberwolves,220.5,2.5,-120,-106,240,14
+398,2023-12-20,Toronto Raptors,Denver Nuggets,229.0,-3.5,142,-168,217,-9
+399,2023-12-20,Brooklyn Nets,New York Knicks,232.5,-1.5,102,-120,223,-19
+400,2023-12-20,Houston Rockets,Atlanta Hawks,233.0,2.5,-142,120,261,-7
+401,2023-12-20,Chicago Bulls,Los Angeles Lakers,225.0,-3.5,138,-164,232,16
+402,2023-12-20,Dallas Mavericks,Los Angeles Clippers,237.5,-2.0,112,-132,231,-9
+403,2023-12-20,Sacramento Kings,Boston Celtics,238.5,3.5,-166,140,263,-25
+404,2023-12-21,Detroit Pistons,Utah Jazz,233.5,2.0,-134,114,230,-8
+405,2023-12-21,Cleveland Cavaliers,New Orleans Pelicans,225.0,-3.5,138,-164,227,-19
+406,2023-12-21,Chicago Bulls,San Antonio Spurs,229.5,6.5,-240,198,209,19
+407,2023-12-21,Memphis Grizzlies,Indiana Pacers,246.5,2.0,-132,112,219,13
+408,2023-12-21,Oklahoma City Thunder,Los Angeles Clippers,237.5,6.0,-235,194,249,19
+409,2023-12-21,Milwaukee Bucks,Orlando Magic,238.0,8.5,-360,290,232,4
+410,2023-12-21,Minnesota Timberwolves,Los Angeles Lakers,222.5,8.5,-360,290,229,7
+411,2023-12-21,Portland Trail Blazers,Washington Wizards,239.5,4.0,-168,142,235,-1
+412,2023-12-22,Philadelphia 76ers,Toronto Raptors,230.5,8.0,-300,245,232,10
+413,2023-12-22,Brooklyn Nets,Denver Nuggets,231.5,-5.0,180,-215,239,-5
+414,2023-12-22,Miami Heat,Atlanta Hawks,238.5,-1.0,-102,-116,235,9
+415,2023-12-22,Houston Rockets,Dallas Mavericks,222.5,8.5,-340,275,218,26
+416,2023-12-22,Golden State Warriors,Washington Wizards,248.5,10.5,-620,400,247,11
+417,2023-12-22,Sacramento Kings,Phoenix Suns,244.5,4.0,-180,152,225,15
+418,2023-12-23,New York Knicks,Milwaukee Bucks,244.5,-2.5,120,-142,241,-19
+419,2023-12-23,Los Angeles Clippers,Boston Celtics,231.5,-4.5,150,-178,253,-37
+420,2023-12-23,Indiana Pacers,Orlando Magic,245.0,2.5,-136,116,227,-7
+421,2023-12-23,Charlotte Hornets,Denver Nuggets,224.5,-11.0,430,-590,197,-7
+422,2023-12-23,New Orleans Pelicans,Houston Rockets,227.0,7.5,-290,235,210,-2
+423,2023-12-23,Atlanta Hawks,Memphis Grizzlies,237.0,1.5,-124,106,244,-6
+424,2023-12-23,Toronto Raptors,Utah Jazz,232.5,5.5,-210,176,245,-7
+425,2023-12-23,Brooklyn Nets,Detroit Pistons,231.0,9.5,-490,380,241,11
+426,2023-12-23,Chicago Bulls,Cleveland Cavaliers,213.5,6.5,-245,200,204,-14
+427,2023-12-23,Oklahoma City Thunder,Los Angeles Lakers,239.0,3.5,-164,138,249,-9
+428,2023-12-23,Golden State Warriors,Portland Trail Blazers,231.0,8.0,-350,280,232,20
+429,2023-12-23,Dallas Mavericks,San Antonio Spurs,243.0,9.0,-360,290,263,25
+430,2023-12-23,Sacramento Kings,Minnesota Timberwolves,232.5,2.0,-130,110,208,-12
+431,2023-12-25,New York Knicks,Milwaukee Bucks,242.5,-4.5,158,-205,251,7
+432,2023-12-25,Denver Nuggets,Golden State Warriors,234.5,7.5,-360,260,234,6
+433,2023-12-25,Los Angeles Lakers,Boston Celtics,235.5,-6.5,220,-295,241,-11
+434,2023-12-25,Miami Heat,Philadelphia 76ers,229.5,2.5,-162,126,232,6
+435,2023-12-25,Phoenix Suns,Dallas Mavericks,241.5,4.5,-196,152,242,-14
+436,2023-12-26,Detroit Pistons,Brooklyn Nets,228.5,-6.5,215,-260,230,-6
+437,2023-12-26,Washington Wizards,Orlando Magic,236.5,-7.0,225,-275,246,-8
+438,2023-12-26,Chicago Bulls,Atlanta Hawks,238.0,-2.5,110,-130,231,5
+439,2023-12-26,San Antonio Spurs,Utah Jazz,241.5,-3.0,130,-154,248,-12
+440,2023-12-26,Oklahoma City Thunder,Minnesota Timberwolves,230.5,2.5,-130,110,235,23
+441,2023-12-26,New Orleans Pelicans,Memphis Grizzlies,229.0,5.0,-198,166,231,-1
+442,2023-12-26,Houston Rockets,Indiana Pacers,240.5,3.0,-148,126,240,-6
+443,2023-12-26,Portland Trail Blazers,Sacramento Kings,236.5,-9.0,315,-400,243,17
+444,2023-12-26,Los Angeles Clippers,Charlotte Hornets,227.0,11.0,-550,410,217,9
+445,2023-12-27,Washington Wizards,Toronto Raptors,242.0,-6.5,220,-270,234,-30
+446,2023-12-27,Orlando Magic,Philadelphia 76ers,228.5,2.0,-138,118,204,-20
+447,2023-12-27,Brooklyn Nets,Milwaukee Bucks,244.0,-10.0,350,-450,266,-22
+448,2023-12-27,Oklahoma City Thunder,New York Knicks,241.0,3.5,-158,134,249,9
+449,2023-12-27,Houston Rockets,Phoenix Suns,225.0,-3.0,128,-152,242,-16
+450,2023-12-27,Dallas Mavericks,Cleveland Cavaliers,232.5,6.5,-290,235,223,-3
+451,2023-12-28,Boston Celtics,Detroit Pistons,234.0,17.0,-1500,870,250,6
+452,2023-12-28,Chicago Bulls,Indiana Pacers,238.5,-1.0,-102,-116,224,-16
+453,2023-12-28,New Orleans Pelicans,Utah Jazz,239.5,9.0,-400,315,217,7
+454,2023-12-28,Minnesota Timberwolves,Dallas Mavericks,228.0,12.0,-700,500,228,8
+455,2023-12-28,Denver Nuggets,Memphis Grizzlies,222.5,9.0,-405,320,247,37
+456,2023-12-28,Portland Trail Blazers,San Antonio Spurs,233.0,3.0,-152,128,223,-13
+457,2023-12-28,Golden State Warriors,Miami Heat,232.0,6.5,-260,215,216,-12
+458,2023-12-28,Los Angeles Lakers,Charlotte Hornets,227.5,13.0,-900,610,245,21
+459,2023-12-29,Washington Wizards,Brooklyn Nets,242.0,-6.0,190,-230,214,6
+460,2023-12-29,Orlando Magic,New York Knicks,226.5,-1.5,100,-118,225,9
+461,2023-12-29,Atlanta Hawks,Sacramento Kings,253.0,-1.5,100,-118,227,-7
+462,2023-12-29,Boston Celtics,Toronto Raptors,228.5,5.0,-198,166,238,2
+463,2023-12-29,Cleveland Cavaliers,Milwaukee Bucks,241.5,-5.0,168,-200,230,-8
+464,2023-12-29,Houston Rockets,Philadelphia 76ers,224.0,-1.5,100,-118,258,-4
+465,2023-12-29,Denver Nuggets,Oklahoma City Thunder,236.5,2.0,-126,108,212,-26
+466,2023-12-29,Phoenix Suns,Charlotte Hornets,231.5,15.5,-1200,750,252,14
+467,2023-12-29,Portland Trail Blazers,San Antonio Spurs,233.5,4.5,-188,158,262,6
+468,2023-12-29,Los Angeles Clippers,Memphis Grizzlies,230.5,4.0,-180,152,223,11
+469,2023-12-30,Utah Jazz,Miami Heat,231.0,-3.0,128,-152,226,8
+470,2023-12-30,Detroit Pistons,Toronto Raptors,233.5,-4.0,142,-168,256,2
+471,2023-12-30,Indiana Pacers,New York Knicks,245.5,1.5,-128,100,266,14
+472,2023-12-30,Chicago Bulls,Philadelphia 76ers,225.5,1.0,-116,-102,197,13
+473,2023-12-30,Minnesota Timberwolves,Los Angeles Lakers,227.0,4.5,-168,142,214,2
+474,2023-12-30,Golden State Warriors,Dallas Mavericks,243.0,4.0,-174,146,254,-10
+475,2023-12-31,Washington Wizards,Atlanta Hawks,252.0,-6.5,215,-260,256,-4
+476,2023-12-31,San Antonio Spurs,Boston Celtics,241.5,-14.5,750,-1200,235,-33
+477,2023-12-31,New Orleans Pelicans,Los Angeles Lakers,233.0,5.5,-210,176,238,20
+478,2023-12-31,Oklahoma City Thunder,Brooklyn Nets,235.0,7.5,-290,235,232,16
+479,2023-12-31,Phoenix Suns,Orlando Magic,232.0,5.5,-225,188,219,5
+480,2023-12-31,Memphis Grizzlies,Sacramento Kings,237.0,1.0,-116,-102,215,-31
+481,2024-01-01,New York Knicks,Minnesota Timberwolves,222.0,-1.0,-104,-112,218,6
+482,2024-01-01,Toronto Raptors,Cleveland Cavaliers,227.5,2.5,-144,122,245,3
+483,2024-01-01,Milwaukee Bucks,Indiana Pacers,261.5,8.0,-330,265,235,-9
+484,2024-01-01,Houston Rockets,Detroit Pistons,227.5,9.5,-420,330,249,23
+485,2024-01-01,Phoenix Suns,Portland Trail Blazers,229.0,9.0,-405,320,197,21
+486,2024-01-01,Denver Nuggets,Charlotte Hornets,224.5,17.0,-1600,900,204,18
+487,2024-01-01,Utah Jazz,Dallas Mavericks,247.5,-4.5,162,-194,217,37
+488,2024-01-01,Los Angeles Clippers,Miami Heat,228.5,8.0,-335,270,225,17
+489,2024-01-02,Philadelphia 76ers,Chicago Bulls,222.5,10.0,-460,360,207,13
+490,2024-01-02,New Orleans Pelicans,Brooklyn Nets,227.0,5.5,-215,180,197,27
+491,2024-01-02,Oklahoma City Thunder,Boston Celtics,240.0,-4.0,146,-174,250,4
+492,2024-01-02,Memphis Grizzlies,San Antonio Spurs,236.5,11.0,-590,430,204,8
+493,2024-01-02,Golden State Warriors,Orlando Magic,229.5,3.5,-166,140,236,6
+494,2024-01-02,Sacramento Kings,Charlotte Hornets,233.5,15.0,-1400,810,215,-7
+495,2024-01-03,Indiana Pacers,Milwaukee Bucks,258.0,-3.5,136,-162,272,12
+496,2024-01-03,Cleveland Cavaliers,Washington Wizards,239.5,9.0,-400,315,241,39
+497,2024-01-03,Atlanta Hawks,Oklahoma City Thunder,249.0,1.0,-116,-102,279,3
+498,2024-01-03,Minnesota Timberwolves,New Orleans Pelicans,221.0,6.0,-240,198,223,-11
+499,2024-01-03,Memphis Grizzlies,Toronto Raptors,228.0,1.5,-118,100,227,-5
+500,2024-01-03,Houston Rockets,Brooklyn Nets,221.5,4.0,-172,144,213,11
+501,2024-01-03,New York Knicks,Chicago Bulls,221.0,8.5,-330,265,216,16
+502,2024-01-03,Dallas Mavericks,Portland Trail Blazers,239.0,11.0,-560,420,223,29
+503,2024-01-03,Phoenix Suns,Los Angeles Clippers,231.0,-4.5,146,-174,253,-9
+504,2024-01-03,Utah Jazz,Detroit Pistons,241.5,8.5,-360,290,302,6
+505,2024-01-03,Los Angeles Lakers,Miami Heat,229.0,4.5,-198,166,206,-14
+506,2024-01-03,Sacramento Kings,Orlando Magic,232.0,5.5,-210,176,273,3
+507,2024-01-04,San Antonio Spurs,Milwaukee Bucks,248.0,-11.0,440,-590,246,-4
+508,2024-01-04,Golden State Warriors,Denver Nuggets,234.0,-4.0,146,-174,257,-3
+509,2024-01-05,Boston Celtics,Utah Jazz,240.5,14.0,-1150,730,223,29
+510,2024-01-05,Indiana Pacers,Atlanta Hawks,262.0,2.5,-138,118,266,34
+511,2024-01-05,Philadelphia 76ers,New York Knicks,233.5,6.0,-245,200,220,-36
+512,2024-01-05,Brooklyn Nets,Oklahoma City Thunder,234.0,-4.5,160,-190,239,9
+513,2024-01-05,Cleveland Cavaliers,Washington Wizards,237.5,10.5,-550,410,204,24
+514,2024-01-05,New Orleans Pelicans,Los Angeles Clippers,230.5,-1.0,-104,-112,206,-16
+515,2024-01-05,Houston Rockets,Minnesota Timberwolves,215.5,-4.0,152,-180,217,-27
+516,2024-01-05,Chicago Bulls,Charlotte Hornets,217.5,8.5,-360,290,195,13
+517,2024-01-05,Dallas Mavericks,Portland Trail Blazers,234.0,7.0,-310,250,242,36
+518,2024-01-05,Phoenix Suns,Miami Heat,227.5,2.5,-144,122,210,16
+519,2024-01-05,Denver Nuggets,Orlando Magic,224.0,10.0,-550,410,242,-2
+520,2024-01-05,Golden State Warriors,Detroit Pistons,240.5,11.0,-590,440,222,4
+521,2024-01-05,Los Angeles Lakers,Memphis Grizzlies,224.5,4.5,-250,190,240,-14
+522,2024-01-05,Sacramento Kings,Toronto Raptors,237.5,4.5,-178,150,265,5
+523,2024-01-06,Washington Wizards,New York Knicks,239.5,-9.5,315,-400,226,-16
+524,2024-01-06,Indiana Pacers,Boston Celtics,250.0,-7.0,225,-275,219,-17
+525,2024-01-06,Philadelphia 76ers,Utah Jazz,236.5,6.5,-240,198,229,-11
+526,2024-01-06,Houston Rockets,Milwaukee Bucks,237.0,-7.0,235,-290,220,4
+527,2024-01-07,Cleveland Cavaliers,San Antonio Spurs,232.0,10.5,-590,440,232,2
+528,2024-01-07,Brooklyn Nets,Portland Trail Blazers,225.5,9.5,-420,330,261,-7
+529,2024-01-07,Sacramento Kings,New Orleans Pelicans,233.5,4.5,-190,160,233,-33
+530,2024-01-07,Orlando Magic,Atlanta Hawks,240.0,-2.5,120,-142,227,7
+531,2024-01-07,Dallas Mavericks,Minnesota Timberwolves,234.0,-2.0,114,-134,223,7
+532,2024-01-07,Phoenix Suns,Memphis Grizzlies,229.0,8.0,-300,245,236,-6
+533,2024-01-07,Denver Nuggets,Detroit Pistons,235.5,16.0,-1500,870,245,17
+534,2024-01-07,Golden State Warriors,Toronto Raptors,237.5,2.5,-138,118,251,-15
+535,2024-01-07,Los Angeles Lakers,Los Angeles Clippers,232.0,-5.0,168,-200,209,3
+536,2024-01-08,Washington Wizards,Oklahoma City Thunder,244.5,-11.5,390,-590,264,-8
+537,2024-01-08,Charlotte Hornets,Chicago Bulls,213.5,-6.5,255,-350,231,-7
+538,2024-01-08,Indiana Pacers,Boston Celtics,245.5,-3.5,118,-148,264,2
+539,2024-01-08,Miami Heat,Houston Rockets,218.5,4.5,-192,148,233,7
+540,2024-01-08,Milwaukee Bucks,Utah Jazz,240.5,8.5,-350,255,248,-16
+541,2024-01-08,Los Angeles Clippers,Phoenix Suns,234.5,7.5,-330,240,249,27
+542,2024-01-09,Orlando Magic,Minnesota Timberwolves,215.5,-5.5,215,-290,205,-21
+543,2024-01-09,Detroit Pistons,Sacramento Kings,237.5,-10.5,400,-620,241,-21
+544,2024-01-09,New York Knicks,Portland Trail Blazers,229.0,13.0,-750,530,196,28
+545,2024-01-09,Dallas Mavericks,Memphis Grizzlies,236.0,9.5,-480,370,223,-17
+546,2024-01-09,Los Angeles Lakers,Toronto Raptors,239.5,4.5,-220,168,263,1
+547,2024-01-10,Detroit Pistons,San Antonio Spurs,238.5,-2.5,130,-166,238,-22
+548,2024-01-10,Charlotte Hornets,Sacramento Kings,230.5,-8.5,300,-410,221,-25
+549,2024-01-10,Indiana Pacers,Washington Wizards,251.5,8.5,-340,250,216,8
+550,2024-01-10,Boston Celtics,Minnesota Timberwolves,227.5,10.5,-620,400,247,7
+551,2024-01-10,Miami Heat,Oklahoma City Thunder,232.5,-4.5,158,-190,248,-8
+552,2024-01-10,Atlanta Hawks,Philadelphia 76ers,248.5,1.5,-146,114,271,7
+553,2024-01-10,Chicago Bulls,Houston Rockets,216.5,4.0,-172,144,243,5
+554,2024-01-10,Golden State Warriors,New Orleans Pelicans,234.5,-2.5,120,-142,246,-36
+555,2024-01-10,Utah Jazz,Denver Nuggets,238.5,-6.5,220,-270,235,13
+556,2024-01-10,Los Angeles Clippers,Toronto Raptors,235.5,11.5,-850,500,246,6
+557,2024-01-11,Cleveland Cavaliers,Brooklyn Nets,221.5,3.0,-164,138,213,9
+558,2024-01-11,Milwaukee Bucks,Boston Celtics,245.5,2.5,-140,110,237,33
+559,2024-01-11,Oklahoma City Thunder,Portland Trail Blazers,238.5,10.5,-670,430,216,62
+560,2024-01-11,Dallas Mavericks,New York Knicks,234.5,-4.5,154,-200,252,4
+561,2024-01-11,Los Angeles Lakers,Phoenix Suns,238.5,-0.5,-106,-120,236,-18
+562,2024-01-12,Atlanta Hawks,Indiana Pacers,250.5,7.5,-350,255,234,-18
+563,2024-01-12,Detroit Pistons,Houston Rockets,223.5,-8.5,285,-400,222,-2
+564,2024-01-12,Philadelphia 76ers,Sacramento Kings,242.5,-1.0,-104,-112,205,19
+565,2024-01-12,Memphis Grizzlies,Los Angeles Clippers,224.5,-8.5,290,-360,247,-9
+566,2024-01-12,San Antonio Spurs,Charlotte Hornets,236.5,3.0,-142,120,234,36
+567,2024-01-12,Chicago Bulls,Golden State Warriors,228.0,3.0,-144,122,271,-9
+568,2024-01-12,Miami Heat,Orlando Magic,219.5,1.5,-124,106,195,3
+569,2024-01-12,Minnesota Timberwolves,Portland Trail Blazers,220.0,16.0,-1400,830,209,23
+570,2024-01-12,Utah Jazz,Toronto Raptors,242.5,1.5,-125,-102,258,32
+571,2024-01-12,Denver Nuggets,New Orleans Pelicans,230.0,5.5,-225,190,238,12
+572,2024-01-13,Boston Celtics,Houston Rockets,226.5,15.0,-1100,700,258,32
+573,2024-01-13,Atlanta Hawks,Washington Wizards,248.5,8.0,-330,265,226,-28
+574,2024-01-13,Memphis Grizzlies,New York Knicks,219.5,-11.0,420,-560,200,-12
+575,2024-01-13,Oklahoma City Thunder,Orlando Magic,232.0,11.5,-590,440,212,12
+576,2024-01-13,Milwaukee Bucks,Golden State Warriors,241.5,14.0,-1000,660,247,11
+577,2024-01-13,San Antonio Spurs,Chicago Bulls,228.5,-8.5,290,-410,238,-6
+578,2024-01-13,Dallas Mavericks,New Orleans Pelicans,228.5,6.5,-310,230,226,-10
+579,2024-01-13,Utah Jazz,Los Angeles Lakers,238.5,2.5,-154,120,257,7
+580,2024-01-14,Denver Nuggets,Indiana Pacers,239.5,10.5,-560,420,226,8
+581,2024-01-14,Miami Heat,Charlotte Hornets,225.5,8.5,-360,290,191,17
+582,2024-01-14,Minnesota Timberwolves,Los Angeles Clippers,222.5,1.5,-128,100,214,4
+583,2024-01-14,Milwaukee Bucks,Sacramento Kings,246.5,4.0,-178,150,285,1
+584,2024-01-14,Portland Trail Blazers,Phoenix Suns,234.0,-14.5,640,-950,243,-11
+585,2024-01-15,Philadelphia 76ers,Houston Rockets,231.5,8.5,-480,330,239,9
+586,2024-01-15,Dallas Mavericks,New Orleans Pelicans,236.0,-4.5,160,-190,245,5
+587,2024-01-15,Washington Wizards,Detroit Pistons,239.0,6.0,-240,198,246,-12
+588,2024-01-15,New York Knicks,Orlando Magic,217.0,5.5,-230,190,192,-4
+589,2024-01-15,Atlanta Hawks,San Antonio Spurs,246.0,8.5,-340,275,208,10
+590,2024-01-15,Memphis Grizzlies,Golden State Warriors,226.5,-7.5,250,-310,223,9
+591,2024-01-15,Cleveland Cavaliers,Chicago Bulls,222.5,4.5,-176,148,200,18
+592,2024-01-15,Toronto Raptors,Boston Celtics,237.5,-6.5,260,-360,201,-9
+593,2024-01-15,Brooklyn Nets,Miami Heat,221.0,-1.0,-104,-112,191,-1
+594,2024-01-15,Utah Jazz,Indiana Pacers,248.0,7.0,-255,210,237,27
+595,2024-01-15,Los Angeles Lakers,Oklahoma City Thunder,241.5,-3.0,126,-148,217,7
+596,2024-01-16,Philadelphia 76ers,Denver Nuggets,232.5,1.5,-124,106,247,5
+597,2024-01-16,Phoenix Suns,Sacramento Kings,244.5,4.5,-178,138,236,2
+598,2024-01-16,Los Angeles Clippers,Oklahoma City Thunder,238.5,5.5,-295,220,245,11
+599,2024-01-17,Detroit Pistons,Minnesota Timberwolves,223.5,-12.5,530,-750,241,-7
+600,2024-01-17,Atlanta Hawks,Orlando Magic,228.5,4.5,-186,156,210,2
+601,2024-01-17,Toronto Raptors,Miami Heat,226.0,-3.0,130,-154,218,24
+602,2024-01-17,Cleveland Cavaliers,Milwaukee Bucks,236.5,2.0,-126,108,230,40
+603,2024-01-17,Boston Celtics,San Antonio Spurs,237.0,14.5,-1200,750,215,19
+604,2024-01-17,New York Knicks,Houston Rockets,223.5,7.5,-295,240,203,15
+605,2024-01-17,New Orleans Pelicans,Charlotte Hornets,229.5,12.0,-720,520,244,20
+606,2024-01-17,Los Angeles Lakers,Dallas Mavericks,245.0,3.0,-154,130,237,17
+607,2024-01-17,Portland Trail Blazers,Brooklyn Nets,221.5,-5.0,172,-205,208,2
+608,2024-01-18,Toronto Raptors,Chicago Bulls,225.5,-1.5,100,-128,226,-6
+609,2024-01-18,New York Knicks,Washington Wizards,233.0,12.0,-670,490,222,4
+610,2024-01-18,Utah Jazz,Oklahoma City Thunder,246.0,-3.0,126,-148,263,-5
+611,2024-01-18,Minnesota Timberwolves,Memphis Grizzlies,216.5,12.5,-950,540,221,15
+612,2024-01-18,Sacramento Kings,Indiana Pacers,244.5,8.5,-400,285,247,-5
+613,2024-01-19,Charlotte Hornets,San Antonio Spurs,234.5,4.5,-265,200,244,4
+614,2024-01-19,Orlando Magic,Philadelphia 76ers,223.5,-5.5,190,-250,233,-15
+615,2024-01-19,Boston Celtics,Denver Nuggets,234.0,7.0,-270,220,202,-2
+616,2024-01-19,New Orleans Pelicans,Phoenix Suns,235.5,2.5,-172,134,232,-14
+617,2024-01-19,Miami Heat,Atlanta Hawks,222.0,7.0,-295,240,217,-1
+618,2024-01-19,Portland Trail Blazers,Indiana Pacers,237.5,-8.5,275,-340,233,3
+619,2024-01-19,Los Angeles Lakers,Brooklyn Nets,226.5,7.5,-340,250,242,-18
+620,2024-01-20,Detroit Pistons,Milwaukee Bucks,245.5,-13.5,560,-1000,276,-6
+621,2024-01-20,Charlotte Hornets,Philadelphia 76ers,225.5,-12.5,470,-770,186,-8
+622,2024-01-20,Washington Wizards,San Antonio Spurs,241.5,2.0,-134,114,258,-4
+623,2024-01-20,Atlanta Hawks,Cleveland Cavaliers,231.5,-1.5,104,-132,211,-21
+624,2024-01-20,New York Knicks,Toronto Raptors,229.5,7.5,-295,240,226,26
+625,2024-01-20,Chicago Bulls,Memphis Grizzlies,215.5,7.5,-350,255,221,29
+626,2024-01-20,Houston Rockets,Utah Jazz,235.0,2.0,-130,110,253,1
+627,2024-01-20,Minnesota Timberwolves,Oklahoma City Thunder,229.5,3.0,-158,124,199,-5
+628,2024-01-21,Los Angeles Clippers,Brooklyn Nets,230.5,10.5,-500,340,239,11
+629,2024-01-21,Washington Wizards,Denver Nuggets,238.5,-12.5,560,-1000,217,-9
+630,2024-01-21,Orlando Magic,Miami Heat,214.0,1.0,-116,-102,192,18
+631,2024-01-21,Houston Rockets,Boston Celtics,226.5,-11.5,520,-900,223,-9
+632,2024-01-21,Phoenix Suns,Indiana Pacers,244.5,7.5,-265,200,227,7
+633,2024-01-21,Los Angeles Lakers,Portland Trail Blazers,229.5,11.5,-950,540,244,24
+634,2024-01-22,Orlando Magic,Cleveland Cavaliers,215.5,-2.5,116,-148,225,-27
+635,2024-01-22,Detroit Pistons,Milwaukee Bucks,248.5,-13.5,680,-1400,235,-9
+636,2024-01-22,Philadelphia 76ers,San Antonio Spurs,237.5,13.5,-900,610,256,10
+637,2024-01-22,Toronto Raptors,Memphis Grizzlies,226.5,6.5,-310,230,208,-8
+638,2024-01-22,Minnesota Timberwolves,Charlotte Hornets,222.5,15.5,-2200,870,253,-3
+639,2024-01-22,Dallas Mavericks,Boston Celtics,238.5,0.5,-118,-108,229,-9
+640,2024-01-22,Phoenix Suns,Chicago Bulls,228.5,5.5,-245,186,228,2
+641,2024-01-22,Sacramento Kings,Atlanta Hawks,237.5,8.5,-360,290,229,15
+642,2024-01-23,Indiana Pacers,Denver Nuggets,235.5,-4.5,190,-250,223,-5
+643,2024-01-23,Brooklyn Nets,New York Knicks,222.5,-3.5,134,-172,211,-5
+644,2024-01-23,New Orleans Pelicans,Utah Jazz,238.5,6.5,-320,235,277,29
+645,2024-01-23,Oklahoma City Thunder,Portland Trail Blazers,230.5,13.5,-1450,700,220,2
+646,2024-01-23,Los Angeles Clippers,Los Angeles Lakers,236.5,9.5,-520,350,243,11
+647,2024-01-24,Detroit Pistons,Charlotte Hornets,228.5,2.5,-158,124,219,7
+648,2024-01-24,Washington Wizards,Minnesota Timberwolves,230.5,-10.5,330,-480,225,-11
+649,2024-01-24,Miami Heat,Memphis Grizzlies,215.0,11.5,-620,460,201,-9
+650,2024-01-24,Milwaukee Bucks,Cleveland Cavaliers,238.0,6.5,-260,215,242,10
+651,2024-01-24,Houston Rockets,Portland Trail Blazers,220.0,10.0,-460,360,268,-6
+652,2024-01-24,Dallas Mavericks,Phoenix Suns,241.5,-2.5,120,-142,241,-23
+653,2024-01-24,San Antonio Spurs,Oklahoma City Thunder,241.0,-9.0,315,-400,254,-26
+654,2024-01-24,Golden State Warriors,Atlanta Hawks,235.0,6.5,-260,215,246,22
+655,2024-01-25,Washington Wizards,Utah Jazz,248.5,-7.5,230,-310,231,-15
+656,2024-01-25,Indiana Pacers,Philadelphia 76ers,241.5,-4.5,128,-164,256,12
+657,2024-01-25,New York Knicks,Denver Nuggets,222.5,-2.5,118,-138,206,38
+658,2024-01-25,Miami Heat,Boston Celtics,224.5,-8.5,280,-390,253,-33
+659,2024-01-25,Brooklyn Nets,Minnesota Timberwolves,218.0,-4.0,140,-166,190,-2
+660,2024-01-25,Golden State Warriors,Sacramento Kings,245.5,-0.5,-122,-104,267,-1
+661,2024-01-25,Los Angeles Lakers,Chicago Bulls,231.5,5.5,-320,235,273,9
+662,2024-01-26,Indiana Pacers,Phoenix Suns,243.5,-4.5,172,-225,264,2
+663,2024-01-26,Charlotte Hornets,Houston Rockets,223.5,-4.5,168,-220,242,-34
+664,2024-01-26,Atlanta Hawks,Dallas Mavericks,245.5,2.5,-142,112,291,-5
+665,2024-01-26,Toronto Raptors,Los Angeles Clippers,237.5,-8.5,255,-350,234,-20
+666,2024-01-26,New Orleans Pelicans,Oklahoma City Thunder,238.0,-1.5,106,-124,190,-24
+667,2024-01-26,Memphis Grizzlies,Orlando Magic,212.0,-6.0,190,-230,213,1
+668,2024-01-26,Milwaukee Bucks,Cleveland Cavaliers,237.5,5.0,-210,176,212,-12
+669,2024-01-26,San Antonio Spurs,Portland Trail Blazers,232.0,5.0,-205,172,216,16
+670,2024-01-27,Detroit Pistons,Washington Wizards,241.0,3.5,-156,132,222,-14
+671,2024-01-27,New York Knicks,Miami Heat,220.5,5.0,-205,172,234,16
+672,2024-01-27,Denver Nuggets,Philadelphia 76ers,223.5,13.0,-750,530,216,6
+673,2024-01-27,Brooklyn Nets,Houston Rockets,220.5,4.5,-225,172,210,2
+674,2024-01-27,Charlotte Hornets,Utah Jazz,231.5,-10.0,385,-500,256,-12
+675,2024-01-27,Boston Celtics,Los Angeles Clippers,232.0,7.0,-260,215,211,-19
+676,2024-01-27,Milwaukee Bucks,New Orleans Pelicans,243.5,3.5,-164,138,258,24
+677,2024-01-27,San Antonio Spurs,Minnesota Timberwolves,228.5,-10.5,390,-590,225,1
+678,2024-01-27,Golden State Warriors,Los Angeles Lakers,245.5,1.5,-124,106,289,-1
+679,2024-01-27,Dallas Mavericks,Sacramento Kings,246.5,-4.0,148,-176,235,-5
+680,2024-01-28,Detroit Pistons,Oklahoma City Thunder,237.5,-12.5,540,-950,224,16
+681,2024-01-28,Indiana Pacers,Memphis Grizzlies,228.5,7.5,-330,240,226,6
+682,2024-01-28,Atlanta Hawks,Toronto Raptors,240.0,6.5,-255,210,251,1
+683,2024-01-28,Orlando Magic,Phoenix Suns,227.5,-2.5,116,-148,211,15
+684,2024-01-28,Portland Trail Blazers,Chicago Bulls,222.0,-5.5,180,-220,200,-8
+685,2024-01-29,Charlotte Hornets,New York Knicks,218.5,-9.5,330,-480,205,-21
+686,2024-01-29,Cleveland Cavaliers,Los Angeles Clippers,226.5,-1.5,104,-122,226,10
+687,2024-01-29,Brooklyn Nets,Utah Jazz,236.5,-0.5,100,-128,261,33
+688,2024-01-29,Boston Celtics,New Orleans Pelicans,234.5,9.5,-460,320,230,6
+689,2024-01-29,Miami Heat,Phoenix Suns,230.5,2.5,-136,116,223,-13
+690,2024-01-29,Memphis Grizzlies,Sacramento Kings,223.5,-11.0,440,-590,197,-9
+691,2024-01-29,Oklahoma City Thunder,Minnesota Timberwolves,224.5,2.5,-156,122,208,-6
+692,2024-01-29,Houston Rockets,Los Angeles Lakers,235.0,-1.0,-102,-116,254,16
+693,2024-01-29,San Antonio Spurs,Washington Wizards,242.0,3.5,-158,134,231,-5
+694,2024-01-29,Dallas Mavericks,Orlando Magic,227.5,3.5,-160,124,260,2
+695,2024-01-29,Denver Nuggets,Milwaukee Bucks,236.5,3.5,-192,148,220,6
+696,2024-01-29,Portland Trail Blazers,Philadelphia 76ers,221.0,-5.5,176,-210,234,26
+697,2024-01-30,New York Knicks,Utah Jazz,230.0,3.0,-146,124,221,15
+698,2024-01-30,Atlanta Hawks,Los Angeles Lakers,247.5,5.5,-220,168,260,16
+699,2024-01-30,Boston Celtics,Indiana Pacers,248.5,8.5,-390,280,253,5
+700,2024-01-30,Chicago Bulls,Toronto Raptors,226.0,7.0,-290,235,225,-11
+701,2024-01-30,Golden State Warriors,Philadelphia 76ers,233.5,2.5,-138,118,226,12
+702,2024-01-31,Cleveland Cavaliers,Detroit Pistons,231.0,13.5,-950,640,249,7
+703,2024-01-31,Charlotte Hornets,Chicago Bulls,215.5,-6.5,215,-290,227,-7
+704,2024-01-31,Washington Wizards,Los Angeles Clippers,236.5,-10.5,400,-620,234,-16
+705,2024-01-31,Miami Heat,Sacramento Kings,229.0,2.5,-138,118,221,9
+706,2024-01-31,San Antonio Spurs,Orlando Magic,225.5,-6.5,220,-295,206,-10
+707,2024-01-31,Houston Rockets,New Orleans Pelicans,230.5,1.0,-110,-106,209,-11
+708,2024-01-31,Minnesota Timberwolves,Dallas Mavericks,221.5,13.0,-900,610,208,34
+709,2024-01-31,Oklahoma City Thunder,Denver Nuggets,223.0,6.0,-225,188,205,5
+710,2024-01-31,Brooklyn Nets,Phoenix Suns,232.5,-3.5,132,-170,256,-16
+711,2024-01-31,Portland Trail Blazers,Milwaukee Bucks,238.0,-10.5,385,-500,235,3
+712,2024-02-01,New York Knicks,Indiana Pacers,235.0,2.0,-126,108,214,4
+713,2024-02-01,Boston Celtics,Los Angeles Lakers,238.5,15.5,-2200,870,219,-9
+714,2024-02-01,Memphis Grizzlies,Cleveland Cavaliers,216.5,-8.5,340,-500,209,-7
+715,2024-02-01,Utah Jazz,Philadelphia 76ers,243.5,4.5,-200,152,251,-3
+716,2024-02-02,Detroit Pistons,Los Angeles Clippers,239.5,-11.5,530,-750,261,-11
+717,2024-02-02,Washington Wizards,Miami Heat,226.5,-7.5,235,-320,212,-8
+718,2024-02-02,Indiana Pacers,Sacramento Kings,248.5,-4.5,158,-205,255,-11
+719,2024-02-02,Atlanta Hawks,Phoenix Suns,249.5,-3.5,140,-180,249,9
+720,2024-02-02,Minnesota Timberwolves,Orlando Magic,213.0,7.0,-270,220,214,-2
+721,2024-02-02,San Antonio Spurs,New Orleans Pelicans,235.0,-8.5,280,-350,227,-1
+722,2024-02-02,Houston Rockets,Toronto Raptors,232.0,4.5,-188,158,241,29
+723,2024-02-02,Memphis Grizzlies,Golden State Warriors,225.0,-7.5,245,-300,222,-20
+724,2024-02-02,Oklahoma City Thunder,Charlotte Hornets,224.5,15.5,-1350,810,232,20
+725,2024-02-02,Denver Nuggets,Portland Trail Blazers,219.5,14.5,-1150,730,228,12
+726,2024-02-03,Philadelphia 76ers,Brooklyn Nets,233.5,-2.5,120,-154,257,-15
+727,2024-02-03,Atlanta Hawks,Golden State Warriors,244.5,2.5,-122,-104,275,7
+728,2024-02-03,Chicago Bulls,Sacramento Kings,228.5,1.0,-116,-102,238,-8
+729,2024-02-03,San Antonio Spurs,Cleveland Cavaliers,230.5,-10.5,470,-770,218,-16
+730,2024-02-03,New York Knicks,Los Angeles Lakers,228.5,2.5,-128,100,218,-8
+731,2024-02-03,Dallas Mavericks,Milwaukee Bucks,249.5,-4.5,172,-225,246,-12
+732,2024-02-04,Detroit Pistons,Orlando Magic,230.5,-6.5,250,-340,210,-12
+733,2024-02-04,Washington Wizards,Phoenix Suns,240.0,-11.0,400,-520,252,-28
+734,2024-02-04,Boston Celtics,Memphis Grizzlies,219.5,18.5,-4500,1200,222,40
+735,2024-02-04,Charlotte Hornets,Indiana Pacers,237.0,-11.5,460,-620,214,-16
+736,2024-02-04,Miami Heat,Los Angeles Clippers,223.5,-5.5,184,-220,198,-8
+737,2024-02-04,Minnesota Timberwolves,Houston Rockets,220.5,7.5,-330,240,201,21
+738,2024-02-04,Oklahoma City Thunder,Toronto Raptors,235.5,8.5,-390,280,262,8
+739,2024-02-04,Utah Jazz,Milwaukee Bucks,249.5,2.5,-146,114,231,15
+740,2024-02-04,Denver Nuggets,Portland Trail Blazers,220.5,15.5,-1600,750,215,9
+741,2024-02-05,Philadelphia 76ers,Dallas Mavericks,242.5,-1.5,-111,-115,220,-16
+742,2024-02-05,Charlotte Hornets,Los Angeles Lakers,228.5,-13.5,560,-1000,242,-6
+743,2024-02-05,Cleveland Cavaliers,Sacramento Kings,235.0,4.5,-184,154,246,26
+744,2024-02-05,Atlanta Hawks,Los Angeles Clippers,246.5,-4.5,140,-180,293,-5
+745,2024-02-05,Brooklyn Nets,Golden State Warriors,238.5,-1.0,-106,-112,207,-11
+746,2024-02-05,New Orleans Pelicans,Toronto Raptors,232.0,10.5,-550,410,238,38
+747,2024-02-06,Indiana Pacers,Houston Rockets,243.5,8.5,-350,255,261,3
+748,2024-02-06,New York Knicks,Memphis Grizzlies,212.5,13.5,-1200,630,236,10
+749,2024-02-06,Miami Heat,Orlando Magic,214.0,3.5,-154,130,216,26
+750,2024-02-06,Brooklyn Nets,Dallas Mavericks,235.5,-2.5,134,-172,226,-12
+751,2024-02-06,Chicago Bulls,Minnesota Timberwolves,216.0,-4.5,164,-196,252,6
+752,2024-02-06,Utah Jazz,Oklahoma City Thunder,239.5,-3.5,144,-186,241,7
+753,2024-02-06,Phoenix Suns,Milwaukee Bucks,242.5,5.5,-265,200,220,8
+754,2024-02-07,Washington Wizards,Cleveland Cavaliers,234.5,-11.5,500,-850,220,-8
+755,2024-02-07,Charlotte Hornets,Toronto Raptors,225.5,-7.5,235,-320,240,-6
+756,2024-02-07,Boston Celtics,Atlanta Hawks,240.5,11.5,-800,480,242,8
+757,2024-02-07,Miami Heat,San Antonio Spurs,228.0,8.0,-355,285,220,12
+758,2024-02-07,Philadelphia 76ers,Golden State Warriors,235.5,-3.0,126,-148,231,-23
+759,2024-02-07,Los Angeles Clippers,New Orleans Pelicans,234.5,5.5,-210,176,223,-11
+760,2024-02-07,Sacramento Kings,Detroit Pistons,239.0,13.5,-900,610,253,-13
+761,2024-02-08,Orlando Magic,San Antonio Spurs,224.5,10.0,-480,370,238,16
+762,2024-02-08,Indiana Pacers,Golden State Warriors,249.0,5.5,-225,188,240,-22
+763,2024-02-08,Brooklyn Nets,Cleveland Cavaliers,224.0,-8.0,250,-310,213,-23
+764,2024-02-08,New York Knicks,Dallas Mavericks,225.5,-8.5,280,-390,230,-14
+765,2024-02-08,Milwaukee Bucks,Minnesota Timberwolves,222.5,-2.0,110,-130,234,-24
+766,2024-02-08,Memphis Grizzlies,Chicago Bulls,216.5,-5.5,200,-265,228,-8
+767,2024-02-08,Phoenix Suns,Utah Jazz,238.5,5.5,-265,200,244,14
+768,2024-02-08,Los Angeles Lakers,Denver Nuggets,230.5,-3.5,136,-174,220,-8
+769,2024-02-08,Portland Trail Blazers,Detroit Pistons,225.5,4.5,-180,152,250,-6
+770,2024-02-09,Philadelphia 76ers,Atlanta Hawks,244.5,-5.5,196,-260,248,-6
+771,2024-02-09,Boston Celtics,Washington Wizards,236.5,18.5,-3000,1000,262,4
+772,2024-02-09,Toronto Raptors,Houston Rockets,234.5,2.5,-172,134,211,3
+773,2024-02-09,Milwaukee Bucks,Charlotte Hornets,229.5,16.0,-1600,900,204,36
+774,2024-02-09,Sacramento Kings,Denver Nuggets,231.0,3.0,-152,128,241,29
+775,2024-02-09,Los Angeles Lakers,New Orleans Pelicans,237.5,-2.0,108,-126,261,17
+776,2024-02-10,Dallas Mavericks,Oklahoma City Thunder,238.5,-1.5,102,-130,257,35
+777,2024-02-10,Los Angeles Clippers,Detroit Pistons,233.5,17.5,-2500,900,218,6
+778,2024-02-10,Brooklyn Nets,San Antonio Spurs,232.0,6.0,-230,194,226,20
+779,2024-02-10,Charlotte Hornets,Memphis Grizzlies,215.5,-5.5,176,-230,221,9
+780,2024-02-10,Orlando Magic,Chicago Bulls,218.0,5.0,-205,172,222,6
+781,2024-02-10,Washington Wizards,Philadelphia 76ers,243.5,-5.5,176,-210,232,-6
+782,2024-02-10,New York Knicks,Indiana Pacers,237.5,-3.0,124,-146,236,-14
+783,2024-02-10,Atlanta Hawks,Houston Rockets,241.0,7.5,-295,240,235,9
+784,2024-02-10,Toronto Raptors,Cleveland Cavaliers,230.5,-9.0,295,-370,214,-24
+785,2024-02-10,Golden State Warriors,Phoenix Suns,242.5,-1.5,-102,-125,225,1
+786,2024-02-10,Portland Trail Blazers,New Orleans Pelicans,219.0,-8.5,295,-370,177,-9
+787,2024-02-11,Miami Heat,Boston Celtics,225.0,-8.0,250,-310,216,-4
+788,2024-02-11,Oklahoma City Thunder,Sacramento Kings,240.5,3.5,-148,116,240,14
+789,2024-02-12,Cleveland Cavaliers,Philadelphia 76ers,228.5,11.5,-700,440,244,-2
+790,2024-02-12,Charlotte Hornets,Indiana Pacers,239.5,-9.5,420,-650,213,9
+791,2024-02-12,Toronto Raptors,San Antonio Spurs,235.5,6.0,-250,205,221,-23
+792,2024-02-12,Atlanta Hawks,Chicago Bulls,240.5,5.5,-235,180,262,-10
+793,2024-02-12,Milwaukee Bucks,Denver Nuggets,230.0,1.0,-118,100,207,17
+794,2024-02-12,Memphis Grizzlies,New Orleans Pelicans,223.5,-9.5,350,-520,183,-9
+795,2024-02-12,Houston Rockets,New York Knicks,222.5,0.5,-113,-113,208,2
+796,2024-02-12,Dallas Mavericks,Washington Wizards,247.5,12.0,-700,500,216,8
+797,2024-02-12,Utah Jazz,Golden State Warriors,241.5,-0.5,104,-132,236,-22
+798,2024-02-12,Los Angeles Clippers,Minnesota Timberwolves,223.5,5.5,-235,180,221,-21
+799,2024-02-13,Brooklyn Nets,Boston Celtics,227.0,-8.0,260,-320,228,-8
+800,2024-02-13,Orlando Magic,Oklahoma City Thunder,222.5,-2.5,124,-146,240,-14
+801,2024-02-13,Milwaukee Bucks,Miami Heat,224.0,7.5,-290,235,220,-26
+802,2024-02-13,Portland Trail Blazers,Minnesota Timberwolves,213.5,-8.5,290,-360,230,-12
+803,2024-02-13,Phoenix Suns,Sacramento Kings,245.5,4.5,-186,154,255,5
+804,2024-02-13,Los Angeles Lakers,Detroit Pistons,243.5,11.5,-800,480,236,14
+805,2024-02-14,Philadelphia 76ers,Miami Heat,226.5,2.5,-148,116,213,-5
+806,2024-02-14,Charlotte Hornets,Atlanta Hawks,234.5,-6.5,215,-290,221,23
+807,2024-02-14,Orlando Magic,New York Knicks,211.5,3.5,-205,158,218,18
+808,2024-02-14,Boston Celtics,Brooklyn Nets,225.5,11.5,-720,450,222,50
+809,2024-02-14,Toronto Raptors,Indiana Pacers,246.5,-2.5,124,-146,252,-2
+810,2024-02-14,Cleveland Cavaliers,Chicago Bulls,223.0,9.5,-430,340,213,3
+811,2024-02-14,Memphis Grizzlies,Houston Rockets,220.5,1.5,-142,112,234,8
+812,2024-02-14,New Orleans Pelicans,Washington Wizards,231.5,12.5,-1100,600,259,7
+813,2024-02-14,Dallas Mavericks,San Antonio Spurs,242.5,11.5,-850,500,209,23
+814,2024-02-14,Phoenix Suns,Detroit Pistons,238.0,13.5,-950,640,216,16
+815,2024-02-14,Denver Nuggets,Sacramento Kings,229.0,5.5,-210,180,200,-4
+816,2024-02-14,Utah Jazz,Los Angeles Lakers,241.0,4.5,-188,158,260,-16
+817,2024-02-14,Golden State Warriors,Los Angeles Clippers,238.0,3.5,-168,142,255,-5
+818,2024-02-29,Charlotte Hornets,Milwaukee Bucks,219.0,-11.5,500,-850,210,-12
+819,2024-02-29,Orlando Magic,Utah Jazz,226.0,7.5,-275,225,222,8
+820,2024-02-29,New York Knicks,Golden State Warriors,223.0,-3.5,136,-162,209,-11
+821,2024-02-29,Brooklyn Nets,Atlanta Hawks,220.5,1.5,-112,-104,221,27
+822,2024-02-29,San Antonio Spurs,Oklahoma City Thunder,238.5,-11.5,450,-720,250,14
+823,2024-02-29,Phoenix Suns,Houston Rockets,229.5,8.5,-520,350,215,5
+824,2024-02-29,Denver Nuggets,Miami Heat,214.5,6.5,-250,205,200,6
+825,2024-02-29,Los Angeles Lakers,Washington Wizards,243.5,10.5,-700,440,265,3
+826,2024-03-01,Detroit Pistons,Cleveland Cavaliers,218.5,-6.5,220,-295,210,-10
+827,2024-03-01,Philadelphia 76ers,Charlotte Hornets,214.5,11.5,-670,430,235,7
+828,2024-03-01,Toronto Raptors,Golden State Warriors,235.5,-2.5,136,-174,225,-15
+829,2024-03-01,Boston Celtics,Dallas Mavericks,237.5,8.5,-375,300,248,28
+830,2024-03-01,Memphis Grizzlies,Portland Trail Blazers,211.5,3.5,-146,114,214,-30
+831,2024-03-01,New Orleans Pelicans,Indiana Pacers,241.5,5.5,-200,154,231,27
+832,2024-03-01,Minnesota Timberwolves,Sacramento Kings,223.5,8.5,-460,320,244,-4
+833,2024-03-01,Chicago Bulls,Milwaukee Bucks,222.0,-4.0,136,-162,210,-16
+834,2024-03-01,Los Angeles Clippers,Washington Wizards,239.5,15.5,-2500,900,255,25
+835,2024-03-02,Brooklyn Nets,Atlanta Hawks,218.5,-1.0,-102,-116,216,12
+836,2024-03-02,Miami Heat,Utah Jazz,223.5,9.0,-400,315,246,6
+837,2024-03-02,Memphis Grizzlies,Portland Trail Blazers,210.5,1.5,-132,104,207,-7
+838,2024-03-02,Los Angeles Lakers,Denver Nuggets,230.5,-1.0,-104,-112,238,-10
+839,2024-03-02,Phoenix Suns,Houston Rockets,230.5,9.5,-410,290,227,-9
+840,2024-03-03,Dallas Mavericks,Philadelphia 76ers,238.5,7.5,-370,265,236,-4
+841,2024-03-03,Boston Celtics,Golden State Warriors,231.0,8.0,-335,270,228,52
+842,2024-03-03,Minnesota Timberwolves,Los Angeles Clippers,219.5,2.5,-140,110,177,-1
+843,2024-03-03,Orlando Magic,Detroit Pistons,215.5,10.5,-560,370,204,22
+844,2024-03-03,Toronto Raptors,Charlotte Hornets,223.5,7.5,-310,230,217,5
+845,2024-03-03,Cleveland Cavaliers,New York Knicks,208.5,4.0,-176,148,205,-9
+846,2024-03-03,San Antonio Spurs,Indiana Pacers,238.5,-6.5,172,-225,222,12
+847,2024-03-03,Phoenix Suns,Oklahoma City Thunder,232.5,-4.5,140,-180,228,-8
+848,2024-03-04,Brooklyn Nets,Memphis Grizzlies,206.0,9.5,-450,350,208,-4
+849,2024-03-04,Minnesota Timberwolves,Portland Trail Blazers,210.5,15.0,-1500,870,233,5
+850,2024-03-04,Milwaukee Bucks,Los Angeles Clippers,222.5,-3.0,124,-146,219,7
+851,2024-03-04,Utah Jazz,Washington Wizards,240.5,5.0,-194,162,242,12
+852,2024-03-04,Sacramento Kings,Chicago Bulls,232.5,6.5,-235,180,222,-4
+853,2024-03-04,Los Angeles Lakers,Oklahoma City Thunder,241.5,-1.0,-104,-112,220,12
+854,2024-03-05,Charlotte Hornets,Orlando Magic,208.0,-8.5,295,-370,190,-12
+855,2024-03-05,Cleveland Cavaliers,Boston Celtics,215.5,-8.5,250,-340,209,1
+856,2024-03-05,Toronto Raptors,New Orleans Pelicans,230.5,-8.5,330,-480,237,-41
+857,2024-03-05,New York Knicks,Atlanta Hawks,213.5,1.0,-120,102,216,-16
+858,2024-03-05,Miami Heat,Detroit Pistons,217.0,11.0,-620,460,228,8
+859,2024-03-05,Brooklyn Nets,Philadelphia 76ers,211.5,0.5,102,-130,219,5
+860,2024-03-05,Houston Rockets,San Antonio Spurs,226.5,7.5,-280,210,215,13
+861,2024-03-05,Dallas Mavericks,Indiana Pacers,247.5,5.5,-215,180,257,-17
+862,2024-03-05,Denver Nuggets,Phoenix Suns,225.5,8.5,-330,240,224,-10
+863,2024-03-06,Washington Wizards,Orlando Magic,222.5,-6.5,230,-310,228,-10
+864,2024-03-06,Atlanta Hawks,Cleveland Cavaliers,217.5,3.0,-154,130,213,11
+865,2024-03-06,Philadelphia 76ers,Memphis Grizzlies,214.0,4.0,-178,150,224,-6
+866,2024-03-06,Houston Rockets,Los Angeles Clippers,222.5,-6.5,210,-255,238,-6
+867,2024-03-06,Utah Jazz,Chicago Bulls,224.0,-4.0,146,-174,236,-2
+868,2024-03-06,Portland Trail Blazers,Oklahoma City Thunder,224.5,-14.5,870,-2000,248,-8
+869,2024-03-06,Golden State Warriors,Milwaukee Bucks,230.0,2.5,-134,114,215,35
+870,2024-03-06,Los Angeles Lakers,Sacramento Kings,240.0,3.0,-152,128,250,-10
+871,2024-03-07,Detroit Pistons,Brooklyn Nets,216.0,-2.5,118,-138,230,6
+872,2024-03-07,Indiana Pacers,Minnesota Timberwolves,227.5,1.5,-118,100,224,-2
+873,2024-03-07,Dallas Mavericks,Miami Heat,232.5,4.5,-172,134,222,6
+874,2024-03-07,Phoenix Suns,Toronto Raptors,236.0,10.5,-560,420,233,7
+875,2024-03-07,Sacramento Kings,San Antonio Spurs,234.5,12.0,-720,520,260,2
+876,2024-03-07,Golden State Warriors,Chicago Bulls,223.5,8.5,-375,300,247,-3
+877,2024-03-07,Denver Nuggets,Boston Celtics,223.5,-1.5,114,-146,224,6
+878,2024-03-08,Washington Wizards,Charlotte Hornets,223.5,2.5,-162,126,212,12
+879,2024-03-08,Philadelphia 76ers,New Orleans Pelicans,221.0,-8.0,250,-310,198,-8
+880,2024-03-08,New York Knicks,Orlando Magic,207.5,3.0,-146,124,172,24
+881,2024-03-08,Cleveland Cavaliers,Minnesota Timberwolves,206.5,1.0,-112,-104,217,9
+882,2024-03-08,Oklahoma City Thunder,Miami Heat,226.0,8.5,-370,295,207,7
+883,2024-03-08,Memphis Grizzlies,Atlanta Hawks,215.0,-3.5,136,-162,191,-7
+884,2024-03-08,Los Angeles Lakers,Milwaukee Bucks,229.5,-4.5,154,-200,245,1
+885,2024-03-08,Portland Trail Blazers,Houston Rockets,222.5,-9.5,300,-430,230,-16
+886,2024-03-09,Los Angeles Clippers,Chicago Bulls,219.5,8.0,-340,275,214,10
+887,2024-03-09,Charlotte Hornets,Brooklyn Nets,207.5,-6.5,198,-240,209,11
+888,2024-03-09,Detroit Pistons,Dallas Mavericks,238.0,-9.0,315,-400,266,-18
+889,2024-03-09,Phoenix Suns,Boston Celtics,226.5,-5.5,210,-280,224,-10
+890,2024-03-09,Golden State Warriors,San Antonio Spurs,225.5,12.5,-850,590,239,-13
+891,2024-03-09,Denver Nuggets,Utah Jazz,227.0,12.5,-820,570,263,21
+892,2024-03-09,Portland Trail Blazers,Toronto Raptors,228.5,-2.5,102,-130,246,10
+893,2024-03-10,Los Angeles Clippers,Milwaukee Bucks,221.0,-6.5,205,-250,241,-7
+894,2024-03-10,Atlanta Hawks,New Orleans Pelicans,222.0,-7.0,215,-260,219,-13
+895,2024-03-10,Sacramento Kings,Houston Rockets,234.0,7.0,-270,220,216,-8
+896,2024-03-10,Orlando Magic,Indiana Pacers,222.5,-1.0,-104,-112,208,-14
+897,2024-03-10,Miami Heat,Washington Wizards,226.5,11.5,-1000,560,218,-2
+898,2024-03-10,Oklahoma City Thunder,Memphis Grizzlies,219.5,15.0,-1200,750,217,31
+899,2024-03-10,Cleveland Cavaliers,Brooklyn Nets,208.5,6.5,-280,230,221,-19
+900,2024-03-10,New York Knicks,Philadelphia 76ers,211.5,7.0,-295,240,152,-6
+901,2024-03-10,Los Angeles Lakers,Minnesota Timberwolves,226.0,5.0,-225,188,229,11
+902,2024-03-11,Detroit Pistons,Charlotte Hornets,217.5,5.5,-265,200,211,17
+903,2024-03-11,Cleveland Cavaliers,Phoenix Suns,221.0,-7.0,225,-275,228,-6
+904,2024-03-11,Chicago Bulls,Dallas Mavericks,233.0,-3.5,136,-162,219,-35
+905,2024-03-11,San Antonio Spurs,Golden State Warriors,226.0,-5.0,166,-198,214,-10
+906,2024-03-11,Denver Nuggets,Toronto Raptors,233.0,17.5,-2500,1200,244,6
+907,2024-03-11,Portland Trail Blazers,Boston Celtics,223.5,-11.5,540,-950,220,-22
+908,2024-03-12,New York Knicks,Philadelphia 76ers,207.5,6.5,-330,240,185,27
+909,2024-03-12,Oklahoma City Thunder,Indiana Pacers,240.5,5.5,-215,180,232,-10
+910,2024-03-12,Memphis Grizzlies,Washington Wizards,223.0,-2.5,116,-136,206,12
+911,2024-03-12,San Antonio Spurs,Houston Rockets,221.0,-3.0,122,-144,204,-2
+912,2024-03-12,Utah Jazz,Boston Celtics,230.0,-6.5,220,-270,230,-16
+913,2024-03-12,Los Angeles Clippers,Minnesota Timberwolves,213.5,5.5,-230,190,218,-18
+914,2024-03-12,Sacramento Kings,Milwaukee Bucks,235.5,1.5,-124,106,223,35
+915,2024-03-13,Detroit Pistons,Toronto Raptors,233.0,3.5,-164,138,217,9
+916,2024-03-13,Orlando Magic,Brooklyn Nets,202.5,6.5,-310,230,220,8
+917,2024-03-13,Miami Heat,Denver Nuggets,217.0,-3.5,136,-162,188,-12
+918,2024-03-13,Indiana Pacers,Chicago Bulls,228.5,5.0,-210,176,261,-3
+919,2024-03-13,New Orleans Pelicans,Cleveland Cavaliers,218.0,6.0,-240,198,211,-21
+920,2024-03-13,Memphis Grizzlies,Charlotte Hornets,201.5,-3.0,116,-136,208,-12
+921,2024-03-13,Dallas Mavericks,Golden State Warriors,233.0,8.5,-355,285,208,10
+922,2024-03-13,Portland Trail Blazers,Atlanta Hawks,215.5,-4.5,162,-210,208,4
+923,2024-03-13,Sacramento Kings,Los Angeles Lakers,237.5,-2.5,116,-136,227,13
+924,2024-03-14,Boston Celtics,Phoenix Suns,227.0,5.5,-225,188,239,15
+925,2024-03-14,Chicago Bulls,Los Angeles Clippers,214.5,-6.0,205,-250,237,-15
+926,2024-03-14,Milwaukee Bucks,Philadelphia 76ers,219.0,7.0,-295,240,219,9
+927,2024-03-14,Houston Rockets,Washington Wizards,230.5,8.5,-350,255,254,16
+928,2024-03-14,Portland Trail Blazers,New York Knicks,205.5,-12.5,450,-720,198,-12
+929,2024-03-14,Oklahoma City Thunder,Dallas Mavericks,233.5,9.5,-430,340,245,7
+930,2024-03-15,Detroit Pistons,Miami Heat,216.5,-7.5,300,-430,203,-13
+931,2024-03-15,Charlotte Hornets,Phoenix Suns,220.5,-10.5,410,-550,203,-11
+932,2024-03-15,Toronto Raptors,Orlando Magic,222.5,-9.5,350,-520,216,-10
+933,2024-03-15,New Orleans Pelicans,Los Angeles Clippers,218.5,7.0,-260,215,216,8
+934,2024-03-15,San Antonio Spurs,Denver Nuggets,224.5,-10.5,385,-500,223,-11
+935,2024-03-15,Utah Jazz,Atlanta Hawks,223.5,-0.5,-104,-122,246,2
+936,2024-03-16,Houston Rockets,Cleveland Cavaliers,216.0,-5.0,172,-205,220,14
+937,2024-03-16,Indiana Pacers,Brooklyn Nets,229.5,8.5,-330,240,221,21
+938,2024-03-16,New Orleans Pelicans,Portland Trail Blazers,215.5,13.0,-850,590,233,19
+939,2024-03-16,Philadelphia 76ers,Charlotte Hornets,209.0,10.5,-490,380,207,11
+940,2024-03-16,Memphis Grizzlies,Oklahoma City Thunder,216.5,-8.5,320,-460,230,-6
+941,2024-03-16,Chicago Bulls,Washington Wizards,223.5,9.5,-430,340,225,29
+942,2024-03-16,Los Angeles Lakers,Golden State Warriors,233.5,1.5,-126,108,249,-7
+943,2024-03-16,Utah Jazz,Minnesota Timberwolves,222.5,-7.5,260,-370,219,-19
+944,2024-03-16,Sacramento Kings,New York Knicks,216.5,3.0,-146,124,189,-7
+945,2024-03-17,Milwaukee Bucks,Phoenix Suns,227.0,-3.0,120,-142,269,11
+946,2024-03-17,Detroit Pistons,Miami Heat,214.0,-5.5,180,-215,205,-3
+947,2024-03-17,Dallas Mavericks,Denver Nuggets,231.5,-1.0,-102,-116,212,2
+948,2024-03-17,Washington Wizards,Boston Celtics,224.5,-14.5,700,-1400,234,-26
+949,2024-03-17,Orlando Magic,Toronto Raptors,219.5,11.5,-720,450,207,15
+950,2024-03-17,San Antonio Spurs,Brooklyn Nets,219.5,2.5,-140,110,237,7
+951,2024-03-17,Los Angeles Clippers,Atlanta Hawks,221.0,9.5,-480,370,203,-17
+952,2024-03-18,Indiana Pacers,Cleveland Cavaliers,225.5,6.5,-255,210,211,-5
+953,2024-03-18,Boston Celtics,Detroit Pistons,221.0,15.5,-1600,900,213,25
+954,2024-03-18,Philadelphia 76ers,Miami Heat,205.5,3.0,-152,128,189,7
+955,2024-03-18,Chicago Bulls,Portland Trail Blazers,213.5,8.5,-350,280,217,3
+956,2024-03-18,Utah Jazz,Minnesota Timberwolves,225.5,-4.0,158,-190,218,-10
+957,2024-03-18,Golden State Warriors,New York Knicks,213.5,7.0,-260,215,231,-7
+958,2024-03-18,Sacramento Kings,Memphis Grizzlies,220.5,11.5,-650,480,232,10
+959,2024-03-18,Los Angeles Lakers,Atlanta Hawks,226.5,9.0,-450,350,241,31
+960,2024-03-19,Orlando Magic,Charlotte Hornets,204.0,13.0,-900,610,204,20
+961,2024-03-19,Washington Wizards,Houston Rockets,227.0,-10.5,400,-520,251,-23
+962,2024-03-19,Brooklyn Nets,New Orleans Pelicans,216.0,-7.0,220,-270,195,-13
+963,2024-03-19,San Antonio Spurs,Dallas Mavericks,236.5,-9.0,310,-390,220,-6
+964,2024-03-19,Minnesota Timberwolves,Denver Nuggets,216.0,-8.0,250,-310,227,-3
+965,2024-03-20,Detroit Pistons,Indiana Pacers,235.0,-11.0,420,-560,225,-19
+966,2024-03-20,Cleveland Cavaliers,Miami Heat,208.0,3.0,-146,124,211,-3
+967,2024-03-20,Toronto Raptors,Sacramento Kings,234.0,-11.5,490,-670,212,-34
+968,2024-03-20,Boston Celtics,Milwaukee Bucks,226.0,10.5,-500,385,241,3
+969,2024-03-20,Oklahoma City Thunder,Utah Jazz,232.5,16.0,-1500,870,226,12
+970,2024-03-20,Phoenix Suns,Philadelphia 76ers,222.5,9.5,-405,320,217,13
+971,2024-03-20,Portland Trail Blazers,Los Angeles Clippers,216.0,-12.0,520,-720,219,-13
+972,2024-03-20,Golden State Warriors,Memphis Grizzlies,220.0,11.5,-620,460,253,21
+973,2024-03-21,Washington Wizards,Sacramento Kings,238.5,-11.0,440,-600,211,7
+974,2024-03-21,Orlando Magic,New Orleans Pelicans,208.0,-3.0,118,-138,227,15
+975,2024-03-21,Milwaukee Bucks,Brooklyn Nets,222.0,10.5,-500,385,223,7
+976,2024-03-21,Houston Rockets,Chicago Bulls,219.5,3.5,-158,134,244,10
+977,2024-03-21,Dallas Mavericks,Utah Jazz,236.5,14.0,-1150,730,210,16
+978,2024-03-21,Denver Nuggets,New York Knicks,208.5,8.5,-375,300,213,13
+979,2024-03-21,Phoenix Suns,Atlanta Hawks,227.0,9.5,-420,330,243,13
+980,2024-03-22,Detroit Pistons,Boston Celtics,224.5,-13.5,640,-950,231,-27
+981,2024-03-22,Toronto Raptors,Oklahoma City Thunder,229.5,-16.5,900,-1600,226,-20
+982,2024-03-22,Minnesota Timberwolves,Cleveland Cavaliers,206.5,7.5,-300,245,195,13
+983,2024-03-22,Miami Heat,New Orleans Pelicans,207.5,3.0,-142,120,199,-23
+984,2024-03-22,San Antonio Spurs,Memphis Grizzlies,216.5,6.5,-260,215,196,-2
+985,2024-03-22,Portland Trail Blazers,Los Angeles Clippers,216.0,-14.5,870,-1500,242,-8
+986,2024-03-22,Golden State Warriors,Indiana Pacers,243.0,4.5,-198,166,234,-12
+987,2024-03-22,Los Angeles Lakers,Philadelphia 76ers,227.5,7.5,-300,245,195,7
+988,2024-03-23,New York Knicks,Brooklyn Nets,205.0,7.5,-300,245,198,12
+989,2024-03-23,Orlando Magic,Sacramento Kings,219.0,3.0,-144,122,216,-2
+990,2024-03-23,Atlanta Hawks,Charlotte Hornets,211.5,7.5,-300,245,223,41
+991,2024-03-23,Chicago Bulls,Boston Celtics,219.0,-5.0,168,-200,237,-11
+992,2024-03-23,San Antonio Spurs,Phoenix Suns,231.5,-10.0,350,-450,237,-25
+993,2024-03-23,Houston Rockets,Utah Jazz,227.5,10.5,-550,410,266,28
+994,2024-03-23,Washington Wizards,Toronto Raptors,232.5,6.0,-230,190,221,3
+995,2024-03-23,Portland Trail Blazers,Denver Nuggets,209.0,-10.5,400,-520,225,-3
+996,2024-03-24,Detroit Pistons,New Orleans Pelicans,218.0,-15.0,870,-1500,215,-13
+997,2024-03-24,Los Angeles Clippers,Philadelphia 76ers,216.0,9.0,-405,320,228,-14
+998,2024-03-24,Miami Heat,Cleveland Cavaliers,202.5,3.5,-162,136,205,37
+999,2024-03-24,Milwaukee Bucks,Oklahoma City Thunder,233.5,2.5,-142,120,211,25
+1000,2024-03-24,Minnesota Timberwolves,Golden State Warriors,219.5,2.5,-138,118,224,4
+1001,2024-03-24,Los Angeles Lakers,Indiana Pacers,240.0,2.5,-156,132,295,5
+1002,2024-03-25,Cleveland Cavaliers,Charlotte Hornets,206.0,11.0,-590,430,207,23
+1003,2024-03-25,Toronto Raptors,Brooklyn Nets,218.5,-6.5,205,-250,184,-8
+1004,2024-03-25,Atlanta Hawks,Boston Celtics,225.0,-10.5,420,-560,238,2
+1005,2024-03-25,New York Knicks,Detroit Pistons,211.0,17.0,-2000,1040,223,25
+1006,2024-03-25,San Antonio Spurs,Phoenix Suns,234.5,-12.0,490,-670,206,2
+1007,2024-03-25,Houston Rockets,Portland Trail Blazers,225.5,14.5,-1600,750,202,18
+1008,2024-03-25,Chicago Bulls,Washington Wizards,226.0,13.5,-820,570,212,-2
+1009,2024-03-25,Utah Jazz,Dallas Mavericks,238.5,-8.0,275,-340,220,-10
+1010,2024-03-25,Denver Nuggets,Memphis Grizzlies,214.5,12.5,-900,610,231,25
+1011,2024-03-25,Sacramento Kings,Philadelphia 76ers,220.0,7.5,-300,245,204,12
+1012,2024-03-25,Los Angeles Clippers,Indiana Pacers,235.5,6.0,-240,198,249,-17
+1013,2024-03-26,Miami Heat,Golden State Warriors,217.0,-4.5,164,-196,205,-21
+1014,2024-03-26,Milwaukee Bucks,Los Angeles Lakers,234.5,9.5,-430,340,252,-4
+1015,2024-03-26,New Orleans Pelicans,Oklahoma City Thunder,223.5,-1.0,100,-118,231,-7
+1016,2024-03-26,Sacramento Kings,Dallas Mavericks,233.5,1.0,-116,-102,228,-36
+1017,2024-03-27,Charlotte Hornets,Cleveland Cavaliers,208.0,-9.5,350,-450,229,7
+1018,2024-03-27,Orlando Magic,Golden State Warriors,218.0,4.0,-168,142,194,-8
+1019,2024-03-27,Washington Wizards,Brooklyn Nets,220.5,-4.0,148,-176,241,-3
+1020,2024-03-27,Toronto Raptors,New York Knicks,211.5,-14.0,700,-1100,246,-44
+1021,2024-03-27,Atlanta Hawks,Portland Trail Blazers,219.5,12.0,-700,500,226,14
+1022,2024-03-27,Philadelphia 76ers,Los Angeles Clippers,214.5,-6.5,215,-260,215,-1
+1023,2024-03-27,Minnesota Timberwolves,Detroit Pistons,215.5,16.5,-2000,1040,197,15
+1024,2024-03-27,Chicago Bulls,Indiana Pacers,235.0,-3.0,130,-154,224,26
+1025,2024-03-27,Memphis Grizzlies,Los Angeles Lakers,225.0,-4.5,152,-180,260,-12
+1026,2024-03-27,Oklahoma City Thunder,Houston Rockets,225.5,5.0,-198,166,258,-6
+1027,2024-03-27,Utah Jazz,San Antonio Spurs,228.0,4.0,-168,142,229,-7
+1028,2024-03-27,Denver Nuggets,Phoenix Suns,229.5,5.5,-220,180,201,-7
+1029,2024-03-28,Atlanta Hawks,Boston Celtics,226.0,-17.5,1040,-2000,0,0
+1030,2024-03-28,New Orleans Pelicans,Milwaukee Bucks,225.0,-2.0,110,-130,0,0
+1031,2024-03-30,New Orleans Pelicans,Boston Celtics,223.5,-6.0,190,-230,196,-12
+1032,2024-03-30,Orlando Magic,Memphis Grizzlies,209.0,13.0,-820,570,206,30
+1033,2024-03-30,Atlanta Hawks,Milwaukee Bucks,222.5,-4.5,168,-200,235,-9
+1034,2024-03-31,Denver Nuggets,Cleveland Cavaliers,217.5,4.5,-188,158,231,29
+1035,2024-03-31,Charlotte Hornets,Los Angeles Clippers,216.0,-14.0,730,-1150,248,-12
+1036,2024-03-31,Toronto Raptors,Philadelphia 76ers,214.5,-9.0,320,-405,255,-15
+1037,2024-03-31,Washington Wizards,Miami Heat,214.0,-12.0,520,-720,226,-12
+1038,2024-03-31,Brooklyn Nets,Los Angeles Lakers,225.5,-6.5,215,-260,220,-12
+1039,2024-03-31,Minnesota Timberwolves,Chicago Bulls,211.5,9.0,-375,300,210,-8
+1040,2024-03-31,Houston Rockets,Dallas Mavericks,229.5,-4.0,144,-172,232,-18
+1041,2024-03-31,San Antonio Spurs,Golden State Warriors,228.0,-10.5,400,-520,230,-4
+1042,2024-03-31,New York Knicks,Oklahoma City Thunder,219.5,-2.0,108,-126,225,-1
+1043,2024-03-31,Sacramento Kings,Utah Jazz,220.5,13.0,-950,640,233,21
+1044,2024-04-01,Charlotte Hornets,Boston Celtics,219.5,-18.5,1200,-2500,222,-14
+1045,2024-04-01,Orlando Magic,Portland Trail Blazers,210.5,17.0,-2200,1100,207,1
+1046,2024-04-01,Detroit Pistons,Memphis Grizzlies,216.5,3.0,-144,122,218,-2
+1047,2024-04-01,Indiana Pacers,Brooklyn Nets,227.5,12.5,-700,500,244,22
+1048,2024-04-01,Chicago Bulls,Atlanta Hawks,221.0,2.0,-134,114,214,-12
+1049,2024-04-01,New Orleans Pelicans,Phoenix Suns,222.5,1.0,-112,-104,235,-13
+1050,2024-04-02,Washington Wizards,Milwaukee Bucks,225.5,-13.0,610,-900,230,4
+1051,2024-04-02,Toronto Raptors,Los Angeles Lakers,236.5,-13.5,730,-1150,239,-17
+1052,2024-04-02,Philadelphia 76ers,Oklahoma City Thunder,219.5,3.0,-154,130,214,4
+1053,2024-04-02,Miami Heat,New York Knicks,205.5,2.5,-136,116,208,10
+1054,2024-04-02,Minnesota Timberwolves,Houston Rockets,214.0,7.5,-295,240,219,7
+1055,2024-04-02,Utah Jazz,Cleveland Cavaliers,218.0,-9.5,370,-480,242,-16
+1056,2024-04-02,Denver Nuggets,San Antonio Spurs,223.5,15.5,-1500,870,215,5
+1057,2024-04-02,Golden State Warriors,Dallas Mavericks,231.5,-1.0,-104,-112,204,4
+1058,2024-04-02,Sacramento Kings,Los Angeles Clippers,222.0,2.5,-136,116,204,14
+1059,2024-04-03,Charlotte Hornets,Portland Trail Blazers,211.5,1.5,-122,104,175,-3
+1060,2024-04-03,Washington Wizards,Los Angeles Lakers,237.0,-13.0,610,-900,245,-5
+1061,2024-04-03,Brooklyn Nets,Indiana Pacers,233.0,-7.0,225,-275,226,4
+1062,2024-04-03,Atlanta Hawks,Detroit Pistons,223.0,12.5,-750,530,234,8
+1063,2024-04-03,Boston Celtics,Oklahoma City Thunder,229.0,12.0,-770,540,235,35
+1064,2024-04-03,Milwaukee Bucks,Memphis Grizzlies,218.0,12.5,-900,610,212,-10
+1065,2024-04-03,Minnesota Timberwolves,Toronto Raptors,213.5,18.0,-3000,1300,218,48
+1066,2024-04-03,New Orleans Pelicans,Orlando Magic,208.0,4.5,-205,172,225,-9
+1067,2024-04-03,Phoenix Suns,Cleveland Cavaliers,226.0,6.0,-250,205,223,21
+1068,2024-04-04,Miami Heat,Philadelphia 76ers,212.5,2.5,-148,126,214,-4
+1069,2024-04-04,Dallas Mavericks,Atlanta Hawks,228.0,12.0,-700,500,204,14
+1070,2024-04-04,New York Knicks,Sacramento Kings,212.5,4.0,-180,152,229,11
+1071,2024-04-04,Houston Rockets,Golden State Warriors,227.5,-3.0,134,-158,243,-23
+1072,2024-04-04,Los Angeles Clippers,Denver Nuggets,219.5,-3.5,130,-154,202,2
+1073,2024-04-05,Indiana Pacers,Oklahoma City Thunder,234.5,6.5,-255,210,238,14
+1074,2024-04-05,Charlotte Hornets,Orlando Magic,207.0,-12.5,570,-820,239,9
+1075,2024-04-05,Washington Wizards,Portland Trail Blazers,225.0,3.0,-146,124,210,-6
+1076,2024-04-05,Boston Celtics,Sacramento Kings,226.0,9.5,-405,320,201,1
+1077,2024-04-05,Memphis Grizzlies,Detroit Pistons,213.5,-1.0,-104,-112,198,18
+1078,2024-04-05,New Orleans Pelicans,San Antonio Spurs,218.5,11.0,-650,480,220,-2
+1079,2024-04-05,Houston Rockets,Miami Heat,217.5,-3.0,134,-158,223,-15
+1080,2024-04-05,Chicago Bulls,New York Knicks,211.0,-1.5,106,-124,208,8
+1081,2024-04-05,Milwaukee Bucks,Toronto Raptors,233.0,14.0,-1000,660,228,-6
+1082,2024-04-05,Dallas Mavericks,Golden State Warriors,224.0,-1.0,-104,-112,214,2
+1083,2024-04-05,Phoenix Suns,Minnesota Timberwolves,216.5,4.5,-200,168,184,10
+1084,2024-04-05,Los Angeles Clippers,Utah Jazz,224.5,12.5,-820,570,233,29
+1085,2024-04-06,Los Angeles Lakers,Cleveland Cavaliers,230.0,5.0,-205,172,213,19
+1086,2024-04-06,Brooklyn Nets,Detroit Pistons,216.0,10.0,-460,360,216,10
+1087,2024-04-06,Memphis Grizzlies,Philadelphia 76ers,214.5,-14.5,730,-1150,212,-20
+1088,2024-04-06,Denver Nuggets,Atlanta Hawks,225.0,10.5,-650,480,252,32
+1089,2024-04-07,Los Angeles Clippers,Cleveland Cavaliers,217.0,4.0,-180,152,238,2
+1090,2024-04-07,Dallas Mavericks,Houston Rockets,227.5,9.0,-405,320,283,11
+1091,2024-04-07,Indiana Pacers,Miami Heat,228.0,3.0,-144,122,232,2
+1092,2024-04-07,Boston Celtics,Portland Trail Blazers,216.0,17.0,-1800,980,231,17
+1093,2024-04-07,Phoenix Suns,New Orleans Pelicans,222.0,5.5,-220,184,218,-8
+1094,2024-04-07,Charlotte Hornets,Oklahoma City Thunder,218.0,-7.5,245,-300,239,-3
+1095,2024-04-07,Orlando Magic,Chicago Bulls,212.0,7.0,-295,240,211,15
+1096,2024-04-07,Toronto Raptors,Washington Wizards,235.0,5.0,-198,166,252,8
+1097,2024-04-07,Milwaukee Bucks,New York Knicks,220.5,4.5,-184,154,231,-13
+1098,2024-04-07,San Antonio Spurs,Philadelphia 76ers,226.0,-3.5,136,-162,259,-7
+1099,2024-04-07,Brooklyn Nets,Sacramento Kings,217.5,-11.0,410,-550,184,-30
+1100,2024-04-07,Golden State Warriors,Utah Jazz,225.5,13.0,-900,610,228,8
+1101,2024-04-07,Los Angeles Lakers,Minnesota Timberwolves,218.0,-2.0,112,-132,244,-10
+1102,2024-04-09,Charlotte Hornets,Dallas Mavericks,224.0,-12.5,560,-800,234,-26
+1103,2024-04-09,Philadelphia 76ers,Detroit Pistons,220.5,15.5,-1350,810,222,18
+1104,2024-04-09,Toronto Raptors,Indiana Pacers,240.0,-14.0,660,-1000,263,-17
+1105,2024-04-09,Milwaukee Bucks,Boston Celtics,231.0,3.5,-174,146,195,13
+1106,2024-04-09,Atlanta Hawks,Miami Heat,217.0,-3.5,132,-156,228,-6
+1107,2024-04-09,Memphis Grizzlies,San Antonio Spurs,217.0,-5.5,184,-220,189,-15
+1108,2024-04-09,Houston Rockets,Orlando Magic,216.5,-2.5,118,-138,224,12
+1109,2024-04-09,Chicago Bulls,New York Knicks,212.5,-5.0,164,-196,245,-11
+1110,2024-04-09,Minnesota Timberwolves,Washington Wizards,223.0,18.0,-2000,1040,251,9
+1111,2024-04-09,Oklahoma City Thunder,Sacramento Kings,227.5,5.5,-215,180,217,7
+1112,2024-04-09,Utah Jazz,Denver Nuggets,223.5,-15.5,980,-1800,206,-16
+1113,2024-04-09,Los Angeles Lakers,Golden State Warriors,235.5,-2.0,110,-130,254,-14
+1114,2024-04-09,Portland Trail Blazers,New Orleans Pelicans,213.5,-14.0,700,-1100,210,-10
+1115,2024-04-09,Phoenix Suns,Los Angeles Clippers,226.5,9.5,-390,310,197,-13
+1116,2024-04-10,Cleveland Cavaliers,Memphis Grizzlies,213.5,18.5,-2000,1040,208,12
+1117,2024-04-10,Atlanta Hawks,Charlotte Hornets,227.5,8.5,-390,310,229,-1
+1118,2024-04-10,Brooklyn Nets,Toronto Raptors,220.5,12.0,-700,500,208,4
+1119,2024-04-10,Miami Heat,Dallas Mavericks,218.0,-3.0,130,-154,203,-19
+1120,2024-04-10,Oklahoma City Thunder,San Antonio Spurs,231.0,17.0,-2200,1100,216,38
+1121,2024-04-10,Milwaukee Bucks,Orlando Magic,212.0,-2.0,110,-130,216,18
+1122,2024-04-10,Denver Nuggets,Minnesota Timberwolves,215.5,7.5,-320,260,223,9
+1123,2024-04-10,Los Angeles Clippers,Phoenix Suns,220.5,-12.0,460,-620,232,-16
+1124,2024-04-11,Detroit Pistons,Chicago Bulls,220.0,-10.5,400,-520,232,-22
+1125,2024-04-11,Boston Celtics,New York Knicks,221.5,3.5,-148,126,227,-9
+1126,2024-04-11,Utah Jazz,Houston Rockets,227.0,-11.0,430,-590,245,3
+1127,2024-04-11,Portland Trail Blazers,Golden State Warriors,220.5,-13.5,610,-900,192,-8
+1128,2024-04-11,Sacramento Kings,New Orleans Pelicans,218.0,1.5,-124,106,258,-12
+1129,2024-04-12,Washington Wizards,Chicago Bulls,224.5,1.5,-124,106,256,-2
+1130,2024-04-12,Philadelphia 76ers,Orlando Magic,215.0,6.5,-250,205,238,12
+1131,2024-04-12,Boston Celtics,Charlotte Hornets,217.5,7.5,-310,250,229,33
+1132,2024-04-12,Cleveland Cavaliers,Indiana Pacers,232.0,3.0,-142,120,249,9
+1133,2024-04-12,New York Knicks,Brooklyn Nets,211.5,11.5,-670,490,218,4
+1134,2024-04-12,Miami Heat,Toronto Raptors,220.0,14.0,-1100,700,228,22
+1135,2024-04-12,Oklahoma City Thunder,Milwaukee Bucks,224.0,14.0,-820,570,232,18
+1136,2024-04-12,San Antonio Spurs,Denver Nuggets,223.5,-11.5,460,-620,241,1
+1137,2024-04-12,Memphis Grizzlies,Los Angeles Lakers,226.0,-16.0,870,-1500,243,-3
+1138,2024-04-12,Minnesota Timberwolves,Atlanta Hawks,226.5,12.5,-770,540,215,3
+1139,2024-04-12,Dallas Mavericks,Detroit Pistons,217.0,11.0,-590,430,196,-18
+1140,2024-04-12,Golden State Warriors,New Orleans Pelicans,223.0,4.0,-178,150,223,-5
+1141,2024-04-12,Portland Trail Blazers,Houston Rockets,218.0,-6.0,190,-230,223,-9
+1142,2024-04-12,Los Angeles Clippers,Utah Jazz,225.0,15.5,-1400,830,219,-1
+1143,2024-04-12,Sacramento Kings,Phoenix Suns,227.0,-4.5,168,-200,215,-1
+1144,2024-04-14,Boston Celtics,Washington Wizards,229.5,10.0,-450,350,254,10
+1145,2024-04-14,Cleveland Cavaliers,Charlotte Hornets,208.5,14.5,-1000,660,230,-10
+1146,2024-04-14,Indiana Pacers,Atlanta Hawks,243.0,14.0,-900,610,272,42
+1147,2024-04-14,Miami Heat,Toronto Raptors,219.0,16.5,-2000,1040,221,15
+1148,2024-04-14,New York Knicks,Chicago Bulls,218.0,13.5,-950,640,239,1
+1149,2024-04-14,Orlando Magic,Milwaukee Bucks,216.0,6.0,-230,190,201,25
+1150,2024-04-14,Philadelphia 76ers,Brooklyn Nets,215.0,13.0,-950,640,193,21
+1151,2024-04-14,Memphis Grizzlies,Denver Nuggets,216.5,-14.0,660,-1000,237,-15
+1152,2024-04-14,Minnesota Timberwolves,Phoenix Suns,216.5,2.0,-134,114,231,-19
+1153,2024-04-14,New Orleans Pelicans,Los Angeles Lakers,231.5,2.0,-120,102,232,-16
+1154,2024-04-14,Oklahoma City Thunder,Dallas Mavericks,225.0,19.5,-2200,1100,221,49
+1155,2024-04-14,San Antonio Spurs,Detroit Pistons,221.5,4.5,-205,172,218,28
+1156,2024-04-14,Golden State Warriors,Utah Jazz,224.0,11.0,-670,490,239,7
+1157,2024-04-14,Los Angeles Clippers,Houston Rockets,222.5,-4.0,150,-178,221,-11
+1158,2024-04-14,Sacramento Kings,Portland Trail Blazers,214.0,17.5,-2000,1040,203,39
+1159,2024-04-16,New Orleans Pelicans,Los Angeles Lakers,224.5,1.0,-112,-104,216,-4
+1160,2024-04-16,Sacramento Kings,Golden State Warriors,221.0,-3.0,128,-152,212,24
+1161,2024-04-17,Philadelphia 76ers,Miami Heat,208.5,6.0,-225,188,209,1
+1162,2024-04-17,Chicago Bulls,Atlanta Hawks,222.5,3.0,-154,130,247,15
+1163,2024-04-19,Miami Heat,Chicago Bulls,207.0,2.0,-136,116,203,21
+1164,2024-04-19,New Orleans Pelicans,Sacramento Kings,211.5,1.5,-122,104,203,7
+1165,2024-04-20,Cleveland Cavaliers,Orlando Magic,206.5,5.5,-230,190,180,14
+1166,2024-04-20,Minnesota Timberwolves,Phoenix Suns,213.5,2.5,-138,118,215,25
+1167,2024-04-20,New York Knicks,Philadelphia 76ers,208.0,4.5,-194,162,215,7
+1168,2024-04-20,Denver Nuggets,Los Angeles Lakers,227.0,6.5,-270,220,217,11
+1169,2024-04-21,Boston Celtics,Miami Heat,210.0,14.5,-1150,730,208,20
+1170,2024-04-21,Los Angeles Clippers,Dallas Mavericks,221.0,-3.5,144,-172,206,12
+1171,2024-04-21,Milwaukee Bucks,Indiana Pacers,230.0,-1.5,100,-118,203,15
+1172,2024-04-21,Oklahoma City Thunder,New Orleans Pelicans,216.5,9.5,-390,310,186,2
+1173,2024-04-22,Cleveland Cavaliers,Orlando Magic,205.0,5.5,-215,180,182,10
+1174,2024-04-22,New York Knicks,Philadelphia 76ers,202.5,4.5,-180,140,205,3
+1175,2024-04-22,Denver Nuggets,Los Angeles Lakers,223.5,7.0,-280,230,200,2
+1176,2024-04-23,Minnesota Timberwolves,Phoenix Suns,211.5,3.0,-156,132,198,12
+1177,2024-04-23,Milwaukee Bucks,Indiana Pacers,223.5,1.0,-118,-102,233,-17
+1178,2024-04-23,Los Angeles Clippers,Dallas Mavericks,217.0,1.0,-116,-102,189,-3
+1179,2024-04-24,Boston Celtics,Miami Heat,205.5,14.5,-1200,750,212,-10
+1180,2024-04-24,Oklahoma City Thunder,New Orleans Pelicans,210.5,7.5,-300,245,216,32
+1181,2024-04-25,Orlando Magic,Cleveland Cavaliers,202.0,3.0,-152,128,204,38
+1182,2024-04-25,Philadelphia 76ers,New York Knicks,205.0,5.5,-235,194,239,11
+1183,2024-04-25,Los Angeles Lakers,Denver Nuggets,217.5,1.5,-122,104,217,-7
+1184,2024-04-26,Indiana Pacers,Milwaukee Bucks,223.0,6.5,-275,225,239,3
+1185,2024-04-26,Dallas Mavericks,Los Angeles Clippers,213.0,4.5,-190,160,191,11
+1186,2024-04-26,Phoenix Suns,Minnesota Timberwolves,208.5,5.5,-230,190,235,-17
+1187,2024-04-27,Orlando Magic,Cleveland Cavaliers,202.5,2.5,-138,118,201,23
+1188,2024-04-27,New Orleans Pelicans,Oklahoma City Thunder,210.0,-2.0,108,-126,191,-21
+1189,2024-04-27,Miami Heat,Boston Celtics,205.5,-9.5,330,-420,188,-20
+1190,2024-04-27,Los Angeles Lakers,Denver Nuggets,220.0,-3.5,132,-154,227,11
+1191,2024-04-28,Philadelphia 76ers,New York Knicks,209.0,5.0,-200,168,189,-5
+1192,2024-04-28,Dallas Mavericks,Los Angeles Clippers,209.5,7.0,-270,220,227,-5
+1193,2024-04-28,Indiana Pacers,Milwaukee Bucks,214.5,10.0,-480,370,53,1
+1194,2024-04-28,Phoenix Suns,Minnesota Timberwolves,213.5,1.0,-112,-104,0,0
