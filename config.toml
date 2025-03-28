@@ -1,0 +1,192 @@
+[data-url]
+data-url = "https://stats.nba.com/stats/leaguedashteamstats?Conference=&DateFrom=10%2F01%2F{2}&DateTo={0}%2F{1}%2F{3}&Division=&GameScope=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season={4}&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&StarterBench=&TeamID=0&TwoWay=0&VsConference=&VsDivision="
+
+[fetch-data]
+#    [fetch-data.2010-11]
+#    start_date = "2010-10-25"
+#    end_date = "2011-06-12"
+#    start_year = "2010"
+#    end_year = "2011"
+#
+#    [fetch-data.2011-12]
+#    start_date = "2011-12-24"
+#    end_date = "2012-06-21"
+#    start_year = "2011"
+#    end_year = "2012"
+#
+#    [fetch-data.2012-13]
+#    start_date = "2012-10-29"
+#    end_date = "2013-06-20"
+#    start_year = "2012"
+#    end_year = "2013"
+#
+#    [fetch-data.2013-14]
+#    start_date = "2013-10-28"
+#    end_date = "2014-06-15"
+#    start_year = "2013"
+#    end_year = "2014"
+#
+#    [fetch-data.2014-15]
+#    start_date = "2014-10-27"
+#    end_date = "2015-06-16"
+#    start_year = "2014"
+#    end_year = "2015"
+#
+#    [fetch-data.2015-16]
+#    start_date = "2015-10-26"
+#    end_date = "2016-06-19"
+#    start_year = "2015"
+#    end_year = "2016"
+#
+#    [fetch-data.2016-17]
+#    start_date = "2016-10-24"
+#    end_date = "2017-06-12"
+#    start_year = "2016"
+#    end_year = "2017"
+#
+#    [fetch-data.2017-18]
+#    start_date = "2017-10-16"
+#    end_date = "2018-06-08"
+#    start_year = "2017"
+#    end_year = "2018"
+#
+#    [fetch-data.2018-19]
+#    start_date = "2018-10-15"
+#    end_date = "2019-06-13"
+#    start_year = "2018"
+#    end_year = "2019"
+#
+#    [fetch-data.2019-20]
+#    start_date = "2019-10-21"
+#    end_date = "2020-10-11"
+#    start_year = "2019"
+#    end_year = "2020"
+#
+#    [fetch-data.2020-21]
+#    start_date = "2020-12-21"
+#    end_date = "2021-07-20"
+#    start_year = "2020"
+#    end_year = "2021"
+#
+#    [fetch-data.2021-22]
+#    start_date = "2021-10-18"
+#    end_date = "2022-06-16"
+#    start_year = "2021"
+#    end_year = "2022"
+#
+#    [fetch-data.2022-23]
+#    start_date = "2022-10-17"
+#    end_date = "2023-06-12"
+#    start_year = "2022"
+#    end_year = "2023"
+#
+#    [fetch-data.2023-24]
+#    start_date = "2023-10-23"
+#    end_date = "2024-04-28"
+#    start_year = "2023"
+#    end_year = "2024"
+
+    [fetch-data.2024-25]
+    start_date = "2024-10-22"
+    end_date = "2025-03-20"
+    start_year = "2024"
+    end_year = "2025"
+
+
+[fetch-odd-data]
+    [fetch-odd-data.2024-25]
+    start_date = "2024-10-22"
+    end_date = "2025-03-20"
+    start_year = "2024"
+    end_year = "2025"
+
+[create-game]
+    [create-game.2010-11]
+    start_date = "2010-10-25"
+    end_date = "2011-06-12"
+    start_year = "2010"
+    end_year = "2011"
+
+    [create-game.2011-12]
+    start_date = "2011-12-24"
+    end_date = "2012-06-21"
+    start_year = "2011"
+    end_year = "2012"
+
+    [create-game.2012-13]
+    start_date = "2012-10-29"
+    end_date = "2013-06-20"
+    start_year = "2012"
+    end_year = "2013"
+
+    [create-game.2013-14]
+    start_date = "2013-10-28"
+    end_date = "2014-06-15"
+    start_year = "2013"
+    end_year = "2014"
+
+    [create-game.2014-15]
+    start_date = "2014-10-27"
+    end_date = "2015-06-16"
+    start_year = "2014"
+    end_year = "2015"
+
+    [create-game.2015-16]
+    start_date = "2015-10-26"
+    end_date = "2016-06-19"
+    start_year = "2015"
+    end_year = "2016"
+
+    [create-game.2016-17]
+    start_date = "2016-10-24"
+    end_date = "2017-06-12"
+    start_year = "2016"
+    end_year = "2017"
+
+    [create-game.2017-18]
+    start_date = "2017-10-16"
+    end_date = "2018-06-08"
+    start_year = "2017"
+    end_year = "2018"
+
+    [create-game.2018-19]
+    start_date = "2018-10-15"
+    end_date = "2019-06-13"
+    start_year = "2018"
+    end_year = "2019"
+
+    [create-game.2019-20]
+    start_date = "2019-10-21"
+    end_date = "2020-10-11"
+    start_year = "2019"
+    end_year = "2020"
+
+    [create-game.2020-21]
+    start_date = "2020-12-21"
+    end_date = "2021-07-20"
+    start_year = "2020"
+    end_year = "2021"
+
+    [create-game.2021-22]
+    start_date = "2021-10-18"
+    end_date = "2022-06-16"
+    start_year = "2021"
+    end_year = "2022"
+
+    [create-game.2022-23]
+    start_date = "2022-10-17"
+    end_date = "2023-06-12"
+    start_year = "2022"
+    end_year = "2023"
+
+    [create-game.2023-24]
+    start_date = "2023-10-23"
+    end_date = "2024-04-28"
+    start_year = "2023"
+    end_year = "2024"
+
+    [create-game.2024-25]
+    start_date = "2024-10-22"
+    end_date = "2025-03-20"
+    start_year = "2024"
+    end_year = "2025"
