@@ -19,7 +19,6 @@ from pipeline.utils.team_code_index import (
     team_index_10, team_index_12, team_index_13,
     team_index_14, team_index_current
 )
-
 @task(log_prints=True)
 def process_csv_file(config, odd_db_path):
     """Process CSV odds data file into season tables"""
@@ -311,7 +310,6 @@ def data_collection_pipeline(
     # Run team data and odds data fetching in parallel using .submit()
     task_runner = ThreadPoolTaskRunner()
     with task_runner:
-        # Submit both tasks to run concurrently
         team_future = fetch_team_data.submit(config, team_db_path)
         odds_future = fetch_odd_data.submit(config, odd_db_path)
         team_result = team_future.result()

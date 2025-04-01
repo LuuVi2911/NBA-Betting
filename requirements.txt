@@ -1,4 +1,3 @@
-numpy
 pandas
 scikit-learn
 lightgbm
@@ -6,5 +5,3 @@ sbrscrape
 toml
 prefect
 colorama
-sqlite3
-pickle5
