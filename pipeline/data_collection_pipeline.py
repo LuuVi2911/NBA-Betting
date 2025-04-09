@@ -61,7 +61,7 @@ def fetch_team_data(config, team_db_path):
                 current_date.year,
                 season_key
             )
-            print(f"Fetching {current_date}")
+            print(f"Fetching tean data {current_date}")
 
             raw_data = fetch_json_data(url_data)
             if raw_data:

@@ -49,7 +49,7 @@ def model_training_pipeline(
 
         cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=100)
 
-        for iteration in range(100):  # Multiple iterations for model robustness
+        for iteration in range(100):
             for train_index, test_index in cv.split(X, y):
                 X_train, X_test = X[train_index], X[test_index]
                 y_train, y_test = y.iloc[train_index], y.iloc[test_index]
@@ -101,7 +101,7 @@ def model_training_pipeline(
 
         cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=100)
 
-        for iteration in range(100):  # Multiple iterations for model robustness
+        for iteration in range(100):
             for train_index, test_index in cv.split(X, y):
                 X_train, X_test = X[train_index], X[test_index]
                 y_train, y_test = y.iloc[train_index], y.iloc[test_index]
