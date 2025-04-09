@@ -93,7 +93,7 @@ def model_training_pipeline(
         # Prepare data
         y = data['OU-Cover']
         X = data.drop(['OU-Cover', 'Score', 'Home-Team-Win',
-                       'TEAM_NAME1','TEAM_NAME', 'Date', 'index','Date.1'], axis=1)
+                       'TEAM_NAME.1','TEAM_NAME', 'Date', 'index','Date.1'], axis=1)
         X = X.values.astype(float)
 
         best_precision = 0
