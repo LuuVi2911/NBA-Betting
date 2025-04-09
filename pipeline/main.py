@@ -47,12 +47,6 @@ def main():
                         default='predict',
                         help='Pipeline stage to run')
 
-    # Model selection
-    parser.add_argument('--model',
-                        choices=['lgbm'],
-                        default='lgbm',
-                        help='Model to use for predictions')
-
     # Prediction-specific options
     parser.add_argument('--sportsbook',
                         default='fanduel',
@@ -60,7 +54,7 @@ def main():
                                  'caesars', 'wynn', 'bet_rivers_ny'],
                         help='Sportsbook to fetch odds from')
 
-    parser.add_argument('--kelly-criterion',
+    parser.add_argument('--kc',
                         action='store_true',
                         help='Use Kelly Criterion for betting recommendations')
 
@@ -99,8 +93,7 @@ def main():
             # Run prediction pipeline with appropriate model
             prediction_pipeline(
                 sportsbook=args.sportsbook,
-                use_kelly_criterion=args.kelly_criterion,
-                model_type=args.model
+                use_kelly_criterion=args.kc,
             )
 
         print("🏆 Pipeline Completed Successfully!")
