@@ -1,1 +1,5 @@
 data/Report.html
+__pycache__/
+*.pyc
+.DS_Store
+*.db
