@@ -16,9 +16,10 @@ from pipeline.utils.today_game import create_today_game
 from pipeline.utils.expected_value import expected_value
 from pipeline.utils import kelly_criterion as kc
 from pipeline.utils.tools import fetch_json_data, convert_json_to_df
+import logging
 
-
-@task
+logging.getLogger("prefect").setLevel(logging.CRITICAL)
+@task(log_prints=False)
 def get_random_color():
     """Task to get random color for output formatting"""
     return random.choice([
@@ -26,7 +27,7 @@ def get_random_color():
     ])
 
 
-@task
+@task(log_prints=False)
 def load_models(model_type='lgbm'):
     """Task to load prediction models"""
     if model_type == 'lgbm':
@@ -37,7 +38,7 @@ def load_models(model_type='lgbm'):
     return ml_model, ou_model
 
 
-@task
+@task(log_prints=False)
 def display_prediction(home_team, away_team, ml_pred, ou_pred, ou_value):
     """Task to display game predictions"""
     winner = np.argmax(ml_pred)
@@ -63,7 +64,7 @@ def display_prediction(home_team, away_team, ml_pred, ou_pred, ou_value):
     return winner, winner_confidence, under_over, un_confidence
 
 
-@task
+@task(log_prints=False)
 def display_betting_analysis(home_team, away_team, ml_prediction, team_odds, ev_values, bankroll_fractions):
     """Task to display betting analysis"""
     ev_home, ev_away = ev_values
@@ -87,7 +88,7 @@ def display_betting_analysis(home_team, away_team, ml_prediction, team_odds, ev_
           f"{str(bankroll_away)}%{Style.RESET_ALL}")
 
 
-@flow()
+@flow(log_prints=False)
 def prediction_pipeline(
         sportsbook='fanduel',
         use_kelly_criterion=False,

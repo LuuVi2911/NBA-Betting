@@ -132,7 +132,6 @@ def fetch_odd_data(config, odd_db_path):
 def process_odd_data(odd_db_path):
     """Process odd data to calculate rest days for teams"""
     conn = sqlite3.connect(odd_db_path)
-
     tables = [
         'odds_2010-11', 'odds_2011-12', 'odds_2012-13', 'odds_2013-14', 'odds_2014-15', 'odds_2015-16',
         'odds_2016-17', 'odds_2017-18', 'odds_2018-19', 'odds_2019-20', 'odds_2020-21', 'odds_2021-22',
