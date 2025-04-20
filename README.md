@@ -63,7 +63,7 @@ python main.py --stage train
 
 Game Prediction:
 ```bash
-python main.py --stage predict --sportsbook fanduel --kelly-criterion
+python main.py --stage predict --sportsbook fanduel --kc
 ```
 
 ### Command Line Arguments
